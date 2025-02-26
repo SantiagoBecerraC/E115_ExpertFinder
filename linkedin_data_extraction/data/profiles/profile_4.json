@@ -1,0 +1,346 @@
+{
+    "summary": "I'm a machine learning engineer passionate about applying artificial intelligence to solve real-world problems. My core competencies include neural data structures and algorithms, statistics, deep learning, and generative modeling. I currently work at LinkedIn, developing and deploying machine learning models and solutions to enhance the user experience and engagement on the platform. I value innovation, collaboration, and social impact. I strive to leverage my diverse background and skills to contribute to LinkedIn's mission of creating economic opportunity for every member of the global workforce.\n\nBefore joining LinkedIn, I was a research assistant at the Institute for Applied Computational Science (IACS) at Harvard University, where I collaborated with leading astronomy and machine learning experts. I researched generative adversarial networks and their applications to astronomical data, resulting in a publication in The Astrophysical Journal.",
+    "industryName": "Computer Software",
+    "lastName": "Garcia Jara",
+    "locationName": "United States",
+    "student": false,
+    "geoCountryName": "United States",
+    "geoCountryUrn": "urn:li:fs_geo:103644278",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "German",
+    "entityUrn": "urn:li:fs_profile:ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102277331"
+    },
+    "geoLocationName": "San Francisco, California",
+    "location": {
+        "basicLocation": {
+            "countryCode": "us"
+        }
+    },
+    "headline": "Machine Learning Engineer @ LinkedIn",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFK44_JoASHBg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1654744353785?e=1746057600&v=beta&t=_fYgKGUfUbWmhlVJY7dKtyGm8xqFR7hY-3eLdq0aju4",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1654744353785?e=1746057600&v=beta&t=v4-j73D4TQBl16iHeo9_vCo8y75pNIpFKmPmR5otFiE",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1654744353785?e=1746057600&v=beta&t=590_D4Fv7GjGgDLtZbNP1a2yYHRFMC6OANZXIAC3cUA",
+    "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1654744353785?e=1746057600&v=beta&t=McZ9meNq8N9MbiVBSM-Z_j2rfV6olg2K5WyRO8twEOw",
+    "profile_id": "ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4",
+    "member_urn": "urn:li:member:592929830",
+    "public_id": "germangarciajara",
+    "experience": [
+        {
+            "locationName": "San Francisco, California, United States",
+            "entityUrn": "urn:li:fs_position:(ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4,2029511462)",
+            "geoLocationName": "San Francisco, California, United States",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "companyName": "LinkedIn",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Machine Learning Engineer",
+            "region": "urn:li:fs_region:(us,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+        },
+        {
+            "locationName": "Boston y alrededores, Estados Unidos",
+            "entityUrn": "urn:li:fs_position:(ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4,1571211121)",
+            "geoLocationName": "Boston y alrededores, Estados Unidos",
+            "companyName": "Institute for Applied Computational Science (IACS) at Harvard University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "MSc research collaboration. I did research on Generative Adversarial Networks and their applications to astronomical data, guided by Dr. Pavlos Protopapas and Dr. Pablo Estévez. This work was published in The Astrophysical Journal (ApJ).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Research Assistant",
+            "companyUrn": "urn:li:fs_miniCompany:18253784",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQE_TR73wc981w/company-logo_"
+        },
+        {
+            "locationName": "Santiago, Santiago Metropolitan, Chile",
+            "entityUrn": "urn:li:fs_position:(ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4,1716885959)",
+            "geoLocationName": "Santiago, Santiago Metropolitan, Chile",
+            "geoUrn": "urn:li:fs_geo:107478480",
+            "companyName": "Instituto Sistemas Complejos de Ingeniería",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "description": "I researched Deep Learning models for automatic segmentation of medical images, guided by Dr. Ángel Jiménez, supported by the Clinical Hospital of the University of Chile.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ]
+            },
+            "title": "Research Assistant",
+            "region": "urn:li:fs_region:(cl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10231544",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE1o9b5uPtw0g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4,435552134)",
+            "school": {
+                "objectUrn": "urn:li:school:10960",
+                "entityUrn": "urn:li:fs_miniSchool:10960",
+                "active": true,
+                "schoolName": "Universidad de Chile",
+                "trackingId": "prG3TRsRRQmN3a2/V6V/IQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG8VWcE4t1y5g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "Research on Generative Adversarial Networks and their applications to astronomy.",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+            "degreeName": "Master of Engineering Science in Electrical Engineering",
+            "schoolName": "University of Chile",
+            "fieldOfStudy": "Artificial Intelligence",
+            "schoolUrn": "urn:li:fs_miniSchool:10960"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4,634415561)",
+            "school": {
+                "objectUrn": "urn:li:school:17950",
+                "entityUrn": "urn:li:fs_miniSchool:17950",
+                "active": true,
+                "schoolName": "UCLA",
+                "trackingId": "QNUmOI9OQiay2LQZuTF+cA==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "description": "The University of California Education Abroad Program (UCEAP)\nRelevant Courses: Machine Learning, Data Mining, Advanced Topics in Neural Networks: Deep Learning",
+            "schoolName": "University of California, Los Angeles",
+            "schoolUrn": "urn:li:fs_miniSchool:17950"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4,633975968)",
+            "school": {
+                "objectUrn": "urn:li:school:10960",
+                "entityUrn": "urn:li:fs_miniSchool:10960",
+                "active": true,
+                "schoolName": "Universidad de Chile",
+                "trackingId": "RkBUjyRYSt2Nv8TvOqEhFA==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG8VWcE4t1y5g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "Bachelor of Electrical Engineering 2013-2016\nProfessional Degree 2017-2018",
+            "degreeName": "Electrical Engineering",
+            "schoolName": "University of Chile",
+            "schoolUrn": "urn:li:fs_miniSchool:10960"
+        }
+    ],
+    "languages": [],
+    "publications": [
+        {
+            "date": {
+                "month": 8,
+                "year": 2022,
+                "day": 9
+            },
+            "name": "Improving Astronomical Time-series Classification via Data Augmentation with Generative Adversarial Networks",
+            "publisher": "The Astrophysical Journal",
+            "description": "Due to the latest advances in technology, telescopes with significant sky coverage will produce millions of astronomical alerts per night that must be classified both rapidly and automatically. Currently, classification consists of supervised machine-learning algorithms whose performance is limited by the number of existing annotations of astronomical objects and their highly imbalanced class distributions. In this work, we propose a data augmentation methodology based on generative adversarial networks (GANs) to generate a variety of synthetic light curves from variable stars. Our novel contributions, consisting of a resampling technique and an evaluation metric, can assess the quality of generative models in unbalanced data sets and identify GAN-overfitting cases that the Fréchet inception distance does not reveal. We applied our proposed model to two data sets taken from the Catalina and Zwicky Transient Facility surveys. The classification accuracy of variable stars is improved significantly when training with synthetic data and testing with real data with respect to the case of using only real data.",
+            "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ac6f5a",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "German",
+                        "lastName": "Garcia Jara",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4",
+                        "occupation": "Machine Learning Engineer @ LinkedIn",
+                        "objectUrn": "urn:li:member:592929830",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1661891773200?e=1746057600&v=beta&t=8VOu-ENV2-vmXkE99QcMc6cdt7G-mTafQgGJzE_VOLI",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661891773200?e=1746057600&v=beta&t=mrUmXm4XHeFnKX1sja74NYQEkNf_LELXCXFSdPQknIg",
+                                        "expiresAt": 1746057600000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG-zpn0oygNSw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "germangarciajara",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1654744353785?e=1746057600&v=beta&t=_fYgKGUfUbWmhlVJY7dKtyGm8xqFR7hY-3eLdq0aju4",
+                                        "expiresAt": 1746057600000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1654744353785?e=1746057600&v=beta&t=v4-j73D4TQBl16iHeo9_vCo8y75pNIpFKmPmR5otFiE",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1654744353785?e=1746057600&v=beta&t=590_D4Fv7GjGgDLtZbNP1a2yYHRFMC6OANZXIAC3cUA",
+                                        "expiresAt": 1746057600000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1654744353785?e=1746057600&v=beta&t=McZ9meNq8N9MbiVBSM-Z_j2rfV6olg2K5WyRO8twEOw",
+                                        "expiresAt": 1746057600000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFK44_JoASHBg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "lnmbNAVcR8GtpMXMMbjWQQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4"
+                },
+                {
+                    "member": {
+                        "firstName": "Pavlos",
+                        "lastName": "Protopapas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAADLazkBrTWrdm_ox9ykhhqKhjh0z94n0gE",
+                        "occupation": "Scientific Program Director at the Institute for Applied Computational Science (IACS) at Harvard University",
+                        "objectUrn": "urn:li:member:13331257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAADLazkBrTWrdm_ox9ykhhqKhjh0z94n0gE",
+                        "publicIdentifier": "pavlos-protopapas-a2156a4",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517692694088?e=1746057600&v=beta&t=8p8vB6K25U7uxZIVED8-7c0PfeY3T-lr2av6pYLUaWk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517692694101?e=1746057600&v=beta&t=F5L6s0qZnCCqBsz8f-P0iCaMDCi0sSLxoVP4nk9oqvQ",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 299,
+                                        "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517692694070?e=1746057600&v=beta&t=8TM9UrAb1DBU5ftUxluAlrrtawoy_exWGto7dN7LJMU",
+                                        "expiresAt": 1746057600000,
+                                        "height": 299
+                                    },
+                                    {
+                                        "width": 299,
+                                        "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517692694081?e=1746057600&v=beta&t=sFhFsFCxb76lKBelumGqeH5FcdNY-4Rrl2l3tAVH9d4",
+                                        "expiresAt": 1746057600000,
+                                        "height": 299
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQE-eguekB2cKg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "PhHO6IL5Tv+NV/gq09D+RA=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAADLazkBrTWrdm_ox9ykhhqKhjh0z94n0gE"
+                },
+                {
+                    "member": {
+                        "firstName": "Pablo",
+                        "lastName": "Estevez",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEeC7YB1lBQZDS6OA_6wDw3EwcOF8rNnu0",
+                        "occupation": "Past President at IEEE Computational Intelligence Society and Professor of Electrical Engineering, Universidad de Chile",
+                        "objectUrn": "urn:li:member:18746294",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAEeC7YB1lBQZDS6OA_6wDw3EwcOF8rNnu0",
+                        "publicIdentifier": "pablo-estevez-6723406",
+                        "trackingId": "bAkHeMTiRnK3VTNU2Aa3Kg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAEeC7YB1lBQZDS6OA_6wDw3EwcOF8rNnu0"
+                }
+            ]
+        }
+    ],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Neural Networks"
+        }
+    ],
+    "urn_id": "ACoAACNXZCYBrBi-b_Yg_cEgL0sdNhk0TwW5Tr4"
+}

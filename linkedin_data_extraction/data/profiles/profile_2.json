@@ -1,0 +1,243 @@
+{
+    "summary": "Ziqi Ke received his Ph.D. degree and M.S. degree in Electrical and Computer Engineering from The University of Texas at Austin supervised by Prof. Haris Vikalo in 2021 and 2019, respectively. Before joining UT, he received the B.ENG. degree in Electronics and Information Engineering from Harbin Institute of Technology in 2016. He studied at Korea Advanced Institute of Science and Technology from 2014 to 2015 in Electrical Engineering as an exchange student.",
+    "industryName": "Financial Services",
+    "lastName": "Ke",
+    "locationName": "United States",
+    "student": false,
+    "geoCountryName": "United States",
+    "geoCountryUrn": "urn:li:fs_geo:103644278",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Ziqi",
+    "entityUrn": "urn:li:fs_profile:ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102571732"
+    },
+    "geoLocationName": "New York, New York",
+    "location": {
+        "basicLocation": {
+            "countryCode": "us"
+        }
+    },
+    "headline": "Senior Machine Learning Engineer @ Bloomberg AI",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQG8-SzBJYzoOQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1517238899606?e=1746057600&v=beta&t=hJ60El0sRonZgRlvdGhHKnxablIKH9ZGTxc1-qBcuXY",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1517238899152?e=1746057600&v=beta&t=1yf72cI608WTz4bGdefxsjVZDUfzdSlWK2mW-akyjWk",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1517238899247?e=1746057600&v=beta&t=waAxQYDMAERLJNh9E7J1ZQcI4UWr6z-DK373MxUB1yM",
+    "img_450_450": "800_800/profile-displayphoto-shrink_800_800/0/1517238899714?e=1746057600&v=beta&t=_8rooDKmr7A7cx5zZ5LRvOB-f7K-LqjbcOI0J7vtwM8",
+    "profile_id": "ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0",
+    "member_urn": "urn:li:member:530669928",
+    "public_id": "ziqike",
+    "experience": [
+        {
+            "locationName": "New York City Metropolitan Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1804643911)",
+            "geoLocationName": "New York City Metropolitan Area",
+            "geoUrn": "urn:li:fs_geo:90000070",
+            "companyName": "Bloomberg LP",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "description": "Build ML systems for time series prediction problems in fixed income market such as intraday bond pricing (IBVAL), real-time request-for-quote pricing and so on.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Machine Learning Engineer",
+            "region": "urn:li:fs_region:(us,70)",
+            "companyUrn": "urn:li:fs_miniCompany:2494",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_"
+        },
+        {
+            "locationName": "Cupertino, California",
+            "entityUrn": "urn:li:fs_position:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1406674613)",
+            "geoLocationName": "Cupertino, California",
+            "companyName": "Apple",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ]
+            },
+            "title": "Machine Learning Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:162479",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_"
+        },
+        {
+            "locationName": "Greater Chicago Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1238286660)",
+            "geoLocationName": "Greater Chicago Area",
+            "companyName": "Conversant",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Machine Learning Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:166759",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGNg_0rU1N-JQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,2)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1745178799)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1745198032)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1745214498)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1745240465)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1745249598)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1687393061)",
+                "urn:li:fs_course:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,1687435368)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,369287370)",
+            "school": {
+                "objectUrn": "urn:li:school:19518",
+                "entityUrn": "urn:li:fs_miniSchool:19518",
+                "active": true,
+                "schoolName": "The University of Texas at Austin",
+                "trackingId": "DrNIa7hCS4KuxxxB4xokdQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "degreeName": "Doctor of Philosophy - PhD",
+            "schoolName": "The University of Texas at Austin",
+            "fieldOfStudy": "Electrical and Computer Engineering",
+            "degreeUrn": "urn:li:fs_degree:900",
+            "schoolUrn": "urn:li:fs_miniSchool:19518"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,482438128)",
+            "school": {
+                "objectUrn": "urn:li:school:19518",
+                "entityUrn": "urn:li:fs_miniSchool:19518",
+                "active": true,
+                "schoolName": "The University of Texas at Austin",
+                "trackingId": "VIoxkUqmRCi1ObPyN/QudQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "degreeName": "Master of Science - MS",
+            "schoolName": "The University of Texas at Austin",
+            "fieldOfStudy": "Electrical and Computer Engineering",
+            "degreeUrn": "urn:li:fs_degree:626",
+            "schoolUrn": "urn:li:fs_miniSchool:19518"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0,369287534)",
+            "school": {
+                "objectUrn": "urn:li:school:11146",
+                "entityUrn": "urn:li:fs_miniSchool:11146",
+                "active": true,
+                "schoolName": "Harbin Institute of Technology",
+                "trackingId": "4yZfNv6aQc6BrxTAgLAFvg==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFOzTjj2V43bw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "description": "Ranked first out of 100 students in Electronics and Information Engineering",
+            "degreeName": "Bachelor of Engineering - BE",
+            "schoolName": "Harbin Institute of Technology",
+            "fieldOfStudy": "Electronics and Information Engineering",
+            "degreeUrn": "urn:li:fs_degree:269",
+            "schoolUrn": "urn:li:fs_miniSchool:11146"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Chinese",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Korean",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "SQL"
+        }
+    ],
+    "urn_id": "ACoAAB-hYWgBDpfCl0olhxXUgKs0ZHxj2WDCJl0"
+}

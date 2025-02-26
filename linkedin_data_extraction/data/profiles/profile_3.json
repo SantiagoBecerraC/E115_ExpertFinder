@@ -1,0 +1,399 @@
+{
+    "industryName": "Computer Software",
+    "lastName": "Gomez",
+    "locationName": "United States",
+    "student": false,
+    "geoCountryName": "United States",
+    "geoCountryUrn": "urn:li:fs_geo:103644278",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Julian E.",
+    "entityUrn": "urn:li:fs_profile:ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103644278"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "us"
+        }
+    },
+    "headline": "Oil & Gas | Artificial Intelligence | NLP | Machine learning | Reinforcement learning | Genetic Algorithms | Deep neural networks | Data Science | Semantic Web | Mobile Development",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFNKZ-DsWDAwA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1563400366079?e=1746057600&v=beta&t=pN_V1yKYYnM3N36uigbtFbHSXf4oR3ptDgxCK4DQy-w",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1563400366041?e=1746057600&v=beta&t=qqFRnKbAjKDkD_NuWG6wSltpXbLHISk9iIHa8od7C0w",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1563400366134?e=1746057600&v=beta&t=tM_qThJvGrRwqxAoTMZRbJ4l3ZXQ9lSczJ7_Y8PaZhA",
+    "img_500_500": "800_800/profile-displayphoto-shrink_800_800/0/1563400366196?e=1746057600&v=beta&t=T3iK2UxK2ZPNJShW7SHUcoSFqpEtHfxPUhRpKIhU1h4",
+    "profile_id": "ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI",
+    "member_urn": "urn:li:member:248351129",
+    "public_id": "julian-e-gomez-8752096b",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,387729894)",
+            "companyName": "Q'Max Solutions Inc.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Petroleum Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:776864",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcFlkS_lUmJA/company-logo_"
+        },
+        {
+            "locationName": "Bogotá D.C. Metropolitan Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,1619102345)",
+            "geoLocationName": "Bogotá D.C. Metropolitan Area",
+            "geoUrn": "urn:li:fs_geo:90010133",
+            "companyName": "Q'Max Solutions Inc.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Drilling Fluis Engineer",
+            "region": "urn:li:fs_region:(co,9549)",
+            "companyUrn": "urn:li:fs_miniCompany:776864",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcFlkS_lUmJA/company-logo_"
+        },
+        {
+            "locationName": "Colombia",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,1539005897)",
+            "geoLocationName": "Colombia",
+            "geoUrn": "urn:li:fs_geo:100876405",
+            "companyName": "Baker Hughes",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Drilling fluids engineer",
+            "region": "urn:li:fs_region:(co,0)",
+            "companyUrn": "urn:li:fs_miniCompany:4334",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE4CJSgGjKt_w/company-logo_"
+        },
+        {
+            "locationName": "Bogotá D.C. Metropolitan Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,1619101550)",
+            "geoLocationName": "Bogotá D.C. Metropolitan Area",
+            "geoUrn": "urn:li:fs_geo:90010133",
+            "companyName": "Q'Max Solutions Inc.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Drilling Fluids Engineer",
+            "region": "urn:li:fs_region:(co,9549)",
+            "companyUrn": "urn:li:fs_miniCompany:776864",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcFlkS_lUmJA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,946167669)",
+            "school": {
+                "objectUrn": "urn:li:school:19518",
+                "entityUrn": "urn:li:fs_miniSchool:19518",
+                "active": true,
+                "schoolName": "The University of Texas at Austin",
+                "trackingId": "6OxjkIb3SZmOZ/Dpm3pxcw==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+            "degreeName": "Master of Science - MS",
+            "schoolName": "The University of Texas at Austin",
+            "fieldOfStudy": "Artificial Intelligence",
+            "schoolUrn": "urn:li:fs_miniSchool:19518"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,642879938)",
+            "school": {
+                "objectUrn": "urn:li:school:12710",
+                "entityUrn": "urn:li:fs_miniSchool:12710",
+                "active": true,
+                "schoolName": "University of London",
+                "trackingId": "9y3CiGMMQHuPC0PUu8Pk6g==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFaGp18XZmvsQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "degreeName": "BSc Computer Science",
+            "schoolName": "University of London",
+            "fieldOfStudy": "Machine learning and artificial intelligence",
+            "schoolUrn": "urn:li:fs_miniSchool:12710"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI,785848356)",
+            "school": {
+                "objectUrn": "urn:li:school:564035",
+                "entityUrn": "urn:li:fs_miniSchool:564035",
+                "active": true,
+                "schoolName": "Training and Competitions by Correlation One",
+                "trackingId": "i8XNFlnDQRCDYF2AS0o4cg==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHgQsWsFHY4ig/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Ds4a",
+            "schoolName": "Data Science for All by Correlation One",
+            "schoolUrn": "urn:li:fs_miniSchool:564035"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Coursera",
+            "name": "Google IT support",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "MSYBQX6UR5DH",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "cz8O8Fx4RkuEXqMD7e/+uw=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/MSYBQX6UR5DH"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Creative Thinking - Imperial.ac.uk",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "9FQU3V3RUSPZ",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "oToM/PhvQyuJ1+IoBKJftQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/9FQU3V3RUSPZ"
+        },
+        {
+            "authority": "edX",
+            "name": "edX Verified Certificate for Probability - The Science of Uncertainty and Data",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "7a05b7483f08491aa874d10f36ce25fa",
+            "company": {
+                "objectUrn": "urn:li:company:2746406",
+                "entityUrn": "urn:li:fs_miniCompany:2746406",
+                "name": "edX",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688142646299/edx_logo?e=1748476800&v=beta&t=nJb0emwMdqL5jHc2Sn6j_DaEPFyKECo8-lW3MTAu8wU",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688142646299/edx_logo?e=1748476800&v=beta&t=AFOArR_TwKho9WIG2IXx9CM2fcB3DIuz0iui_hXMdbs",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1748476800&v=beta&t=b3huD6sXki-R8MgHvCgAdDvKREfXqnLkfBWTe2GUMkI",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_"
+                    }
+                },
+                "universalName": "edx",
+                "dashCompanyUrn": "urn:li:fsd_company:2746406",
+                "trackingId": "6S/Gnj/hQrqeh5Ze13Lnmg=="
+            },
+            "displaySource": "edx.org",
+            "companyUrn": "urn:li:fs_miniCompany:2746406",
+            "url": "https://courses.edx.org/certificates/7a05b7483f08491aa874d10f36ce25fa"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Semantic Search"
+        },
+        {
+            "name": "Code Review"
+        },
+        {
+            "name": "GPT-4"
+        },
+        {
+            "name": "Large Language Models (LLM)"
+        }
+    ],
+    "urn_id": "ACoAAA7NiZkBjUrb1xYaNfMxEcWLm7uI9imMTbI"
+}

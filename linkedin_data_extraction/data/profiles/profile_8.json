@@ -1,0 +1,1020 @@
+{
+    "industryName": "Computer Software",
+    "lastName": "Cortes",
+    "locationName": "United States",
+    "student": false,
+    "geoCountryName": "United States",
+    "geoCountryUrn": "urn:li:fs_geo:103644278",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 14
+    },
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Santiago",
+    "entityUrn": "urn:li:fs_profile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101351937"
+    },
+    "geoLocationName": "Pittsburgh, Pennsylvania",
+    "location": {
+        "basicLocation": {
+            "countryCode": "us"
+        }
+    },
+    "headline": "Machine Learning PhD Student at Carnegie Mellon University",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF_IdK0wvIcNw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1577111211598?e=1746057600&v=beta&t=Q9xmJPKUXA540XdmyHNvt6q5Xkt4RSUelPZ9NIcFnXk",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1577111211569?e=1746057600&v=beta&t=koRqLFTt9cettBcF1N0BI-ZH9u5tvwWqToeGVWzxtOs",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1577111211635?e=1746057600&v=beta&t=G1VW5jRMVIgd0aADhHc2Ybl4mTmazJwyyHmqqsWNXmk",
+    "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1577111211686?e=1746057600&v=beta&t=lrl4MHElo3W3AAg2XAparPGVyxxSeQNduoRxrM75k3g",
+    "profile_id": "ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+    "member_urn": "urn:li:member:626375277",
+    "public_id": "santiago-cortes-839931155",
+    "experience": [
+        {
+            "locationName": "Pittsburgh, Pennsylvania, Estados Unidos",
+            "entityUrn": "urn:li:fs_position:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,2033561399)",
+            "geoLocationName": "Pittsburgh, Pennsylvania, Estados Unidos",
+            "geoUrn": "urn:li:fs_geo:101351937",
+            "companyName": "Carnegie Mellon University School of Computer Science",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "description": "Advised by Dr. Bryan Wilder. Developing machine learning and optimization applications to develop AI for equitable, data-driven decision making on high-stakes applications that arise in both the public and private sectors.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Graduate Research Student",
+            "region": "urn:li:fs_region:(us,0)",
+            "companyUrn": "urn:li:fs_miniCompany:28172194",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGMNW-foa0zIg/company-logo_"
+        },
+        {
+            "locationName": "Palo Alto, California, United States",
+            "entityUrn": "urn:li:fs_position:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,2000037107)",
+            "geoLocationName": "Palo Alto, California, United States",
+            "geoUrn": "urn:li:fs_geo:101876708",
+            "companyName": "Factored ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "Build a computer vision solution that overcomes common problems (such as data quality and lack of computational power) faced outside the big tech companies.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Machine Learning Engineer",
+            "region": "urn:li:fs_region:(us,0)",
+            "companyUrn": "urn:li:fs_miniCompany:51597324",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFXEgQ3NA8Bsg/company-logo_"
+        },
+        {
+            "locationName": "Palo Alto, California, United States",
+            "entityUrn": "urn:li:fs_position:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,1970231263)",
+            "geoLocationName": "Palo Alto, California, United States",
+            "geoUrn": "urn:li:fs_geo:101876708",
+            "companyName": "Factored ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "description": "Developed and deployed several NLP solutions for a wide variety of companies.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Machine Learning Engineer",
+            "region": "urn:li:fs_region:(us,0)",
+            "companyUrn": "urn:li:fs_miniCompany:51597324",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFXEgQ3NA8Bsg/company-logo_"
+        },
+        {
+            "locationName": "Medellín, Antioquia, Colombia",
+            "entityUrn": "urn:li:fs_position:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,1593536748)",
+            "geoLocationName": "Medellín, Antioquia, Colombia",
+            "geoUrn": "urn:li:fs_geo:106444099",
+            "companyName": "Universidad EAFIT",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "description": "Adjunct faculty, in charge of the Mining Massive Datasets course.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Graduate lecturer",
+            "region": "urn:li:fs_region:(co,0)",
+            "companyUrn": "urn:li:fs_miniCompany:61236",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF6jcwKpHZ1Hw/company-logo_"
+        },
+        {
+            "locationName": "Medellín, Antioquia, Colombia",
+            "entityUrn": "urn:li:fs_position:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,1465176898)",
+            "geoLocationName": "Medellín, Antioquia, Colombia",
+            "companyName": "Lacuna AI Fellowship",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "description": "Artificial Intelligence and Machine Learning fellowship sponsored by the AI fund.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Lacuna fellow (Sponsored by the AI fund)",
+            "companyUrn": "urn:li:fs_miniCompany:19200299",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFeR-EDHjFSkQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,811700675)",
+            "school": {
+                "objectUrn": "urn:li:school:19232",
+                "entityUrn": "urn:li:fs_miniSchool:19232",
+                "active": true,
+                "schoolName": "Carnegie Mellon University",
+                "trackingId": "diiD3GzrRvGEwxKiQuHkKQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2027
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Doctor of Philosophy - PhD",
+            "schoolName": "Carnegie Mellon University",
+            "fieldOfStudy": "Machine Learning",
+            "degreeUrn": "urn:li:fs_degree:900",
+            "schoolUrn": "urn:li:fs_miniSchool:19232"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,540590148)",
+            "school": {
+                "objectUrn": "urn:li:school:11581",
+                "entityUrn": "urn:li:fs_miniSchool:11581",
+                "active": true,
+                "schoolName": "Universidad de Los Andes",
+                "trackingId": "JHCERR/oR6+w+7KnAxLcvg==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE55XiklshQFQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+            "degreeName": "Master of Science - MS",
+            "schoolName": "Universidad de los Andes - Colombia",
+            "fieldOfStudy": "Mathematics",
+            "degreeUrn": "urn:li:fs_degree:626",
+            "schoolUrn": "urn:li:fs_miniSchool:11581"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ,483134082)",
+            "school": {
+                "objectUrn": "urn:li:school:11581",
+                "entityUrn": "urn:li:fs_miniSchool:11581",
+                "active": true,
+                "schoolName": "Universidad de Los Andes",
+                "trackingId": "nSoX4yUKRKSr3y+tZY/CLg==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE55XiklshQFQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Universidad de los Andes - Colombia",
+            "fieldOfStudy": "Mathematics",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:11581"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Alemán",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Español",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Inglés",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 6,
+                "year": 2021,
+                "day": 8
+            },
+            "name": "Alternative Strategies for the Estimation of a Disease’s Basic Reproduction Number: A Model-Agnostic Study",
+            "url": "https://link.springer.com/epdf/10.1007/s11538-021-00922-3?sharing_token=MY16zOM5vyc3_tz_wrTkeve4RwlQNchNByi7wbcMAY43lllqB23-BzkUIwJKiPdEYpjgdXq5iBeT0k9ci3upLoK0stZlbPiQ0LirSrcS6PEJOwHOLrvztQHaT-Bf5B_H9EQZAowkfza_732ORZ6d_7FXL4oQ1OhKYQNTNG4fHx4%3D",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Santiago",
+                        "lastName": "Cortes",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+                        "occupation": "Machine Learning PhD Student at Carnegie Mellon University",
+                        "objectUrn": "urn:li:member:626375277",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671416102439?e=1746057600&v=beta&t=MtDX8EUeNUKsw9iW8pOYuHGM6SLj_mx13Y8FFG4upOg",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 976,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671416102439?e=1746057600&v=beta&t=JS14gcz6EYDmOg2C7MRJ9RzBa6MKbwRbaEkseDttYNc",
+                                        "expiresAt": 1746057600000,
+                                        "height": 244
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHVaOlOVspbpw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "santiago-cortes-839931155",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1577111211598?e=1746057600&v=beta&t=Q9xmJPKUXA540XdmyHNvt6q5Xkt4RSUelPZ9NIcFnXk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1577111211569?e=1746057600&v=beta&t=koRqLFTt9cettBcF1N0BI-ZH9u5tvwWqToeGVWzxtOs",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1577111211635?e=1746057600&v=beta&t=G1VW5jRMVIgd0aADhHc2Ybl4mTmazJwyyHmqqsWNXmk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1577111211686?e=1746057600&v=beta&t=lrl4MHElo3W3AAg2XAparPGVyxxSeQNduoRxrM75k3g",
+                                        "expiresAt": 1746057600000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF_IdK0wvIcNw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "nR70lbPdTU6WgWr3LRKFNQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 10,
+                "year": 2020,
+                "day": 3
+            },
+            "name": "Unsupervised learning for economic risk evaluation in the context of Covid-19 pandemic",
+            "publisher": "https://arxiv.org/abs/2011.13350",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Santiago",
+                        "lastName": "Cortes",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+                        "occupation": "Machine Learning PhD Student at Carnegie Mellon University",
+                        "objectUrn": "urn:li:member:626375277",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671416102439?e=1746057600&v=beta&t=MtDX8EUeNUKsw9iW8pOYuHGM6SLj_mx13Y8FFG4upOg",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 976,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671416102439?e=1746057600&v=beta&t=JS14gcz6EYDmOg2C7MRJ9RzBa6MKbwRbaEkseDttYNc",
+                                        "expiresAt": 1746057600000,
+                                        "height": 244
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHVaOlOVspbpw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "santiago-cortes-839931155",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1577111211598?e=1746057600&v=beta&t=Q9xmJPKUXA540XdmyHNvt6q5Xkt4RSUelPZ9NIcFnXk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1577111211569?e=1746057600&v=beta&t=koRqLFTt9cettBcF1N0BI-ZH9u5tvwWqToeGVWzxtOs",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1577111211635?e=1746057600&v=beta&t=G1VW5jRMVIgd0aADhHc2Ybl4mTmazJwyyHmqqsWNXmk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1577111211686?e=1746057600&v=beta&t=lrl4MHElo3W3AAg2XAparPGVyxxSeQNduoRxrM75k3g",
+                                        "expiresAt": 1746057600000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF_IdK0wvIcNw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "nR70lbPdTU6WgWr3LRKFNQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 7,
+                "year": 2020,
+                "day": 17
+            },
+            "name": "Estimación del número reproductivo de la transmisión del civid-19 en Colombia",
+            "publisher": "Instituo Nacional de Salud",
+            "description": "Este modelo es el cálculo oficial del del número reproductivo (R(t)) en Colombia. ",
+            "url": "https://www.ins.gov.co/Direcciones/ONS/Historico_Rt/Estimación%20del%20número%20reproductivo%20efectivo%20de%20la%20trasmisión%20del%20Covid-19%20en%20Colombia.pdf",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Santiago",
+                        "lastName": "Cortes",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+                        "occupation": "Machine Learning PhD Student at Carnegie Mellon University",
+                        "objectUrn": "urn:li:member:626375277",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671416102439?e=1746057600&v=beta&t=MtDX8EUeNUKsw9iW8pOYuHGM6SLj_mx13Y8FFG4upOg",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 976,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671416102439?e=1746057600&v=beta&t=JS14gcz6EYDmOg2C7MRJ9RzBa6MKbwRbaEkseDttYNc",
+                                        "expiresAt": 1746057600000,
+                                        "height": 244
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHVaOlOVspbpw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "santiago-cortes-839931155",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1577111211598?e=1746057600&v=beta&t=Q9xmJPKUXA540XdmyHNvt6q5Xkt4RSUelPZ9NIcFnXk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1577111211569?e=1746057600&v=beta&t=koRqLFTt9cettBcF1N0BI-ZH9u5tvwWqToeGVWzxtOs",
+                                        "expiresAt": 1746057600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1577111211635?e=1746057600&v=beta&t=G1VW5jRMVIgd0aADhHc2Ybl4mTmazJwyyHmqqsWNXmk",
+                                        "expiresAt": 1746057600000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1577111211686?e=1746057600&v=beta&t=lrl4MHElo3W3AAg2XAparPGVyxxSeQNduoRxrM75k3g",
+                                        "expiresAt": 1746057600000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF_IdK0wvIcNw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "nR70lbPdTU6WgWr3LRKFNQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "Coursera",
+            "name": "Data Visualization",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "LN6YC6VL393X",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "4eOYdCp9T5yfwx+3xSxdqg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/LN6YC6VL393X"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "VQ7V5JUQGXHM",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "ZDdWd2z9SBOGshfxsNT3hA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/VQ7V5JUQGXHM"
+        },
+        {
+            "authority": "Udemy",
+            "name": "Scala and Spark for Big Data and Machine Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "J7X0ZEEVQ+mrzQkLLvm1Dw=="
+            },
+            "displaySource": "udemy.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://www.udemy.com/certificate/UC-W4ONVFIS/"
+        },
+        {
+            "authority": "deeplearning.ai",
+            "name": "Programa Especializado - Deep Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "VKGBTB42KF2J",
+            "company": {
+                "objectUrn": "urn:li:company:18246783",
+                "entityUrn": "urn:li:fs_miniCompany:18246783",
+                "name": "DeepLearning.AI",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                    }
+                },
+                "universalName": "deeplearningai",
+                "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                "trackingId": "JQBMufzfSs6oMLdqvD7fUg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:18246783",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/VKGBTB42KF2J"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Sample-based Learning Methods",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "DFHLWAW374MM",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "y3hNdtOIT06p5xSoqr8JuA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/DFHLWAW374MM"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Fundamentals of Reinforcement Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "YFRRY6HY46HU",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "TYPT6xKHSjOXC7/O9Cje9w=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/YFRRY6HY46HU"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Software Processes and Agile Practices",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "58G6DQFCVZ6Q",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "2ANmdRIDQDaU+JMQuOLBPQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/58G6DQFCVZ6Q"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Introduction to Software Product Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "SC7HZBWT7H4V",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "+up+jtlWSLWPGmHPK7RcDw=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/SC7HZBWT7H4V"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Reviews & Metrics for Software Improvements",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "K64MDQZDSPXC",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                "expiresAt": 1748476800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                "expiresAt": 1748476800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                "expiresAt": 1748476800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "ju6+DutNRCKbWbqHx7+rQQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/K64MDQZDSPXC"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Classroom Teacher",
+            "companyName": "Factored",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Create a 3 month free AI course thought to both workers and students among the Medellín community.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:51597324",
+                    "entityUrn": "urn:li:fs_miniCompany:51597324",
+                    "name": "Factored ",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1720536724014/factoredai_logo?e=1748476800&v=beta&t=M86DZ6lsHjLI1VbXjORivRu7SbewJ7CYn-x6HVfGx14",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1720536724014/factoredai_logo?e=1748476800&v=beta&t=52IMZ4DIbfiAZefCw3HK1KYR0YGncQv31eGV7IB1DwQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1720536724014/factoredai_logo?e=1748476800&v=beta&t=WNBw7zwfkHZHSf5X_geI1xp-x7ZBHNuZExLb6Mo9xxc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFXEgQ3NA8Bsg/company-logo_"
+                        }
+                    },
+                    "universalName": "factoredai",
+                    "dashCompanyUrn": "urn:li:fsd_company:51597324",
+                    "trackingId": "FXAxKvCHSNCl0DZ8RLi6Jw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:51597324"
+        }
+    ],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Estadística"
+        },
+        {
+            "name": "deep learning"
+        }
+    ],
+    "urn_id": "ACoAACVVum0BvGzlwAUzzDeHhuVYnXwOBkiDXZQ"
+}
