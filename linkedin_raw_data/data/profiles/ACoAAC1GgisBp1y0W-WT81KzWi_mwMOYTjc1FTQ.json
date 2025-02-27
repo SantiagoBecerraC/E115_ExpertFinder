@@ -1,0 +1,377 @@
+{
+    "urn_id": "ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ",
+    "fetch_timestamp": "2025-02-26T21:22:15.694351",
+    "profile_data": {
+        "summary": "Hi! I am an MS student at New York University pursuing a degree in Data Science.",
+        "industryName": "Computer Software",
+        "lastName": "Tang",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "maidenName": "Amy",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 11,
+            "day": 26
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Yining",
+        "entityUrn": "urn:li:fs_profile:ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103918656"
+        },
+        "geoLocationName": "San Diego, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "MS Data Science @ NYU | DS Intern @ Walmart Global Tech | UCLA Alum",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQEoLkxYPjjl4A/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1718949368975?e=1741230000&v=beta&t=0zfgglOAaQ8lPx-MxZRNs_DlfA3aufVGw1qlmZum4Og",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1718949368975?e=1741230000&v=beta&t=emEWBSnvsoEN968N1vbQyU9wIiaBjYFZVI5R-Z4mtMs",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1718949368975?e=1741230000&v=beta&t=uAF6a4GspDbTWMFbgB_f3sPqVUsmVpNzyFbrq8Xe0Ns",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1718949368949?e=1741230000&v=beta&t=idOOMnJaw9tVwf65ewCXbTwbuYQubNgvu3Z0U4Yevyo",
+        "profile_id": "ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ",
+        "member_urn": "urn:li:member:759595563",
+        "public_id": "yining-tang-923478192",
+        "experience": [
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,2486921849)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "Horizon Media",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "Customer Life Time Value",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Marketing and Advertising"
+                    ]
+                },
+                "title": "Data Science Capstone",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:15637",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFjSltCcusclw/company-logo_"
+            },
+            {
+                "locationName": "Sunnyvale, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,2407178108)",
+                "geoLocationName": "Sunnyvale, California, United States",
+                "geoUrn": "urn:li:fs_geo:104119503",
+                "companyName": "Walmart Global Tech",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "Customer Identity, Digital Customer & Analytics\n- Designed and implemented algorithms in household model",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:11174522",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEjq-bcaW-GSg/company-logo_"
+            },
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,2318415833)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "Fox Corporation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "description": "FOX Tech - Data Platforms, Data and Commercial\n- Viewership preferences, behaviors, and KPIs analysis\n- Video decay trend analysis for subscription-based channels by platform\n- Data migration\n- Quality assurance",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Broadcast Media"
+                    ]
+                },
+                "title": "Business Intelligence Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14014026",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGOh0NK_f3phg/company-logo_"
+            },
+            {
+                "locationName": "Los Angeles, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,1897140996)",
+                "geoLocationName": "Los Angeles, California, United States",
+                "geoUrn": "urn:li:fs_geo:102448103",
+                "companyName": "Quantitative Research Collaboratory (QRC Lab)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "- Research project: Lasso and Group Lasso with Categorical Predictors - Impact of Coding Strategy on Variable Selection and Prediction\n- Paper accepted to The Journal of Behavioral Data Science",
+                "title": "Research Assistant",
+                "region": "urn:li:fs_region:(us,0)"
+            },
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,1982883059)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "Goldman Sachs",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "Strategic Quantitative Asset Allocation, Investment Strategy Group, PWM\n- Evaluation of mortgage-backed and asset-backed securities under various criteria (income stability, exposure to risk premia, inflation hedge, etc) in model portfolio\n- Asset schema design",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Summer Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1382",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,899109580)",
+                "school": {
+                    "objectUrn": "urn:li:school:18993",
+                    "entityUrn": "urn:li:fs_miniSchool:18993",
+                    "active": true,
+                    "schoolName": "New York University",
+                    "trackingId": "ig8uPkVXTXSFp2/aum4FZg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF6TmzLkch0dQ/company-logo_"
+                },
+                "grade": "3.83",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "description": "Relevant Coursework: Big Data, Machine Learning, Natural Language Processing, Time-Series Analysis, Deep Learning, Reinforcement Learning",
+                "degreeName": "Master's degree",
+                "schoolName": "New York University",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:18993"
+            },
+            {
+                "description": "Relevant Coursework: Machine Learning (A+), Linear Algebra (A), Optimization (A), Network Science (A), Statistical Models & Data Mining (A), Python & Applications (A), Advanced Programming in R and Python for Data Science (A), Real Analysis (A), Financial Modeling (A-), Differential Equations (A), Multi-variable Calculus (A), Programming in C++ (A), Mathematical Modeling (A), Discrete Mathematics (A)",
+                "degreeName": "Bachelor of Science - BS",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,1138120733)",
+                    "urn:li:fs_honor:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,196544907)",
+                    "urn:li:fs_honor:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,1491613268)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:17950",
+                "entityUrn": "urn:li:fs_education:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,612625028)",
+                "school": {
+                    "objectUrn": "urn:li:school:17950",
+                    "entityUrn": "urn:li:fs_miniSchool:17950",
+                    "active": true,
+                    "schoolName": "UCLA",
+                    "trackingId": "XgPqWjb5REi1Z04B1voYrA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_"
+                },
+                "activities": "Phi Beta Kappa, American Statistical Association\nAcoustic Guitar Club, Music Club at UCLA, Chinese Bruin Compass Professional Mentorship Program",
+                "grade": "3.862",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "schoolName": "University of California, Los Angeles",
+                "fieldOfStudy": "Data Theory",
+                "degreeUrn": "urn:li:fs_degree:400"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,623730724)",
+                "grade": "3.8",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "degreeName": "High School Diploma",
+                "schoolName": "Guangzhou Foreign Language School",
+                "degreeUrn": "urn:li:fs_degree:10"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Cantonese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Mandarin",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "CITI Program, A Division of BRANY",
+                "name": "CITI Human Research - Social & Behavioral Researchers & Staff",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "37751536",
+                "company": {
+                    "objectUrn": "urn:li:company:11118398",
+                    "entityUrn": "urn:li:fs_miniCompany:11118398",
+                    "name": "CITI Program",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631314320914?e=1748476800&v=beta&t=NHlmld3F38aHfPNG91eAehw7eSl2LjcBpCyyxapAUhk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631314320914?e=1748476800&v=beta&t=LtBFOrPT8hUmX1CBEhW73PxW7Rpc5pE1rFR3Qz1nJe4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631314320914?e=1748476800&v=beta&t=3k_G4jqkI31B0bBrZK2fxBt0FkNymVCMYwt_O2u55TY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_"
+                        }
+                    },
+                    "universalName": "citiprogram",
+                    "dashCompanyUrn": "urn:li:fsd_company:11118398",
+                    "trackingId": "BQO+3+zHSWGJ4MPNvPLYpA=="
+                },
+                "displaySource": "citiprogram.org",
+                "companyUrn": "urn:li:fs_miniCompany:11118398",
+                "url": "https://www.citiprogram.org/verify/?wc30284a6-39a6-49fc-8ec0-8cf36b57ec43-37751536"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "1 in 80 Teams",
+                "occupation": "urn:li:fs_education:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,612625028)",
+                "title": "DataFest 2023 Winner",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "issuer": "Department of Statistics & Data Science"
+            },
+            {
+                "description": "● Used R to fit regression models to NCAA basketball dataset to predict winning proportions, performed data transformation as well as dimensionality reduction methods; Winner of that year's Kaggle competition\n● Used R to run machine learning models like random forest, boosting, and KNN classifier to predict car accident severity; bootstrapped samples and used cross validation to tune model; reached 94% prediction accuracy",
+                "occupation": "urn:li:fs_education:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,612625028)",
+                "title": "Kaggle Competition Winner",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ,612625028)",
+                "title": "Dean's Honors List"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Business Analysis"
+            },
+            {
+                "name": "Dashboards"
+            },
+            {
+                "name": "Lasso Regression"
+            },
+            {
+                "name": "Regularization"
+            }
+        ],
+        "urn_id": "ACoAAC1GgisBp1y0W-WT81KzWi_mwMOYTjc1FTQ"
+    }
+}

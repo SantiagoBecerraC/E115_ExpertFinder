@@ -1,0 +1,280 @@
+{
+    "urn_id": "ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q",
+    "fetch_timestamp": "2025-02-26T21:19:25.140804",
+    "profile_data": {
+        "summary": "For over five years, I have been leading Epistemic AI, a knowledge discovery platform that leverages artificial intelligence and natural language processing to reveal the hidden connections in biomedical knowledge. As the co-founder and CEO, I oversee the vision, strategy, and execution of the company, as well as the technical and product development.\n\nI have a strong background in applied artificial intelligence research, and extensive experience in applying AI and NLP techniques to various domains, such as life sciences, finance, media, and education. As a father of a child with an ultra-rare cancer,  I have made mew mission is to empower biomedical researchers and practitioners with the most advanced and comprehensive knowledge discovery platform, and to accelerate innovation for the benefit of those who suffer.",
+        "industryName": "Computer Software",
+        "lastName": "Pacifico",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Stefano",
+        "entityUrn": "urn:li:fs_profile:ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102571732"
+        },
+        "geoLocationName": "New York, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Co-Founder, CEO @ Epistemic AI | AI for Life Sciences",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQG1HjGBMeGanQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1516272799735?e=1746057600&v=beta&t=enKTjlJd-dbj46AJK86hizExOKvOlwptabw_GtG4cUA",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1516272799730?e=1746057600&v=beta&t=ccAYCsEtxYQYdSautT8HmDxoruP49gZwe28oimm3yAE",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1516272799568?e=1746057600&v=beta&t=pw6WUViilQf8CaBiXDvuP3k_E_lC08HiU9rxcJ4PPBM",
+        "img_450_450": "800_800/profile-displayphoto-shrink_800_800/0/1516272799652?e=1746057600&v=beta&t=8te2rDHBJAx60dEbMJDZy6yfckwBJme9GGh_L1kmqnE",
+        "profile_id": "ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q",
+        "member_urn": "urn:li:member:7388455",
+        "public_id": "stefanopacifico",
+        "experience": [
+            {
+                "locationName": "New York, New York",
+                "entityUrn": "urn:li:fs_position:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,1381262658)",
+                "geoLocationName": "New York, New York",
+                "companyName": "Epistemic AI",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "Epistemic AI is the most comprehensive information platform in the life sciences powered by AI.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Biotechnology"
+                    ]
+                },
+                "title": "Co-Founder, CEO",
+                "companyUrn": "urn:li:fs_miniCompany:34226311",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH3GTMOh2C0zg/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,573812656)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "City Artificial Intelligence Meetup",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "description": "Previously known as the New York Knowledge Engineering Meetup, City Artificial Intelligence Meetup #CAIM  hosts a roster of great speakers ranging from research \nscientists to venture capitalists, from educational and government institutions to \nprivate companies, from cognitive and computer scientists to economists and investors, with the objective of creating a community of experts and enthusiasts around the topics of AI, with a 360 degree view on the topic. New York is unique in the global scheme of things, with an amazing variety of industry and public-sector activity in AI, and we envision a strong community that can set the standard for the rest of the world.\n",
+                "title": "Creator",
+                "region": "urn:li:fs_region:(us,70)"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,734985049)",
+                "companyName": "Jozef Stefan Institute",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "description": "My scholarly research focused on the application of Information Extraction Techniques for the understanding of text, structuring of information and general inference problems. In particular, looking at Natural Language Processing for text mining, Named Entity Disambiguation, Semantic Annotation, and the use of open semantic resources.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Part-time Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:13016",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGUx4HQsK01Uw/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,895298081)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Elemental Cognition",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "description": "Spin off from Bridgewater associate. Applied Natural Language Processing research.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Artificial Intelligence Researcher",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:27163939",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHBvbnpLgHfqQ/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,795282360)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Bridgewater Associates",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Artificial Intelligence Researcher",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:11877",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHmI-E_VXr5Bg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,5355010)",
+                "school": {
+                    "objectUrn": "urn:li:school:18943",
+                    "entityUrn": "urn:li:fs_miniSchool:18943",
+                    "active": true,
+                    "schoolName": "Columbia University",
+                    "trackingId": "jv2f1XJmRhS4kJsDRtVPsQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2007
+                    }
+                },
+                "degreeName": "MSc",
+                "schoolName": "Columbia University",
+                "fieldOfStudy": "Computer Science",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,27)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:18943"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,3830418)",
+                "school": {
+                    "objectUrn": "urn:li:school:3155428",
+                    "entityUrn": "urn:li:fs_miniSchool:3155428",
+                    "active": true,
+                    "schoolName": "Sapienza Università di Roma",
+                    "trackingId": "xXZfjbfERwKlVZfvO+MAIA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQF5OJVPD2RZjA/company-logo_"
+                },
+                "description": "All but defense.",
+                "degreeName": "MSc",
+                "schoolName": "Sapienza Università di Roma",
+                "fieldOfStudy": "Computer Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3155428"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,3982564)",
+                "school": {
+                    "objectUrn": "urn:li:school:3155428",
+                    "entityUrn": "urn:li:fs_miniSchool:3155428",
+                    "active": true,
+                    "schoolName": "Sapienza Università di Roma",
+                    "trackingId": "5D98hvZTSlKSEqew+4YTjg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQF5OJVPD2RZjA/company-logo_"
+                },
+                "degreeName": "BSc",
+                "schoolName": "Sapienza Università di Roma",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:3155428"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Scoolarship to the M.S. in Computer Science program at Columbia Univesrity, awarded by the state sponsored academic organization H2CU.",
+                "occupation": "urn:li:fs_education:(ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q,5355010)",
+                "title": "H2CU Fellowship",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2007
+                },
+                "issuer": "H2CU"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Project Management"
+            },
+            {
+                "name": "Technical Product Management"
+            },
+            {
+                "name": "Artificial Intelligence (AI)"
+            },
+            {
+                "name": "Product Management"
+            }
+        ],
+        "urn_id": "ACoAAABwvScBRbpJld1bAIuSWImNEdw4Q0vrs2Q"
+    }
+}

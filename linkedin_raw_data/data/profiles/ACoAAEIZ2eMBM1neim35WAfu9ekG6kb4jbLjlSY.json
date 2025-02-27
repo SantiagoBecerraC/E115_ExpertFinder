@@ -1,0 +1,710 @@
+{
+    "urn_id": "ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+    "fetch_timestamp": "2025-02-26T21:27:01.807815",
+    "profile_data": {
+        "summary": "Passionate Computer Science student at the University of Florida, eager to leverage data analytics and machine learning to drive impactful outcomes. Detail-oriented with strong communication skills and a growth mindset, committed to delivering value in dynamic, data-driven environments.",
+        "industryName": "Computer & Network Security",
+        "lastName": "Patel",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:118",
+        "firstName": "Jai",
+        "entityUrn": "urn:li:fs_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102394087"
+        },
+        "geoLocationName": "Miami, Florida",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Computer Science | University of Florida |  Prev AI/ML Software Intern @ Creating Real",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+        "profile_id": "ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+        "member_urn": "urn:li:member:1108990435",
+        "public_id": "jai-patel-jp",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,2561793089)",
+                "companyName": "Homecation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Real Estate"
+                    ]
+                },
+                "title": "Software Developer Intern",
+                "companyUrn": "urn:li:fs_miniCompany:105568926",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEO_yYf2rCEUQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,2561754127)",
+                "companyName": "University of Florida - Warrington College of Business",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Teaching Assistant: QMB 3302 - Business Analytics & AI ",
+                "companyUrn": "urn:li:fs_miniCompany:7974417",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGg1S-r8tnTJA/company-logo_"
+            },
+            {
+                "locationName": "Gainsville, FL",
+                "entityUrn": "urn:li:fs_position:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,2464702618)",
+                "geoLocationName": "Gainsville, FL",
+                "companyName": "Florida Community Innovation Foundation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "• Conduct data analysis and research to identify key indicators of gentrification, utilizing statistical and geospatial analysis tools\n• Contribute to the development of educational materials to raise awareness about gentrification and promote the use of GRAT among local governments and community organizations\n• Collaborate with a 5 person team to design and develop scalable solutions for assessing the risk of gentrification in various communities",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Civic & Social Organization"
+                    ]
+                },
+                "title": "Gentrification Risk Assessment Tool Project",
+                "companyUrn": "urn:li:fs_miniCompany:72579613",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHBXKXk5uddXA/company-logo_"
+            },
+            {
+                "locationName": "Gainesville, Florida, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,2507143023)",
+                "geoLocationName": "Gainesville, Florida, United States",
+                "geoUrn": "urn:li:fs_geo:101080674",
+                "companyName": "Technology for Occupational Performance Lab at the University of Florida",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "description": "• Implement a Python script tracking 500+ participants sleep activity, ensuring data collection accuracy\n• Develop a system to separate data and send personalized progress reminders to 500+ participants, boosting ringusage and engagement",
+                "title": "Data Research Intern",
+                "region": "urn:li:fs_region:(us,0)"
+            },
+            {
+                "locationName": "Gainsville, FL",
+                "entityUrn": "urn:li:fs_position:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,2507139317)",
+                "geoLocationName": "Gainsville, FL",
+                "companyName": "Creating Real",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "• Design and implement a Natural Language Processing system to clean 1000+ units of data\n• Develop a Python script that integrates with an API to display news headlines based on keywords\n• Match user preferences with relevant content, enhancing personalized recommendations",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "AI/ML Software Intern",
+                "companyUrn": "urn:li:fs_miniCompany:101602976",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGY7HNnLJzISw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,318524376)",
+                    "urn:li:fs_course:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,318557009)",
+                    "urn:li:fs_course:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,540904271)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,540867492)"
+                ],
+                "degreeName": "Bachelor of Science - BS",
+                "schoolUrn": "urn:li:fs_miniSchool:18120",
+                "entityUrn": "urn:li:fs_education:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,873548748)",
+                "school": {
+                    "objectUrn": "urn:li:school:18120",
+                    "entityUrn": "urn:li:fs_miniSchool:18120",
+                    "active": true,
+                    "schoolName": "University of Florida",
+                    "trackingId": "Uyzfx8QsTKq/AHpRVFBccQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEEUHxMAR-Q6w/company-logo_"
+                },
+                "activities": "American Statistical Association, Data Science and Informatics, Association for Computing Machinery, Society of Asian Scientists & Engineers\n1x First Generation Student Scholarship Recipient",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "year": 2023
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "schoolName": "University of Florida",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:400"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,838186769)",
+                    "urn:li:fs_course:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,838303476)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,884757606)",
+                "school": {
+                    "objectUrn": "urn:li:school:20243",
+                    "entityUrn": "urn:li:fs_miniSchool:20243",
+                    "active": true,
+                    "schoolName": "Miami Dade College",
+                    "trackingId": "u6ayOfz/RYOyo831/zmOhQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEzV8OIL7Pkfg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "4.0 GPA\n13 Dual Enrollment Courses",
+                "schoolName": "Miami Dade College",
+                "schoolUrn": "urn:li:fs_miniSchool:20243"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,880262907)",
+                "school": {
+                    "objectUrn": "urn:li:school:3191479",
+                    "entityUrn": "urn:li:fs_miniSchool:3191479",
+                    "active": true,
+                    "schoolName": "DOCTORS CHARTER SCHOOL OF MIAMI SHORES",
+                    "trackingId": "An/4lACTSvmfcdl7zcndKg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHGW5z0cxEdqQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "-Valedictorian (3.98 GPA)",
+                "degreeName": "High School Diploma",
+                "schoolName": "DOCTORS CHARTER SCHOOL OF MIAMI SHORES",
+                "degreeUrn": "urn:li:fs_degree:10",
+                "schoolUrn": "urn:li:fs_miniSchool:3191479"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Gujarati ",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Onshape, a PTC Technology",
+                "name": "Navigating Onshape Course Completion",
+                "company": {
+                    "objectUrn": "urn:li:company:5009071",
+                    "entityUrn": "urn:li:fs_miniCompany:5009071",
+                    "name": "Onshape by PTC",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630636873462/onshape_logo?e=1748476800&v=beta&t=p4gfia25haKcoAARteHH0l4EqT7VeBzgKCWBJv9Sv2g",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630636873462/onshape_logo?e=1748476800&v=beta&t=aG87Paq1It9kuzJMehtDi4V9yT-Knqy2ucvr-BWNNeQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630636873462/onshape_logo?e=1748476800&v=beta&t=RjR8UyQd-ejaWCMRgAVsqCTK5W4CTqEpSQ-yyLz984k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFjrxyZxdXB2g/company-logo_"
+                        }
+                    },
+                    "universalName": "onshape",
+                    "dashCompanyUrn": "urn:li:fsd_company:5009071",
+                    "trackingId": "0gU+SoOxQGiljBzZE/NBdA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:5009071"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer Staff",
+                "companyName": "BAPS Swaminarayan Sanstha",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "-Lead spiritual sessions\n-Direct annual festivals\n-Assisted with registration during a Covid-19 Vaccination Drive\n-Raised funds to support The Nature Conservancy, Susan G Komen, The Literacy Coalition, and others",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:31207953",
+                        "entityUrn": "urn:li:fs_miniCompany:31207953",
+                        "name": "BAPS Swaminarayan Sanstha",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1646619742650/bapsswaminarayansanstha_logo?e=1748476800&v=beta&t=j3FgccIOOkcnwiDuGNbuX531THgb6DxTo3n2BFl9nqY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1646619742650/bapsswaminarayansanstha_logo?e=1748476800&v=beta&t=eY8hHZy1yMyDzd-hexHOV9JJdbXhzISXmptIL0WmePw",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1646619742650/bapsswaminarayansanstha_logo?e=1748476800&v=beta&t=tR_EURe6lT21ajmnh_ko1hp0augK1GW_-U2PVohGruc",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFqGA-XEoCp6Q/company-logo_"
+                            }
+                        },
+                        "universalName": "bapsswaminarayansanstha",
+                        "dashCompanyUrn": "urn:li:fsd_company:31207953",
+                        "trackingId": "SnQXXgovSzClzdELucnGwQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:31207953"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jai",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "occupation": "Computer Science | University of Florida | Prev AI/ML Software Intern @ Creating Real",
+                            "objectUrn": "urn:li:member:1108990435",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "publicIdentifier": "jai-patel-jp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "E+KjFF1VRLOIS5+Kcf7HRQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,540755559,439957972)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "• Develop a machine learning model to predict the quality of white wine\n• Conduct exploratory data analysis to understand feature distributions and relationships\n• Implement Random Forest classifier, achieving an accuracy of 66% on the test set, improved to 72% \nafter hyperparameter tuning with GridSearchCV\n• Perform model evaluation using cross-validation, confusion matrix, and classification reports",
+                "title": "Wine Quality"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jai",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "occupation": "Computer Science | University of Florida | Prev AI/ML Software Intern @ Creating Real",
+                            "objectUrn": "urn:li:member:1108990435",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "publicIdentifier": "jai-patel-jp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "E+KjFF1VRLOIS5+Kcf7HRQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,540687488,439961800)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "• Implement user intentions using LogisticRegression and vectorization with TfidfVectorizer for textual analysis\n• Curate data for training the chatbot model, achieving conversational capabilities\n• Integrate SSL handling for secure data retrieval and setup of NLTK data paths for text processing\n• Develop a user-friendly interface using Streamlit to facilitate real-time interaction",
+                "title": "Chatbot"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,873548748)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jai",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "occupation": "Computer Science | University of Florida | Prev AI/ML Software Intern @ Creating Real",
+                            "objectUrn": "urn:li:member:1108990435",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "publicIdentifier": "jai-patel-jp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "E+KjFF1VRLOIS5+Kcf7HRQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,540867492,439961809)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "description": "• Designed a Minesweeper game with logic and mechanics to replicate the classic Minesweeper experience",
+                "title": "Minesweeper"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jai",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "occupation": "Computer Science | University of Florida | Prev AI/ML Software Intern @ Creating Real",
+                            "objectUrn": "urn:li:member:1108990435",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "publicIdentifier": "jai-patel-jp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "E+KjFF1VRLOIS5+Kcf7HRQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,1114138813,395409383)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+                    }
+                ],
+                "description": "Used a Java algorithm to accurately determine someone's daily calorie intake based on factors such as movement, exercise, and time spent standing. Additionally, the algorithm allows you to track and set your goals, providing feedback on goal completion",
+                "title": "Calorie Calculation"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jai",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "occupation": "Computer Science | University of Florida | Prev AI/ML Software Intern @ Creating Real",
+                            "objectUrn": "urn:li:member:1108990435",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "publicIdentifier": "jai-patel-jp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "E+KjFF1VRLOIS5+Kcf7HRQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,837952628,395019612)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+                    }
+                ],
+                "description": "Used Java to create a captivating hangman game",
+                "title": "Hangman Game"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jai",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "occupation": "Computer Science | University of Florida | Prev AI/ML Software Intern @ Creating Real",
+                            "objectUrn": "urn:li:member:1108990435",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY",
+                            "publicIdentifier": "jai-patel-jp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685214607744?e=1741230000&v=beta&t=w5HkFqIXimw-lu3-HPOrrKVZY1HxVgC_F0ZKgMNy_Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685214607745?e=1741230000&v=beta&t=ynewAePgDnSid9NJMKm_w-cWzqbTP0gIiIWF2ek5xPw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685214607745?e=1741230000&v=beta&t=lmNAohKfMUxSk1i50de_XsjuJ6ifx2umbRca6ugWpZM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685214607745?e=1741230000&v=beta&t=zmNR9tBfOvuALKbhhIXdSkpAKGTuhJ9VWWkUlNZVC-g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHz_aQPFnuXTA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "E+KjFF1VRLOIS5+Kcf7HRQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY,838086019,395022272)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+                    }
+                ],
+                "description": "Used Java to create a prime number generator that will generate the first 50 prime numbers",
+                "title": "Prime Numbers"
+            }
+        ],
+        "skills": [
+            {
+                "name": "k-means clustering"
+            },
+            {
+                "name": "Team Management"
+            },
+            {
+                "name": "Artificial Intelligence (AI)"
+            },
+            {
+                "name": "Natural Language Processing (NLP)"
+            }
+        ],
+        "urn_id": "ACoAAEIZ2eMBM1neim35WAfu9ekG6kb4jbLjlSY"
+    }
+}

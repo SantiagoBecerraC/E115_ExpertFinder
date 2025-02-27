@@ -1,0 +1,640 @@
+{
+    "urn_id": "ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+    "fetch_timestamp": "2025-02-26T21:44:33.942596",
+    "profile_data": {
+        "industryName": "Information Technology & Services",
+        "lastName": "R.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 1,
+            "day": 25
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Stephane",
+        "entityUrn": "urn:li:fs_profile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000084"
+        },
+        "geoLocationName": "San Francisco Bay Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Founder | AI @ Xpeng | MS @ Stanford",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGgQfMbVr2ZXA/profile-displayphoto-shrink_",
+        "img_800_800": "800_800/B4EZU5Dt2xGgAo-/0/1740419031080?e=1746057600&v=beta&t=PjDLL925asHvAGI1QslTncdnucwFMlBFjRpfPo_wN0Q",
+        "img_200_200": "200_200/B4EZU5Dt2xGgAk-/0/1740419031080?e=1746057600&v=beta&t=WG4rX_GYrghrMgLxR08Ca3bTq5Rp2N-hKjs81IpuHOI",
+        "img_100_100": "100_100/B4EZU5Dt2xGgAg-/0/1740419031080?e=1746057600&v=beta&t=h4xT8N739wNUMlwUsaS-vYfVp9TyJVp3N_fc56nZU4I",
+        "img_400_400": "400_400/B4EZU5Dt2xGgAs-/0/1740419031057?e=1746057600&v=beta&t=8G6KL8r_rTgEsLi8JMfvQnoxcj2vtPUCHTJo1T2N5e0",
+        "profile_id": "ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+        "member_urn": "urn:li:member:437293983",
+        "public_id": "stephaneremi",
+        "experience": [
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,2584511664)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Stealth Startup",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "description": "AI SDR Inbound\nBacked by founders of Perplexity, Slack, Dataiku",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Founding Team",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:18583501",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,2584516023)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Founders, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Founder Fellow",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:78378162",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEw2XjW7MfTqA/company-logo_"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,2509154711)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Atune AI",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "description": "LLM monitoring infrastructure for financial services, enabling institutions to deploy AI with enterprise-grade safety, compliance, and evaluation capabilities.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Information Services"
+                    ]
+                },
+                "title": "Co-Founder",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:104994833",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGFhASQz-Pm5w/company-logo_"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,2509160105)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "ODF",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "description": "Founder program focused on launching high-impact startups through founder matching and community building. ODF has launched 1,000+ startups raising over $2B from Sequoia, a16z, and Benchmark.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Founder Fellow (ODF23)",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:18776174",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFIB4x9n1R9FQ/company-logo_"
+            },
+            {
+                "locationName": "Santa Clara, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,2087808144)",
+                "geoLocationName": "Santa Clara, California, United States",
+                "geoUrn": "urn:li:fs_geo:100075706",
+                "companyName": "XPENG",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Architected distributed training infrastructure for autonomous driving systems, leading model optimization initiatives that doubled training throughput while maintaining production-grade reliability for safety-critical deployments.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Artificial Intelligence Infrastructure Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13410267",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFd9kaSSbOAbw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1167052020)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1167081004)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1639288286)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1639307957)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1639308492)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1639424347)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1639456864)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1639522210)",
+                    "urn:li:fs_course:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,989456170)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,864413779)",
+                "school": {
+                    "objectUrn": "urn:li:school:17926",
+                    "entityUrn": "urn:li:fs_miniSchool:17926",
+                    "active": true,
+                    "schoolName": "Stanford University",
+                    "trackingId": "UN9bpBmpTP2reTgC+/cBvg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_"
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Stanford University",
+                "fieldOfStudy": "Management Science and Engineering, Computer Science, Artificial Intelligence",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:17926"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1008663242)",
+                "school": {
+                    "objectUrn": "urn:li:school:12303",
+                    "entityUrn": "urn:li:fs_miniSchool:12303",
+                    "active": true,
+                    "schoolName": "CentraleSupélec",
+                    "trackingId": "d7ue9Hi1TmqBd+uEv0u72Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFq7cnNl0suDw/company-logo_"
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "CentraleSupélec",
+                "fieldOfStudy": "Applied Mathematics and Computer Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:12303"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1041661212)",
+                "school": {
+                    "objectUrn": "urn:li:school:3155229",
+                    "entityUrn": "urn:li:fs_miniSchool:3155229",
+                    "active": true,
+                    "schoolName": "Lycée Louis-le-Grand",
+                    "trackingId": "9gXEwuKNQeCuI6NZCTEZFA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGGgw9IdkGdCw/company-logo_"
+                },
+                "degreeName": "High School Diploma",
+                "schoolName": "Lycée Louis-le-Grand",
+                "fieldOfStudy": "Mathematics and Physics",
+                "degreeUrn": "urn:li:fs_degree:10",
+                "schoolUrn": "urn:li:fs_miniSchool:3155229"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "TOEFL",
+                "name": "TOEFL iBT 112/120",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:9433126",
+                    "entityUrn": "urn:li:fs_miniCompany:9433126",
+                    "name": "TOEFL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719256097452/the_toefl_r_test_logo?e=1748476800&v=beta&t=GuASz60kwxY5ztBOkhDkuJysTH5TjrUZWFrDM9i69ow",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719258099365/the_toefl_r_test_logo?e=1748476800&v=beta&t=llkJru4IHgoYt0Ld3aeLB5CfackW5IIu1PHlyWF0t_Y",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719256323165/the_toefl_r_test_logo?e=1748476800&v=beta&t=oRBIDxuYVfhrU3otr3-f6N_Ri-ylIccc8njPIG9IRvs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEm_rTiICuyew/company-logo_"
+                        }
+                    },
+                    "universalName": "the-toefl-r-test",
+                    "dashCompanyUrn": "urn:li:fsd_company:9433126",
+                    "trackingId": "6g/3V2inSPaykfnYcJSWrw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:9433126"
+            },
+            {
+                "authority": "ETS",
+                "name": "GRE Quantitative 170/170",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:163705",
+                    "entityUrn": "urn:li:fs_miniCompany:163705",
+                    "name": "ETS",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1712783441150/educational_testing_service_ets_logo?e=1748476800&v=beta&t=ldgGuh_XZcQL1ZinNZLh3sTL6YfuT8mKRV-iouUo_eA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1712783441150/educational_testing_service_ets_logo?e=1748476800&v=beta&t=B6UZTupkboMvN4LvJHL0895e1VQOY20kun1pNTX_Glw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1712783441150/educational_testing_service_ets_logo?e=1748476800&v=beta&t=jU9Jp55GFA9AUbHgI2hBmasDx5yp2f4I1BP4-syS1Mc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFdkmWX3efmVg/company-logo_"
+                        }
+                    },
+                    "universalName": "educational-testing-service-ets",
+                    "dashCompanyUrn": "urn:li:fsd_company:163705",
+                    "trackingId": "dh2salZQTu2yyp7SH4DQnw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:163705"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "title": "MS in Applied Mathematics, Summa Cum Laude",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "issuer": "Ecole Centrale Paris"
+            },
+            {
+                "title": "Scientific Baccalaureate, Highest Honors",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2013
+                },
+                "issuer": "Minister of National Education"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Stephane",
+                            "lastName": "R.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+                            "occupation": "Founder | AI @ Xpeng | MS @ Stanford",
+                            "objectUrn": "urn:li:member:437293983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733683601190?e=1746057600&v=beta&t=8IXZ1SIqo0Dc7mcjhPRWX7ljd7_ix3xtFGKjVesmAIQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733683601190?e=1746057600&v=beta&t=aipCz_ZQhw__IbNjRSNh_khnd100rkuhpe_X3F8QbSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGl06XOuoZf6Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "stephaneremi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZU5Dt2xGgAo-/0/1740419031080?e=1746057600&v=beta&t=PjDLL925asHvAGI1QslTncdnucwFMlBFjRpfPo_wN0Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZU5Dt2xGgAk-/0/1740419031080?e=1746057600&v=beta&t=WG4rX_GYrghrMgLxR08Ca3bTq5Rp2N-hKjs81IpuHOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZU5Dt2xGgAg-/0/1740419031080?e=1746057600&v=beta&t=h4xT8N739wNUMlwUsaS-vYfVp9TyJVp3N_fc56nZU4I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZU5Dt2xGgAs-/0/1740419031057?e=1746057600&v=beta&t=8G6KL8r_rTgEsLi8JMfvQnoxcj2vtPUCHTJo1T2N5e0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGgQfMbVr2ZXA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "awwJfHChSOCQYM6SeeVLhQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,981586811,417597192)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2023
+                    }
+                },
+                "description": "Spearheaded the development of a specialized AI video generation platform, integrating state-of-the-art transformer-based models and diffusion techniques for dynamic video rendering.",
+                "title": "Madgen AI"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Stephane",
+                            "lastName": "R.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+                            "occupation": "Founder | AI @ Xpeng | MS @ Stanford",
+                            "objectUrn": "urn:li:member:437293983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733683601190?e=1746057600&v=beta&t=8IXZ1SIqo0Dc7mcjhPRWX7ljd7_ix3xtFGKjVesmAIQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733683601190?e=1746057600&v=beta&t=aipCz_ZQhw__IbNjRSNh_khnd100rkuhpe_X3F8QbSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGl06XOuoZf6Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "stephaneremi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZU5Dt2xGgAo-/0/1740419031080?e=1746057600&v=beta&t=PjDLL925asHvAGI1QslTncdnucwFMlBFjRpfPo_wN0Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZU5Dt2xGgAk-/0/1740419031080?e=1746057600&v=beta&t=WG4rX_GYrghrMgLxR08Ca3bTq5Rp2N-hKjs81IpuHOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZU5Dt2xGgAg-/0/1740419031080?e=1746057600&v=beta&t=h4xT8N739wNUMlwUsaS-vYfVp9TyJVp3N_fc56nZU4I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZU5Dt2xGgAs-/0/1740419031057?e=1746057600&v=beta&t=8G6KL8r_rTgEsLi8JMfvQnoxcj2vtPUCHTJo1T2N5e0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGgQfMbVr2ZXA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "awwJfHChSOCQYM6SeeVLhQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1643442127,355799275)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "Implemented the Hebbian-LMS Learning Algorithm for gradient descent optimization, motivated by how neural network. Achieved 5% increase in model KPIs compared to regular gradient descent, trading-off convergence speed.",
+                "title": "Hebbian-LMS Learning Algorithm"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Stephane",
+                            "lastName": "R.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+                            "occupation": "Founder | AI @ Xpeng | MS @ Stanford",
+                            "objectUrn": "urn:li:member:437293983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733683601190?e=1746057600&v=beta&t=8IXZ1SIqo0Dc7mcjhPRWX7ljd7_ix3xtFGKjVesmAIQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733683601190?e=1746057600&v=beta&t=aipCz_ZQhw__IbNjRSNh_khnd100rkuhpe_X3F8QbSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGl06XOuoZf6Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "stephaneremi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZU5Dt2xGgAo-/0/1740419031080?e=1746057600&v=beta&t=PjDLL925asHvAGI1QslTncdnucwFMlBFjRpfPo_wN0Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZU5Dt2xGgAk-/0/1740419031080?e=1746057600&v=beta&t=WG4rX_GYrghrMgLxR08Ca3bTq5Rp2N-hKjs81IpuHOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZU5Dt2xGgAg-/0/1740419031080?e=1746057600&v=beta&t=h4xT8N739wNUMlwUsaS-vYfVp9TyJVp3N_fc56nZU4I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZU5Dt2xGgAs-/0/1740419031057?e=1746057600&v=beta&t=8G6KL8r_rTgEsLi8JMfvQnoxcj2vtPUCHTJo1T2N5e0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGgQfMbVr2ZXA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "awwJfHChSOCQYM6SeeVLhQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8,1643496325,355798331)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "Implemented Minimax-based RL agents to play Risk on a graph data structure. Achieved 80% win against random agents.",
+                "title": "Reinforcement Learning Agents (Minimax, TD) on Risk"
+            }
+        ],
+        "skills": [
+            {
+                "name": "OpenAI Realtime"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "TypeScript"
+            },
+            {
+                "name": "React.js"
+            }
+        ],
+        "urn_id": "ACoAABoQk58B3JioZSGzEYqXmTMsCtUtP6pqjN8"
+    }
+}

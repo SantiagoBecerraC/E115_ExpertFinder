@@ -1,0 +1,878 @@
+{
+    "urn_id": "ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+    "fetch_timestamp": "2025-02-26T21:23:30.689658",
+    "profile_data": {
+        "summary": "Data professional with a history of working with data in multiple scenarios. Skilled in Python, SQL, Data Science packages, and Excel. Passionate about gathering insights, building solutions, and telling stories through data. A Computer Science Graduate student at Utah State University. Also experienced in Machine Learning, Deep Learning, and Data Science algorithms and methodologies.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Thakkar",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Kartik",
+        "entityUrn": "urn:li:fs_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106424145"
+        },
+        "geoLocationName": "Logan, Utah",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+        "profile_id": "ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+        "member_urn": "urn:li:member:738450425",
+        "public_id": "kartik-thakkar88",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,2582423077)",
+                "companyName": "Utah State University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "description": "• Teaching Assistant for CS2420 Algorithms and Data Structures.\n• Assisting 50+ Computer Science undergraduate students with Data Structures and Algorithm concepts while assisting in Research and being a Full Time CS Graduate Student\n• Assisted Dr. Shah Muhammad Hamdi with grading coding assignments, quizzes and exams.\n• Reviewed course structure for the Fall 2024 and Spring 2025 sessions.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:7812",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,2582412985)",
+                "companyName": "Utah State University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "• Conducting research under Dr. Hamid Karimi on the experiences, challenges, and strengths of people from neurodivergent community using NLP and Data Mining to analyze student narratives while applying robust data analysis techniques to enhance academic experiences.\n• Contributed to the development of one of a kind dataset, processed and transformed over 100,000 user generated social media posts by employing data manipulation techniques to significantly enhance data quality and boost the efficiency of analysis workflows.\n• Utilized cutting-edge LLM models like OpenAI's GPT with Python to extract meaningful features from complex textual data for various analytical tasks such as text representation and summarization.\n• Applied advanced unsupervised learning and topic modeling techniques, including Latent Dirichlet Allocation (LDA) and topic clustering, to uncover patterns and key insights within large-scale narrative datasets and created interactive dashboards using Tableau.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Data Research Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:7812",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,2326157331)",
+                "companyName": "Utah State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "description": "• Assisted in developing a segmentation tool based on image features.\n• Gained insights about working with a small volume of data and hands-on experience with Weka\n• Maintained student data using Microsoft Excel and contributed to updating the course curriculum while providing support in the Scientific Visualization course through effective communication.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research And Teaching Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:7812",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,2132132310)",
+                "companyName": "Saara",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "• Engineered datasets by querying big data using SQL to support various applications for e-commerce stores.\n• Analyzed data, developed insights, and gave recommendations to improve risk management strategies for return orders.\n• Improved clustering method to profile customers for better marketing by using Pandas and other Python packages.\n• Collaborated with the business team and developed functionalities for incentives and rewards APIs.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:14729606",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH5BgO9T0faxQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,2025037664)",
+                "companyName": "Bariflo Labs Private Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "description": "• Performed exploratory data analysis on climatic data to summarize and make large data meaningful.\n• Implemented and compared multiple algorithms to predict wind speed based on climatic data\n• Worked with time series data and used Fourier Transforms on 40 years of past data.\n• Mentored peers and worked in teams to develop methodologies",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Analyst Intern",
+                "companyUrn": "urn:li:fs_miniCompany:14050249",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEVrZcxIoNsBw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,93636476)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,943420091)",
+                "school": {
+                    "objectUrn": "urn:li:school:19561",
+                    "entityUrn": "urn:li:fs_miniSchool:19561",
+                    "active": true,
+                    "schoolName": "Utah State University",
+                    "trackingId": "wr3yRUYtSzq5Zl4N+u/lZw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_"
+                },
+                "grade": "3.8/4.0",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Utah State University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:19561"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,95370087)",
+                    "urn:li:fs_project:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,95550301)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,593174733)",
+                "school": {
+                    "objectUrn": "urn:li:school:13676",
+                    "entityUrn": "urn:li:fs_miniSchool:13676",
+                    "active": true,
+                    "schoolName": "Vellore Institute of Technology",
+                    "trackingId": "jOra7p71SlCi8kkpkJbdmA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH0u0StCXmEkg/company-logo_"
+                },
+                "grade": "8.79/10.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100350",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Vellore Institute of Technology",
+                "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13676"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,593175445)",
+                "activities": "Member of the school student council, Literary society, Dramatics society and Taekwondo.\n",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100892",
+                "degreeName": "12th ",
+                "schoolName": "Prestige Public School",
+                "fieldOfStudy": "Physics, Chemistry, Mathematics and Informatics Practices"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Google Data Analytics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "VqtTbm0aTWGzoqVMYoKk+w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/JX656AWKKD6H"
+            },
+            {
+                "authority": "Udemy",
+                "name": "The Complete Python Bootcamp From Zero to Hero in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "6XIOZq5OS/ejKTZp4LE8Pw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-3bb37fbc-6a36-4dee-a510-affe6513b4f3/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python for Data Science and Machine Learning Bootcamp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "bxd5YJ6gQEOTbGJ34PwfuQ=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-5b06cfa8-2d13-4cf6-a663-2d05e0ad7eaf/"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Donor ",
+                "companyName": "National Service Scheme",
+                "cause": "HEALTH",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:10033186",
+                        "entityUrn": "urn:li:fs_miniCompany:10033186",
+                        "name": "National Service Scheme",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631346049980?e=1748476800&v=beta&t=Xw1fWipliphEIE4xn506HXUcTGCIJnGmfYLjnAyZlv8",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631346049980?e=1748476800&v=beta&t=vSSOOOqQpbsArTVBSk0pvP9PgfzHLiHN7FqjOYD-zLI",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631346049980?e=1748476800&v=beta&t=nFWuoCj4doESWyslDyOPPZ8wsWV9-9Qf0R7q6s3LLms",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEJ6yAnaG3CtQ/company-logo_"
+                            }
+                        },
+                        "universalName": "national-service-scheme",
+                        "dashCompanyUrn": "urn:li:fsd_company:10033186",
+                        "trackingId": "4toXy3xIRx6rDMud5gcbpw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10033186"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kartik",
+                            "lastName": "Thakkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "occupation": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+                            "objectUrn": "urn:li:member:738450425",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1724912617966?e=1746057600&v=beta&t=5nUV6XA0WhgR2t5mQbXPfkYE_4zu36eSiBa72xCaiJs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724912617966?e=1746057600&v=beta&t=IV0yXEioUzDv1V6XrkTSALaXVm34SNpbjYxDJn4TqNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFoA7Ay7UNzPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kartik-thakkar88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/QhPIRKpQDuzErwGKdwXtA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,94136821,438411119)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+                    }
+                ],
+                "description": "• Trained a neural network to classify mammography images and compared its performance with transfer learning approaches.\n\n• Also compared results with standard neural network architectures like ResNet50 and VGG16 used as feature extractors and achieved a maximum recall for positive class of 82%.",
+                "title": "Breast Cancer Image Classification"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kartik",
+                            "lastName": "Thakkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "occupation": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+                            "objectUrn": "urn:li:member:738450425",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1724912617966?e=1746057600&v=beta&t=5nUV6XA0WhgR2t5mQbXPfkYE_4zu36eSiBa72xCaiJs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724912617966?e=1746057600&v=beta&t=IV0yXEioUzDv1V6XrkTSALaXVm34SNpbjYxDJn4TqNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFoA7Ay7UNzPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kartik-thakkar88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/QhPIRKpQDuzErwGKdwXtA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,93872116,438410537)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+                    }
+                ],
+                "description": "• Conducted comprehensive data analysis on fitness data to examine user behavior and identify trends.\n\n• Utilized MS Excel functionalities such as Pivot Tables and VLOOKUP, as well as SQL features including JOINS and Common Table Expressions to clean, prepare, and query data.\n\n• Shared actionable insights and recommendations through Tableau Dashboards and a GitHub Markdown report.",
+                "title": "Case Study: Fitness and Lifestyle Company Marketing"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,593174733)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kartik",
+                            "lastName": "Thakkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "occupation": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+                            "objectUrn": "urn:li:member:738450425",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1724912617966?e=1746057600&v=beta&t=5nUV6XA0WhgR2t5mQbXPfkYE_4zu36eSiBa72xCaiJs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724912617966?e=1746057600&v=beta&t=IV0yXEioUzDv1V6XrkTSALaXVm34SNpbjYxDJn4TqNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFoA7Ay7UNzPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kartik-thakkar88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/QhPIRKpQDuzErwGKdwXtA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,95550301,438409616)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+                    }
+                ],
+                "description": "• Created a Machine learning-based solution for efficient domestic energy consumption, enabling informed decision-making by users. \n\n• Gathered data through sensors such as DHT11 (temperature and humidity sensor) and ACS712 (current sensor).\n\n • Applied Linear Regression to predict temperature, empowering users to make decisions regarding their appliance usage.",
+                "title": "Efficient Energy Consumption."
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,593174733)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kartik",
+                            "lastName": "Thakkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "occupation": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+                            "objectUrn": "urn:li:member:738450425",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1724912617966?e=1746057600&v=beta&t=5nUV6XA0WhgR2t5mQbXPfkYE_4zu36eSiBa72xCaiJs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724912617966?e=1746057600&v=beta&t=IV0yXEioUzDv1V6XrkTSALaXVm34SNpbjYxDJn4TqNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFoA7Ay7UNzPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kartik-thakkar88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/QhPIRKpQDuzErwGKdwXtA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,95370087,438410592)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+                    }
+                ],
+                "description": "•Trained a VGG-based Convolutional Neural Network to proficiently classify images of basic electronic components.\n• Employed Microsoft VOTT to label the entire dataset and manually generate test data through web images and self-captured photos.\n• Used dropout and L2 regularization techniques to address overfitting, resulting in an accuracy of 88%.",
+                "title": "Electronic Component Classification"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kartik",
+                            "lastName": "Thakkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "occupation": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+                            "objectUrn": "urn:li:member:738450425",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1724912617966?e=1746057600&v=beta&t=5nUV6XA0WhgR2t5mQbXPfkYE_4zu36eSiBa72xCaiJs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724912617966?e=1746057600&v=beta&t=IV0yXEioUzDv1V6XrkTSALaXVm34SNpbjYxDJn4TqNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFoA7Ay7UNzPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kartik-thakkar88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/QhPIRKpQDuzErwGKdwXtA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,95159456,438410584)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+                    }
+                ],
+                "description": "Implemented a hybrid approach for skin lesion segmentation using the OpenCV library\nin Python. Utilized techniques like median filtering and multi-otsu thresholding with marker watershed algorithm. Attained a precision of 91% and specificity of 94%",
+                "title": "Skin Lesion Segmentation | Personal Project"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,943420091)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kartik",
+                            "lastName": "Thakkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "occupation": "Google Certified Data Analyst, MSCS @ Utah State University, Graduate Research and Teaching Assistant at Utah State University.",
+                            "objectUrn": "urn:li:member:738450425",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1724912617966?e=1746057600&v=beta&t=5nUV6XA0WhgR2t5mQbXPfkYE_4zu36eSiBa72xCaiJs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724912617966?e=1746057600&v=beta&t=IV0yXEioUzDv1V6XrkTSALaXVm34SNpbjYxDJn4TqNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFoA7Ay7UNzPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kartik-thakkar88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728974444870?e=1746057600&v=beta&t=wvUVJc02Kznib-cIiqYv5TfqamoSLTLRTpiNjkHmACM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728974444871?e=1746057600&v=beta&t=Hboc9e0fuRDwHCqUT5EK_UF3Pn-KeXGUANLc5olx85I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728974444871?e=1746057600&v=beta&t=Y8kQ9P0U8ffefItccI72FnVpHZIVOB38DXdjTzCEo-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728974444896?e=1746057600&v=beta&t=kLxaTxCFVuqBvrEvO33arvrlGpd1keo_hnXcJDZUlNY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEQGbXeyoSHDg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/QhPIRKpQDuzErwGKdwXtA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk,93636476,438412087)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+                    }
+                ],
+                "description": "• Led a 4-member team to collect, clean, and analyze extensive open data for non-immigrant visa issuance to analyze global immigration to the United States.\n\n• Prepared data by querying using SQL on Google’s Bigquery and attempted to predict H1-B visa status based on past employee and employer data using Random Forest Classifier achieving the best accuracy of 73%. \n\n• Shared insights using Tableau visualizations.",
+                "title": "USA Non-Immigrant Visa Analysis"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Student Development"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Multitasking"
+            },
+            {
+                "name": "Data Mining"
+            }
+        ],
+        "urn_id": "ACoAACwD2_kBCWZJFhAspU1FJbNvLSgdP07kNNk"
+    }
+}

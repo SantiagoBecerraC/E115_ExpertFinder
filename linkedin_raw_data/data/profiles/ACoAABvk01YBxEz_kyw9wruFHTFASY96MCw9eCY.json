@@ -1,0 +1,571 @@
+{
+    "urn_id": "ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY",
+    "fetch_timestamp": "2025-02-26T21:43:03.441597",
+    "profile_data": {
+        "summary": "I am a detail-oriented Data Scientist with a passion for transforming complex datasets into actionable insights with experience in recommender systems, classification modeling, and time series forecasting\n\nKey Highlights:\n\nTechnical Expertise: Proficient in traditional time series techniques (ARIMA, Prophet) and cutting-edge Neural Networks. Adept at gathering and cleaning diverse data sources, iterative development of machine learning models, and productionizing pipelines to increase automation and efficiency.\n\nProject Leadership: Spearheading the end-to-end execution of the Merchandise Financial Planning Forecasting project, I collaborate seamlessly with cross-functional teams to align on project scope, deliverables, and timelines.\n\nInnovative Problem-Solving: My approach goes beyond conventional methods, evidenced by the derivation of a custom WAPE metric for percentage forecasts, which I successfully pitched to both business and technical leads at my company.\n\nCollaboration and Mentorship:\n\nI am a strong advocate for team collaboration and learning together. At Gap I have led initiatives to improve team processes and foster collaboration as well as onboard myself and my teammates to the adoption of MLOps and best practices. Additionally, I've volunteered as a peer mentor in the WOMEN @ Gap Equity and Belonging Group.\n\nContinuous Learning and Innovation:\n\nIn a landscape where learning is perpetual, I am currently expanding my skill set through Coursera's Machine Learning Engineering for Production (MLOps) Specialization. My dedication to staying at the forefront of industry advancements allows me to bring fresh perspectives to every project.\n\nEducation and Technical Proficiency:\n\nMy technical toolkit encompasses Python, MLFlow, DataBricks, SQL, PowerBI, Neural Networks, Github, PyTorch, PySpark, TensorFlow, and Pandas as well as strong software engineering and programming principles. Additionally, my background in academic mathematics, culminating in a Master’s in Mathematics from University of California, Berkeley, has granted me countless opportunities to hone my communication and research skills as well as develop grit for tackling rigorous and technical problems.\n\nLet's connect! I am eager to engage with like-minded professionals, share insights, and explore collaborative opportunities in the dynamic field of data science.",
+        "industryName": "Apparel & Fashion",
+        "lastName": "Post-Michaelsen",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:19",
+        "firstName": "Anya",
+        "entityUrn": "urn:li:fs_profile:ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104481114"
+        },
+        "geoLocationName": "Berkeley, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist: Machine Learning Engineer @ Gap Inc | E-commerce Personalization & Recommendation | Demand Forecasting & Time Series Modeling",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFlt3c48mYvkg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1696695061033?e=1746057600&v=beta&t=y7qFQOBxpxBrZG2AVtNmAl0XTK_1CjrFpgSpO-2iTTM",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1696695061033?e=1746057600&v=beta&t=-FlH5UbmdcaK2cp45RSwcMgUWT6UAKh3nwEOE8bj9rQ",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1696695061033?e=1746057600&v=beta&t=7JJKCIO1695iGkNsoMRPmdYRqMfQAkobQ9ww5x57eaw",
+        "img_640_640": "800_800/profile-displayphoto-shrink_800_800/0/1696695061033?e=1746057600&v=beta&t=aEw3b9AKw96p17L0RAItH0ZvhQ8841SdPYrTzpfzc-o",
+        "profile_id": "ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY",
+        "member_urn": "urn:li:member:467981142",
+        "public_id": "anya-michaelsen",
+        "experience": [
+            {
+                "locationName": "San Francisco, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,2487997473)",
+                "geoLocationName": "San Francisco, California, United States",
+                "geoUrn": "urn:li:fs_geo:102277331",
+                "companyName": "Gap Inc.",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "description": "E-commerce Personalization and Recommendation\n* Developing in-house recommendation engines for powering and improving the e-commerce customer experience\n* Incorporating customer data to (hyper)-personalize recommendations to further improve relevance of products and curate better online customer experience\nE-commerce Personalization and Recommendation * Developing in-house recommendation engines for powering and improving the e-commerce customer experience * Incorporating customer data to (hyper)-personalize recommendations to further improve relevance of products and curate better online customer experience",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Senior Data Scientist, Machine Learning",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1677",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEAZYW0N4P61w/company-logo_"
+            },
+            {
+                "locationName": "San Francisco, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,2054560209)",
+                "geoLocationName": "San Francisco, California, United States",
+                "geoUrn": "urn:li:fs_geo:102277331",
+                "companyName": "Gap Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "E-commerce Personalization and Recommendation\n* Developing in-house recommendation engines for powering and improving the e-commerce customer experience\n* Incorporating customer data to (hyper)-personalize recommendations to further improve relevance of products and curate better online customer experience\nE-commerce Personalization and Recommendation * Developing in-house recommendation engines for powering and improving the e-commerce customer experience * Incorporating customer data to (hyper)-personalize recommendations to further improve relevance of products and curate better online customer experience\nSkills: Azure Databricks · Debugging · Personalization · Recommender Systems · Model Serving\nTime Series Forecasting for Merchandise Financial Planning (MFP)\n* Lead a 6 person project forecasting 50+ targets for 3,000+ products.\n* Gathered and cleaned multiple data sources for EDA and feature extraction during data preparation. \n* Iteratively developing an ensembled model with time series techniques and Neural Networks.\n* Generated and maintained DataBricks pipelines for data preparation, model training, and predicting including optimization of SQL/PySpark code to reduce runtimes over 50%. Designed reporting dashboards in PowerBI.\n* Collaborated cross-functionally with business stakeholders to align on project scope, deliverables, and timeline.\n* Derived custom metrics to satisfy business requirements and successfully pitched to both business and technical leads.\n* Developed detailed and comprehensive design documents for complex code implementations, ensuring clarity, consistency, and ease of understanding for teammates.\n* Championed adoption of software best practices and onboarded teammates to new tools/techniques",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Data Scientist, Machine Learning",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1677",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEAZYW0N4P61w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1711669547)",
+                "companyName": "University of California, Berkeley",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Student Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:2517",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1623602531)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1986943683)",
+                "companyName": "Gap Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "Worked on the Advanced Analytics team developing an experimental deep learning model to predict demand and elasticity of demand.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "companyUrn": "urn:li:fs_miniCompany:1677",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEAZYW0N4P61w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1744728410)",
+                "companyName": "University of California, Berkeley",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Department Climate Advocate (Graduate Assembly)",
+                "companyUrn": "urn:li:fs_miniCompany:2517",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1042687737)",
+                    "urn:li:fs_course:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1042707460)",
+                    "urn:li:fs_course:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1334839026)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,708780963)",
+                "school": {
+                    "objectUrn": "urn:li:school:17939",
+                    "entityUrn": "urn:li:fs_miniSchool:17939",
+                    "active": true,
+                    "schoolName": "University of California, Berkeley",
+                    "trackingId": "ftRAhpMCRVK0OYHQYCxx/A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+                "degreeName": "Master's degree",
+                "schoolName": "University of California, Berkeley",
+                "fieldOfStudy": "Mathematics",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:17939"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1334707506)",
+                    "urn:li:fs_course:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1334800821)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,803220017)",
+                "school": {
+                    "objectUrn": "urn:li:school:42210",
+                    "entityUrn": "urn:li:fs_miniSchool:42210",
+                    "active": true,
+                    "schoolName": "UC Berkeley School of Information",
+                    "trackingId": "1SBxBijlQquKm/+PxscpvQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGEDE9bNmsc9w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Graduate Certificate in Applied Data Science",
+                "schoolName": "UC Berkeley School of Information",
+                "schoolUrn": "urn:li:fs_miniSchool:42210"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,319454537)",
+                "school": {
+                    "objectUrn": "urn:li:school:18537",
+                    "entityUrn": "urn:li:fs_miniSchool:18537",
+                    "active": true,
+                    "schoolName": "Williams College",
+                    "trackingId": "pRmHMDC6SaCkRMn6RJMDNQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHRGcFaNbiXYg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "Bachelor of Arts (B.A.)",
+                "schoolName": "Williams College",
+                "fieldOfStudy": "Mathematics (Minor Computer Science)",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1763869112)",
+                    "urn:li:fs_honor:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1042838258)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:18537"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "The Erdős Institute",
+                "name": "Data Science Boot Camp 2022",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:16213444",
+                    "entityUrn": "urn:li:fs_miniCompany:16213444",
+                    "name": "The Erdős Institute",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1642898486413?e=1748476800&v=beta&t=1aK3Hpc3iXABbLXNOnnq4QDUKGLSt3Y2faoh85opXyU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1642898486413?e=1748476800&v=beta&t=G4ToKXa3pyweyyEcaQgV-bYqW0op5ubvn-2ZWv9Hcfo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1642898486413?e=1748476800&v=beta&t=ziSbs2g-bHO0b3WPgytbIc5Kf0vFmkfhZ_QggRZUybY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHYS6uJ8GBVFA/company-logo_"
+                        }
+                    },
+                    "universalName": "the-erdős-institute",
+                    "dashCompanyUrn": "urn:li:fsd_company:16213444",
+                    "trackingId": "bQ8xFpPkRRWncigkiAINvg=="
+                },
+                "displaySource": "erdosinstitute.org",
+                "companyUrn": "urn:li:fs_miniCompany:16213444",
+                "url": "https://www.erdosinstitute.org/certificates/spring-2022/anya-michaelsen"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Introduction to Machine Learning in Production",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "AL8YLHGMKQ5S",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/records/AL8YLHGMKQ5S"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Machine Learning Data Lifecycle in Production ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "QWR83VG6A53A",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/records/QWR83VG6A53A"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Peer Mentor",
+                "companyName": "Gap Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "Working 1-1 with a mentee in the WOMEN @ Gap Equity and Belonging group to provide support, focus on goals and growth and development professionally and personally, and build relationships across different functions in the company.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1677",
+                        "entityUrn": "urn:li:fs_miniCompany:1677",
+                        "name": "Gap Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1724299220032/gap_inc__logo?e=1748476800&v=beta&t=_tEHfpH74uimXz1FhAYH9EahtH9Nw-a7kNIasLZ_SeQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1724299220032/gap_inc__logo?e=1748476800&v=beta&t=se7U9OOGsgEFCuFhy74hAV9tnIlkMgJCnbQrJ9QtcRQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1724299220032/gap_inc__logo?e=1748476800&v=beta&t=O4Aha3PQQAFK0mOzdGDxm2ZeyFmS51T84yB8wlD8A0A",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEAZYW0N4P61w/company-logo_"
+                            }
+                        },
+                        "universalName": "gap-inc-",
+                        "dashCompanyUrn": "urn:li:fsd_company:1677",
+                        "trackingId": "8SQ7cYKHQMSAoJF6kp3Q9A=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1677"
+            },
+            {
+                "role": "Equity & Inclusion Committee Member ",
+                "companyName": "University of California, Berkeley",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "cause": "CIVIL_RIGHTS",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2517",
+                        "entityUrn": "urn:li:fs_miniCompany:2517",
+                        "name": "University of California, Berkeley",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1732135669730/uc_berkeley_logo?e=1748476800&v=beta&t=-BBw3rE8ewUGn_CL15OdM9Xd0tkal_AIFRGoklyQg6Y",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=1748476800&v=beta&t=wbxH4RX-wtmwd1eNBZ_ALCVP8spZyUFqyY_zdZbW20c",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1748476800&v=beta&t=DrOVnrCcgHvTLiljpK-_oq8Vz63HMfeBMJkcpCETHok",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                            }
+                        },
+                        "universalName": "uc-berkeley",
+                        "dashCompanyUrn": "urn:li:fsd_company:2517",
+                        "trackingId": "IkWp9AE6St2vQt7kv7qb4Q=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2517"
+            },
+            {
+                "role": "MGSA Officer",
+                "companyName": "University of California, Berkeley ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "cause": "EDUCATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2517",
+                        "entityUrn": "urn:li:fs_miniCompany:2517",
+                        "name": "University of California, Berkeley",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1732135669730/uc_berkeley_logo?e=1748476800&v=beta&t=-BBw3rE8ewUGn_CL15OdM9Xd0tkal_AIFRGoklyQg6Y",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=1748476800&v=beta&t=wbxH4RX-wtmwd1eNBZ_ALCVP8spZyUFqyY_zdZbW20c",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1748476800&v=beta&t=DrOVnrCcgHvTLiljpK-_oq8Vz63HMfeBMJkcpCETHok",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                            }
+                        },
+                        "universalName": "uc-berkeley",
+                        "dashCompanyUrn": "urn:li:fsd_company:2517",
+                        "trackingId": "Xf9tPWLCQ+mSCLWfIue4nA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2517"
+            }
+        ],
+        "honors": [
+            {
+                "description": "An article I co-authored titled Nullstellenfont, initially published in the MAA's Math Horizons was selected to be published in the 2020 edition of The Best Writing on Mathematics.",
+                "occupation": "urn:li:fs_education:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,319454537)",
+                "title": "Best Writing on Mathematics",
+                "issueDate": {
+                    "year": 2020
+                },
+                "issuer": "The Best Writing on Mathematics (Princeton University Press)"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,1711669547)",
+                "title": "NSF Graduate Research Fellowship (GRFP)",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "issuer": "National Science Foundation"
+            },
+            {
+                "title": "Goldwater Scholarship Honorable Mention",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "issuer": "Barry Goldwater Scholarship and Excellence in Education Foundation"
+            },
+            {
+                "description": "Award for outstanding sophomores in the math/stat department",
+                "title": "Benedict Prize",
+                "issueDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "issuer": "Williams College Math Department "
+            },
+            {
+                "title": "Goldwater Scholarship Honorable Mention",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "issuer": "Barry Goldwater Scholarship and Excellence in Education Foundation"
+            },
+            {
+                "description": "Provides research and travel funding for women in underrepresented STEM fields. ",
+                "occupation": "urn:li:fs_education:(ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY,319454537)",
+                "title": "Clare Boothe Luce Scholar",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2017
+                },
+                "issuer": "The Luce Foundation"
+            },
+            {
+                "title": "Intel Science Talent Search (STS) Finalist",
+                "issuer": "Society for Science & the Public"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Data Science"
+            },
+            {
+                "name": "Personalization"
+            },
+            {
+                "name": "Recommender Systems"
+            },
+            {
+                "name": "Model Serving"
+            }
+        ],
+        "urn_id": "ACoAABvk01YBxEz_kyw9wruFHTFASY96MCw9eCY"
+    }
+}

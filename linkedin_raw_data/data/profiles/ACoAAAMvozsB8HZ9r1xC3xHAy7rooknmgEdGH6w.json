@@ -1,0 +1,942 @@
+{
+    "urn_id": "ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+    "fetch_timestamp": "2025-02-26T21:33:42.830037",
+    "profile_data": {
+        "summary": "Hi there, I am glad you are taking an interest in reading my profile, hopefully we get to connect!\n\nI have my roots in engineering, and I am always striving to optimise things around me. I like learning new concepts and being around extraordinary people. This drew me into consulting, where I learned a lot about how businesses work in a very short time. I then re-focused on my technical skills and worked as a data scientist at UZH / USZ, and later as a Team Lead for Artificial Intelligence at Clinerion, building a platform for analysing distributed patient data in a secure manner.\n\nShort version\nAn engineer by training, I worked in management consulting, which radically expanded my strategic thinking. Most recently worked as a Team Lead for Artificial Intelligence at Clinerion, building a distributed analytics platform.\n\nIf you would like to know more or discuss new ideas, would love to connect!",
+        "industryName": "Marketing & Advertising",
+        "lastName": "Berchier",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:80",
+        "firstName": "Matteo",
+        "entityUrn": "urn:li:fs_profile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102277331"
+        },
+        "geoLocationName": "San Francisco, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Founder @ Permar AI | McKinsey | ETH Zürich",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHm11eMAKV5yw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1569340590313?e=1746057600&v=beta&t=bqXGj42dqJQEaB0qEzlL6Ej3khZHBguJmyCBSz33yoc",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1569340590280?e=1746057600&v=beta&t=CQJWAZ21_MhHTe4uszTUhEgkUs6ffvrYrOiqd57HOMI",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1569340590350?e=1746057600&v=beta&t=zWrmovJpx4wuwGeR38_ztojywr_ub0c5lcX6Ja6vOAY",
+        "img_420_420": "800_800/profile-displayphoto-shrink_800_800/0/1569340590391?e=1746057600&v=beta&t=FkdnmTtaiFAbTzqJFpvWmjBUYxTopESVKosLoC29Xc0",
+        "profile_id": "ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+        "member_urn": "urn:li:member:53453627",
+        "public_id": "matteoberchier",
+        "experience": [
+            {
+                "locationName": "San Francisco, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,2169893345)",
+                "geoLocationName": "San Francisco, California, United States",
+                "geoUrn": "urn:li:fs_geo:102277331",
+                "companyName": "Permar AI",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": "Helping e-Commerce companies to improve their conversion rates through better landing pages at scale\n\n- Developed a scalable backend infrastructure, including REST APIs with authorisation and authentication, database setup and management both SQL and NoSQL, networking of Next.js server of distributing websites at scale, including Content Delivery Network setup",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Marketing and Advertising"
+                    ]
+                },
+                "title": "Co-Founder | CTO",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:93135727",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG8rJtSb6IxyQ/company-logo_"
+            },
+            {
+                "locationName": "Basel, Switzerland",
+                "entityUrn": "urn:li:fs_position:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,2013759219)",
+                "geoLocationName": "Basel, Switzerland",
+                "geoUrn": "urn:li:fs_geo:100100349",
+                "companyName": "Clinerion Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "- Developed and brought to production a federated data analytics platform across 60+ hospitals in the company PNEx network using AWS products\n- Led Natural Language Processing and Machine Learning initiatives inside the company\n- Managed research project with University of Geneva for the development of a multilingual terminology mapping system",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Team Lead Machine Learning & Artificial Intelligence Solutions",
+                "region": "urn:li:fs_region:(ch,0)",
+                "companyUrn": "urn:li:fs_miniCompany:661069",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHLdDSORztcaA/company-logo_"
+            },
+            {
+                "locationName": "Zurich, Switzerland",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1629064681)"
+                ],
+                "geoUrn": "urn:li:fs_geo:102436504",
+                "companyName": "University of Zurich",
+                "description": "Chair of Medical Informatics at University Zurich\n– Developed platform for federated machine learning (deep learning) in health-care in collaboration with external private partner using the standard data science stack, as well as PyTorch, flower and AirFlow\n– Developed Python package for reproducible and faster prototyping of machine learning pipelines. Applied use on new sequence-based machine learning models (deep neural networks) for patient outcome prediction (hypoxia prediction)",
+                "title": "Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:8148",
+                "entityUrn": "urn:li:fs_position:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1662516907)",
+                "geoLocationName": "Zurich, Switzerland",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(ch,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEi1fl1yzka5A/company-logo_"
+            },
+            {
+                "locationName": "Zürich Area, Switzerland",
+                "entityUrn": "urn:li:fs_position:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1200383090)",
+                "geoLocationName": "Zürich Area, Switzerland",
+                "geoUrn": "urn:li:fs_geo:102436504",
+                "companyName": "McKinsey & Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "description": "– Exploration and evaluation of Middle East expansion strategy for private bank \n– Developed division strategy for large electronics manufacturer\n– Managed software development project for a leading European car\nmanufacturer\n– Developed company and CRM strategy for leading Swiss retailer",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Consultant",
+                "region": "urn:li:fs_region:(ch,4938)",
+                "companyUrn": "urn:li:fs_miniCompany:1371",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF7kn4ezeiSMw/company-logo_"
+            },
+            {
+                "locationName": "Zürich Area, Switzerland",
+                "entityUrn": "urn:li:fs_position:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,950304984)",
+                "geoLocationName": "Zürich Area, Switzerland",
+                "geoUrn": "urn:li:fs_geo:102436504",
+                "companyName": "Empa",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "description": "Civil Service at the Laboratory for Acoustic / Noise Control\n– Developed a desktop application for data analysis and automated report generation for acoustic experiments",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(ch,4938)",
+                "companyUrn": "urn:li:fs_miniCompany:23125",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEt-9GjjGu6VA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006034)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006035)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006048)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006050)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006051)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006052)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006053)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006054)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006055)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006056)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006057)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006058)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006059)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006060)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006061)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006062)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006063)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,654580258)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,450195686)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,277648458)",
+                "school": {
+                    "objectUrn": "urn:li:school:10918",
+                    "entityUrn": "urn:li:fs_miniSchool:10918",
+                    "active": true,
+                    "schoolName": "ETH Zürich",
+                    "trackingId": "7bbCppGPTAOe42TGmDifsg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_"
+                },
+                "description": "Major in Structural Engineering, and in Materials and Mechanics",
+                "degreeName": "Master of Science (MSc) with Distinction",
+                "schoolName": "ETH Zürich",
+                "fieldOfStudy": "Civil Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,2026555434)",
+                    "urn:li:fs_honor:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,2026777238)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:10918"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006036)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006037)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006038)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006039)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006040)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006041)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006042)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006043)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006044)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006045)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006046)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006047)",
+                    "urn:li:fs_course:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1583006049)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,85772107)",
+                "school": {
+                    "objectUrn": "urn:li:school:10918",
+                    "entityUrn": "urn:li:fs_miniSchool:10918",
+                    "active": true,
+                    "schoolName": "ETH Zürich",
+                    "trackingId": "ynhW5kyyTZm8qyFQT/msog==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_"
+                },
+                "degreeName": "Bachelor of Science (BSc)",
+                "schoolName": "Eidgenössische Technische Hochschule Zürich",
+                "fieldOfStudy": "Civil Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1273928714)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:10918"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "The University of Queensland",
+                "name": "Hypersonics - from shock waves to scramjets",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:166664",
+                    "entityUrn": "urn:li:fs_miniCompany:166664",
+                    "name": "The University of Queensland",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630608110520/university_of_queensland_logo?e=1748476800&v=beta&t=WTPV2WzJU4clriMGw7im2zfSWYuaBEM_nrvMqcjop7I",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630608110520/university_of_queensland_logo?e=1748476800&v=beta&t=7Gus9zUuI4fGWNkvBLVvz6uBnUNm0R0LA4KzomgG8bo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630608110520/university_of_queensland_logo?e=1748476800&v=beta&t=0gd7GWWzMtVYrhQr9-TQQKuwlOmdTIoEp6P3oMLLtw8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdPHGC1hgwrw/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-queensland",
+                    "dashCompanyUrn": "urn:li:fsd_company:166664",
+                    "trackingId": "Dp5ez6fiSQqc7mVjbSsBLA=="
+                },
+                "displaySource": "edx.org",
+                "companyUrn": "urn:li:fs_miniCompany:166664",
+                "url": "https://courses.edx.org/certificates/ab3a750bda9e42b490ad93ef276ed623"
+            },
+            {
+                "authority": "EPFL (École polytechnique fédérale de Lausanne)",
+                "name": "Space Mission Design and Operations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3883",
+                    "entityUrn": "urn:li:fs_miniCompany:3883",
+                    "name": "EPFL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630601486812/epfl_logo?e=1748476800&v=beta&t=TyAkhKr-_X_k6USbDl6S-jnNfwi32vVUVsij6POtpeg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630601486812/epfl_logo?e=1748476800&v=beta&t=0C5HA3btOIwF31J76-JhiT8exdxtQ7WxibB-r24uc08",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630601486812/epfl_logo?e=1748476800&v=beta&t=A_Quwry1YBVnU6h47VfSuHphoNyn_0g_-mPHSEaRLSg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH2roCFqd0gPA/company-logo_"
+                        }
+                    },
+                    "universalName": "epfl",
+                    "dashCompanyUrn": "urn:li:fsd_company:3883",
+                    "trackingId": "ug6kMHttTsGdCw1tjCaodA=="
+                },
+                "displaySource": "edx.org",
+                "companyUrn": "urn:li:fs_miniCompany:3883",
+                "url": "https://courses.edx.org/certificates/4b1472568bd04959bc6d3e329119cc22"
+            },
+            {
+                "authority": "University of Toronto",
+                "name": "Neural Networks for Machine Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3660",
+                    "entityUrn": "urn:li:fs_miniCompany:3660",
+                    "name": "University of Toronto",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1639421285702/university_of_toronto_logo?e=1748476800&v=beta&t=wUe9Jq-0tuC_PdvBorN56PGhTwzpiO4tk6pCSBH-DV0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1639421285702/university_of_toronto_logo?e=1748476800&v=beta&t=eyUsC1U7qq-z0OMzVb3W7jmBGQl_nOuCzuFHDfA3ewM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1639421285702/university_of_toronto_logo?e=1748476800&v=beta&t=FJIovlmFU4UmexCWFBNiwVDHLD3WyOQ9yZGSz6FdDiQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-toronto",
+                    "dashCompanyUrn": "urn:li:fsd_company:3660",
+                    "trackingId": "Rg6xTT5sRMGjaGFWzBwO+A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3660",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/K2L3RJA2GR9L"
+            },
+            {
+                "authority": "CITI Program, A Division of BRANY",
+                "name": "Data or Specimens Only Research",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "42273108",
+                "company": {
+                    "objectUrn": "urn:li:company:11118398",
+                    "entityUrn": "urn:li:fs_miniCompany:11118398",
+                    "name": "CITI Program",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631314320914?e=1748476800&v=beta&t=NHlmld3F38aHfPNG91eAehw7eSl2LjcBpCyyxapAUhk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631314320914?e=1748476800&v=beta&t=LtBFOrPT8hUmX1CBEhW73PxW7Rpc5pE1rFR3Qz1nJe4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631314320914?e=1748476800&v=beta&t=3k_G4jqkI31B0bBrZK2fxBt0FkNymVCMYwt_O2u55TY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_"
+                        }
+                    },
+                    "universalName": "citiprogram",
+                    "dashCompanyUrn": "urn:li:fsd_company:11118398",
+                    "trackingId": "4ozylQ6ZQSW9RSwgkCbflA=="
+                },
+                "displaySource": "citiprogram.org",
+                "companyUrn": "urn:li:fs_miniCompany:11118398",
+                "url": "https://www.citiprogram.org/verify/?w1d622726-e62b-42cc-bfe6-8c8cc6e41ee9-42273108"
+            },
+            {
+                "authority": "Universitätsspital Zürich",
+                "name": "Good Clinical Practice (GCP)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:96536",
+                    "entityUrn": "urn:li:fs_miniCompany:96536",
+                    "name": "Universitätsspital Zürich",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1718601951853/universitatsspital_zurich_logo?e=1748476800&v=beta&t=URbsxc_5QtmCNOEwKH0vpA6Z5iLoPDsdett27CzQc-0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1718601951853/universitatsspital_zurich_logo?e=1748476800&v=beta&t=BmEf7b7qCIMl4jPtoEeTAhWQTykq06arrxTn4VxGo6c",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1718601951853/universitatsspital_zurich_logo?e=1748476800&v=beta&t=fjTo0MyDTdJAIVB-08Rl3GrdAqRQkvaZiJzvJlUaQuE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEZZTQJbYgpjQ/company-logo_"
+                        }
+                    },
+                    "universalName": "universitatsspital-zurich",
+                    "dashCompanyUrn": "urn:li:fsd_company:96536",
+                    "trackingId": "+xMIurCqQU6cAmyZ5htvaw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:96536"
+            },
+            {
+                "authority": "Medidee",
+                "name": "Digital Health, the Regulatory Landscape",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2303891",
+                    "entityUrn": "urn:li:fs_miniCompany:2303891",
+                    "name": "Medidee - Now a Part of Veranex",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1663679282975/medidee_logo?e=1748476800&v=beta&t=EL03FW2uLK79pKbDIW29w3fLJdby8cXaeAJXDlOeYHY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1663679282975/medidee_logo?e=1748476800&v=beta&t=0Ld5FTvCYsBkLqXqc_2hjwdIpniOSMJi3E7MSO0xB5o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1663679282975/medidee_logo?e=1748476800&v=beta&t=e3JrPI2DiKcfhI7GkTv49E-uQEVH7Jq6ptj_J4r5s5g",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEc6H3OA98yKg/company-logo_"
+                        }
+                    },
+                    "universalName": "medidee",
+                    "dashCompanyUrn": "urn:li:fsd_company:2303891",
+                    "trackingId": "JDMkWDXMTQGqCSwL2beqxA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2303891"
+            },
+            {
+                "authority": "Y Combinator",
+                "name": "Startup School",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:167872",
+                    "entityUrn": "urn:li:fs_miniCompany:167872",
+                    "name": "Y Combinator",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1673555093250/y_combinator_logo?e=1748476800&v=beta&t=x8ORPlZXB01NLVZYzVAfkpzoLCyDXQPQgn3ImXhUVds",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1673555093250/y_combinator_logo?e=1748476800&v=beta&t=FSrFcnhJVlhuBv0CJEmGNnko6Nju5dUvlEAaTVMFkfg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1748476800&v=beta&t=aYWJrPLcpqtRUBguzLoHwq52O8a2kkyFnz3s1W-zsPM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_"
+                        }
+                    },
+                    "universalName": "y-combinator",
+                    "dashCompanyUrn": "urn:li:fsd_company:167872",
+                    "trackingId": "hv3zB+qgQ0yEgZj/yl2BPA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:167872"
+            },
+            {
+                "authority": "John Snow Labs",
+                "name": "Spark NLP for Data Scientists",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "25718617756",
+                "company": {
+                    "objectUrn": "urn:li:company:10349856",
+                    "entityUrn": "urn:li:fs_miniCompany:10349856",
+                    "name": "John Snow Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1730497967728/johnsnowlabs_logo?e=1748476800&v=beta&t=p0fzuwz0J23qDFRtsmOCMqU3hectQk4dk0Lr6vxn7gM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1730497967728/johnsnowlabs_logo?e=1748476800&v=beta&t=hzF5lVI3j9Xg_bLaHCw3a8A9BpSuxhHgxDeXAaL-VoE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1730497967728/johnsnowlabs_logo?e=1748476800&v=beta&t=J4U8VC0kNX7O_M7ASsw2pxN5AEjZZu17Fh0wg9v4Jpg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQH5ze8oAVXQ2A/company-logo_"
+                        }
+                    },
+                    "universalName": "johnsnowlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:10349856",
+                    "trackingId": "2InLa0zBTUyJKxvKDgcGUA=="
+                },
+                "displaySource": "coassemble.com",
+                "companyUrn": "urn:li:fs_miniCompany:10349856",
+                "url": "https://johnsnowlabs.coassemble.com/certificate/MTEyNDE5XzEwNzE2Njc"
+            },
+            {
+                "authority": "John Snow Labs",
+                "name": "Spark NLP for Healthcare Data Scientists",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "25718628044",
+                "company": {
+                    "objectUrn": "urn:li:company:10349856",
+                    "entityUrn": "urn:li:fs_miniCompany:10349856",
+                    "name": "John Snow Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1730497967728/johnsnowlabs_logo?e=1748476800&v=beta&t=p0fzuwz0J23qDFRtsmOCMqU3hectQk4dk0Lr6vxn7gM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1730497967728/johnsnowlabs_logo?e=1748476800&v=beta&t=hzF5lVI3j9Xg_bLaHCw3a8A9BpSuxhHgxDeXAaL-VoE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1730497967728/johnsnowlabs_logo?e=1748476800&v=beta&t=J4U8VC0kNX7O_M7ASsw2pxN5AEjZZu17Fh0wg9v4Jpg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQH5ze8oAVXQ2A/company-logo_"
+                        }
+                    },
+                    "universalName": "johnsnowlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:10349856",
+                    "trackingId": "vMpfDa3oQlGrAgAbQUofdg=="
+                },
+                "displaySource": "coassemble.com",
+                "companyUrn": "urn:li:fs_miniCompany:10349856",
+                "url": "https://johnsnowlabs.coassemble.com/certificate/MTEyNDE4XzEwNzE2Njc"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Awarded for the Master's Thesis \"Multi-fidelity surrogate modelling with polynomial chaos expansions\".",
+                "occupation": "urn:li:fs_education:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,277648458)",
+                "title": "2nd Heinrich Hatt-Bucher Prize",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "issuer": "Heinrich Hatt-Bucher Foundation"
+            },
+            {
+                "description": "Awarded for the Master's Thesis \"Multi-fidelity surrogate modelling with polynomial chaos expansions\".",
+                "occupation": "urn:li:fs_education:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,277648458)",
+                "title": "ETH Medal for Outstanding Master's Thesis",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "issuer": "ETH Zürich"
+            },
+            {
+                "description": "Under the Excellence Scholarship & Opportunity Programme (ESOP) students receive a special scholarship for the duration of their programme as well as specific supervision. The scholarship covers the full study and living costs during their Master’s degree course.",
+                "occupation": "urn:li:fs_education:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,85772107)",
+                "title": "Excellence Scholarship & Opportunity Award",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "issuer": "ETH Zürich"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1662516907)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Matteo",
+                            "lastName": "Berchier",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+                            "occupation": "Founder @ Permar AI | McKinsey | ETH Zürich",
+                            "objectUrn": "urn:li:member:53453627",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1714169410853?e=1746057600&v=beta&t=8m0oDXcT8-U_kyqwmFw4YkudCTQ2ZHaJafOI4Nu1MCE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714169410853?e=1746057600&v=beta&t=WhiZHdEvv37gpPFYJOmT_ahDabGPk_RSmkGARllVZWM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGv0jJMWzSJTg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "matteoberchier",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1569340590313?e=1746057600&v=beta&t=bqXGj42dqJQEaB0qEzlL6Ej3khZHBguJmyCBSz33yoc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1569340590280?e=1746057600&v=beta&t=CQJWAZ21_MhHTe4uszTUhEgkUs6ffvrYrOiqd57HOMI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1569340590350?e=1746057600&v=beta&t=zWrmovJpx4wuwGeR38_ztojywr_ub0c5lcX6Ja6vOAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 420,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1569340590391?e=1746057600&v=beta&t=FkdnmTtaiFAbTzqJFpvWmjBUYxTopESVKosLoC29Xc0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 420
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHm11eMAKV5yw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "e/yRZHbtQDGWmD3IrYSJlA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,1629064681,351434037)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "Clinerion's Patient Network Explorer (PNEX) is a global health record system allowing for the privacy-preserving aggregation of patient information across hospitals. This proposal extends PNEX's capabilities beyond information aggregation towards cutting-edge federated machine-learning capabilities.",
+                "title": "PPML-Health: A Privacy-Preserving Machine Learning Infrastructure for Health Research",
+                "url": "https://www.aramis.admin.ch/Grunddaten/?ProjectID=47779"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,277648458)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Matteo",
+                            "lastName": "Berchier",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+                            "occupation": "Founder @ Permar AI | McKinsey | ETH Zürich",
+                            "objectUrn": "urn:li:member:53453627",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1714169410853?e=1746057600&v=beta&t=8m0oDXcT8-U_kyqwmFw4YkudCTQ2ZHaJafOI4Nu1MCE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714169410853?e=1746057600&v=beta&t=WhiZHdEvv37gpPFYJOmT_ahDabGPk_RSmkGARllVZWM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGv0jJMWzSJTg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "matteoberchier",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1569340590313?e=1746057600&v=beta&t=bqXGj42dqJQEaB0qEzlL6Ej3khZHBguJmyCBSz33yoc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1569340590280?e=1746057600&v=beta&t=CQJWAZ21_MhHTe4uszTUhEgkUs6ffvrYrOiqd57HOMI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1569340590350?e=1746057600&v=beta&t=zWrmovJpx4wuwGeR38_ztojywr_ub0c5lcX6Ja6vOAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 420,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1569340590391?e=1746057600&v=beta&t=FkdnmTtaiFAbTzqJFpvWmjBUYxTopESVKosLoC29Xc0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 420
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHm11eMAKV5yw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "e/yRZHbtQDGWmD3IrYSJlA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w,450195686,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "description": "In this master thesis we aim at exploring the field of multi-fidelity surrogate modelling with polynomial chaos expansions (PCE). First we give an overview of the historical development of multi-fidelity surrogate modelling and surrogate modelling in general. Then we present the state-of-the-art techniques for multi-fidelity PCE, such as the additive correction, multiplicative correction and combined additive and multiplicative correction methods; these methods are all based on the concept of model discrepancy. Afterwards we propose the spectral recombination approach to multi-fidelity surrogate modelling with polynomial chaos expansions. The proposed optimal weights recombination approach tries to find the optimal recombination of the high-fidelity and low-fidelity polynomial coefficients using an objective error measure, e.g. the normalized empirical error. For all methods presented in the thesis we use regression, e.g. LARS, to calculate the polynomial coefficients. To test the techniques proposed, we apply the presented methods on a variety of analytical test functions as well as a real-world engineering problem. We use the relative estimation of the mean / variance and the normalized empirical error to compare the performance of the different methods presented. We show that for analytical test functions, the additive correction technique often achieves improvements in the estimate of mean and variance when compared to a PCE model built using only the high-fidelity experimental design. On the contrary, when applied to a real-world engineering problem the additive correction techniques provides unsatisfactory results. The optimal weight recombination method provides smaller reductions of the error measures considered when applied to analytical test functions. However, for the wind turbine case study, the optimal weights recombination method provides the largest reduction of the normalized empirical error compared to the high-fidelity PCE.",
+                "title": "Multi-fidelity surrogate modelling with polynomial chaos expansions",
+                "url": "https://sudret.ibk.ethz.ch/education/student-projects/masterTheses/m--berchier.html"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Product Management"
+            },
+            {
+                "name": "Strategic Planning"
+            },
+            {
+                "name": "Communication"
+            },
+            {
+                "name": "Product Development"
+            }
+        ],
+        "urn_id": "ACoAAAMvozsB8HZ9r1xC3xHAy7rooknmgEdGH6w"
+    }
+}

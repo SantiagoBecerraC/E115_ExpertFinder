@@ -1,0 +1,294 @@
+{
+    "urn_id": "ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs",
+    "fetch_timestamp": "2025-02-26T21:31:13.619302",
+    "profile_data": {
+        "summary": "Python Backend Developer with 4+ years of experience building high-performance, scalable solutions. Passionate about backend development, API integration, and database optimization. Recently developed a machine learning-powered cryptocurrency prediction system that improved trading efficiency by 25% and built a data pipeline using Alpha Vantage for real-time model updates.\n\nTech Stack: Python, Django, FastAPI, Flask, PostgreSQL, MySQL, Docker, NGINX, AWS, CI/CD, REST APIs\n\nOpen to new opportunities where I can leverage my expertise in backend development and machine learning to drive innovation.",
+        "industryName": "Computer Software",
+        "lastName": "Barannikov",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Aleksei",
+        "entityUrn": "urn:li:fs_profile:ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104361728"
+        },
+        "geoLocationName": "Brooklyn, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Python Backend Developer | Django | FastAPI | APIs | Machine Learning",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQFFFdGscWBYjA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1738640621928?e=1741230000&v=beta&t=YuSzeJWmFoNuUTp0R6WUnO7bLXGLXIDA5OSXPqcM5qs",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1738640621928?e=1741230000&v=beta&t=p5AYMsdVGT08Q4lX8kFb7Nk02TuySTZmHuQDZ_10PIY",
+        "img_675_675": "800_800/profile-framedphoto-shrink_800_800/0/1738640621928?e=1741230000&v=beta&t=k8LlnujtNeVn1_-7TWTQsNG2f98_Rt1yg6iU4DwZ7vk",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1738640621905?e=1741230000&v=beta&t=TZTTCsgtzOG7lE4KTC3Bh5If18CFueuYcJe3vFKD6Nc",
+        "profile_id": "ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs",
+        "member_urn": "urn:li:member:1048691491",
+        "public_id": "aleksei-barannikov",
+        "experience": [
+            {
+                "locationName": "Moscow, Moscow City, Russia",
+                "entityUrn": "urn:li:fs_position:(ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs,2056657671)",
+                "geoLocationName": "Moscow, Moscow City, Russia",
+                "geoUrn": "urn:li:fs_geo:111154941",
+                "companyName": "WidgIT",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "description": "Developed and optimized backend services using Python, Django, and FastAPI, enhancing system performance and scalability.\n\nBuilt and maintained RESTful APIs processing thousands of daily requests using FastAPI and Django REST Framework.\n\nDesigned and implemented a machine learning-based cryptocurrency prediction system, increasing trading efficiency by 25%.\n\nDeveloped a data pipeline using Alpha Vantage for continuous model training and real-time improvement of trading recommendations.\n\nCreated Telegram bots for a social activity initiative, doubling engagement while automating repetitive tasks.\n\nBuilt a news data collection service that scraped websites, social media, and APIs based on specific criteria, improving targeted data analysis.\n\nLed backend development for a sales analytics platform, streamlining data retrieval, database operations, and reporting.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(ru,0)",
+                "companyUrn": "urn:li:fs_miniCompany:89199404",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHklIEnSanc3A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs,970013089)",
+                "school": {
+                    "objectUrn": "urn:li:school:42066",
+                    "entityUrn": "urn:li:fs_miniSchool:42066",
+                    "active": true,
+                    "schoolName": "University of the People",
+                    "trackingId": "4a6nDKsZTuq5CthcA3zz6A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHOgtiBRiYWSw/company-logo_"
+                },
+                "grade": "3.86",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+                "degreeName": "Master of Science",
+                "schoolName": "University of the People",
+                "fieldOfStudy": "Information Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:42066"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs,834374801)",
+                "school": {
+                    "objectUrn": "urn:li:school:16844",
+                    "entityUrn": "urn:li:fs_miniSchool:16844",
+                    "active": true,
+                    "schoolName": "ITMO University",
+                    "trackingId": "7eG2JpvhSJu46y9BnKpbpA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHFUf_F7UbYUg/company-logo_"
+                },
+                "activities": "University Judo team, nominee awards of the Russian Writers Union «Poet of the Year 2019» and was awarded medal \"Anna Akmatova\", Semi-finalist of the Cup \"Manage\" 2019, 2nd place in the theoretical stage of the All-Russian Student Olympiad in Statistics 2019.",
+                "grade": "3.53 GPA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "ITMO University",
+                "fieldOfStudy": "Business and Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:16844"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Google Advanced Data Analytics Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "fRQBOfYSQWSCSiWGunAX5g=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.credly.com/badges/0810c6c2-681d-48b6-bbd1-3a5c233fc70d/linked_in_profile"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Software Engineer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "85134C098AF6",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=iQDobkJ7CXB90gGXuIGUPiAXDsaS8zW3IQ_qJvIJiCU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=SwqL2mWZM3vKWgZlKg3RFE7VJap-2yUoKbx7ZwUo6MM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=VsJfV6fDH9TShaEjUlt4j2nWfy82x2UNxPSD9r33RRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "qglo7z9+Q8K4NLkA1W8ntA=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/85134c098af6"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "REST API (Intermediate)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=iQDobkJ7CXB90gGXuIGUPiAXDsaS8zW3IQ_qJvIJiCU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=SwqL2mWZM3vKWgZlKg3RFE7VJap-2yUoKbx7ZwUo6MM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=VsJfV6fDH9TShaEjUlt4j2nWfy82x2UNxPSD9r33RRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "AXqlsKbnRny3PohFS2L0sg=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/e420614882a2"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Python (Programming Language)"
+            },
+            {
+                "name": "Django Framework "
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)"
+            },
+            {
+                "name": "SQL"
+            }
+        ],
+        "urn_id": "ACoAAD6BwyMB9jtGHfUmIerPt5KfNKYyi_LLITs"
+    }
+}

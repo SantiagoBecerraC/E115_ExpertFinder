@@ -1,0 +1,837 @@
+{
+    "urn_id": "ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+    "fetch_timestamp": "2025-02-26T21:19:06.753949",
+    "profile_data": {
+        "summary": "I'm a Data Scientist/ Data Analyst with a passion for building scalable applications and data-driven solutions. With experience at American Express, ASU, and Accenture, I’ve developed full-stack applications, built ML pipelines (spaCy, XGBoost), and optimized Salesforce integrations. At American Express, I created an entitlement management system that cut latency by 25% and built an ML model with 92% accuracy.\n\nProficient in Python, SQL, React, Tableau, and TensorFlow, I’m passionate about leveraging technology to drive impact. I’m currently exploring opportunities as an SDE, Data Scientist, or Data Analyst where I can apply my technical skills and collaborative mindset to solve meaningful problems.",
+        "industryName": "Education Management",
+        "lastName": "Raparthi",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 6,
+            "day": 1
+        },
+        "industryUrn": "urn:li:fs_industry:69",
+        "firstName": "Vinay Kumar",
+        "entityUrn": "urn:li:fs_profile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101526294"
+        },
+        "geoLocationName": "Tempe, Arizona",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist | Actively Seeking Fulltime DA, DS, SDE roles | Data Science, Computer Engineer | Accenture, ASU |",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQG2NqCWP76DgA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1723247172970?e=1741230000&v=beta&t=MeNfzLWwYZoNfMG5G3oqls7xP-jn8vpIcncGAXxXS8o",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1723247172970?e=1741230000&v=beta&t=RH0xfGm500N362WJKM5574giMaFCTvfOKGxDzwyPtXQ",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1723247172970?e=1741230000&v=beta&t=5sG5WvOVMNwAgMXQr9kHWPkzpTTSjOSmMheQnyWn-ZU",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1723247172929?e=1741230000&v=beta&t=rbYWDqYH4309xhZHRYtBbTYHyeAvc-2XV4C8HsPasmI",
+        "profile_id": "ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+        "member_urn": "urn:li:member:564634733",
+        "public_id": "vinay-raparthi",
+        "experience": [
+            {
+                "locationName": "Phoenix, Arizona, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,2495057915)",
+                "geoLocationName": "Phoenix, Arizona, United States",
+                "geoUrn": "urn:li:fs_geo:100219842",
+                "companyName": "American Express",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "-Python, NLP, GLMs, GBMs, SQL, Excel\n\n● Built an end-to-end ML pipeline integrating TF-IDF, SpaCy embeddings, XGBoost, and ensemble models to classify application entitlements with 92% accuracy, leveraging hyperparameter tuning to optimize performance.\n● Developed a semi-supervised learning framework using XGBoost, PyTorch, NumPy, and Pandas, employing pseudo-labeling, sample weighting, and confidence-based classification, resulting in a 55% improvement in accuracy, F1 score.\n● Designed a hybrid clustering-classification approach using K-Means, DBSCAN, and XGBoost, training cluster-specific models to enhance generalization and reduce misclassification, as validated by a confusion matrix analysis.\n● Enhanced NLP pipelines for feature extraction using lemmatization, TF-IDF, tokenization, and document embeddings via SpaCy, NLTK, and Scikit-learn, enabling downstream clustering and classification while improving data efficiency for large datasets (300k+ entitlements).\n● Streamlined model performance evaluation using accuracy, F1 score, precision, recall, confusion matrix, and ROC-AUC, employing Stratified K-Fold cross-validation and confidence-based filtering to ensure robustness and reduce noise.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1277",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_"
+            },
+            {
+                "locationName": "Tempe, Arizona, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,2065777784)",
+                "geoLocationName": "Tempe, Arizona, United States",
+                "geoUrn": "urn:li:fs_geo:101526294",
+                "companyName": "Arizona State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "• Data Analysis • SQL • Excel • Machine Learning • Redshift, MySQL • Tableau\n• Performed ad-hoc data analysis using Excel (formulas, pivot tables, macros) and implemented SQL queries embedded within stored procedures to prevent duplicate data entries, enhancing data accuracy and integrity. Created data reports and dashboards on Tableau to communicate the results to the stakeholders.\n• Achieved a 40% reduction in duplicate contact & lead entries, optimizing operational efficiency across departments.\n• Utilized A/B testing methodology with three variants of RFI forms on ASU website to validate hypotheses and improve form completion rates by 20.\n• Led the root-cause analysis to identify data sources and impact of field reductions on form completion rates, achieving a 20% increase in form submissions.\n• Gathered detailed requirements for implementation of a major feature on ASU website, creating process flow diagrams with Draw.io and leading a successful deployment that enhanced operational efficiency and user experience.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Business Data Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4292",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1710360874)",
+                "companyName": "Accenture",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Associate Software Engineer, Data",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1633251696)",
+                "companyName": "Pedvak Technologies Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "description": "Developed Level-3 Self-drive vehicle using Lidar, IMU and GPS.\nPublished a research paper on sensor fusion using IMU and GPS in IEEE.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Consumer Goods"
+                    ]
+                },
+                "title": "Engineer Intern",
+                "companyUrn": "urn:li:fs_miniCompany:66344196",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHAXEoI1BCixQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1803431206)",
+                "companyName": "The Robotics Club-SNIST",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "description": "As a Head of Robowars event at Roboveda 2019 & 2018, I have organized national level Robowars competition.\nAlso judged the Competition in 2019 and gave a prize money worth INR 50000.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Event Coordinator",
+                "companyUrn": "urn:li:fs_miniCompany:80153353",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFVSXVjcwG-eQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,481405230)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,481455331)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,481510935)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1473724288)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1473762223)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1473874601)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,848225413)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,848257112)",
+                    "urn:li:fs_course:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,848284458)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,818670043)",
+                "school": {
+                    "objectUrn": "urn:li:school:17769",
+                    "entityUrn": "urn:li:fs_miniSchool:17769",
+                    "active": true,
+                    "schoolName": "Arizona State University",
+                    "trackingId": "nXskDAIYS4m+HqrhTwq5jA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_"
+                },
+                "activities": "Product Management Club, Robotics Club",
+                "grade": "3.8",
+                "description": "Courses: \nAnalyzing Bigdata\nData Visualization - Tableau, Python, PoweBI\nEngineering Solutions with Python\nData driven decision-making\nAdvance Project Management\nStrategic Management of Technology \nTechnology Entrepreneurship\nB2B Enterprises\nDisrutive Innovation and Management\nSystem Design and Social Innovation",
+                "degreeName": "Masters",
+                "schoolName": "Arizona State University",
+                "fieldOfStudy": "Engineering Management, Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:17769"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,394416415)",
+                "school": {
+                    "objectUrn": "urn:li:school:3243250",
+                    "entityUrn": "urn:li:fs_miniSchool:3243250",
+                    "active": true,
+                    "schoolName": "Sreenidhi Institute of Science and Technology",
+                    "trackingId": "8gDL+AaJRCi+cj7zlybtRg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHJM7wTPjQuaA/company-logo_"
+                },
+                "activities": "Head of ROBOWARS - Roboveda'2018 and Roboveda'2019 ;NSS - active volunteer;",
+                "grade": "8.94",
+                "description": "Successfully organized RANAVEERA (Robowars),the national level event as a part of ROBOVEDA for two consecutive years 2018 and 2019 with participants across the country.",
+                "degreeName": "Bachelor of Technology",
+                "schoolName": "Sreenidhi Institute of Science and Technology",
+                "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3243250"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2021,
+                    "day": 1
+                },
+                "name": "Sensor Fusion Module Using IMU and GPS Sensors For Autonomous Car",
+                "publisher": "IEEE",
+                "url": "https://ieeexplore.ieee.org/document/9298316",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Vinay Kumar",
+                            "lastName": "Raparthi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "occupation": "Data Scientist | Actively Seeking Fulltime DA, DS, SDE roles | Data Science, Computer Engineer | Accenture, ASU |",
+                            "objectUrn": "urn:li:member:564634733",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1679109355533?e=1746057600&v=beta&t=VribpzYC_TPFruibSjiLkI6oVfqq6jKlc94AwgW4tXk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679109355533?e=1746057600&v=beta&t=0qsHgLlwCQXnd1TD596XLtJM1JGhcncYaIVQV5tFZWg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHo_g5fp93gMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vinay-raparthi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1723247172970?e=1741230000&v=beta&t=MeNfzLWwYZoNfMG5G3oqls7xP-jn8vpIcncGAXxXS8o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1723247172970?e=1741230000&v=beta&t=RH0xfGm500N362WJKM5574giMaFCTvfOKGxDzwyPtXQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1723247172970?e=1741230000&v=beta&t=5sG5WvOVMNwAgMXQr9kHWPkzpTTSjOSmMheQnyWn-ZU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1723247172929?e=1741230000&v=beta&t=rbYWDqYH4309xhZHRYtBbTYHyeAvc-2XV4C8HsPasmI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQG2NqCWP76DgA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "bpSi8Z0NTnauA52DmQmoGA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Salesforce",
+                "name": "Salesforce Certified Administrator (SCA)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "22620485",
+                "company": {
+                    "objectUrn": "urn:li:company:3185",
+                    "entityUrn": "urn:li:fs_miniCompany:3185",
+                    "name": "Salesforce",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=XGpRSEic5Y1ytbBHrWp0z1u3-Dt7_HUGkC-OVsUY7HM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=MpI_GvGzjNVIAZ4Zd59Impvg3Xkc3eTza7ByOyTlCNY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_"
+                        }
+                    },
+                    "universalName": "salesforce",
+                    "dashCompanyUrn": "urn:li:fsd_company:3185",
+                    "trackingId": "O0QFLUICSQSthsk02vemRQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3185"
+            },
+            {
+                "authority": "Forage",
+                "name": "Accenture Consultant Progran",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "6ZH6h73AgGPByFKXD",
+                "company": {
+                    "objectUrn": "urn:li:company:68514998",
+                    "entityUrn": "urn:li:fs_miniCompany:68514998",
+                    "name": "Forage",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1720817595519/theforage_logo?e=1748476800&v=beta&t=XYWVSNRcDD2K5bkdwCJbp4ErBTyHDuB9w5aQkECXe2k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1720817595519/theforage_logo?e=1748476800&v=beta&t=0JwaXnYXCd61ySI62d45UgNzlQZN6yXeVPezE01TEkU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1720817595519/theforage_logo?e=1748476800&v=beta&t=3zmFW2UpRZLFTV78Hnw-4jCgGjfuEFlHRrdn4d1sats",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEhb_j1_sDRJQ/company-logo_"
+                        }
+                    },
+                    "universalName": "theforage",
+                    "dashCompanyUrn": "urn:li:fsd_company:68514998",
+                    "trackingId": "pHNNBRgjT/Ou29AFGOt3zQ=="
+                },
+                "displaySource": "insidesherpa.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:68514998",
+                "url": "https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/KJGjQRHZ6eGquTKfF_Accenture%20Nordic_LqKmfD5LXSo7vA4Sz_1638048490811_completion_certificate.pdf"
+            },
+            {
+                "authority": "ELC eLearning College",
+                "name": "Business management ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "LC122482",
+                "company": {
+                    "objectUrn": "urn:li:company:30230184",
+                    "entityUrn": "urn:li:fs_miniCompany:30230184",
+                    "name": "ELC eLearning College",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577466616?e=1748476800&v=beta&t=rMeksUHmRIa3NfydwlVIYHOGPdRof1HDCqIE2TqQuBY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577466616?e=1748476800&v=beta&t=3CK9J-AB0rcxG2OEqc8eYjMMfeQqThEGx591S3c2Er8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577466616?e=1748476800&v=beta&t=El7szFl4kKQ73yGGs9ylZwb6yf0EJZPpWG2eeb85eC4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQGTr3KHpBbrGQ/company-logo_"
+                        }
+                    },
+                    "universalName": "elc-elearning-college",
+                    "dashCompanyUrn": "urn:li:fsd_company:30230184",
+                    "trackingId": "RnLDim+XRzOfrIvRR+DZzg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:30230184"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Building a Product from Scratch",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "SQMM0t3SR7KFki5ql7hoJw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/2b3c317f080645fe384f0b912370231cf13852f13c67515bfdc0ce90eecfa6a6"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Product Management First Steps",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "U0WBPFfBRcWm3G3NJ08vfQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/d20012f9318958c5a61aa165dd01beb25e1a99b962ccd2a878e3a2a54e1e9ce3"
+            },
+            {
+                "authority": "Google",
+                "name": "Generative AI Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "4047464",
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "047uVT8jTQOnd4YtZcbD8Q=="
+                },
+                "displaySource": "cloudskillsboost.google",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "url": "https://www.cloudskillsboost.google/public_profiles/2b3496ef-952d-4629-b61a-3be52bc64518/badges/4047464?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vinay Kumar",
+                            "lastName": "Raparthi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "occupation": "Data Scientist | Actively Seeking Fulltime DA, DS, SDE roles | Data Science, Computer Engineer | Accenture, ASU |",
+                            "objectUrn": "urn:li:member:564634733",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1679109355533?e=1746057600&v=beta&t=VribpzYC_TPFruibSjiLkI6oVfqq6jKlc94AwgW4tXk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679109355533?e=1746057600&v=beta&t=0qsHgLlwCQXnd1TD596XLtJM1JGhcncYaIVQV5tFZWg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHo_g5fp93gMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vinay-raparthi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1723247172970?e=1741230000&v=beta&t=MeNfzLWwYZoNfMG5G3oqls7xP-jn8vpIcncGAXxXS8o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1723247172970?e=1741230000&v=beta&t=RH0xfGm500N362WJKM5574giMaFCTvfOKGxDzwyPtXQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1723247172970?e=1741230000&v=beta&t=5sG5WvOVMNwAgMXQr9kHWPkzpTTSjOSmMheQnyWn-ZU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1723247172929?e=1741230000&v=beta&t=rbYWDqYH4309xhZHRYtBbTYHyeAvc-2XV4C8HsPasmI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQG2NqCWP76DgA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "bpSi8Z0NTnauA52DmQmoGA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,513032827,456727281)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo"
+                    }
+                ],
+                "description": "Built a CB Filter based Airbnb Search Recommendation System, where the model gives top 10 recommendations based on the user input through the search bar.",
+                "title": "Airbnb Recommendation System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vinay Kumar",
+                            "lastName": "Raparthi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "occupation": "Data Scientist | Actively Seeking Fulltime DA, DS, SDE roles | Data Science, Computer Engineer | Accenture, ASU |",
+                            "objectUrn": "urn:li:member:564634733",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1679109355533?e=1746057600&v=beta&t=VribpzYC_TPFruibSjiLkI6oVfqq6jKlc94AwgW4tXk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679109355533?e=1746057600&v=beta&t=0qsHgLlwCQXnd1TD596XLtJM1JGhcncYaIVQV5tFZWg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHo_g5fp93gMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vinay-raparthi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1723247172970?e=1741230000&v=beta&t=MeNfzLWwYZoNfMG5G3oqls7xP-jn8vpIcncGAXxXS8o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1723247172970?e=1741230000&v=beta&t=RH0xfGm500N362WJKM5574giMaFCTvfOKGxDzwyPtXQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1723247172970?e=1741230000&v=beta&t=5sG5WvOVMNwAgMXQr9kHWPkzpTTSjOSmMheQnyWn-ZU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1723247172929?e=1741230000&v=beta&t=rbYWDqYH4309xhZHRYtBbTYHyeAvc-2XV4C8HsPasmI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQG2NqCWP76DgA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "bpSi8Z0NTnauA52DmQmoGA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1244963335,439482412)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo"
+                    }
+                ],
+                "description": "Created interactive Tableau dashboards to analyze consumer financial complaint trends, with a focus on data preparation and insightful visualization.",
+                "title": "Financial Complaints Tableau Dashboard"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vinay Kumar",
+                            "lastName": "Raparthi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "occupation": "Data Scientist | Actively Seeking Fulltime DA, DS, SDE roles | Data Science, Computer Engineer | Accenture, ASU |",
+                            "objectUrn": "urn:li:member:564634733",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1679109355533?e=1746057600&v=beta&t=VribpzYC_TPFruibSjiLkI6oVfqq6jKlc94AwgW4tXk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679109355533?e=1746057600&v=beta&t=0qsHgLlwCQXnd1TD596XLtJM1JGhcncYaIVQV5tFZWg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHo_g5fp93gMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vinay-raparthi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1723247172970?e=1741230000&v=beta&t=MeNfzLWwYZoNfMG5G3oqls7xP-jn8vpIcncGAXxXS8o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1723247172970?e=1741230000&v=beta&t=RH0xfGm500N362WJKM5574giMaFCTvfOKGxDzwyPtXQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1723247172970?e=1741230000&v=beta&t=5sG5WvOVMNwAgMXQr9kHWPkzpTTSjOSmMheQnyWn-ZU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1723247172929?e=1741230000&v=beta&t=rbYWDqYH4309xhZHRYtBbTYHyeAvc-2XV4C8HsPasmI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQG2NqCWP76DgA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "bpSi8Z0NTnauA52DmQmoGA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo,1229010423,439475300)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo"
+                    }
+                ],
+                "description": "Developed a meal detection model using Python and Scikit-learn, applying PCA, SVM, and Neural Networks to analyze CGM readings and predict meal intake for diabetic patients.",
+                "title": "Meal Detection"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Recommender Systems"
+            },
+            {
+                "name": "CBF"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)"
+            }
+        ],
+        "urn_id": "ACoAACGnpG0B2TD7vlgKFEO2LtIbOAvXKVLPUGo"
+    }
+}

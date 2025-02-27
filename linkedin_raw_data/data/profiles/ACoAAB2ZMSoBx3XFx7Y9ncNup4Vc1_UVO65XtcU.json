@@ -1,0 +1,370 @@
+{
+    "urn_id": "ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU",
+    "fetch_timestamp": "2025-02-26T21:23:38.901089",
+    "profile_data": {
+        "summary": "Creative technologist with a passion for new forms of enhancing human experiences through technology. With several years of experience working with tech companies, design studios, cultural institutions, and agencies, I've found a balance in design excellence and visual artistry with fast and nuanced prototyping. I specialize in the research and development of interactive communication experiences with emerging technologies. With a background of working and playing with 3D, XR, machine learning, generative AI, and web, I consider myself a versatile addition to any team in the human-computer interaction space.\n\nFeel free to contact me.",
+        "industryName": "Media Production",
+        "lastName": "L.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 6,
+            "day": 24
+        },
+        "industryUrn": "urn:li:fs_industry:126",
+        "firstName": "Alvaro ",
+        "entityUrn": "urn:li:fs_profile:ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102571732"
+        },
+        "geoLocationName": "New York, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Creative Technologist | Experiential Developer | XR | Human-computer interaction",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEWRQfsn0YBRA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1697581748815?e=1746057600&v=beta&t=IBjUH6A4B00PPbwG3FJOc7fge4Lni2SVi5DMB3C9R-E",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1697581748815?e=1746057600&v=beta&t=2Bupt0ixVZCZvc6uXbvjpA0LroNrPVEpMBSWjk3fDIM",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1697581748815?e=1746057600&v=beta&t=jYTQsx9p0MuiLUrRKKQvkBrPY5o2RDKKuJyt-cwBric",
+        "img_512_512": "800_800/profile-displayphoto-shrink_800_800/0/1697581748815?e=1746057600&v=beta&t=SWVPm4iQw3H6zOhTXZJ5DSFV8vc1GLnoFUEHj_G33SU",
+        "profile_id": "ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU",
+        "member_urn": "urn:li:member:496578858",
+        "public_id": "alvarolacouture",
+        "experience": [
+            {
+                "locationName": "Brooklyn, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,2313830263)",
+                "geoLocationName": "Brooklyn, New York, United States",
+                "geoUrn": "urn:li:fs_geo:104361728",
+                "companyName": "Madwell",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2024
+                    }
+                },
+                "description": "As an Experiential Developer, I specialize in crafting immersive audiovisual experiences and products. My expertise lies in using the latest tools for creative development, including Generative AI, Game Engines (Unreal Engine/Unity), Web, and Multimedia Software(Touchdesigner) coupled with innovative custom hardware solutions, dedicated to delivering engaging software and interactive environments that captivate people.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Marketing and Advertising"
+                    ]
+                },
+                "title": "Experiential Developer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1911800",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpKucKtHiFFA/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,2478812780)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "New York University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "description": "Teaching \"Embodied Realities: Crafting VR Experiences,\" focusing on best practices in spatial design and VR development, with a focus on human-centered design principles in VR.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Adjunct Professor",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3159",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF6TmzLkch0dQ/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,2160702795)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "Pearson",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2023
+                    }
+                },
+                "description": "Technical PM with Pearson's innovation team specializing in AI, VR, and other technologies in the design and implementation of immersive learning experiences for students around the world. I lead the research and development of an AI based learning experience, including user research, prototyping, testing, validation, and hand-off.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "AI Technical Product Owner ",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2137",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQH0_0YfvmH-Pg/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,1896857734)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2022
+                    }
+                },
+                "description": "As part of Alexa Devices Research and Design, I designed and developed AI-driven tools to empower designers to build better products. I was responsible for Front-end development, systems design, and visual design, among other tasks.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Computational Designer | Sr. UX Designer at Alexa Devices Research & Design",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,1834921874)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Computational Artist at Alexa Devices Research & Design",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,600463801)",
+                "school": {
+                    "objectUrn": "urn:li:school:18993",
+                    "entityUrn": "urn:li:fs_miniSchool:18993",
+                    "active": true,
+                    "schoolName": "New York University",
+                    "trackingId": "knqQQjhHQmezXe1Yf3nkxA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF6TmzLkch0dQ/company-logo_"
+                },
+                "description": "Creative Technologist, Design Interaction.",
+                "testScores": [
+                    "urn:li:fs_testScore:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,1578073966)"
+                ],
+                "degreeName": "Master of Professional Studies (M.P.S)",
+                "schoolName": "New York University",
+                "fieldOfStudy": "Interactive Telecommunications - Human-Computer Interaction",
+                "schoolUrn": "urn:li:fs_miniSchool:18993"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,368873842)",
+                "school": {
+                    "objectUrn": "urn:li:school:11581",
+                    "entityUrn": "urn:li:fs_miniSchool:11581",
+                    "active": true,
+                    "schoolName": "Universidad de Los Andes",
+                    "trackingId": "Wng9QeQFTP2jm7WS+FqAcw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE55XiklshQFQ/company-logo_"
+                },
+                "activities": "Student assistant in audiovisual systems and editing software.\nStudent assistant for computers, photographic, and lighting equipment maintenance.",
+                "grade": "Undergraduate",
+                "degreeName": "Electronic Media Arts",
+                "schoolName": "Universidad de Los Andes",
+                "fieldOfStudy": "Digital Arts",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,48066522)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:11581"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,342066920)",
+                "school": {
+                    "objectUrn": "urn:li:school:11581",
+                    "entityUrn": "urn:li:fs_miniSchool:11581",
+                    "active": true,
+                    "schoolName": "Universidad de Los Andes",
+                    "trackingId": "5CGV33+TRji02BA3/nCdaA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE55XiklshQFQ/company-logo_"
+                },
+                "grade": "Undergraduate",
+                "degreeName": "Anthropologist",
+                "schoolName": "Universidad de Los Andes",
+                "fieldOfStudy": "Anthropologist",
+                "schoolUrn": "urn:li:fs_miniSchool:11581"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "New York University",
+                "name": "Interactive Telecommunications",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "CeDiD: 211C-AYHJ-LHET and Name: Al.",
+                "company": {
+                    "objectUrn": "urn:li:company:3159",
+                    "entityUrn": "urn:li:fs_miniCompany:3159",
+                    "name": "New York University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630556159190/new_york_university_logo?e=1748476800&v=beta&t=s0SV7F4J0OuPvGF2Mw1DAGsl3yTM77AZ7HSfOTcipNA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630556159190/new_york_university_logo?e=1748476800&v=beta&t=JaF5yTW447-PiEAlbviScl0RJ6nCSC69SIfSDnLhPZs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630556159190/new_york_university_logo?e=1748476800&v=beta&t=K5v8V_mGOOsC5D_GuHJ7CyeSyT_W2XzgluEBLFneGuw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF6TmzLkch0dQ/company-logo_"
+                        }
+                    },
+                    "universalName": "new-york-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:3159",
+                    "trackingId": "qhlDYqALSFGBAoC929POXg=="
+                },
+                "displaySource": "nyu.edu",
+                "companyUrn": "urn:li:fs_miniCompany:3159",
+                "url": "https://www.nyu.edu/registrar/forms-procedures/electronic-diploma-validation.html"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Advanced Web Developer Bootcamp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-9cfb535c-7271-4742-83ef-233d02818165",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "AEmE7Xd8SRm9oI7k3FJAng=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-9cfb535c-7271-4742-83ef-233d02818165/"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Recognition for \"VII\".",
+                "occupation": "urn:li:fs_education:(ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU,368873842)",
+                "title": "Distinct Thesis Recognition",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "issuer": "Patricia Zalamea"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Generative AI"
+            },
+            {
+                "name": "Backend"
+            },
+            {
+                "name": "Frontend"
+            },
+            {
+                "name": "System Architecture"
+            }
+        ],
+        "urn_id": "ACoAAB2ZMSoBx3XFx7Y9ncNup4Vc1_UVO65XtcU"
+    }
+}

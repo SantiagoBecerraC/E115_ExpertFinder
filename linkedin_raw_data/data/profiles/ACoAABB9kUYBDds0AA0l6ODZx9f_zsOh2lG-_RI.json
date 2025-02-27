@@ -1,0 +1,1027 @@
+{
+    "urn_id": "ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+    "fetch_timestamp": "2025-02-26T21:35:33.612488",
+    "profile_data": {
+        "summary": "- 10+ years of multi-disciplinary research with publications in diverse fields: AI/ML, physics, materials, engineering.\n- Industry experience on Deep Learning and custom physics-based ML models. \n- Solid technical skills in Python, Matlab, Fortran, Tensorflow, PyTorch, cloud computing \n\nMy research has been focused on the intersection of artificial intelligence and scientific computing, with particular emphasis on physics-based models and neural operators. My work revolves around the development of custom neural network architectures that incorporate embedded principles and symmetries, enhancing data efficiency and predictive accuracy. This research finds application in diverse areas including aerodynamics, quantum physics, material science, and scientific modeling. Driven by passion, I aim to advance artificial intelligence, push the boundaries of scientific computing, and tackle challenging real-world problems.",
+        "industryName": "Research",
+        "lastName": "Mattheakis",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "maidenName": "Matthaiakis",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 9,
+            "day": 26
+        },
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "Marios",
+        "entityUrn": "urn:li:fs_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+        "img_500_500": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+        "profile_id": "ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+        "member_urn": "urn:li:member:276664646",
+        "public_id": "mariosmattheakis",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,2378771120)",
+                "companyName": "Alcority",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "description": "Deep learning modeling of complex physical systems ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:20436325",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHzmRjz28UQng/company-logo_"
+            },
+            {
+                "locationName": "Texas, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,2455531534)",
+                "geoLocationName": "Texas, United States",
+                "geoUrn": "urn:li:fs_geo:102748797",
+                "companyName": "Alcority",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Machine Learning Research Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:20436325",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHzmRjz28UQng/company-logo_"
+            },
+            {
+                "locationName": "Greater Boston",
+                "entityUrn": "urn:li:fs_position:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,2254544573)",
+                "geoLocationName": "Greater Boston",
+                "geoUrn": "urn:li:fs_geo:90000007",
+                "companyName": "E Ink Corporation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Deep learning modeling",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Electrical/Electronic Manufacturing"
+                    ]
+                },
+                "title": "Senior Scientist",
+                "region": "urn:li:fs_region:(us,7)",
+                "companyUrn": "urn:li:fs_miniCompany:21469",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF-99FVwnukrA/company-logo_"
+            },
+            {
+                "locationName": "Billerica, Massachusetts, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,2049999469)",
+                "geoLocationName": "Billerica, Massachusetts, United States",
+                "geoUrn": "urn:li:fs_geo:100895419",
+                "companyName": "E Ink Corporation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "Deep learning, applied physics, materials, and dynamical systems",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Electrical/Electronic Manufacturing"
+                    ]
+                },
+                "title": "Senior Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:21469",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF-99FVwnukrA/company-logo_"
+            },
+            {
+                "locationName": "Cambridge, USA",
+                "entityUrn": "urn:li:fs_position:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,1459559438)",
+                "geoLocationName": "Cambridge, USA",
+                "companyName": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "description": "Computational applied physics for nanotechnology, nano materials and metamaterials.  Machine learning and Neural Networks  for implementation in applied physics and engineering. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Associate",
+                "companyUrn": "urn:li:fs_miniCompany:1711270",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF26un2IGhsYg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,791559423)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2012
+                    }
+                },
+                "description": "Computational electromagnetism, nonlinear and chaotic dynamics, stochastic flows, nanophotonics, plasmons, extreme events in complex spatiotemporal systems, nonlinear waves in random systems, chaotic dynamics.",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100892",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "University of Crete, Department of Physics",
+                "fieldOfStudy": "Physics",
+                "degreeUrn": "urn:li:fs_degree:900"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI,388040292)",
+                "school": {
+                    "objectUrn": "urn:li:school:161208",
+                    "entityUrn": "urn:li:fs_miniSchool:161208",
+                    "active": true,
+                    "schoolName": "University of Crete",
+                    "trackingId": "8gL5UC0FTticwloRTYzNGQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEkSA8fwnxUow/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "description": "Computational electromagnetism, nonlinear and chaotic dynamics, stochastic flows, nanophotonics, plasmons, extreme events in complex spatiotemporal systems, nonlinear waves in random systems, chaotic dynamics.",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100900",
+                "degreeName": "Physics",
+                "schoolName": "University of Crete",
+                "fieldOfStudy": "Theoretical and Mathematical Physics",
+                "degreeUrn": "urn:li:fs_degree:0",
+                "schoolUrn": "urn:li:fs_miniSchool:161208"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Greek",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Greek"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2024,
+                    "day": 3
+                },
+                "name": "Physics-informed neural networks for quantum control",
+                "publisher": "Phys. Rev. Lett. 132, 010801",
+                "description": "Quantum control is a ubiquitous research field that has enabled physicists to delve into the dynamics and features of quantum systems. In addition to steering the system, quantum control has delivered powerful applications for various atomic, optical, mechanical, and solid-state systems. In recent years, traditional control techniques based on optimization processes have been translated into efficient artificial intelligence algorithms. Here, we introduce a computational method for optimal quantum control problems via physics-informed neural networks (PINNs). We apply our methodology to open quantum systems by efficiently solving the state-to-state transfer problem with high probabilities, short-time evolution, and minimizing the power of the control. Furthermore, we illustrate the flexibility of PINNs to solve the same problem under changes in parameters and initial conditions, showing advantages in comparison with standard control techniques.",
+                "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.010801",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2023,
+                    "day": 26
+                },
+                "name": "HubbardNet: Efficient Predictions of the Bose-Hubbard Model Spectrum with Deep Neural Networks",
+                "publisher": "Phys. Rev. Research",
+                "description": "We present a deep neural network (DNN) -based model (HubbardNet) to variationally find the ground-state and excited-state wave functions of the one-dimensional and two-dimensional Bose-Hubbard model. Using this model for a square lattice with M sites, we obtain the energy spectrum as an analytical function of the on-site Coulomb repulsion, U, and the total number of particles, N, from a single training. This approach bypasses the need to solve a new Hamiltonian for each different set of values (U,N) and generalizes well even for out-of-distribution (U,N). Using HubbardNet, we identify the two ground-state phases of the Bose-Hubbard model (Mott insulator and superfluid). We show that the DNN-parametrized solutions are in excellent agreement with results from the exact diagonalization of the Hamiltonian, and it outperforms exact diagonalization in terms of computational scaling. These advantages suggest that our model is promising for efficient and accurate computation of exact phase diagrams of many-body lattice Hamiltonians.",
+                "url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043084",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2023,
+                    "day": 7
+                },
+                "name": "Artificial Intelligence Guided Studies of van der Waals Magnets",
+                "publisher": "Advanced Theory and Simulations - Wiley",
+                "description": "A materials informatics framework to explore a large number of candidate van der Waals (vdW) materials is developed. In particular, in this study a large space of monolayer transition metal halides is investigated by combining high-throughput density functional theory calculations and artificial intelligence (AI) to accelerate the discovery of stable materials and the prediction of their magnetic properties. The formation energy is used as a proxy for chemical stability. Semi-supervised learning is harnessed to mitigate the challenges of sparsely labeled materials data in order to improve the performance of AI models. This approach creates avenues for the rapid discovery of chemically stable vdW magnets by leveraging the ability of AI to recognize patterns in data, to learn mathematical representations of materials from data and to predict materials properties. Using this approach, previously unexplored vdW magnetic materials with potential applications in data storage and spintronics are identified.",
+                "url": "https://onlinelibrary.wiley.com/doi/10.1002/adts.202300019",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2023,
+                    "day": 17
+                },
+                "name": "Reservoir Computing for Solving Ordinary Differential Equations",
+                "publisher": "International Journal on Artificial Intelligence Tools - World Scientific",
+                "description": "There is a wave of interest in using physics-informed neural networks for solving differential equations. Most of the existing methods are based on feed-forward networks, while recurrent neural networks solvers have not been extensively explored. We introduce a reservoir computing (RC) architecture, an echo-state recurrent neural network capable of discovering approximate solutions that satisfy ordinary differential equations (ODEs). We suggest an approach to calculate time derivatives of recurrent neural network outputs without using back-propagation. The internal weights of an RC are fixed, while only a linear output layer is trained, yielding efficient training. However, RC performance strongly depends on finding the optimal hyper-parameters, which is a computationally expensive process. We use Bayesian optimization to discover optimal sets in a high-dimensional hyper-parameter space efficiently and numerically show that one set is robust and can be transferred to solve an ODE for different initial conditions and time ranges. A closed-form formula for the optimal output weights is derived to solve first-order linear equations in a one-shot backpropagation-free learning process. We extend the RC approach by solving nonlinear systems of ODEs using a hybrid optimization method consisting of gradient descent and Bayesian optimization. Evaluation of linear and nonlinear systems of equations demonstrates the efficiency of the RC ODE solver.",
+                "url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213023500306",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2022,
+                    "day": 15
+                },
+                "name": "One-Shot Transfer Learning of Physics-Informed Neural Networks",
+                "publisher": "ICML, workshop AI4Science",
+                "description": "Solving differential equations efficiently and accurately sits at the heart of progress in many areas of scientific research, from classical dynamical systems to quantum mechanics. There is a surge of interest in using Physics-Informed Neural Networks (PINNs) to tackle such problems as they provide numerous benefits over traditional numerical approaches. Despite their potential benefits for solving differential equations, transfer learning has been under explored. In this study, we present a general framework for transfer learning PINNs that results in one-shot inference for linear systems of both ordinary and partial differential equations. This means that highly accurate solutions to many unknown differential equations can be obtained instantaneously without retraining an entire network. We demonstrate the efficacy of the proposed deep learning approach by solving several real-world problems, such as first- and second-order linear ordinary equations, the Poisson equation, and the time-dependent Schrodinger complex-value partial differential equation.",
+                "url": "https://arxiv.org/abs/2110.11286",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2022,
+                    "day": 13
+                },
+                "name": "Hamiltonian neural networks for solving equations of motion",
+                "publisher": "Phys. Rev. E",
+                "description": "There has been a wave of interest in applying machine learning to study dynamical systems. We present a Hamiltonian neural network that solves the differential equations that govern dynamical systems. This is an equation-driven machine learning method where the optimization process of the network depends solely on the predicted functions without using any ground truth data. The model learns solutions that satisfy, up to an arbitrarily small error, Hamilton’s equations and, therefore, conserve the Hamiltonian invariants. The choice of an appropriate activation function drastically improves the predictability of the network. Moreover, an error analysis is derived and states that the numerical errors depend on the overall network performance. The Hamiltonian network is then employed to solve the equations for the nonlinear oscillator and the chaotic H ́enon-Heiles dynamical system. In both systems, a symplectic Euler integrator requires two orders more evaluation points than the Hamiltonian network in order to achieve the same order of the numerical error in the predicted phase space trajectories.",
+                "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.065305",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2022,
+                    "day": 1
+                },
+                "name": "Physics-Informed Neural Networks for Quantum Eigenvalue Problems",
+                "publisher": "JCNN at IEEE World Congress on Computational Intelligence",
+                "description": "Eigenvalue problems are critical to several fields of science and engineering. We expand on the method of using unsupervised neural networks for discovering eigenfunctions and eigenvalues for differential eigenvalue problems. The obtained solutions are given in an analytical and differentiable form that identically satisfies the desired boundary conditions. The network optimization is data-free and depends solely on the predictions of the neural network. We introduce two physics-informed loss functions. The first, called ortho-loss, motivates the network to discover pair-wise orthogonal eigenfunctions. The second loss term, called norm-loss, requests the discovery of normalized eigenfunctions and is used to avoid trivial solutions. We find that embedding even or odd symmetries to the neural network architecture further improves the convergence for relevant problems. Lastly, a patience condition can be used to automatically recognize eigenfunction solutions. This proposed unsupervised learning method is used to solve the finite well, multiple finite wells, and hydrogen atom eigenvalue quantum problems.",
+                "url": "https://arxiv.org/abs/2203.00451",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2022,
+                    "day": 26
+                },
+                "name": "Encoding Involutory Invariance in Neural Networks",
+                "publisher": "JCNN at IEEE World Congress on Computational Intelligence (2022)",
+                "description": "In certain situations, Neural Networks (NN) are trained upon data that obey underlying physical symmetries. However, it is not guaranteed that NNs will obey the underlying symmetry unless embedded in the network structure. In this work, we explore a special kind of symmetry where functions are invariant with respect to involutory linear/affine transformations up to parity p=±1. We develop mathematical theorems and propose NN architectures that ensure invariance and universal approximation properties. Numerical experiments indicate that the proposed models outperform baseline networks while respecting the imposed symmetry. An adaption of our technique to convolutional NN classification tasks for datasets with inherent horizontal/vertical reflection symmetry has also been proposed.",
+                "url": "https://arxiv.org/abs/2106.12891",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2022,
+                    "day": 26
+                },
+                "name": "Physics-Informed Neural Networks for Quantum Eigenvalue Problems",
+                "publisher": "JCNN at IEEE World Congress on Computational Intelligence (2022)",
+                "description": "Eigenvalue problems are critical to several fields of science and engineering. We expand on the method of using unsupervised neural networks for discovering eigenfunctions and eigenvalues for differential eigenvalue problems. The obtained solutions are given in an analytical and differentiable form that identically satisfies the desired boundary conditions. The network optimization is data-free and depends solely on the predictions of the neural network. We introduce two physics-informed loss functions. The first, called ortho-loss, motivates the network to discover pair-wise orthogonal eigenfunctions. The second loss term, called norm-loss, requests the discovery of normalized eigenfunctions and is used to avoid trivial solutions. We find that embedding even or odd symmetries to the neural network architecture further improves the convergence for relevant problems. Lastly, a patience condition can be used to automatically recognize eigenfunction solutions. This proposed unsupervised learning method is used to solve the finite well, multiple finite wells, and hydrogen atom eigenvalue quantum problems.",
+                "url": "https://arxiv.org/abs/2203.00451",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2022,
+                    "day": 15
+                },
+                "name": "Modeling the effect of the vaccination campaign on the Covid-19 pandemic",
+                "publisher": "Chaos, Solitons and Fractals",
+                "description": "Population-wide vaccination is critical for containing the SARS-CoV-2 (Covid-19) pandemic when combined with restrictive and prevention measures. In this study we introduce SAIVR, a mathematical model able to forecast the Covid-19 epidemic evolution during the vaccination campaign. SAIVR extends the widely used Susceptible-Infectious-Removed (SIR) model by considering the Asymptomatic (A) and Vaccinated (V) compartments. The model contains sev- eral parameters and initial conditions that are estimated by employing a semi-supervised machine learning procedure. After training an unsupervised neural network to solve the SAIVR differ- ential equations, a supervised framework then estimates the optimal conditions and parameters that best fit recent infectious curves of 27 countries. Instructed by these results, we performed an extensive study on the temporal evolution of the pandemic under varying values of roll-out daily rates, vaccine efficacy, and a broad range of societal vaccine hesitancy/denial levels. The concept of herd immunity is questioned by studying future scenarios which involve different vaccination efforts and more infectious Covid-19 variants.",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0960077921009759?via%3Dihub",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Marios",
+                            "lastName": "Mattheakis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "occupation": "Machine Learning Engineer | PhD in Physics, Deep Learning Modeling",
+                            "objectUrn": "urn:li:member:276664646",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516657710007?e=1746057600&v=beta&t=YX5jD_GeuyGbzqb1egwVBzW2adQE9UZHac6xj6MuL-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 991,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516657711406?e=1746057600&v=beta&t=RCXQm5NCxTWGtLpV0V96QD-uDLvjqIpifTYpx3R0zWo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 247
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFNMTzOttqnTA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mariosmattheakis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570649172059?e=1746057600&v=beta&t=LbQyFxKkdMc_zF2KOK4-LzHmH8vHxzcr9UNo4DGn8GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570649172028?e=1746057600&v=beta&t=1VIiblsfyCAjPGrOG6kztJH9Y_8satlINunbdIdxJN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570649172090?e=1746057600&v=beta&t=uIiqazOohpIp4pbD4erjSWcQYjzPLx9Aiosj_8QVhvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570649172131?e=1746057600&v=beta&t=73l_9xw3qScV7L65zgmXf_FWKorwp5dgC9Pbxu8GlRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFup3dG_LNVAQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jNt4uA6GQ4WsHbpv2B6Qjw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "physics ai"
+            },
+            {
+                "name": "Consulting"
+            },
+            {
+                "name": "Programming"
+            },
+            {
+                "name": "Amazon Web Services (AWS)"
+            }
+        ],
+        "urn_id": "ACoAABB9kUYBDds0AA0l6ODZx9f_zsOh2lG-_RI"
+    }
+}

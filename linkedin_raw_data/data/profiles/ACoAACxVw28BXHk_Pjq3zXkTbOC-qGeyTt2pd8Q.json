@@ -1,0 +1,1331 @@
+{
+    "urn_id": "ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+    "fetch_timestamp": "2025-02-26T21:45:41.774912",
+    "profile_data": {
+        "summary": "I am interested in building web applications and math/data science tools that solve highly impact problems.\nIn my free time and solve Leetcode, study, and work on personal projects.\nThis is my website: https://buibitsandbytes.onrender.com/",
+        "industryName": "Information Technology & Services",
+        "lastName": "Bui",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 8,
+            "day": 16
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Huy",
+        "entityUrn": "urn:li:fs_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103743442"
+        },
+        "geoLocationName": "Houston, Texas",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+        "profile_id": "ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+        "member_urn": "urn:li:member:743818095",
+        "public_id": "huy-bui-ds",
+        "experience": [
+            {
+                "locationName": "Birmingham, Michigan, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,1986583413)",
+                "geoLocationName": "Birmingham, Michigan, United States",
+                "geoUrn": "urn:li:fs_geo:106491957",
+                "companyName": "Publicis Groupe",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "• Achieved 1st Place Globally in Data Intelligence, recognized as the most prestigious data science award within Publicis Groupe worldwide.\n• Won 1st Place in the Catalyst Award (Centralized Data Category), earning the opportunity to travel to New York for an exclusive interview with the CTO at CBS Studios.\n• Played a key role in developing ROAI, an analytics suite integrating LLM and statistical tools, contributing to 50% of the application within a team of 8. The suite is used by 100+ analysts internally and has helped secure contracts with global enterprises clients.\n• Resolved key challenges in ad offer analysis, search performance, KPI benchmarking, and spend optimization.\n• Built 7 end-to-end machine learning applications using Python Dash, Javascript, and React, leveraging advanced statistical tools such as gradient boosting, random forests, power regression, Pyomo for non-linear optimization, and LLM models.\n• Deployed applications on a weekly basis using Git, TeamCity, AWS S3, EFS, CloudFormation, and ECS, ensuring seamless integration and high reliability.\n• Engaged in weekly discussions with senior management to explore and analyze the latest trends in generative AI",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Marketing and Advertising"
+                    ]
+                },
+                "title": "Data Science Manager",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:468160",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEChBBQJ1xUcg/company-logo_"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,837273069)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,1597593797)",
+                "companyName": "Towards Data Science",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "description": "Created contents on various topics in machine learning, statistics, math, and data visualization",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Data Science Author",
+                "companyUrn": "urn:li:fs_miniCompany:24779358",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQG1yEbzvWYiXw/company-logo_"
+            },
+            {
+                "locationName": "Spring, Texas, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,1611647788)",
+                "geoLocationName": "Spring, Texas, United States",
+                "geoUrn": "urn:li:fs_geo:103029807",
+                "companyName": "Enovate Upstream",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "• Utilized time series and neural network models to predict drilling measurements, leading to substantial cost savings by decreasing the need for expensive logging tools.\n• Served as the primary author for the publication ”Machine Learning Applications to Improve Pore Pressure Prediction in Hazardous Drilling Environments”\n• Designed and implemented a data cleaning pipeline to standardize training data, ensuring the accuracy and reliability of predictive models.\n• Managed the real-time deployment of the XGBoost model and implemented effective data versioning practices to maintain data integrity and traceability.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:64685412",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG7Ts56lqsMsg/company-logo_"
+            },
+            {
+                "locationName": "Bryan/College Station, Texas Area",
+                "entityUrn": "urn:li:fs_position:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,1487761468)",
+                "geoLocationName": "Bryan/College Station, Texas Area",
+                "geoUrn": "urn:li:fs_geo:90000126",
+                "companyName": "Texas A&M University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "description": "Taught Python, Matlab, Calculus I, II, and Discrete Mathematics for 300+ engineer students",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Teaching Assistant",
+                "region": "urn:li:fs_region:(us,126)",
+                "companyUrn": "urn:li:fs_miniCompany:4556",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,602224294)",
+                "school": {
+                    "objectUrn": "urn:li:school:19491",
+                    "entityUrn": "urn:li:fs_miniSchool:19491",
+                    "active": true,
+                    "schoolName": "Texas A&M University",
+                    "trackingId": "wpjQWaWNTiegkKucYhF0Rg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_"
+                },
+                "activities": "\n",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "description": "Research: Discharging Method on the Planar Graph\n• Investigated the discharging method and how it was used to prove the Four Color Theorem\n• Proved several lemmas and theorems on Vizing’s conjecture",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+                "degreeName": "Master's degree",
+                "schoolName": "Texas A&M University",
+                "fieldOfStudy": "Mathematics",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:19491"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,602221674)",
+                "school": {
+                    "objectUrn": "urn:li:school:19534",
+                    "entityUrn": "urn:li:fs_miniSchool:19534",
+                    "active": true,
+                    "schoolName": "University of Houston-Downtown",
+                    "trackingId": "JBPFnxafQ5GyXeffufp9IA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFW20yZcgS3Ag/company-logo_"
+                },
+                "activities": "President of the Mathematical Association of America (2014-2017)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Research: \n1) 2D-(q,h)-Berstein Polynomials and 2D-(q,h)-Bezier Surface\n2) q-Analogues of Physics and Nuclear Physics Equations",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "University of Houston-Downtown",
+                "fieldOfStudy": "Mathematics",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:19534"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,791605103)",
+                "school": {
+                    "objectUrn": "urn:li:school:191002",
+                    "entityUrn": "urn:li:fs_miniSchool:191002",
+                    "active": true,
+                    "schoolName": "Flatiron School",
+                    "trackingId": "UMLtS3XVRCmhKUTxj7BClw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFf2E9HDjfCOw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "degreeName": "Bootcamp certification",
+                "schoolName": "Flatiron School",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:191002"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Vietnamese, English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Flatiron School",
+                "name": "Immersive Data Science Bootcamp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2879109",
+                    "entityUrn": "urn:li:fs_miniCompany:2879109",
+                    "name": "Flatiron School",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688563796142/the_flatiron_school_logo?e=1748476800&v=beta&t=acPBHOlkrZESE1LE-Ah7EfLj5lSfn4YqI-HY4Cu6cD4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688563796143/the_flatiron_school_logo?e=1748476800&v=beta&t=6F5q7Xpiq2ByiMrTCUdGeSr2Qh-aP9VjSvKWsq7iMDQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688563796143/the_flatiron_school_logo?e=1748476800&v=beta&t=fB7F3kUnFkRgVu1V8kJFalkXdElsVE-EfhD1Z9dHwSc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFf2E9HDjfCOw/company-logo_"
+                        }
+                    },
+                    "universalName": "the-flatiron-school",
+                    "dashCompanyUrn": "urn:li:fsd_company:2879109",
+                    "trackingId": "k+E/h4jMSd6kCtebQ9hCvQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2879109"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Interactive Python Dashboards with Plotly and Dash",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "sQ/TSASzRlaS2oUt2xDUrw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-ddae033d-1cf1-4013-ba04-2a00e3d0eb8a/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python and Dash Bootcamp: Create Websites Using Flask",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "XzeNvyHqT4e7HUiK22y5Cg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-8953cf94-801a-499b-8b74-4408a318ca99/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "The Complete SQL Bootcamp 2021: Go from Zero to Hero",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "UC-05982fcc-60dc-472b-a359-81dc3ce5a605",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "HT+Jz4wETZiOD+fKuQtq5Q=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-05982fcc-60dc-472b-a359-81dc3ce5a605/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python for Time Series Data Analysis",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "UC-Obb12a23-d9f6-486c-8818-flaf88bOa645",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "nv5EwwKBTfCHJ9mXTI/rPw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-0bb12a23-d9f6-486c-8818-f1af88b0a645/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Ultimate AWS Certified Cloud Practitioner - 2022",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "UC-9eb3abb5-8374-4e84-86b5-732fdd1183dc",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "xolg8uRLSCub21Oc6BVCEw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-9eb3abb5-8374-4e84-86b5-732fdd1183dc/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "NLP Natural Language Processing with Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-cedc20c3-d107-482b-975a-6e4790689f33",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "LgdTljowRdqltwQtnOVbmA=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-cedc20c3-d107-482b-975a-6e4790689f33/"
+            },
+            {
+                "authority": "Educative, Inc.",
+                "name": "Machine Learning System Design",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "ymzlZKML8qvCJrjQk6Y1MYTyrjY6zklpRim",
+                "company": {
+                    "objectUrn": "urn:li:company:10874637",
+                    "entityUrn": "urn:li:fs_miniCompany:10874637",
+                    "name": "Educative",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705387368646/educative_inc_logo?e=1748476800&v=beta&t=H2Fx-74pStKYGpTaugTtTGo4jqLPYam4mfm0c3B2qtA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705387368646/educative_inc_logo?e=1748476800&v=beta&t=X5wHanpAAzFvJEfTUlMtM8cPd5o1B4ftsQzsJ4-YaLo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705387368647/educative_inc_logo?e=1748476800&v=beta&t=turRyWUQmocLyFesPcvein_0KsCYUDHlIO-dfAEO9ls",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEpzUzNtpX_Vw/company-logo_"
+                        }
+                    },
+                    "universalName": "educative-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:10874637",
+                    "trackingId": "98dj6ne5Squx1xOouGB5Dg=="
+                },
+                "displaySource": "educative.io",
+                "companyUrn": "urn:li:fs_miniCompany:10874637",
+                "url": "https://www.educative.io/verify-certificate/ymzlZKML8qvCJrjQk6Y1MYTyrjY6zklpRim"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Intro to Entrepreneurship: Get started as an Entrepreneur",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-964caa9d-e506-4601-8b41-c589b12a2398",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "by9BF6jQQx6IBlUH2PLnCw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Harvard University",
+                "name": "CS50",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2033
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1646",
+                    "entityUrn": "urn:li:fs_miniCompany:1646",
+                    "name": "Harvard University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631318058235?e=1748476800&v=beta&t=H7ts1VF9po0JsFsbj4h0PP4eEcALyQ36pVMDxPcQMtc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631318058235?e=1748476800&v=beta&t=v8_vW_VMyYc5c_SMHfUca4fJPlDe7jXJdVb8g9UpZNw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631318058235?e=1748476800&v=beta&t=VANfRvOiZAX2IKcjJPH91kB-JBsmENl2ZBAYSwPn668",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_"
+                        }
+                    },
+                    "universalName": "harvard-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:1646",
+                    "trackingId": "3eyi4HnGR5+mEIMt/VitqQ=="
+                },
+                "displaySource": "cs50.io",
+                "companyUrn": "urn:li:fs_miniCompany:1646",
+                "url": "https://certificates.cs50.io/ad9388df-a61d-4318-bcfa-c577528d9f96.pdf?size=letter"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Every year, there are millions of auto accidents happen in the U.S. They do not only affect the drivers but also a long line of traffic behind them and waste thousands of hours. The accident happens due to various reason which includes but not limited to weather, bad roads, reckless driving, driving during night time, or breaking the speed limit. Our project analyzes the 3 years of data of all the accidents that happened in the US and helps State Farm connect the dots between the cause and effect the accidents. Learn more about it here:\nhttps://devpost.com/software/get-a-quote-7nabd2",
+                "title": "Leader of 3rd place team at TamuHack 2020",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "issuer": "State Farm"
+            },
+            {
+                "description": "Glasstire is the oldest online-only art magazine in the country publishing articles and reviews on all Texas-based art venues and events since 2001. Basically they are a living-breathing digital record of the Texas visual art community. Our project leveraging the rich functionality of Python and Tableau to find insight into the Glass tire dataset. Our main findings are:\nEvent Concentration by Zipcode, Number of Events by month/year/day/venues, Artist Activity, and the relationship between art venues and high-income families. You can find more about it here:\nhttps://github.com/williamhuybui/Art-Events-in-Houston-Glasstire-Competition",
+                "title": "Leader of 1st Place Team at Glasstire DataHack, Rice University",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "issuer": "Glasstire"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,836924124,262044950)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "• Used sale dataset from 2011-2016 to predict food, hobbies, and household products demand in the next 2 weeks\n• Extracted insight and answers questions about trend, seasonality, and demand distribution across 10 stores\n• Examined different time series forecasting techniques on 60 million observations based on their RMSE",
+                "title": "Forecasting Walmart’s Demand",
+                "url": "https://github.com/williamhuybui/Walmart_sales_forecasting"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,1597593797)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,837273069,262046995)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "• Investigating 2000 oil Pipeline Incidents from 2010 to 2017 through statistics and visualization\n• Found that equipment failure causes more than 53% of the revenue loss\n• Created the XGBoost model on the ConocoPhilips sensors data to detect the oil drill failure \n• Achieved 0.99383 F1-score  ",
+                "title": "Rolling In the Deep",
+                "url": "https://github.com/williamhuybui/Oil-Gas-Leakage-Analysis-and-Equipment-Failure-Detection"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,836494878,262044928)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "description": "Predicting Early Childhood Learning Outcome through PBS Kids\n• Reduced 11 million observations to 14 thousand by strategically grouping, aggregating, and cleaning the data\n• Developed the LGBM regression model that optimized the result for classification output.\n• Generated 800+ from 11 features and used SVMSMOTE to handle imbalanced classes\n• Obtained top 13% on Kaggle leaderboard",
+                "title": "Predicting Early Childhood Learning Outcome through PBS Kids",
+                "url": "https://github.com/williamhuybui/Predicting-Kids-Learning-Outcome-Through-PBSKidsMeasureUp-app-Flatiron-School-Capstone-Project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,836596023,262045940)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "•  Analyzed 79 different features of housing data to gain insight using descriptive statistics and Tableau\n•  Handled missing data, filtered noises, experimented with different encoding schemes, and removed overfitting features\n•  Hyper-tuned and blended 6 models: Ridge, Lasso, ElasticNet, SVR, LightGBM, and XGBoost models\n•  Reached top 7% on Kaggle leaderboard by the time submitted",
+                "title": "Iowa Ames House Price Prediction Using Advanced Regression",
+                "url": "https://github.com/williamhuybui/Iowa-Ames-House-Prices-Prediction"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,836693571,262046929)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "•  Queried 10 different tables using SQLite with more than 200,000-course section and 3 million grades\n•  Applied hypothesis testing to validate the different statistical hypothesis\n•  Answered 4 questions regarding or related to university instructor, day of the class, major, and GPA relationships",
+                "title": "The University of Wisconsin - Madison Grade Analysis",
+                "url": "https://github.com/williamhuybui/University-of-Wisconsin-Madison-Student-Grades-Analysis"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,836786704,262045959)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "+ Obtained highest-grossing movies data from 2009 to 2019 through API Request and Web Scraping from IMDb\n+ Applied descriptive statistics to detect outlier and understand confounding factors behind a movie, such as a sequel planning, leadership failure, and digital technology that influenced the revenue\n+ Answered business questions regarding genre, rating, MPAA, date released, and actors and visualized them using Tableau",
+                "title": "Blockbuster Movie Trends",
+                "url": "https://github.com/williamhuybui/Blockbuster-Movie-Trends"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Huy",
+                            "lastName": "Bui",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:743818095",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735881325856?e=1746057600&v=beta&t=AJmsaVqtCsAb70C6LY2yv8OAy6UmVtirixA-JT3ndJk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735881325856?e=1746057600&v=beta&t=dLT9KRMNZZeIsvBQtbbvLDYFQVOQZMxOVr8XqFPs9hY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGgMaftMO_khQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "huy-bui-ds",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729402285249?e=1746057600&v=beta&t=6mKzP7claud6-X8s8tM_913rAN3opeIxycAea_jiD_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729402285249?e=1746057600&v=beta&t=-vW_wO4_qV9ZvqnLgQPWTej7ycRvXAkLlkwuuc_bqOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729402285249?e=1746057600&v=beta&t=QXGNybvvxyappq1go2KbCOKJCS_dBtCFV2ReI9UEiIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729402285285?e=1746057600&v=beta&t=jwD_JJua86FzFRv7VqNjN66pBkXamb9FcT4fqvNhAes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEKEj5RkU_q7A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3sMT0u+wTb2LW58o3iNX6w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q,367195046,415691313)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+                    }
+                ],
+                "description": "https://buibitsandbytes.onrender.com/",
+                "title": "Personal Website"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Optimization"
+            },
+            {
+                "name": "Operations Research"
+            },
+            {
+                "name": "Pyomo"
+            },
+            {
+                "name": "C (Programming Language)"
+            }
+        ],
+        "urn_id": "ACoAACxVw28BXHk_Pjq3zXkTbOC-qGeyTt2pd8Q"
+    }
+}

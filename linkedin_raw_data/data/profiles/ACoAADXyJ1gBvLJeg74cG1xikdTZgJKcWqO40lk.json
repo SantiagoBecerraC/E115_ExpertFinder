@@ -1,0 +1,456 @@
+{
+    "urn_id": "ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+    "fetch_timestamp": "2025-02-26T21:21:25.597201",
+    "profile_data": {
+        "summary": "I am Amarthya Kathula, I'm pursuing my Master's in Computer Sciences in Ira A. Fulton Schools at Arizona State University. \nI'm interested in the Data Science and Machine learning domain, and I am ready to take on suitable internships that spearhead my skills.",
+        "industryName": "Computer Software",
+        "lastName": "Kathula",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Amarthya",
+        "entityUrn": "urn:li:fs_profile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101526294"
+        },
+        "geoLocationName": "Tempe, Arizona",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "MSCS Student @ ASU |  Actively looking for Intern and Entry roles from Spring 2025",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQE8pxF_RlhvGA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1704394133714?e=1741230000&v=beta&t=zqn55SDdGRugDWcri32UV0Ttd6oBi5ofA29nBbxKx0g",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1704394133715?e=1741230000&v=beta&t=G7t3NTwi5Hu5__mXaG5DPpumVeuS851OUHvH1-WF3Ec",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1704394133715?e=1741230000&v=beta&t=TfVjrbr57jBt2LbnsSThb546188X8qurF98pP5uz4-s",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1704394133715?e=1741230000&v=beta&t=75lIHNRB2Dcn_k0fy7rEFWFhd5uI3w_12OQoWxabZyk",
+        "profile_id": "ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+        "member_urn": "urn:li:member:905062232",
+        "public_id": "amarthyakathula",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,2565469817)",
+                "companyName": "Arizona State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "description": "Volunteered at the AAIR Lab, contributing to JEDAI, a simulated environment that guides users through tasks using an LLM API.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Volunteer Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:4292",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,2563817462)",
+                "companyName": "Kakatiya Institute of Technology & Science, Yerragattu Hillocks, Bheemaram, Hasanparthy, Warangal",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Conducted research on sign language prediction using CNNs for static gesture classification and LSTM-based architectures for dynamic sequences, incorporating OpenCV for real-time video processing.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Student Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:15120480",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHeBoXaJ-XqXQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,396279780)",
+                    "urn:li:fs_project:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,715241601)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,905613063)",
+                "school": {
+                    "objectUrn": "urn:li:school:43093",
+                    "entityUrn": "urn:li:fs_miniSchool:43093",
+                    "active": true,
+                    "schoolName": "Ira A. Fulton Schools of Engineering at Arizona State University",
+                    "trackingId": "kfjr8fdBSQuVdaO/bd2/Sg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHGiYb0DHKo8g/company-logo_"
+                },
+                "grade": "3.78",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Masters",
+                "schoolName": "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:43093"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,1002327694)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,730410915)",
+                "school": {
+                    "objectUrn": "urn:li:school:217275",
+                    "entityUrn": "urn:li:fs_miniSchool:217275",
+                    "active": true,
+                    "schoolName": "Kakatiya Institute of Technology & Science, Yerragattu Hillocks, Bheemaram, Hasanparthy, Warangal",
+                    "trackingId": "dyCRmpKfRwyOZmXbIWgsRg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHeBoXaJ-XqXQ/company-logo_"
+                },
+                "grade": "8.25",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Kakatiya Institute of Technology & Science, Yerragattu Hillocks, Bheemaram, Hasanparthy, Warangal",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:217275"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Supervised Machine Learning: Regression and Classification",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "55ZEKG9RWB4X",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "yraxRBZTQb+07xVup8DXkQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/55ZEKG9RWB4X"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,905613063)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Amarthya",
+                            "lastName": "Kathula",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+                            "occupation": "MSCS Student @ ASU | Actively looking for Intern and Entry roles from Spring 2025",
+                            "objectUrn": "urn:li:member:905062232",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1694940467164?e=1746057600&v=beta&t=3q1K5yY8BpM_1O4nQzfEfKLhwP2F6oIRXnWD5fwpfnk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694940467164?e=1746057600&v=beta&t=G5qqz9lUSxm8eguNZ0IcCbXZ0hXTpoikCYet_eBrhA4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHChIUJ5dvuGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amarthyakathula",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1704394133714?e=1741230000&v=beta&t=zqn55SDdGRugDWcri32UV0Ttd6oBi5ofA29nBbxKx0g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1704394133715?e=1741230000&v=beta&t=G7t3NTwi5Hu5__mXaG5DPpumVeuS851OUHvH1-WF3Ec",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1704394133715?e=1741230000&v=beta&t=TfVjrbr57jBt2LbnsSThb546188X8qurF98pP5uz4-s",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1704394133715?e=1741230000&v=beta&t=75lIHNRB2Dcn_k0fy7rEFWFhd5uI3w_12OQoWxabZyk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQE8pxF_RlhvGA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "F/s8CofKQcKg/vHWeH+aFw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,396279780,451790104)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "description": "Built an anomaly detection system which can generate synthetic negative images using Masked \nAutoregressive Flows (type of Normalizing Flows) and perform segmentation with anomaly as a class using DeepLabV3 plus Resnet101 architecture, both trained on Cityscapes Dataset. \nImplemented the model training with CUDA, optimizing GPU utilization for 2x speedup over CPU-based \nmodels. Also tuned thread-block configurations for matrix multiplications, improving throughput in dense layers, and accelerating model convergence.",
+                "title": "Anomaly Detection for spatial data"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,730410915)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Amarthya",
+                            "lastName": "Kathula",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+                            "occupation": "MSCS Student @ ASU | Actively looking for Intern and Entry roles from Spring 2025",
+                            "objectUrn": "urn:li:member:905062232",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1694940467164?e=1746057600&v=beta&t=3q1K5yY8BpM_1O4nQzfEfKLhwP2F6oIRXnWD5fwpfnk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694940467164?e=1746057600&v=beta&t=G5qqz9lUSxm8eguNZ0IcCbXZ0hXTpoikCYet_eBrhA4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHChIUJ5dvuGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amarthyakathula",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1704394133714?e=1741230000&v=beta&t=zqn55SDdGRugDWcri32UV0Ttd6oBi5ofA29nBbxKx0g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1704394133715?e=1741230000&v=beta&t=G7t3NTwi5Hu5__mXaG5DPpumVeuS851OUHvH1-WF3Ec",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1704394133715?e=1741230000&v=beta&t=TfVjrbr57jBt2LbnsSThb546188X8qurF98pP5uz4-s",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1704394133715?e=1741230000&v=beta&t=75lIHNRB2Dcn_k0fy7rEFWFhd5uI3w_12OQoWxabZyk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQE8pxF_RlhvGA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "F/s8CofKQcKg/vHWeH+aFw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,1002327694,403919160)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "This project is focused on discovering and exploring data from the stock market, particularly a few technology stocks, visualizing different aspects of it, and predicting future stock values using the Long Short Term Memory(LSTM) method.",
+                "title": "Stock Market Analysis and prediction using LSTM"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,905613063)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Amarthya",
+                            "lastName": "Kathula",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+                            "occupation": "MSCS Student @ ASU | Actively looking for Intern and Entry roles from Spring 2025",
+                            "objectUrn": "urn:li:member:905062232",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1694940467164?e=1746057600&v=beta&t=3q1K5yY8BpM_1O4nQzfEfKLhwP2F6oIRXnWD5fwpfnk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694940467164?e=1746057600&v=beta&t=G5qqz9lUSxm8eguNZ0IcCbXZ0hXTpoikCYet_eBrhA4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHChIUJ5dvuGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amarthyakathula",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1704394133714?e=1741230000&v=beta&t=zqn55SDdGRugDWcri32UV0Ttd6oBi5ofA29nBbxKx0g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1704394133715?e=1741230000&v=beta&t=G7t3NTwi5Hu5__mXaG5DPpumVeuS851OUHvH1-WF3Ec",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1704394133715?e=1741230000&v=beta&t=TfVjrbr57jBt2LbnsSThb546188X8qurF98pP5uz4-s",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1704394133715?e=1741230000&v=beta&t=75lIHNRB2Dcn_k0fy7rEFWFhd5uI3w_12OQoWxabZyk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQE8pxF_RlhvGA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "F/s8CofKQcKg/vHWeH+aFw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk,715241601,454543896)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk"
+                    }
+                ],
+                "description": "Developed a visual search system using MobileNet CNN for feature embeddings on 10,000+ \nimages. Incorporated an OpenCL based framework to parallelize CNN inference, chieving a 2.5x throughput, improvement and reducing data by 30% through optimized kernel design.  \nOptimized with TensorFlow Lite for on-device use, reducing model size by 60% and latency to <1000ms.",
+                "title": "On-Device Visual Recommendation System"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Planning Domain Definition Language (PDDL)"
+            },
+            {
+                "name": "Docks"
+            },
+            {
+                "name": "OpenCL"
+            },
+            {
+                "name": "Apache Spark"
+            }
+        ],
+        "urn_id": "ACoAADXyJ1gBvLJeg74cG1xikdTZgJKcWqO40lk"
+    }
+}

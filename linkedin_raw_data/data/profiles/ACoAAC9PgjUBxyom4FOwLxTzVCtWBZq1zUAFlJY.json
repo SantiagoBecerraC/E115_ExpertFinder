@@ -1,0 +1,584 @@
+{
+    "urn_id": "ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+    "fetch_timestamp": "2025-02-26T21:48:30.619922",
+    "profile_data": {
+        "summary": "I am a Senior at Princeton pursuing a degree in Computer Science with a minor in Statistics & Machine Learning. I have experience in Business Analytics, Data Science and Education Consulting, all of which have strengthened my lasting commitment to building community-based solutions. \n\nMy philosophy is data-driven but people-focused. With the rapid growth of information available to us, it is imperative to gain insights from data to help inform decision-making processes. I believe this approach is most successful, however, when we prioritize values of community, inclusion, and justice.",
+        "industryName": "Higher Education",
+        "lastName": "Wachspress",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:68",
+        "firstName": "Ben",
+        "entityUrn": "urn:li:fs_profile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000077"
+        },
+        "geoLocationName": "Greater Philadelphia",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Princeton Class of 2025 President | Computer Science and ML | Residential College Advisor",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJ5f_iJX0tLg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1645224679811?e=1746057600&v=beta&t=FAnFhRTRuyg0UQcYeWr6eie8kGrjKYFNAHxBHPtjlo0",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1645224679811?e=1746057600&v=beta&t=XDcfzkgPvZ_EU5tIsX_QBEMxuG5obioztNtnT-q9STk",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1645224679811?e=1746057600&v=beta&t=ssNUaHLV31F5oaMWQExUcbBxpKJ_mf940wH6NpLRAEA",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1645224679811?e=1746057600&v=beta&t=m3jsgGN_3ycXj-4hnMwW4cynv6PnaB2f55zPU9qsyEo",
+        "profile_id": "ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+        "member_urn": "urn:li:member:793739829",
+        "public_id": "benwachspress",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,2471222213)",
+                "companyName": "Princeton University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Senior Class President ",
+                "companyUrn": "urn:li:fs_miniCompany:157313",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,2175546558)",
+                "companyName": "Princeton University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "-Advise and support 17 first-year students by leading orientation programming and community-building exercises to help students navigate the emotional, social, and academic challenges of Princeton \n-Plan weekly programming to help my students build community",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Residential College Advisor",
+                "companyUrn": "urn:li:fs_miniCompany:157313",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,2175546580)",
+                "companyName": "Princeton University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Computational Linguistics Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:157313",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,2024993377)",
+                "companyName": "Princeton University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "- Consult with students across academic disciplines to listen, strategize, suggest, diagnose, and offer advice on writing\n- Develop professional skills in peer-to-peer mentorship, helping with independent research, coursework, personal statements, job applications, and resume building",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Writing Center Fellow",
+                "companyUrn": "urn:li:fs_miniCompany:157313",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_"
+            },
+            {
+                "locationName": "McLean, Virginia, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,2312388689)",
+                "geoLocationName": "McLean, Virginia, United States",
+                "geoUrn": "urn:li:fs_geo:106504367",
+                "companyName": "Capital One",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "Consumer Services and Strategy - Fraud",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Business Analyst Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1419",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,174682490)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,174704234)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,174762537)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,174793361)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,174837689)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1225677953)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1225705182)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1225741612)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1084344009)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1084374225)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1915286831)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1915312401)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1915339387)",
+                    "urn:li:fs_course:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1915363015)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1120824232)",
+                    "urn:li:fs_project:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1121355593)",
+                    "urn:li:fs_project:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1277137523)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,662933496)",
+                "school": {
+                    "objectUrn": "urn:li:school:18867",
+                    "entityUrn": "urn:li:fs_miniSchool:18867",
+                    "active": true,
+                    "schoolName": "Princeton University",
+                    "trackingId": "Wa2NQuh1QyG91tYrew/gkA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_"
+                },
+                "activities": "Class of 2025 President\nResidential College Advisor\nAlumni Council Executive Committee\nCommencement Committee Chair\nClass Day Committee\nCo-coordinator of First-Year Orientation Welcome Committee\nWriting Center Fellow\nLGBTQ*J Leader\nFirst College Council\nUSG Social Committee\nCenter for Jewish Life Community Engagement Intern\nSociology and Computer Science Researcher",
+                "grade": "Senior",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "schoolName": "Princeton University",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18867"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,816918575)",
+                "school": {
+                    "objectUrn": "urn:li:school:3200708",
+                    "entityUrn": "urn:li:fs_miniSchool:3200708",
+                    "active": true,
+                    "schoolName": "Pennsbury High School",
+                    "trackingId": "zEqfAIcuSDaQWT7PDAvGdw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFCJMklRcEzXQ/company-logo_"
+                },
+                "activities": "Student Council Senator, Mathletes, Tutor (Chemistry and Math), Swim Team, Lifeguard, Summer Camp Counselor, Drexel Mini-Med School, Special Stars Soccer (Volunteer), HOBY Leadership Conference, Hebrew School (Assistant Teacher), Lower Makefield Youth Committee (Board Member), AP Scholar with distinction, Sewanee University of the South Writing Award, Arthur J. Lendo Fellowship Award, Academic Excellence in Biology, AP Spanish, and AP Chemistry",
+                "grade": "4.81",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "schoolName": "Pennsbury High School",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1626640108)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:3200708"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "This award program is designed to recognize high school students in the region, in their junior year, who have demonstrated leadership by standing up for what is right, finding a way to address a wrong, or making a significant difference in their schools or communities.",
+                "occupation": "urn:li:fs_education:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,816918575)",
+                "title": "Widener Youth Leadership Award",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "issuer": "Widener University"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,662933496)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ben",
+                            "lastName": "Wachspress",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+                            "occupation": "Princeton Class of 2025 President | Computer Science and ML | Residential College Advisor",
+                            "objectUrn": "urn:li:member:793739829",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+                            "publicIdentifier": "benwachspress",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1645224679811?e=1746057600&v=beta&t=FAnFhRTRuyg0UQcYeWr6eie8kGrjKYFNAHxBHPtjlo0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1645224679811?e=1746057600&v=beta&t=XDcfzkgPvZ_EU5tIsX_QBEMxuG5obioztNtnT-q9STk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1645224679811?e=1746057600&v=beta&t=ssNUaHLV31F5oaMWQExUcbBxpKJ_mf940wH6NpLRAEA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1645224679811?e=1746057600&v=beta&t=m3jsgGN_3ycXj-4hnMwW4cynv6PnaB2f55zPU9qsyEo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJ5f_iJX0tLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "WdsAO9+pTfCwUHaXWwLBkw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1277137523,431419506)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "-Fine-tuned BERT model to classify hate speech on Twitter with 91% accuracy\n-Applied model to Truth Social posts to investigate toxicity on the platform\n-Leveraged machine learning interpretability methods to identify the most important features of language for the model",
+                "title": "Hate Speech Detection and Interpretation Models with Applications to Donald Trump’s Truth Social Platform"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,662933496)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ben",
+                            "lastName": "Wachspress",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+                            "occupation": "Princeton Class of 2025 President | Computer Science and ML | Residential College Advisor",
+                            "objectUrn": "urn:li:member:793739829",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+                            "publicIdentifier": "benwachspress",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1645224679811?e=1746057600&v=beta&t=FAnFhRTRuyg0UQcYeWr6eie8kGrjKYFNAHxBHPtjlo0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1645224679811?e=1746057600&v=beta&t=XDcfzkgPvZ_EU5tIsX_QBEMxuG5obioztNtnT-q9STk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1645224679811?e=1746057600&v=beta&t=ssNUaHLV31F5oaMWQExUcbBxpKJ_mf940wH6NpLRAEA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1645224679811?e=1746057600&v=beta&t=m3jsgGN_3ycXj-4hnMwW4cynv6PnaB2f55zPU9qsyEo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJ5f_iJX0tLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "WdsAO9+pTfCwUHaXWwLBkw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1121355593,416150262)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kirsten",
+                            "lastName": "P.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADJB3DwB6zZjXf2SP-BoP2jPwFZoOnMxHvk",
+                            "occupation": "Production at NORTH SIX",
+                            "objectUrn": "urn:li:member:843177020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADJB3DwB6zZjXf2SP-BoP2jPwFZoOnMxHvk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1705910333267?e=1746057600&v=beta&t=JfJynIPqrR03WXeD1jReFFisEcaAn7pks_PY5oC7IzE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705910333267?e=1746057600&v=beta&t=ocTxSQISHsaEpFkzy7wEdBkHHaE7Q_H7QnGIcmk04f4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGLczqDy8-iLA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kirstenpardo",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1683214925003?e=1746057600&v=beta&t=wXxXL0dpYG1KsO3Xg9QyO1lDoCbO3OVcuPXB39098K0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1683214925003?e=1746057600&v=beta&t=EHJHF3qFHfEhgcn0nj8pIdOsX_zaM2JOe9Zc7jn9118",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1683214925003?e=1746057600&v=beta&t=b0G3qTxM4k57K_kA3s1csq9IPcn9k3HDGJHE2qq3JAQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1683214925003?e=1746057600&v=beta&t=763q1DsP0TvYX721BLKAai8dpLaQVI3YmW7H8jRkKAc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 750
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHN-IUNrPO3Zg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "LqfoQ3ROQG6t8t/qa2ZVUw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1121355593,416156010)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADJB3DwB6zZjXf2SP-BoP2jPwFZoOnMxHvk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "William",
+                            "lastName": "Trojniak",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADYfUnMBz4r2oceyzuE-vsGrk9qFp1OE9-g",
+                            "occupation": "Computer Science, Princeton University '26",
+                            "objectUrn": "urn:li:member:908022387",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADYfUnMBz4r2oceyzuE-vsGrk9qFp1OE9-g",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1687835352001?e=1746057600&v=beta&t=5bOFxi2K1I33gVUPSBsZ1f99AjN1IsTw4J3KBNpNHsQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687835352001?e=1746057600&v=beta&t=5UOVyAAcF5_27kKPZr2ln5sWVxsTssJWArE55khCEks",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHll2u_TUQTRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "will-trojniak",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1732915951920?e=1746057600&v=beta&t=9uwdUbFQyQJQ0AhsOLIrCnyMpMWUpDC1ixXYJav6onE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1732915951920?e=1746057600&v=beta&t=tbNhVJiBCC2LTMFygSC6rlhgMTVvPM7nsM6CO1gLTBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1732915951920?e=1746057600&v=beta&t=clKQTCr2AN8lEpm--OGhvolLfNRZoDvgUsKCEyryv2I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1732915952010?e=1746057600&v=beta&t=YuoBXisbPPdhCZx7wZQULhzBr0G6ju8paxPm6oqISNE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQF4ZAC6xOgn5A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ePIypGWoRkaXEo6c+byOKw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1121355593,416155043)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADYfUnMBz4r2oceyzuE-vsGrk9qFp1OE9-g"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "TigerHire is a job-listing platform which enables anyone from the Princeton community (whether it be staff, students, or alumni) to advertise and fill open positions.",
+                "title": "TigerHire"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,662933496)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ben",
+                            "lastName": "Wachspress",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+                            "occupation": "Princeton Class of 2025 President | Computer Science and ML | Residential College Advisor",
+                            "objectUrn": "urn:li:member:793739829",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY",
+                            "publicIdentifier": "benwachspress",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1645224679811?e=1746057600&v=beta&t=FAnFhRTRuyg0UQcYeWr6eie8kGrjKYFNAHxBHPtjlo0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1645224679811?e=1746057600&v=beta&t=XDcfzkgPvZ_EU5tIsX_QBEMxuG5obioztNtnT-q9STk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1645224679811?e=1746057600&v=beta&t=ssNUaHLV31F5oaMWQExUcbBxpKJ_mf940wH6NpLRAEA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1645224679811?e=1746057600&v=beta&t=m3jsgGN_3ycXj-4hnMwW4cynv6PnaB2f55zPU9qsyEo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFJ5f_iJX0tLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "WdsAO9+pTfCwUHaXWwLBkw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY,1120824232,414119005)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "I apply TF-IDF vectorization of textual product reviews to predict consumer recommendations of Sephora skincare products. I achieve 80% accuracy on the binary classification task.",
+                "title": "What Do You Recommend: An Analysis of Skincare Product Reviews"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Large Language Models (LLM)"
+            },
+            {
+                "name": "BERT (Language Model)"
+            },
+            {
+                "name": "Explainable AI"
+            },
+            {
+                "name": "React.js"
+            }
+        ],
+        "urn_id": "ACoAAC9PgjUBxyom4FOwLxTzVCtWBZq1zUAFlJY"
+    }
+}

@@ -1,0 +1,570 @@
+{
+    "urn_id": "ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ",
+    "fetch_timestamp": "2025-02-26T21:24:49.155142",
+    "profile_data": {
+        "summary": "Experienced AI/ML leader with a deep background in healthcare data science and engineering, specializing in the development and deployment of machine learning solutions that drive clinical and operational impact. Proven track record of leading diverse teams, bridging the gap between data science and healthcare strategy, and translating complex AI insights into actionable improvements in patient care.\n\nPassionate about the responsible and ethical application of AI in healthcare, ensuring models are robust, explainable, and aligned with clinical needs. Strong advocate for AI governance, MLOps, and scalable machine learning infrastructure to enhance healthcare decision-making.\n\nCurrently focused on expanding AI capabilities within clinical environments while maintaining a forward-looking perspective on the intersection of AI, security, and risk mitigation in healthcare.",
+        "industryName": "Hospital & Health Care",
+        "lastName": "Dickenson",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 11,
+            "day": 17
+        },
+        "industryUrn": "urn:li:fs_industry:14",
+        "firstName": "Dax",
+        "entityUrn": "urn:li:fs_profile:ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105142029"
+        },
+        "geoLocationName": "Orlando, Florida",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Executive Director of Clinical Data Science and Analytics",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQE4kqI-ljotJQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1577716585011?e=1746057600&v=beta&t=fWBEjrZ1-gPyFxTdWmPhJbdPk_Au2mDFbOSnCcVT40M",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1577716584985?e=1746057600&v=beta&t=atB1AVmVkwwKnSeSGohNYwiXRudm8J5ji30dwpzoqlg",
+        "img_240_240": "800_800/profile-displayphoto-shrink_800_800/0/1577716585067?e=1746057600&v=beta&t=tsei7-V1_Wax1RguH5RvmpENtuV6cCoSWATFILLHhi8",
+        "profile_id": "ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ",
+        "member_urn": "urn:li:member:275361855",
+        "public_id": "daxdickenson",
+        "experience": [
+            {
+                "locationName": "Orlando, Florida, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,2404538654)",
+                "geoLocationName": "Orlando, Florida, United States",
+                "geoUrn": "urn:li:fs_geo:105142029",
+                "companyName": "AdventHealth",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "Led the strategic direction and execution of advanced analytics and AI initiatives.\nManaged the implementation of data visualization and business intelligence tools.\nFostered a culture of continuous learning and development within the analytics team.\nPromoted machine learning technology adoption and education.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Executive Director of Clinical Data Science and Analytics",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:858214",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHxSnTcYNG0ag/company-logo_"
+            },
+            {
+                "locationName": "Orlando, Florida, United States",
+                "geoUrn": "urn:li:fs_geo:105142029",
+                "companyName": "AdventHealth",
+                "description": "Directed the department's advanced analytics roadmap, encompassing data science, data engineering, and machine learning.\nImplemented strategy for data visualization and business intelligence tools, ensuring data privacy compliance.\nLed the migration of AHC analytics products across EMRs and upskilled the analytics team.\nChaired Security and BI Platform Committees to ensure technical controls and system integrations met cybersecurity standards.",
+                "title": "Director of Business Analytics and Data Science",
+                "companyUrn": "urn:li:fs_miniCompany:858214",
+                "entityUrn": "urn:li:fs_position:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,1656125832)",
+                "geoLocationName": "Orlando, Florida, United States",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,1636257479)"
+                ],
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHxSnTcYNG0ag/company-logo_"
+            },
+            {
+                "locationName": "Orlando, Florida",
+                "entityUrn": "urn:li:fs_position:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,1321915771)",
+                "geoLocationName": "Orlando, Florida",
+                "companyName": "AdventHealth",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "description": "Expanded data science and data engineering competencies within the team.\nDeveloped strategies and procedures for enterprise data warehouse adoption.\nCollaborated with IT to enhance reporting capabilities and access management.\nActed as a liaison between business and technology leaders, translating needs into analytics solutions.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Advanced Analytics Manager - Business Analytics and Data Science",
+                "companyUrn": "urn:li:fs_miniCompany:858214",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHxSnTcYNG0ag/company-logo_"
+            },
+            {
+                "locationName": "Orlando, Florida",
+                "entityUrn": "urn:li:fs_position:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,1007058157)",
+                "geoLocationName": "Orlando, Florida",
+                "companyName": "AdventHealth",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2017
+                    }
+                },
+                "description": "Led a team of Clinical Analysts, Business Intelligence Developers, and Statisticians.\nDeveloped dashboards and reports to provide data-driven solutions for healthcare issues.\nEnsured secure and compliant reporting solutions using SAP Business Objects, SQL Server, and Qlikview.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Team Lead, Clinical Analytics - Data Acquisition and Management",
+                "companyUrn": "urn:li:fs_miniCompany:858214",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHxSnTcYNG0ag/company-logo_"
+            },
+            {
+                "locationName": "Orlando, FL",
+                "entityUrn": "urn:li:fs_position:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,666555808)",
+                "geoLocationName": "Orlando, FL",
+                "companyName": "AdventHealth",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2015
+                    }
+                },
+                "description": "Coordinated training and immersive simulations for healthcare professionals.\nManaged and maintained simulation equipment and AV systems.\nDeveloped curriculum and professional development plans for simulation technologists.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Simulation Operations Specialist",
+                "companyUrn": "urn:li:fs_miniCompany:858214",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHxSnTcYNG0ag/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,1048432240)",
+                "school": {
+                    "objectUrn": "urn:li:school:18068",
+                    "entityUrn": "urn:li:fs_miniSchool:18068",
+                    "active": true,
+                    "schoolName": "The George Washington University",
+                    "trackingId": "GnRP6zUGRBeynR42T8hS+Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFSVBibNbqMQA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "degreeName": "Doctor of Engineering",
+                "schoolName": "The George Washington University",
+                "fieldOfStudy": "Artificial Intelligence and Machine Learning",
+                "schoolUrn": "urn:li:fs_miniSchool:18068"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,396951522)",
+                "school": {
+                    "objectUrn": "urn:li:school:19687",
+                    "entityUrn": "urn:li:fs_miniSchool:19687",
+                    "active": true,
+                    "schoolName": "University of Wisconsin-Green Bay",
+                    "trackingId": "2jX2R0AcSDi6J1+WW2nmHQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEOcUCs_3lc2g/company-logo_"
+                },
+                "degreeName": "Master of Science Degree (M.S.)",
+                "schoolName": "University of Wisconsin-Green Bay",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:19687"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ,171261579)",
+                "school": {
+                    "objectUrn": "urn:li:school:20278",
+                    "entityUrn": "urn:li:fs_miniSchool:20278",
+                    "active": true,
+                    "schoolName": "Seminole State College of Florida",
+                    "trackingId": "zMwwG6SSRhewpxDhAOHUbA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFbk5wnzWxh2Q/company-logo_"
+                },
+                "grade": "Magna Cum Laude",
+                "degreeName": "Bachelor of Science Degree (B.S.)",
+                "schoolName": "Seminole State College of Florida",
+                "fieldOfStudy": "Information Systems Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:20278"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "State of Florida",
+                "name": "Paramedic",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2009
+                    }
+                }
+            },
+            {
+                "authority": "State of Florida",
+                "name": "EMT-B",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2006
+                    }
+                }
+            },
+            {
+                "authority": "University of Miami,  Miller School of Medicine",
+                "name": "Advanced Stroke Life Support",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2009
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1489736",
+                    "entityUrn": "urn:li:fs_miniCompany:1489736",
+                    "name": "University of Miami Miller School of Medicine",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=m6U1r3lAiR-OT1ZWPZcpM2DbYOvdL7R8s8aDKG011u0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=eqL27seiGHLCQsErap3c7po2MILZPL41_xNinBDU0PQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=MekLtoefe5gRdlPaTl4GFnooivFWC4hV2dGxj0mya9s",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQESb_c4WL6QWw/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-miami-miller-school-of-medicine",
+                    "dashCompanyUrn": "urn:li:fsd_company:1489736",
+                    "trackingId": "d2PhE+5sRtyvoCGefa9ZWA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1489736"
+            },
+            {
+                "authority": "University of Miami,  Miller School of Medicine",
+                "name": "Emergency Management of Acute Coronary Syndromes",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2009
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1489736",
+                    "entityUrn": "urn:li:fs_miniCompany:1489736",
+                    "name": "University of Miami Miller School of Medicine",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=m6U1r3lAiR-OT1ZWPZcpM2DbYOvdL7R8s8aDKG011u0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=eqL27seiGHLCQsErap3c7po2MILZPL41_xNinBDU0PQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=MekLtoefe5gRdlPaTl4GFnooivFWC4hV2dGxj0mya9s",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQESb_c4WL6QWw/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-miami-miller-school-of-medicine",
+                    "dashCompanyUrn": "urn:li:fsd_company:1489736",
+                    "trackingId": "x7MxDnATQ8GjxTvIyLPxng=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1489736"
+            },
+            {
+                "authority": "University of Miami,  Miller School of Medicine",
+                "name": "Emergency Response to Terrorism",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2009
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1489736",
+                    "entityUrn": "urn:li:fs_miniCompany:1489736",
+                    "name": "University of Miami Miller School of Medicine",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=m6U1r3lAiR-OT1ZWPZcpM2DbYOvdL7R8s8aDKG011u0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=eqL27seiGHLCQsErap3c7po2MILZPL41_xNinBDU0PQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1661896999671/university_of_miami_miller_school_of_medicine_logo?e=1748476800&v=beta&t=MekLtoefe5gRdlPaTl4GFnooivFWC4hV2dGxj0mya9s",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQESb_c4WL6QWw/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-miami-miller-school-of-medicine",
+                    "dashCompanyUrn": "urn:li:fsd_company:1489736",
+                    "trackingId": "n47mCPJ6TKmU3KgEG/F1mQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1489736"
+            },
+            {
+                "authority": "Prosci",
+                "name": "Change Management Practictioner",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:107223",
+                    "entityUrn": "urn:li:fs_miniCompany:107223",
+                    "name": "Prosci",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719255227176/prosci_logo?e=1748476800&v=beta&t=dwtKcW_TaKrW9m6Vnim3riWUZciWMigTMRxU785kzkc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719255227176/prosci_logo?e=1748476800&v=beta&t=pSA-8h12NdwN0H2B0yDnWsEzO4fHRmlfJ0YxckPCqjE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719255227176/prosci_logo?e=1748476800&v=beta&t=BGMSewxfqCIGONM8jT-hBtjGxyvIGLbtYjkJFSU7Egs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGs2BfZDAczpQ/company-logo_"
+                        }
+                    },
+                    "universalName": "prosci",
+                    "dashCompanyUrn": "urn:li:fsd_company:107223",
+                    "trackingId": "09nR6kyfQxq5r0eyL00VRA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:107223"
+            },
+            {
+                "authority": "Cleveland Clinic",
+                "name": "Certified Intensive Care Paramedic",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2010
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:5656",
+                    "entityUrn": "urn:li:fs_miniCompany:5656",
+                    "name": "Cleveland Clinic",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631310523369?e=1748476800&v=beta&t=-NSsXGB1SBVJsJmNDxrPBWTsuFquJPBMt3MqbgoUSQo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631310523369?e=1748476800&v=beta&t=XQqmXul_dcn515pQkQ0LAM8iR6tvN8Kq08KrP0AD0Ig",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631310523369?e=1748476800&v=beta&t=PaRSx0Ftox0E6c9E68OW1HyTTE_QEx0xAdd6Ck0ldF8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpIFVMDGreYg/company-logo_"
+                        }
+                    },
+                    "universalName": "cleveland-clinic",
+                    "dashCompanyUrn": "urn:li:fsd_company:5656",
+                    "trackingId": "uyimzp9ARVmdZICyCFx+Hg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:5656"
+            },
+            {
+                "authority": "AHRQ",
+                "name": "TeamStepps Master Trainer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                }
+            },
+            {
+                "authority": "American Heart Association",
+                "name": "Advanced Cardiac Life Support",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2009
+                    }
+                }
+            },
+            {
+                "authority": "American Heart Association ",
+                "name": "Pediatric Advanced Life Support ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2009
+                    }
+                }
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Artificial Intelligence (AI)"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Data Science"
+            },
+            {
+                "name": "Data Engineering"
+            }
+        ],
+        "urn_id": "ACoAABBpsD8B9trqIT8LU6E0pcoM92IaI1zYOGQ"
+    }
+}

@@ -1,0 +1,1311 @@
+{
+    "urn_id": "ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+    "fetch_timestamp": "2025-02-26T21:47:34.595406",
+    "profile_data": {
+        "summary": "I am Alisa, currently researching deep learning and computer vision application in aquaculture at Florida Atlantic University. At the same time, I am working in a part-time job in biomedical engineering research at Asian Institute of Technology and Siriraj Hospital, Mahidol University. My core expertises are in robotics, machine learning, and computer vision.",
+        "industryName": "Higher Education",
+        "lastName": "Kunapinun",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:68",
+        "firstName": "Alisa",
+        "entityUrn": "urn:li:fs_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101024390"
+        },
+        "geoLocationName": "Fort Pierce, Florida",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+        "profile_id": "ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+        "member_urn": "urn:li:member:997222916",
+        "public_id": "alisa-kunapinun-718b74239",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,2165753301)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Florida Atlantic University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Postdoctoral Researcher",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:9077",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEgFpqOlW6qEA/company-logo_"
+            },
+            {
+                "locationName": "Thailand",
+                "entityUrn": "urn:li:fs_position:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,2147277008)",
+                "geoLocationName": "Thailand",
+                "geoUrn": "urn:li:fs_geo:105146118",
+                "companyName": "Faculty of Medicine Siriraj Hospital",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "Create AI Ti-RADs, design deep learning MRI dementia, guide 4 research assistants to complete their tasks, guide AI CTA stroke project, prepare IRB documents",
+                "company": {
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Biomedical Researcher/CO-PI",
+                "region": "urn:li:fs_region:(th,0)",
+                "companyUrn": "urn:li:fs_miniCompany:7005348"
+            },
+            {
+                "locationName": "Pathum Thani, Thailand",
+                "entityUrn": "urn:li:fs_position:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,1962837596)",
+                "geoLocationName": "Pathum Thani, Thailand",
+                "geoUrn": "urn:li:fs_geo:104269450",
+                "companyName": "Asian Institute of Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "- Evaluate assessment and provide grades for around 15-20 master and PhD students per semester.\n- Write and provide lab instruction for subjects that included topics like Machine learning, CNNs, GANs, RNNs, Reinforcement learning, computer vision, and deep reinforcement learning.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Teaching Assistant",
+                "region": "urn:li:fs_region:(th,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10533",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFqFGCNBLE0kg/company-logo_"
+            },
+            {
+                "locationName": "Pathum Thani, Thailand",
+                "entityUrn": "urn:li:fs_position:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,1962680051)",
+                "geoLocationName": "Pathum Thani, Thailand",
+                "geoUrn": "urn:li:fs_geo:104269450",
+                "companyName": "Asian Institute of Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "- Prepared dataset, annotate segmentation, label Ti-Rads, and design deep learning models for detection, segmentation, and Ti-Rads classification in ultrasound images of thyroid nodules in Thyroid Nodule Assessment supported the Ultrasound Images Project (NBTC).\n- Design deep learning model for detecting dementia in MRI brain images. The research topic focus on measuring MTA score, GCA score, and ERICA score",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Assistant",
+                "region": "urn:li:fs_region:(th,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10533",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFqFGCNBLE0kg/company-logo_"
+            },
+            {
+                "locationName": "Bangkok, Bangkok City, Thailand",
+                "entityUrn": "urn:li:fs_position:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,1962675679)",
+                "geoLocationName": "Bangkok, Bangkok City, Thailand",
+                "geoUrn": "urn:li:fs_geo:109988095",
+                "companyName": "SOLITECH",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "- Solution architect for numerous robotics and vision projects\n- Estimating planning and scheduling robotic projects and assign engineers to work in the projects.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Head of System Integration",
+                "region": "urn:li:fs_region:(th,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10848028",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGJELLxh5Qgyw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,796660656)",
+                "school": {
+                    "objectUrn": "urn:li:school:17195",
+                    "entityUrn": "urn:li:fs_miniSchool:17195",
+                    "active": true,
+                    "schoolName": "Asian Institute of Technology",
+                    "trackingId": "B4fxbSDCTVWvbKpdhWzJwg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFqFGCNBLE0kg/company-logo_"
+                },
+                "activities": "Research assistant, Teaching assistant",
+                "grade": "3.75",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "- Research assistance in Thyroid nodules detection and MRI dementia detection\n- Teaching assistance in Recent trend in machine learning (RTML), Machine Learning (ML), Deep Learning (DL), Deep Reinforcement learning (DRL), and Machine Vision (MV)",
+                "degreeName": "Doctor's Degree",
+                "schoolName": "Asian Institute of Technology",
+                "fieldOfStudy": "Deep learning, Machine Visions, Robotics",
+                "degreeUrn": "urn:li:fs_degree:914",
+                "schoolUrn": "urn:li:fs_miniSchool:17195"
+            },
+            {
+                "description": "Thesis topic: \"Road profile estimation using road Edge detection of left-right camera.\"",
+                "degreeName": "Master's degree",
+                "schoolUrn": "urn:li:fs_miniSchool:17195",
+                "entityUrn": "urn:li:fs_education:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,796659801)",
+                "school": {
+                    "objectUrn": "urn:li:school:17195",
+                    "entityUrn": "urn:li:fs_miniSchool:17195",
+                    "active": true,
+                    "schoolName": "Asian Institute of Technology",
+                    "trackingId": "EwGGWVzwQ0OXiHuMnBeGfA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFqFGCNBLE0kg/company-logo_"
+                },
+                "activities": "Swimming, Bicyrobo 2010, 3rd intelligent vehicle competition 2009",
+                "grade": "3.21",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2008
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100379",
+                "schoolName": "Asian Institute of Technology",
+                "fieldOfStudy": "Mechatronics, Robotics, and Automation Engineering",
+                "degreeUrn": "urn:li:fs_degree:500"
+            },
+            {
+                "description": "-\tAssistant Research Staff at the Applied Research Network Center for Biomedical And Robotics Technology Laboratory (BART LAB)\n-\tIntelligent Vehicle Team Member to attend the 1st Intelligent Vehicle competition 2007 and 2nd  Intelligent Vehicle competition 2008\n-\tRobotic Team Member to attend the Thailand Rescue Robot Championship 2006 and 2007\n-\tTutor of Computer Technology for Edutainment Club(CTEC)\n-\tCoach of GO Club at Mahidol University International College\n-\tStaff of Salaya Advance Television on Salaya Games\n-\tStaff of TRS Conference on Robotics and Industrial Technology (CRIT2007)\n-\tTeam member on IDC Robocon 2007",
+                "degreeName": "Bachelor's degree",
+                "schoolUrn": "urn:li:fs_miniSchool:4144001",
+                "entityUrn": "urn:li:fs_education:(ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k,796664369)",
+                "school": {
+                    "objectUrn": "urn:li:school:4144001",
+                    "entityUrn": "urn:li:fs_miniSchool:4144001",
+                    "active": false,
+                    "schoolName": "Mahidol University",
+                    "trackingId": "Gp/EjmuSQnGzp9ARgnl9oQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFQUlwFV4zLsQ/company-logo_"
+                },
+                "activities": "Robocon participant 2007, Go Club Coach and Team Member, Salaya Games staff, RA for BART LAB",
+                "grade": "2.97",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2003
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100349",
+                "schoolName": "Mahidol University",
+                "fieldOfStudy": "Computer Software Engineering",
+                "degreeUrn": "urn:li:fs_degree:200"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2024,
+                    "day": 20
+                },
+                "name": "Quantifying sea lettuce density in an integrated multi-trophic aquaculture (IMTA) system: understanding the complex physical process through multi-modality data modeling.",
+                "publisher": "Big Data VI: Learning, Analytics, and Applications, vol. 13036, pp. 68-80. SPIE",
+                "description": "This study explores an innovative approach to optimizing seaweed cultivation within Integrated Multi-Trophic Aquaculture (IMTA) systems at Harbor Branch Oceanographic Institute (HBOI) through the development of advanced sensor technologies and computational models. Building on the foundation of the Pseudorandom Encoded Light for Evaluating Biomass (PEEB) sensor deployed at the seaweed tank in the HBOI IMTA system, we refine the process of biomass estimation by introducing a methodology that combines the Random Sample Consensus (RANSAC) algorithm for sensor data refinement and non-linear regression models for predicting seaweed growth and biomass. The proposed framework adopts RANSAC to filter out data outliers, and utilizes weekly non-linear regression analyses to predict seaweed biomass and optimize harvest timing. The results demonstrate the effectiveness of our polynomial regression model in estimating the daily-averaged seaweed biomass, and potential of sensor-based biomass estimation in complex aquatic environments. We discuss the impact of data quality on prediction accuracy, the challenges posed by limited sensor calibration, and the short duration of sensor deployment on model reliability. Our study contributes to the sustainable management of IMTA systems by providing a data-driven foundation for automated seaweed cultivation, emphasizing the critical role of advanced technologies in the future of aquaculture.",
+                "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13036/130360B/Quantifying-sea-lettuce-density-in-an-integrated-multi-trophic-aquaculture/10.1117/12.3014228.short#_=_",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2024,
+                    "day": 20
+                },
+                "name": "Innovative aquaculture biometrics analysis: harnessing IR lasers and ToF cameras for microscopic fish larvae tracking.",
+                "publisher": "Ocean Sensing and Monitoring XVI, vol. 13061, pp. 113-120. SPIE, 2024.",
+                "description": "Within the scope of aquaculture farm operation and research, monitoring fish larvae offers pivotal data about the operational conditions of the farm. For example, hypoxia may induce abnormal movements. Currently, precise monitoring of these diminutive entities (1 mm in size) hinges on superior water clarity and specialized equipment. While green laser may be preferred for extended range underwater imaging, it is visible to the fish. Hence it will disturb fish and potentially damage their vision system. This is of particular concern at our facility at the Harbor Branch Oceanographic Institute (HBOI). To address these challenges, our research has adapted a Time-of-Flight (ToF) camera, equipped initially with a 50mm lens, into a microscopic imager using an IR laser. This setup was capable of detailed but narrow depth field imaging, suitable for clear water conditions. Recent advancements have included transitioning to a 25mm lens, enhancing the camera’s ability to capture wider images (approximately 20 pixels wide for fish eggs) and observe finer details in medium turbidity conditions, though with a reduced depth field of 5mm. This modification has shifted the camera’s utility towards observing very small living organisms (100-200 microns) and reduced its effectiveness in depth measurement in highly turbid waters. This adaptation ensures more precise tracking of fish larvae and offers a fish-eye-safe imaging process due to the use of IR light. The integration of machine learning techniques further refines the system’s ability to accurately identify fish larvae in varying water conditions. Our approach presents a balanced solution, combining affordability, improved accuracy, and mindful consideration of the fish’s welfare, contributing positively to the field of fish larvae tracking.",
+                "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13061/130610F/Innovative-aquaculture-biometrics-analysis--harnessing-IR-lasers-and-ToF/10.1117/12.3014053.short#_=_",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2024,
+                    "day": 20
+                },
+                "name": "Diagnostic performance of artificial intelligence in interpreting thyroid nodules on ultrasound images: a multicenter retrospective study.",
+                "publisher": "QIMs",
+                "description": "Background\nThyroid nodules are commonly identified through ultrasound imaging, which plays a crucial role in the early detection of malignancy. The diagnostic accuracy, however, is significantly influenced by the expertise of radiologists, the quality of equipment, and image acquisition techniques. This variability underscores the critical need for computational tools that support diagnosis.\nConclusions\nThe findings advocate for the integration of AI into clinical settings to enhance the diagnostic accuracy of radiologists in assessing thyroid nodules. The AI system, designed as a supportive tool rather than a replacement, promises to revolutionize thyroid nodule diagnosis and management by providing a high level of diagnostic precision.",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11074766/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2023,
+                    "day": 31
+                },
+                "name": "CycleGAN Implementation for Creating Modern Thai Houses",
+                "publisher": "ACADIA",
+                "description": "Nowadays, artificial intelligence (AI) plays a vital role in developing future trends and technology. Artificial intelligence approaches and applications have been developed over several decades to achieve AI systems for architectural creation to replace architectural design by humans at certain levels. However, the current development of AI models and architectural creation frameworks is inadequate and unsatisfactory. Moreover, limited studies on AI applications have focused on vernacular design or traditional architecture. To the best of our knowledge, this is the first study aiming to develop a deep learning technology that can design traditional architectures. This study aims to investigate the aspects of architectural design for vernacular architecture, while focusing on traditional Thai houses, and finding the proper types of generative adversarial networks (GANs) leveraged for architectural creation. By exploring its implications in the architectural field, this study proposes an approach of GANs for designing a specific architectural project style, and provides a model of CycleGAN in architectural creation using an empirical study on Thai vernacular houses as a case study. After training, the results show that the AI model can be applied to the design of modern Thai houses by enriching modern international houses with characteristics of traditional Thai houses. The primary transforming identities of the Thai vernacular architecture selected by the AI model exhibit a high gable (with top element),“Pan-lom”(windbreak on the gable), Thai-style platform (usually leaving the first floor as open space), and wood texture (including color and Thai-style assembly pattern).\n",
+                "url": "https://papers.cumincad.org/data/works/att/acadia23_v2_572.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2023,
+                    "day": 21
+                },
+                "name": "Explainable Automated TI-RADS Evaluation of Thyroid Nodules",
+                "publisher": "Sensors",
+                "description": "A thyroid nodule, a common abnormal growth within the thyroid gland, is often identified through ultrasound imaging of the neck. These growths may be solid- or fluid-filled, and their treatment is influenced by factors such as size and location. The Thyroid Imaging Reporting and Data System (TI-RADS) is a classification method that categorizes thyroid nodules into risk levels based on features such as size, echogenicity, margin, shape, and calcification. It guides clinicians in deciding whether a biopsy or other further evaluation is needed. Machine learning (ML) can complement TI-RADS classification, thereby improving the detection of malignant tumors. When combined with expert rules (TI-RADS) and explanations, ML models may uncover elements that TI-RADS misses, especially when TI-RADS training data are scarce. In this paper, we present an automated system for classifying thyroid nodules according to TI-RADS and assessing malignancy effectively. We use ResNet-101 and DenseNet-201 models to classify thyroid nodules according to TI-RADS and malignancy. By analyzing the models’ last layer using the Grad-CAM algorithm, we demonstrate that these models can identify risk areas and detect nodule features relevant to the TI-RADS score. By integrating Grad-CAM results with feature probability calculations, we provide a precise heat map, visualizing specific features within the nodule and potentially assisting doctors in their assessments. Our experiments show that the utilization of ResNet-101 and DenseNet-201 models, in conjunction with Grad-CAM visualization analysis, improves TI-RADS classification accuracy by up to 10%. This enhancement, achieved through iterative analysis and re-training, underscores the potential of machine learning in advancing thyroid nodule diagnosis, offering a promising direction for further exploration and clinical application.",
+                "url": "https://www.mdpi.com/1424-8220/23/16/7289",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2023,
+                    "day": 1
+                },
+                "name": "FLAIR vascular hyperintensity-DWI mismatch and DWI-FLAIR mismatch ASPECTS for prediction of good outcome after recanalization in anterior circulation stroke; multicenter observational study.",
+                "publisher": "European Journal of Radiology",
+                "description": "Introduction\nAcute ischemic stroke is a medical emergency caused by decreased blood flow to the brain, leading cause of long-term disability. Recanalization, one of the most concerning difficulties linked with intracranial arterial occlusion, has been used to reduce mortality in ischemic stroke treatment. The mismatch concepts MR PWI-DWI or DWI-FLAIR can help identify patients for thrombolysis.\n\nPurpose\nThis paper introduces a novel method of predicting revascularization using the value of fluid-attenuated inversion recovery vascular hyperintensity FVH-DWI mismatch and DWI-FLAIR mismatch, which releases anterior circulation large vessel occlusion (LVO) after endovascular thrombectomy (EVT). Moreover, we present a new scoring system following anatomical region distributed for MCA territory called a DWI-FLAIR MISMATCH ASPECTS.\n\nResult\nStatistical analysis was performed to predict revascularization and functional outcome with 110 patients with anterior circulation LVO treated with EVT. We found that FVH-DWI mismatch was present in 71 patients (89.9 %) with complete revascularization and present in 8 patients (10.1 %) with no/partial revascularization, which had no significant difference (p = 0.12), and there was no significant difference between good functional outcome and poor functional outcome. Moreover, in 76 patients with DWI-FLAIR mismatch ASPECTS of > 6 point-group, present FVH-DWI mismatch in 57 patients (83.8 %) with complete revascularization had a significant difference as compared to 11 patients (16.2 %) with absent FVH-DWI mismatch (p < 0.05). The clinical outcome in complete revascularization is better than no/partial revascularization, and complete revascularization is independently associated with good functional outcomes (p < 0.05).\n\nConclusion\nFVH-DWI mismatch paired with DWI-FLAIR mismatch ASPECTS > 6 points may be possible to predict revascularization in patients with anterior circulation LVO.",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0720048X23001511?dgcid=coauthor",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2022,
+                    "day": 21
+                },
+                "name": "Improving GAN Learning Dynamics for Thyroid Nodule Segmentation",
+                "publisher": "Ultrasound in Medicine & Biology",
+                "description": "Thyroid nodules are lesions requiring diagnosis and follow-up. Tools for detecting and segmenting nodules can help physicians with this diagnosis. Besides immediate diagnosis, automated tools can also enable tracking of the probability of malignancy over time. This paper demonstrates a new algorithm for segmenting thyroid nodules in ultrasound images. The algorithm combines traditional supervised semantic segmentation with unsupervised learning using GANs. The hybrid approach has the potential to upgrade the semantic segmentation model’s performance, but GANs have the well-known problems of unstable learning and mode collapse. To stabilize the training of the GAN model, we introduce the concept of closed-loop control of the gain on the loss output of the discriminator. We find gain control leads to smoother generator training and avoids the mode collapse that typically occurs when the discriminator learns too quickly relative to the generator. We also find that the combination of the supervised and unsupervised learning styles encourages both low-level accuracy and high-level consistency. As a test of the concept of controlled hybrid supervised and unsupervised semantic segmentation, we introduce a new model named the StableSeg GAN. The model uses DeeplabV3+ as the generator, Resnet18 as the discriminator, and uses PID control to stabilize the GAN learning process. The performance of the new model in terms of IoU is better than DeeplabV3+, with mean IoU of 81.26% on a challenging test set. The results of our thyroid nodule segmentation experiments show that StableSeg GANs have flexibility to segment nodules more accurately than either comparable supervised segmentation models or uncontrolled GANs.",
+                "url": "https://doi.org/10.1016/j.ultrasmedbio.2022.09.010",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    },
+                    {
+                        "name": "Matthew N.Dailey"
+                    },
+                    {
+                        "name": "Dittapong Songsaeng"
+                    },
+                    {
+                        "name": "Manukid Parnichkun‪"
+                    },
+                    {
+                        "name": "Chadaporn Keatmanee"
+                    },
+                    {
+                        "name": "Mongkol Ekpanyapong"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2021,
+                    "day": 17
+                },
+                "name": "COVID-19 X-ray Image Diagnosis Using Deep Convolutional Neural Networks",
+                "publisher": "Springer",
+                "description": "Recently, diagnosis of COVID-19 has become an urgent worldwide concern. One modality for disease diagnosis that has not yet been well explored is that of X-ray images. To explore the possibility of automated COVID-19 diagnosis from X-ray images, we use deep CNNs based on ResNet-18 and InceptionResNetV2 to classify X-ray images from patients under three conditions: normal, COVID-19, and other pneumonia. Experimental results show that deep CNNs can distinguish normal patients from diseased patients with accuracy 93.41%, and among diseased patients, it can distinguish COVID-19 from other pneumonia cases with accuracy 93.53%. The trained model is able to uncover the detailed appearance features that distinguish COVID-19 infections from other pneumonia.",
+                "url": "https://link.springer.com/chapter/10.1007/978-981-16-2380-6_64",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2020,
+                    "day": 18
+                },
+                "name": "Development of Pick and Place Delta Robot",
+                "publisher": "Springer",
+                "description": "This research aims to develop a prototype of 3-DOF robot that use for pick and place objects with high speed movement and low cost to produce, named parallel robot or delta robot. The robot can approach special applications with fast and smooth control. Thus, it is easy to movement in different positions. It is suitable for transporting workpieces or be able to move in various points. The payload can be up to 500 g. In current application, it can be applied to the food manufacturing industry. Therefore, the robot prototype can be used for food industry companies or related industries field. The project has co-operative from both public sector and private sector. The research and development are conducted by the researchers from the public sector. The private sector provides support materials and equipment. After producing a prototype, the test is carried out by the private sector, evaluates the performance and satisfaction of users to use. When the prototype is completed, the private sector can be commercialized to market in the future.",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-030-40271-6_47",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2019,
+                    "day": 11
+                },
+                "name": "The 9 Points Calibration Using SCARA Robot",
+                "publisher": "IEEE",
+                "description": "The vision system is always applied to industrial in many applications. There are many applications that integrated with industrial robots by using vision system such as detecting position, and matching objects. Therefore, it is necessary to transfer from camera position in pixel coordination to robot position in world coordination. After calibration, robot can know the objects position and orientation, which be detected from vision system. In basic camera calibration to robot coordination, it needs at least 3 points of camera and robot positions. However, the accuracy from the algorithm will be low from human error, internal hardware such as intrinsic, extrinsic camera parameters, and installation error (Ex: tilt etc.). Thus, origianally, the process of calibration must have 3 steps, intrinsic camera calibration, extrinsic camera calibration and camera to robot base calibration. Moreover, the basic calibration cannot calculate TCP offset (Tool coordinate point offset). If tool has been installed to robot, the robot must change final position from MIF (Mechanical interface) to TIF (Tool interface). Thus, user must calculate the TCP offset before calculate camera calibration. However, there are many processes of calibration. In this paper, it will show the 9 points calibration's algorithm, which be applied from other applications of vision system. The paper will explain step-by-step how to solve the equation and how to apply with SCARA robot. Moreover, the paper will explain not only camera calibration, but also SCARA robot and TCP offset calculation.",
+                "url": "https://ieeexplore.ieee.org/abstract/document/8999901",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Alisa",
+                            "lastName": "Kunapinun",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "occupation": "D.Eng | Postdoctoral Researcher @ Florida Atlantic University | Deep learning | Biomedical | Robotics",
+                            "objectUrn": "urn:li:member:997222916",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1685667102229?e=1746057600&v=beta&t=jeZjNCNiXzQV0M2l1czkmpPFNwav3LF1Fw75gb0jEaA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1284,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685667102229?e=1746057600&v=beta&t=V7x-MvXe78g7AG7cGkQ4zptEy1V3_AxlXCOCrZZxs-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGMRLQPufm0Ug/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alisa-kunapinun-718b74239",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699067916075?e=1746057600&v=beta&t=LZWs4e39qxR5VF9SU_g0laATxZmQuCptwk6NIar-HH4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699067916076?e=1746057600&v=beta&t=eIaAF8_ZELJD5TRavsIVaIOb6p1C-hTEnWkPlezGanY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699067916076?e=1746057600&v=beta&t=TNgHtXfdV3XVjvq69uS_tJOEdqMkzE_pQEdlI3jSSkU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699067916076?e=1746057600&v=beta&t=c9mHk8bY0J28_hvg9UrYy-D_1phlg14_f43AgH9vqUc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHijWsaaPtQNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4E2xz9SzQy2Dklnp8WLoEQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "CITI Program",
+                "name": "Responsible Conduct of Research (RCR) Basic",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "54792335",
+                "company": {
+                    "objectUrn": "urn:li:company:11118398",
+                    "entityUrn": "urn:li:fs_miniCompany:11118398",
+                    "name": "CITI Program",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631314320914?e=1748476800&v=beta&t=NHlmld3F38aHfPNG91eAehw7eSl2LjcBpCyyxapAUhk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631314320914?e=1748476800&v=beta&t=LtBFOrPT8hUmX1CBEhW73PxW7Rpc5pE1rFR3Qz1nJe4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631314320914?e=1748476800&v=beta&t=3k_G4jqkI31B0bBrZK2fxBt0FkNymVCMYwt_O2u55TY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_"
+                        }
+                    },
+                    "universalName": "citiprogram",
+                    "dashCompanyUrn": "urn:li:fsd_company:11118398",
+                    "trackingId": "HFAZcumeTNOjV4hfgx+kDA=="
+                },
+                "displaySource": "citiprogram.org",
+                "companyUrn": "urn:li:fs_miniCompany:11118398",
+                "url": "https://www.citiprogram.org/verify/?wacda2c3a-1d25-4805-81b1-a774b91bada6-54792335"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "MXWR9MND2EYD",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/MXWR9MND2EYD"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "D5VTXX64CRZK",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/D5VTXX64CRZK"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Build Better Generative Adversarial Networks (GANs)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "ZFT79G6UMLTP",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/ZFT79G6UMLTP"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Sequence Models",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "NGFELWCFN9UY",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/NGFELWCFN9UY"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Convolutional Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "YW6PYH2TQFL3",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/YW6PYH2TQFL3"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "S796CT9P3L3G",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/S796CT9P3L3G"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Structuring Machine Learning Projects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "6WJCTZW7UWHJ",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/6WJCTZW7UWHJ"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Build Basic Generative Adversarial Networks (GANs)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "WD4RJZGHJ8BA",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "yKrzQi1+Sq2u9O+SA7+Y2g=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/WD4RJZGHJ8BA"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Intro to AR/VR/MR/XR: Technologies, Applications & Issues (with Honors)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "UKD9KKUTAHHA",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "XR3XMgPSQT23T/gVq9bNGg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/UKD9KKUTAHHA"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Teaching"
+            },
+            {
+                "name": "Medical Imaging"
+            },
+            {
+                "name": "Generative Adversarial Networks (GANs)"
+            },
+            {
+                "name": "Thyroid Disorders"
+            }
+        ],
+        "urn_id": "ACoAADtwagQBv7I6MTkNPxxKzJeMV6wehxlut5k"
+    }
+}

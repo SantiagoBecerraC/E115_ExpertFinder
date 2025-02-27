@@ -1,0 +1,739 @@
+{
+    "urn_id": "ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+    "fetch_timestamp": "2025-02-26T21:24:57.482164",
+    "profile_data": {
+        "summary": "Roman artist Gian Lorenzo Bernini was able to craft magnificent sculptures from lackluster blocks of marble. Similarly, as a Data Analyst, I am perfecting the art of telling meaningful stories, gathering actionable insights, and delivering key recommendations derived from unrefined data. Rome wasn’t built in a day; outside of work, I am constantly growing by attending industry events, consulting conferences, and expanding my programming toolkit.\n\nPlease feel free to reach out with any professional or networking opportunities.",
+        "industryName": "Information Technology & Services",
+        "lastName": "C.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Jay",
+        "entityUrn": "urn:li:fs_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102380872"
+        },
+        "geoLocationName": "Boston, Massachusetts",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Experienced Data Analyst | MSBA Graduate",
+        "profile_id": "ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+        "member_urn": "urn:li:member:1026679245",
+        "public_id": "jaycbusinessanalyst",
+        "experience": [
+            {
+                "locationName": "Boston, Massachusetts, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2361121306)",
+                "geoLocationName": "Boston, Massachusetts, United States",
+                "geoUrn": "urn:li:fs_geo:102380872",
+                "companyName": "Elevance Health",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "description": "- Lead sophisticated healthcare data analysis for a public health helpline, leveraging HIPAA-compliant data, Python for predictive modeling, and SQL/SAS for querying & statistical manipulation, yielding actionable insights.\n- Present findings to senior executives, facilitating a weekly quality improvement steering committee for comprehensive discussions, effective technical communication, and informed decision-making.\n- Ensure adherence to REI and DEI metrics for state contract compliance while mentoring the team to meet standards.\n- Organize semi-annual data review retreats with senior leadership to review KPIs, analyze trends, and set quarterly goals to enhance public health helpline performance and achieve organizational objectives.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Data Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:81527214",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHUCH2Q9_rJ2A/company-logo_"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1733311714)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2015686800)",
+                "companyName": "Opensignal",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "description": "- Consulted with T-Mobile & Verizon executives in weekly strategy meetings, ensuring successful goal implementation, informed decision-making, and effective marketing approaches.\n- Analyzed confidential data from 10 major telecom companies using SQL & Tableau, translating findings into impactful visualizations to drive targeted promotions and strategies.\n- Examined metrics from a monthly survey of 10,000 respondents since 2017, providing key insights for focused marketing efforts and customer targeting.\n- Consolidated extensive data into Excel & Tableau, creating dynamic dashboards, enabling data-driven decision-making and facilitating the creation of essential client deliverables. Proficient in SQL & Amazon Redshift.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "title": "Business Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:1954386",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYYlrKNL_LAw/company-logo_"
+            },
+            {
+                "locationName": "Boston, Massachusetts, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2496105706)",
+                "geoLocationName": "Boston, Massachusetts, United States",
+                "geoUrn": "urn:li:fs_geo:102380872",
+                "companyName": "Boston Children's Hospital",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "- Managed a $25,000 monthly departmental budget, streamlining procurement processes to ensure optimal inventory levels for improved patient care.\n- Analyzed 24 months of patient fall risk data using Excel, implementing best practices to reduce injuries and enhance patient safety.\n- Utilized the \"Epic\" software application to monitor insurance workflows, reviewing patient billing and reimbursement metrics for Medicare, Blue Cross Blue Shield, and Tufts, ensuring accuracy and maximizing reimbursements.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Physical & Occupational Therapy Rehabilitation Aide",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1658",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGnClokMXcm5w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2496111083)",
+                "companyName": "University of Massachusetts Amherst",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "- Recorded sensitive healthcare data for thousands of COVID-19 patients using Salesforce, helping prevent virus spread and contain cases in Western Massachusetts.\n- Applied diagnostic data analysis to identify high-risk student groups, providing insights to leadership that informed university policy decisions.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "COVID-19 Contact Tracer",
+                "companyUrn": "urn:li:fs_miniCompany:4508",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2496109310)",
+                "companyName": "University of Massachusetts Amherst",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "description": "- Designed and implemented specialized fitness programs to motivate and train young adults with Williams and Down Syndrome, focusing on adaptive physical activities.\n- Conducted comprehensive client evaluations and performed weekly assessments, tracking progress in strength, endurance, and overall fitness.\n- Collaborated with a multidisciplinary team to set personalized fitness goals and deliver tailored training plans, ensuring measurable client outcomes.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Personal Trainer",
+                "companyUrn": "urn:li:fs_miniCompany:4508",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1735880840)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1735911236)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1735946086)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1735984452)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1735997608)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1736021391)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1349873555)",
+                    "urn:li:fs_course:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1349900217)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1349692703)",
+                    "urn:li:fs_project:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,29936796)",
+                    "urn:li:fs_project:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,30047499)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,817634368)",
+                "school": {
+                    "objectUrn": "urn:li:school:18462",
+                    "entityUrn": "urn:li:fs_miniSchool:18462",
+                    "active": true,
+                    "schoolName": "Questrom School of Business, Boston University",
+                    "trackingId": "aGdnPIvkSPOyny7NEveAzg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGextjQtaHKaQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Questrom School of Business, Boston University",
+                "fieldOfStudy": "Business Analytics",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18462"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,817633520)",
+                "school": {
+                    "objectUrn": "urn:li:school:18526",
+                    "entityUrn": "urn:li:fs_miniSchool:18526",
+                    "active": true,
+                    "schoolName": "University of Massachusetts Amherst",
+                    "trackingId": "Ch2dLSgWTqeBCcy9h56uVA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "University of Massachusetts Amherst",
+                "fieldOfStudy": "School of Public Health & Health Sciences",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:18526"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,817634459)",
+                "school": {
+                    "objectUrn": "urn:li:school:3190175",
+                    "entityUrn": "urn:li:fs_miniSchool:3190175",
+                    "active": true,
+                    "schoolName": "Archbishop Williams High School",
+                    "trackingId": "2atT2TEGTSqOPL7b67emKg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFFuh6hO07aQg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2016
+                    }
+                },
+                "schoolName": "Archbishop Williams High School",
+                "schoolUrn": "urn:li:fs_miniSchool:3190175"
+            }
+        ],
+        "languages": [
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Urdu",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Wharton Executive Education",
+                "name": "Business Analytics: From Data to Insights",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "46325663",
+                "company": {
+                    "objectUrn": "urn:li:company:1718987",
+                    "entityUrn": "urn:li:fs_miniCompany:1718987",
+                    "name": "Wharton Executive Education",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1641479678214/wharton_executive_education_logo?e=1748476800&v=beta&t=k6m4VQd4K3pdH7OcEcnX8STOoQGmUTlo5s0tGy5tI1Y",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1641479678214/wharton_executive_education_logo?e=1748476800&v=beta&t=fh03lF5Xsc5GhG49L4yYNFsUElnzRiVjXG5jK-n6LZ4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1641479678214/wharton_executive_education_logo?e=1748476800&v=beta&t=1FPN30J5Dc2KvNhNIrphsJALp3IpyloIQNYAX_Wab1U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFBX9nm65VJtQ/company-logo_"
+                        }
+                    },
+                    "universalName": "wharton-executive-education",
+                    "dashCompanyUrn": "urn:li:fsd_company:1718987",
+                    "trackingId": "ynH4XrHyRGCl+FMJmmjKFw=="
+                },
+                "displaySource": "emeritus.org",
+                "companyUrn": "urn:li:fs_miniCompany:1718987",
+                "url": "https://certificates.emeritus.org/c5e558b0-86b6-42b8-9303-8f9ea185330e"
+            },
+            {
+                "authority": "The Johns Hopkins University",
+                "name": "COVID-19 Contact Tracing ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3528",
+                    "entityUrn": "urn:li:fs_miniCompany:3528",
+                    "name": "The Johns Hopkins University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/B4EZUf9zK9GgAQ-/0/1739998049354/johns_hopkins_university_logo?e=1748476800&v=beta&t=mrVuzOxl0W2xaNrb2t-v6w7I2M6yjEZaDf8vW28VPDo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/B4EZUf9zK9GgAY-/0/1739998049354/johns_hopkins_university_logo?e=1748476800&v=beta&t=W_cUh9_jQ60Lej80GQri2AiIDk4Ynh4Tni-1To8_AJU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/B4EZUf9zK9GgAI-/0/1739998049354/johns_hopkins_university_logo?e=1748476800&v=beta&t=GEa9qZIIIP4Ozm9zQ47ItOwnkeumg_UzcrYkFj2e-DI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFeLC87ehQOUQ/company-logo_"
+                        }
+                    },
+                    "universalName": "johns-hopkins-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:3528",
+                    "trackingId": "peOwcz7ERnigt2ryEcsD2g=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:3528",
+                "url": "https://drive.google.com/file/d/1TiwWH7fZ8nK_OhfFhvqX4L9YTwADa1tn/view?usp=sharing"
+            },
+            {
+                "authority": "Stanford Online",
+                "name": "Supervised Machine Learning: Regression and Classification",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:37792439",
+                    "entityUrn": "urn:li:fs_miniCompany:37792439",
+                    "name": "Stanford Online",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1698271191415/stanford_online_logo?e=1748476800&v=beta&t=TvAfjzKoar1z6IUkGaAzKjEZWRFvxomHQN0Dgo0BEZg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1698271191415/stanford_online_logo?e=1748476800&v=beta&t=wUJFZy_ORTmC2gyKEYI8A8-NO8MpWCCNxcw_Cb_Tkl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1698271191415/stanford_online_logo?e=1748476800&v=beta&t=GH0iIN2sB4i_RGqXQWLB4sPPZDNd9mIvl4C8uqY8-_k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQH-5I5gu8cYiQ/company-logo_"
+                        }
+                    },
+                    "universalName": "stanford-online",
+                    "dashCompanyUrn": "urn:li:fsd_company:37792439",
+                    "trackingId": "yO0n1V5fRsi/JynL7y3e/A=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:37792439",
+                "url": "https://drive.google.com/file/d/1waT1avWJfKQe1jb2ZAdQvXGgCvG6g_yG/view?usp=sharing"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,817634368)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jay",
+                            "lastName": "C.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "occupation": "Experienced Data Analyst | MSBA Graduate",
+                            "objectUrn": "urn:li:member:1026679245",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659821190821?e=1746057600&v=beta&t=yv6HrspL79DYzxySPdBXotvgRc2-Q43-vX7K_fydOa4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659821190821?e=1746057600&v=beta&t=0NQLXhkBGJlo3i2G7EXXsYnhkopl5oeQ2Tbq1iG8oEQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGKgqkbxyaSww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jaycbusinessanalyst",
+                            "trackingId": "BSIaUsECR5CKeVpNg/rG6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,30047499,444596014)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "- Developed machine learning models in Python to predict user churn on the Jock MKT sports trading platform.\n- Implemented live A/B tests on the app to optimize user engagement & retention, presenting results to executives.",
+                "title": "Capstone: Analyzing Historical Data to Improve User Retention & Growth"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,817634368)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jay",
+                            "lastName": "C.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "occupation": "Experienced Data Analyst | MSBA Graduate",
+                            "objectUrn": "urn:li:member:1026679245",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659821190821?e=1746057600&v=beta&t=yv6HrspL79DYzxySPdBXotvgRc2-Q43-vX7K_fydOa4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659821190821?e=1746057600&v=beta&t=0NQLXhkBGJlo3i2G7EXXsYnhkopl5oeQ2Tbq1iG8oEQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGKgqkbxyaSww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jaycbusinessanalyst",
+                            "trackingId": "BSIaUsECR5CKeVpNg/rG6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,29936796,444593279)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "description": "- Interpreted historical financial data from the EDGAR database using financial and economic methods, including regression analysis, to assess risk and identify investment opportunities during market crashes.\n- Developed and applied advanced models, including the Fama-French model, to quantify risk exposures and assess the performance of stocks, providing valuable insights for investment decision-making.",
+                "title": "Quantifying Stock Performance & Risk During Market Crashes"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,817634368)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jay",
+                            "lastName": "C.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "occupation": "Experienced Data Analyst | MSBA Graduate",
+                            "objectUrn": "urn:li:member:1026679245",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659821190821?e=1746057600&v=beta&t=yv6HrspL79DYzxySPdBXotvgRc2-Q43-vX7K_fydOa4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659821190821?e=1746057600&v=beta&t=0NQLXhkBGJlo3i2G7EXXsYnhkopl5oeQ2Tbq1iG8oEQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGKgqkbxyaSww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jaycbusinessanalyst",
+                            "trackingId": "BSIaUsECR5CKeVpNg/rG6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1349692703,377267894)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "- Led a team of 4 classmates to deliver executive level business recommendations based on predictive analytics; placed 37th overall among 700+ graduate students nationally\n- Built XGBoost machine learning model using Jupyter Notebook from data comprised of 50,000 records and 850+ columns; identified the best predictors of housing insecurity",
+                "title": "Humana-Mays Analytics Case Competiton"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2015686800)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jay",
+                            "lastName": "C.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "occupation": "Experienced Data Analyst | MSBA Graduate",
+                            "objectUrn": "urn:li:member:1026679245",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659821190821?e=1746057600&v=beta&t=yv6HrspL79DYzxySPdBXotvgRc2-Q43-vX7K_fydOa4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659821190821?e=1746057600&v=beta&t=0NQLXhkBGJlo3i2G7EXXsYnhkopl5oeQ2Tbq1iG8oEQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGKgqkbxyaSww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jaycbusinessanalyst",
+                            "trackingId": "BSIaUsECR5CKeVpNg/rG6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1733311714,361779287)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "description": "- Examined metrics gathered from a survey sent to 10,000 respondents monthly since 2017 and presented key insights to 40 stakeholders for more targeted marketing of a particular customer base\n- Pulled 800,000 rows of data into Excel & Tableau from various databases to facilitate the market insights team with the creation of key deliverables; worked intensively with SQL & Amazon Redshift",
+                "title": "Converged Connectivity Insights Project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jay",
+                            "lastName": "C.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "occupation": "Experienced Data Analyst | MSBA Graduate",
+                            "objectUrn": "urn:li:member:1026679245",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659821190821?e=1746057600&v=beta&t=yv6HrspL79DYzxySPdBXotvgRc2-Q43-vX7K_fydOa4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659821190821?e=1746057600&v=beta&t=0NQLXhkBGJlo3i2G7EXXsYnhkopl5oeQ2Tbq1iG8oEQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGKgqkbxyaSww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jaycbusinessanalyst",
+                            "trackingId": "BSIaUsECR5CKeVpNg/rG6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,1733395223,361775762)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "- Developed prescriptive analytical models to analyze a food product’s delivery data; used decision trees to determine which route was most optimal for delivering certain SKUs to retail locations",
+                "title": "ID Fresh Foods Capstone Project - The Wharton School of Business"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2496111230)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jay",
+                            "lastName": "C.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "occupation": "Experienced Data Analyst | MSBA Graduate",
+                            "objectUrn": "urn:li:member:1026679245",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659821190821?e=1746057600&v=beta&t=yv6HrspL79DYzxySPdBXotvgRc2-Q43-vX7K_fydOa4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659821190821?e=1746057600&v=beta&t=0NQLXhkBGJlo3i2G7EXXsYnhkopl5oeQ2Tbq1iG8oEQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGKgqkbxyaSww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jaycbusinessanalyst",
+                            "trackingId": "BSIaUsECR5CKeVpNg/rG6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg,2055590908,359586148)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "- Co-planned fundraising event with over 200 guests raising over $60,000 for low-income patients while communicating with donors through “Bloomerang'' fundraising database",
+                "title": "June Bloom Fundraising Event",
+                "url": "https://myemail.constantcontact.com/June-Bloom-Recap-and-More-Manet-News.html?soid=1101990402020&aid=H9GOyR7vYCE"
+            }
+        ],
+        "skills": [
+            {
+                "name": "A/B Testing"
+            },
+            {
+                "name": "Causal Inference"
+            },
+            {
+                "name": "Executive Presentation Skills"
+            },
+            {
+                "name": "Stock Market"
+            }
+        ],
+        "urn_id": "ACoAAD0x4c0B8ggIFbVgr4A19PDVfTAfoVFF0Wg"
+    }
+}

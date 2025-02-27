@@ -1,0 +1,1348 @@
+{
+    "urn_id": "ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+    "fetch_timestamp": "2025-02-26T21:42:38.356473",
+    "profile_data": {
+        "summary": "Python,  Oracle PL/SQL, AWS",
+        "industryName": "Information Technology & Services",
+        "lastName": "B.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 6,
+            "day": 19
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Olek",
+        "entityUrn": "urn:li:fs_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102340689"
+        },
+        "geoLocationName": "Jersey City, New Jersey",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Python/Oracle ETL Developer (with GenAI)",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_",
+        "img_100_100": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+        "img_200_200": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+        "img_389_389": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+        "profile_id": "ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+        "member_urn": "urn:li:member:3584867",
+        "public_id": "alexbuz",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,2423503930)",
+                "companyName": "Giant Eagle, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Oracle PL/SQL/Python ETL Developer",
+                "companyUrn": "urn:li:fs_miniCompany:10080",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHWBKT3o5beIQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,2310997695)",
+                "companyName": "Meta",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:10667",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_"
+            },
+            {
+                "locationName": "Jersey City, New Jersey, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,2051974750)",
+                "geoLocationName": "Jersey City, New Jersey, United States",
+                "geoUrn": "urn:li:fs_geo:102340689",
+                "companyName": "Johnson & Johnson",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Oracle PL/SQL/Python ETL Developer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1207",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFuqNYNGYIxzg/company-logo_"
+            },
+            {
+                "locationName": "New Jersey, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,1725286181)",
+                "geoLocationName": "New Jersey, United States",
+                "geoUrn": "urn:li:fs_geo:101651951",
+                "companyName": "Citi",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Data Engineer/Oracle Developer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:11448",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,1485606013)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Citadel",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Data Engineer",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:163056",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEr0zQ5jE04zA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,253803654)",
+                "school": {
+                    "objectUrn": "urn:li:school:16594",
+                    "entityUrn": "urn:li:fs_miniSchool:16594",
+                    "active": true,
+                    "schoolName": "Moscow Aviation Institute (National Research University)",
+                    "trackingId": "iUDGqhQ9SOWEkkwJ6VROcA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEFhkDfc2ryWQ/company-logo_"
+                },
+                "grade": "3.5",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 1996
+                    },
+                    "startDate": {
+                        "year": 1988
+                    }
+                },
+                "degreeName": "Master's Degree",
+                "schoolName": "Moscow Aviation Institute (National Research University)",
+                "fieldOfStudy": "Computational and Applied Mathematics",
+                "schoolUrn": "urn:li:fs_miniSchool:16594"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,53592779)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 1988
+                    },
+                    "startDate": {
+                        "year": 1986
+                    }
+                },
+                "degreeName": "high school diploma",
+                "schoolName": "145",
+                "fieldOfStudy": "Mathematics and Computer Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ukrainian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Amazon Web Services",
+                "name": "AWS Certified Solutions Architect - Associate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "8CA1AXUQT++FAoepY78Msg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2382910"
+            },
+            {
+                "authority": "Amazon Web Services",
+                "name": "AWS Certified Developer - Associate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "AWS-ADEV-2834",
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "E4GWYJbJSg6NYZEHheuY6Q=="
+                },
+                "displaySource": "raw.githubusercontent.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://raw.githubusercontent.com/alexbuz/FAQs/master/images/AWS_Ceritied_Developer_Associate.png"
+            },
+            {
+                "authority": "Oracle",
+                "name": "Oracle PL/SQL Developer Certified Associate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2004
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1028",
+                    "entityUrn": "urn:li:fs_miniCompany:1028",
+                    "name": "Oracle",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1665755678957/oracle_logo?e=1748476800&v=beta&t=3Pn_zDW8QDzJu6FAB8-p2dfOxXsM2pU4bB8bpQkkVeM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=1748476800&v=beta&t=X9fRhWy6Dd7AvR_ke0JK_ju_ZkEte00_63rKIzW4bdI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1748476800&v=beta&t=vjkOSGlVlL68Zxr6UqLLTCXfLLJsPkAR1zi6_nh42lY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_"
+                        }
+                    },
+                    "universalName": "oracle",
+                    "dashCompanyUrn": "urn:li:fsd_company:1028",
+                    "trackingId": "2bGch3dFQ46H9RzFF+5Gyg=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "url": "https://www.youracclaim.com/badges/87f13079-edd6-4bc8-8b22-157a99872394/linked_in_profile"
+            },
+            {
+                "authority": "Oracle",
+                "name": "Oracle Database SQL Certified Expert",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1028",
+                    "entityUrn": "urn:li:fs_miniCompany:1028",
+                    "name": "Oracle",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1665755678957/oracle_logo?e=1748476800&v=beta&t=3Pn_zDW8QDzJu6FAB8-p2dfOxXsM2pU4bB8bpQkkVeM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=1748476800&v=beta&t=X9fRhWy6Dd7AvR_ke0JK_ju_ZkEte00_63rKIzW4bdI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1748476800&v=beta&t=vjkOSGlVlL68Zxr6UqLLTCXfLLJsPkAR1zi6_nh42lY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_"
+                        }
+                    },
+                    "universalName": "oracle",
+                    "dashCompanyUrn": "urn:li:fsd_company:1028",
+                    "trackingId": "pC0C+FBISr+lS5i/53j4+Q=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "url": "https://www.youracclaim.com/badges/fc3ed359-cc11-4424-9b28-a115eed4cdb4/linked_in_profile"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Extending Hadoop for Data Science: Streaming, Spark, Storm, and Kafka",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "k2XffDqKSyOB1hQ3MTV3Cg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/f8cd1f2aeaa7e8ff299595fc11f61e5dc6edf57546909e7bb944c7e1e8310264?trk=backfilled_certificate"
+            },
+            {
+                "authority": "Cloud Academy",
+                "name": "The Beginners Guide to Machine Learning and Artificial Intelligence",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3049571",
+                    "entityUrn": "urn:li:fs_miniCompany:3049571",
+                    "name": "QA North America",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=libX8oDZD4-IlMb4-4UGQHt1iCdviKq1xlFnkcpo_sY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=t2NnAb6vqXGe4ewRUOQZJEP6Gh2pPs_utdYpxIDl5x0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=akQMoOngx3JkcAFMfOxfXdb5ZaDWWHuK59SDcHIgrWQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG8QuAdE-D4bw/company-logo_"
+                        }
+                    },
+                    "universalName": "qa-north-america",
+                    "dashCompanyUrn": "urn:li:fsd_company:3049571",
+                    "trackingId": "EbR8CIvMSquGppOqoqi/fw=="
+                },
+                "displaySource": "cloudacademy.com",
+                "companyUrn": "urn:li:fs_miniCompany:3049571",
+                "url": "https://certificates.cloudacademy.com/a04c4781d368e997e6e755a26d1da8913a495d3e.pdf"
+            },
+            {
+                "authority": "Cloud Academy",
+                "name": "The Beginners Guide to Machine Learning and Artificial Intelligence",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3049571",
+                    "entityUrn": "urn:li:fs_miniCompany:3049571",
+                    "name": "QA North America",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=libX8oDZD4-IlMb4-4UGQHt1iCdviKq1xlFnkcpo_sY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=t2NnAb6vqXGe4ewRUOQZJEP6Gh2pPs_utdYpxIDl5x0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=akQMoOngx3JkcAFMfOxfXdb5ZaDWWHuK59SDcHIgrWQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG8QuAdE-D4bw/company-logo_"
+                        }
+                    },
+                    "universalName": "qa-north-america",
+                    "dashCompanyUrn": "urn:li:fsd_company:3049571",
+                    "trackingId": "E2jwPZlFT8iMsWBVEIK+7w=="
+                },
+                "displaySource": "cloudacademy.com",
+                "companyUrn": "urn:li:fs_miniCompany:3049571",
+                "url": "https://certificates.cloudacademy.com/a04c4781d368e997e6e755a26d1da8913a495d3e.pdf"
+            },
+            {
+                "authority": "Cloud Academy",
+                "name": "The Basics of Data Management, Data Manipulation and Data Modelling",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3049571",
+                    "entityUrn": "urn:li:fs_miniCompany:3049571",
+                    "name": "QA North America",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=libX8oDZD4-IlMb4-4UGQHt1iCdviKq1xlFnkcpo_sY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=t2NnAb6vqXGe4ewRUOQZJEP6Gh2pPs_utdYpxIDl5x0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=akQMoOngx3JkcAFMfOxfXdb5ZaDWWHuK59SDcHIgrWQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG8QuAdE-D4bw/company-logo_"
+                        }
+                    },
+                    "universalName": "qa-north-america",
+                    "dashCompanyUrn": "urn:li:fsd_company:3049571",
+                    "trackingId": "plv0hIMGTbi8zzOHEsxfUw=="
+                },
+                "displaySource": "cloudacademy.com",
+                "companyUrn": "urn:li:fs_miniCompany:3049571",
+                "url": "https://certificates.cloudacademy.com/a378797965930e8d699fa7de30de560b95de7338.pdf"
+            },
+            {
+                "authority": "Cloud Academy",
+                "name": "Zero to Deep Learning Bootcamp Two - Getting Started With Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3049571",
+                    "entityUrn": "urn:li:fs_miniCompany:3049571",
+                    "name": "QA North America",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=libX8oDZD4-IlMb4-4UGQHt1iCdviKq1xlFnkcpo_sY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=t2NnAb6vqXGe4ewRUOQZJEP6Gh2pPs_utdYpxIDl5x0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=akQMoOngx3JkcAFMfOxfXdb5ZaDWWHuK59SDcHIgrWQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG8QuAdE-D4bw/company-logo_"
+                        }
+                    },
+                    "universalName": "qa-north-america",
+                    "dashCompanyUrn": "urn:li:fsd_company:3049571",
+                    "trackingId": "Ri9Nft7FQYm8lISFBVd8eA=="
+                },
+                "displaySource": "cloudacademy.com",
+                "companyUrn": "urn:li:fs_miniCompany:3049571",
+                "url": "https://certificates.cloudacademy.com/ecb7d5074895b44dc709e0e55ed7990b28da2184.pdf"
+            },
+            {
+                "authority": "Cloud Academy",
+                "name": "Zero to Deep Learning Bootcamp Three - Working with Convolutional and Recurrent Neural Networks",
+                "company": {
+                    "objectUrn": "urn:li:company:3049571",
+                    "entityUrn": "urn:li:fs_miniCompany:3049571",
+                    "name": "QA North America",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=libX8oDZD4-IlMb4-4UGQHt1iCdviKq1xlFnkcpo_sY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=t2NnAb6vqXGe4ewRUOQZJEP6Gh2pPs_utdYpxIDl5x0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1736177840377/qa_north_america_logo?e=1748476800&v=beta&t=akQMoOngx3JkcAFMfOxfXdb5ZaDWWHuK59SDcHIgrWQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG8QuAdE-D4bw/company-logo_"
+                        }
+                    },
+                    "universalName": "qa-north-america",
+                    "dashCompanyUrn": "urn:li:fsd_company:3049571",
+                    "trackingId": "SLrIuCXMSduCiuQavwKqHw=="
+                },
+                "displaySource": "cloudacademy.com",
+                "companyUrn": "urn:li:fs_miniCompany:3049571",
+                "url": "https://certificates.cloudacademy.com/77935e558d413aaf42b2493829d36c0c9232bd22.pdf"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,761695181,437846607)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "Developed the Mixture Of Agents (MOA), a multi-layer inference system leveraging flexible input model sets from various API vendors, as an advanced iteration of projects like grog-moa and together-moa. MOA integrates multiple APIs, including OpenAI, Groq, DeepInfra, Together, Mistral, Nvidia, DeepSeek, Hugging Face, Anthropic, Google Gemini, Cohere, and Palm2, to aggregate and enhance AI model responses in real-time. Key features include an interactive chat interface, configurable model lists and layers, and real-time response streaming. Demonstrated a CLI showcasing the system’s ability to process and combine outputs from various models. Users can interact with the system through a user-friendly interface, which maintains conversational context and ensures seamless interactions. The project is highly configurable via YAML files, facilitating easy modifications. Licensed under Apache 2.0, the project acknowledges Groq and Together AI for their contributions. More details are available in my Medium article.",
+                "title": "Mixture Of Agents"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,179,180)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "Spools data for a given query or table from MySql database.\nWin32 command-line application.",
+                "title": "CSV*Extractor for MySQL",
+                "url": "https://sourceforge.net/projects/csvextractorformysql"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,175,176)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "Windows command line tool for CSV data load to SQLServer.\nSupports SQLServer 2005, 2008, 2010, 2012",
+                "title": "CSV*Loader for SQLServer",
+                "url": "https://sourceforge.net/projects/csvloaderforsqlserver/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,167,168)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "Command line tool for data export from SQLServer.\nTurbo mode makes multiple parallel call to SQLServer and extracts into multiple files.",
+                "title": "Data Extractor for SQLServer",
+                "url": "https://sourceforge.net/projects/dataextractorforsqlserver/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,160,161)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "Win32 command-line tool lets you copy table data from Oracle to SQLServer database.\nTouch and go design.",
+                "title": "Oracle -> SQLServer DataMigrator",
+                "url": "https://sourceforge.net/projects/datamigratorforora2ss/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,162,163)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "Ad-hoc data replication for SQLServer 2005,2008,2010 and 2012.\nTouch-and-go design requires you to provide just login info, query file with your SQL and target table name.",
+                "title": "SQLServer DataMigrator",
+                "url": "https://sourceforge.net/projects/datamigratorforsqlserverss2ss/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,148,149)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2014
+                    }
+                },
+                "description": "Command line tool for ad-hoc data replication between Oracle databases.",
+                "title": "Data Migrator for Oracle database",
+                "url": "https://sourceforge.net/projects/oracledatamigrator/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,146,147)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "description": "Spools/extracts/dump table or query data from SQL Server 2015, 2008,2012.\nSerial spool creates single dump file.\nTurbo mode offers 5x spool performance improvement.\nSharded turbo more creates multiple files.",
+                "title": "Data Spooler for SQLServer",
+                "url": "https://sourceforge.net/projects/dataspoolerforsqlserver/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,142,143)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2014
+                    }
+                },
+                "description": "Tired of writing SQL*Loader control files?\nNo problem! CSV*Loader will generate control file for SQL*Loader.\nToo slow?\nNo problem!\nCSV*Loader turbo mode may load it 10x faster to your Oracle database than your good old Perl::DBI script.",
+                "title": "CSV*Loader for Oracle",
+                "url": "https://sourceforge.net/projects/csvloaderfororacle/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Olek",
+                            "lastName": "B.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "occupation": "Python/Oracle ETL Developer (with GenAI)",
+                            "objectUrn": "urn:li:member:3584867",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ",
+                            "publicIdentifier": "alexbuz",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZUaH4NfGwAs-/0/1739900028019?e=1741230000&v=beta&t=mIGwyh2pzvLlhtOgqpkdJNeh686l0TApUYuiN6tK92Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZUaH4NfGwAg-/0/1739900028019?e=1741230000&v=beta&t=l-796qwsOQ62-INugunExnqK7nRWu8uorzERcEpdIKw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZUaH4NfGwAk-/0/1739900028019?e=1741230000&v=beta&t=wC25_V1Qqwh1wmjw-glsjAF97An_gUoXRIGczsvdxeg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        },
+                                        {
+                                            "width": 389,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZUaH4NfGwAo-/0/1739900028024?e=1741230000&v=beta&t=dyUS75M3mI9aK2Zvj1QF7WZ2rCQB6nAGLcokg8hUhV4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 389
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQH7pufwE-1Z0w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RUs3vPdhQe2D56ic6lB5dQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ,144,145)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                },
+                "description": "Exports/Spools scalar data on disk for a given Oracle table.\nTurbo mode spools 5x faster.",
+                "title": "Data Spooler For Oracle",
+                "url": "https://sourceforge.net/projects/dataspoolerfororacle/"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Application Programming Interfaces (API)"
+            },
+            {
+                "name": "Cloud Infrastructure"
+            },
+            {
+                "name": "Annotation"
+            },
+            {
+                "name": "Pandas (Software)"
+            }
+        ],
+        "urn_id": "ACoAAAA2s2MBHdDc0H7ps73WoquSln2Yu83eUiQ"
+    }
+}

@@ -1,0 +1,1833 @@
+{
+    "urn_id": "ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+    "fetch_timestamp": "2025-02-26T21:39:06.050166",
+    "profile_data": {
+        "summary": "I'm passionate individual with a curious mindset to derive solutions from various scenarios. Currently a grad student at Northeastern University with 2.5+ years of work experience in the Health Science sector. As a Data Analyst in Cognizant , with a blend of expertise in Data and Electronics ,I bring a multifaceted approach to solving complex data challenges. My journey from EEE to data engineering has equipped me with a rare combination of hardware understanding and software proficiency.\n\nMy background in EEE, coupled with hands-on projects during my internship at BSNL, has given me a good understanding on IoT and edge computing. I've worked on innovative projects like a CNN-based face recognition system and a density-based traffic control system, showcasing my ability to bridge the gap between hardware and software in data-driven solutions.\n\nI'm proficient in a wide range of technologies, including Python, SQL, Azure cloud services, and IoT platforms. My experience spans from developing ETL pipelines and crafting data visualizations to implementing machine learning models for real-world applications.\nAs a Microsoft Certified Azure Data Engineer Associate, I'm passionate about leveraging cloud technologies to create scalable, efficient data solutions. I'm always eager to take on new challenges that allow me to apply my diverse skill set in data engineering, analytics, and IoT integration.\n\nI'm looking for opportunities to contribute to innovative projects that push the boundaries of data engineering, particularly those that intersect with IoT and smart systems. Let's connect if you're working on exciting data challenges that could benefit from my unique blend of skills!\n\nLanguages: Python, SQL, TSQL, Scala, Java, R, PHP, Jenkins, C++\nTools: Databricks, Hive, Hadoop, Stream Analytics, Drupal, Talend, ADF, Alteryx, Tableau, Power BI, ERStudio, Apache Nifi, Spark, Kafka , Amazon Redshift, RDS, Athena\nDatabases: DynamoDB , CosmosDB, ArrangoDB, Cassandra, AzureSQL, ADLS Gen2, MongoDB, PostgreSQL, Synapse, DBeaver",
+        "industryName": "Information Technology & Services",
+        "lastName": "girish",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "shushil",
+        "entityUrn": "urn:li:fs_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102380872"
+        },
+        "geoLocationName": "Boston, Massachusetts",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+        "profile_id": "ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+        "member_urn": "urn:li:member:807776667",
+        "public_id": "shushilgirish",
+        "experience": [
+            {
+                "locationName": "Tamil Nadu, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,2013319545)",
+                "geoLocationName": "Tamil Nadu, India",
+                "geoUrn": "urn:li:fs_geo:101436253",
+                "companyName": "Cognizant",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "• Led cross-functional BI working groups managing Drupal-based content sites for Healthcare, Life Sciences, and Retail sectors across US, LATAM, and Japan markets\n• Optimized T-SQL queries using best practices to enhance data integrity, reducing response time and improving overall data reliability\n• Implemented real-time data capture from medical IoT devices using Azure Event Hubs and loading into ADLS after processing in Stream Analytics\n• Orchestrated biostatistical computations on Azure, enabling distributed processing of statistical models to reduce time-to-insight for clinical trials by 20%\n• Developed toxicity prediction models using cheminformatics workflows, leveraging scikit-learn and Azure Machine Learning, resulting in a 20% improvement in toxicological endpoint predictions\n• Created Tableau dashboards for biomarker discovery and patient enrollment tracking, leading to a 30% increase in post-market surveillance effectiveness",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1680",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHjkUYrDIUKYA/company-logo_"
+            },
+            {
+                "locationName": "Chennai, Tamil Nadu, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,2040837856)",
+                "geoLocationName": "Chennai, Tamil Nadu, India",
+                "geoUrn": "urn:li:fs_geo:114467055",
+                "companyName": "Bharat Sanchar Nigam Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "During my internship at BSNL, developed the following projects.\n\n1.Face Recognition Attendance-Based System using CNN:\n• Developed a system utilizing Raspberry Pi with BroadCom ARM11 processor for high-performance computing tasks, integrating PL011 UART and XBee for enhanced throughput\n• Created and curated a dataset of 150+ facial images for training a Convolutional Neural Network (CNN) model, incorporating max pooling for effective dimensionality reduction\n• Implemented backpropagation and Stochastic Gradient Descent (SGD) algorithms to improve facial recognition accuracy\n• Integrated LM35 temperature sensor to detect user body temperature, employing a piezoelectric buzzer to alert for high-temperature individuals\n\n\n2.Density-Based Traffic Control System Using IR Sensors:\n\n• Designed a real-time IoT traffic system using Arduino 328 microcontroller and 48xx IR modules\n• Optimized hardware architecture with LM2596 voltage regulator to enhance efficiency and signal transmission between sensors and microcontroller\n• Integrated Azure IoT Hub to capture data streams from IR sensors, processing them with Azure Stream Analytics before storage in Azure Data Lake Storage (ADLS)\n• Utilized K-means clustering in Azure Machine Learning for pattern recognition, improving signal optimization based on historical data from ADLS\n• Developed real-time Tableau dashboards to visualize traffic trends, facilitating informed decision-making",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "title": "IoT Implant Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10320",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFeqSn-BIRwcg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,237008708)",
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,237048495)",
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,237089270)",
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,237158296)",
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,237190796)",
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,310060289)",
+                    "urn:li:fs_course:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,310096056)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,236706542)",
+                    "urn:li:fs_project:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1310239648)",
+                    "urn:li:fs_project:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1999672413)",
+                    "urn:li:fs_project:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,720628330)",
+                    "urn:li:fs_project:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1133188241)",
+                    "urn:li:fs_project:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1134878373)"
+                ],
+                "description": "1.Data  Management and Database Design\n2.Advanced Data Architecture with Business Intelligence\n3. Data Science Engineering Methods and Tools\n4.Advanced Database Management Systems",
+                "degreeName": "Masters in Information system ",
+                "schoolUrn": "urn:li:fs_miniSchool:18506",
+                "entityUrn": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "school": {
+                    "objectUrn": "urn:li:school:18506",
+                    "entityUrn": "urn:li:fs_miniSchool:18506",
+                    "active": true,
+                    "schoolName": "Northeastern University",
+                    "trackingId": "8YQK9fS6Sdakh/8mfyIYIw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGwTPCvlTQlvw/company-logo_"
+                },
+                "grade": "3.52",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101468",
+                "schoolName": "Northeastern University",
+                "fieldOfStudy": "Management Information Systems, General"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,647228992)",
+                "grade": "3.204",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Anna University Chennai",
+                "fieldOfStudy": "Electrical and Electronics Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3244932"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Malayalam",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Cambridge University Press & Assessment English",
+                "name": "Business English Certificate Vantage",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "Cambridge English Level 1 Cetificate in ESOL International",
+                "company": {
+                    "objectUrn": "urn:li:company:785621",
+                    "entityUrn": "urn:li:fs_miniCompany:785621",
+                    "name": "Cambridge University Press & Assessment English",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1650876513245/cambridge_university_press_assessment_english_logo?e=1748476800&v=beta&t=JJlDZHrhJyN6MfZ8N83MFJUETjwhtwDuQ8SvO6RD9KM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1650876513245/cambridge_university_press_assessment_english_logo?e=1748476800&v=beta&t=8iMGjGAhc5MOCBVYtnjUS6TtXaF9hCuAc5OSmGmqKZI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1650876513245/cambridge_university_press_assessment_english_logo?e=1748476800&v=beta&t=h0Aw9eYopNMOVPAc8S4JKWSYr7Ekw0v68-8lhuqi02E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF764moHT29Og/company-logo_"
+                        }
+                    },
+                    "universalName": "cambridge-university-press-assessment-english",
+                    "dashCompanyUrn": "urn:li:fsd_company:785621",
+                    "trackingId": "YerkXxXoS3+ALv3n5c0r4w=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:785621"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Project management",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "JSLPnWq9TYivYTw7tI43vw=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-768ae2ca-6aa8-4310-8528-f7fa4eb294e5.pdf"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Understanding Jira for users, managers and admins",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "UC-953219c3-6133-434c-a836-709552c4ff18",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "NUL1RQCbQOuvmj2I3MXwJg=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-953219c3-6133-434c-a836-709552c4ff18.pdf"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Analyzing and Visualizing Data with Microsoft Power BI",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "9811628edd97384c49f399b4aa31b59769cd80211c77585449b04d0dd8378a1a",
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "lrhlJTA6ShyWzbjmlsFArw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/9811628edd97384c49f399b4aa31b59769cd80211c77585449b04d0dd8378a1a"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Talend Data Integration Certification Preparation ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "0XpBxKXwRdmw5Qjpskm2oA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/share/d1c2fadd789e08105cd0fd6098d547e9"
+            },
+            {
+                "authority": "Coursera",
+                "name": "IBM Certified Data Engineer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "nMZ8hD7AQzSg5lENYl2NjQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/share/6d6cba1d6355bedd0643127bf5e8be89"
+            },
+            {
+                "authority": "IBM",
+                "name": "Python for Data Science,AI&Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1009",
+                    "entityUrn": "urn:li:fs_miniCompany:1009",
+                    "name": "IBM",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=zHeAjCw0RqrCIkE6mX6SUBWvprXp-I7zwQDRPC6sADQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=Fw1QxzUEE_V2mo9pQSFj1XIQGhLufQQ_V0LuqcvZmPU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=a1cVulUOABP3sgsU0NS0Q4XJS5CyihE41DlKZ_udALU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                        }
+                    },
+                    "universalName": "ibm",
+                    "dashCompanyUrn": "urn:li:fsd_company:1009",
+                    "trackingId": "XliizYGpSX61zJXGVVTQBQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:1009",
+                "url": "https://coursera.org/share/846d0eed13f25f83a3ea09a5afd2a768"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Google Cloud Big Data and Machine Learning Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "Wpijlm5HThatLpV8uk/tGA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/share/ea92d0867a363c84c991be7f10f42e10"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Microsoft Certified: Azure Data Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "fpWr1rOHSO+gz3gY5nXjAA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/share/0e0c5612427968c3ef9e140d4c5454ba"
+            },
+            {
+                "authority": "Microsoft",
+                "name": "Microsoft Certified: Azure Data Engineer Associate",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "773F5F1048F82EE2",
+                "company": {
+                    "objectUrn": "urn:li:company:1035",
+                    "entityUrn": "urn:li:fs_miniCompany:1035",
+                    "name": "Microsoft",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=cXVZCE8mOgVaEaaKyfowShM37-NEhqJEOr76Lys85q8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=3X-8oGwA0eTRLVUD7NwBSX-Ifcw0dUO0toOun1UxQS0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+                        }
+                    },
+                    "universalName": "microsoft",
+                    "dashCompanyUrn": "urn:li:fsd_company:1035",
+                    "trackingId": "gBcT8UlMTD6V1ceBepE1fQ=="
+                },
+                "displaySource": "microsoft.com",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "url": "https://learn.microsoft.com/api/credentials/share/en-us/ShushilGirish-0326/773F5F1048F82EE2?sharingId"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Event Manager",
+                "companyName": "RMD ENGINEERING COLLEGE",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Coordinated florists, photographers, and musicians for events.\nDeveloped detailed event reports, documenting all aspects of each event.\nUtilized job-related software to create standard guidelines, calendars and budgets for each event.\nDelivered prompt payment for event vendors, venues, staff and transportation providers.\nCreated detailed timelines and budgets for events to meet all deadlines.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:20473309",
+                        "entityUrn": "urn:li:fs_miniCompany:20473309",
+                        "name": "RMD ENGINEERING COLLEGE",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630613562840?e=1748476800&v=beta&t=uXE3N3yexuGvnNnCrt7jm3HkV77KhVvm2uxApYkdKd0",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630613562840?e=1748476800&v=beta&t=9LOZur95_vosGbM0O9oFEtqj3dCotN4I9yaWM0xPG_Y",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630613562840?e=1748476800&v=beta&t=GrXxe2JW5hj7TvUeCUFmvBI8anyjVDzai3Si0RU1FGg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQEOI-Qx5EHd7w/company-logo_"
+                            }
+                        },
+                        "universalName": "rmd-engineering-college",
+                        "dashCompanyUrn": "urn:li:fsd_company:20473309",
+                        "trackingId": "/Yp+8KxbRK+US47TxIwjhA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:20473309"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,309011507,449569551)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "description": "Automated Airflow pipeline to ingest top 200 Spotify albums from Kaggle API into Azure Blob Storage\nProcessed Data Factory pipelines to run Databricks and Synapse notebooks for big data transformation and analysis\nDeveloped RandomForest model with GridSearchCV encoded categorical features, achieving R2 of 0.82 and MSE of 12.4\nEvaluated model using 5-fold cross-validation and visualized charts, SHAP summary and scatterplots for actual vs predicted\nAnalyzed feature importance using SHAP values. Identified energy-tempo interactions and chart features as key predictors",
+                "title": "Azure Spotify ML Pipeline and Data Warehousing Project"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1134878373,450420694)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2024
+                    }
+                },
+                "description": "- Spearheaded data preprocessing by handling null values, standardizing formats, and engineering new features like \"Dose_mg\" from product titles using Python regex, enabling dosage-specific insights for downstream analysis.  \n- Performed comprehensive exploratory data analysis (EDA) using univariate, bivariate, and multivariate approaches. Univariate analysis identified 5 mg as the most consumed dosage and highlighted brand-wise product distribution. Bivariate analysis revealed that \"Nature's Perfect Night\" had the most consistent high review scores, while multivariate analysis correlated review sentiment with flavor, dosage, and form, uncovering that tablets of strawberry flavor had the highest satisfaction scores.  \n- Built a robust NLP pipeline for sentiment analysis, extracting polarity, subjectivity, and consumer sentiment trends. Leveraged N-grams (bigrams and trigrams) to identify key consumer behavior phrases like \"fall asleep fast\" and \"help sleep better,\" while word cloud analysis revealed dominant positive terms like \"good,\" \"great,\" and \"help,\" underscoring strong customer approval.  \n- Delivered actionable business insights by identifying 5 mg as the preferred dosage, tracking a 60x surge in consumer reviews from 2010 to 2024, and highlighting that 80% of users recommended melatonin products.  \n- Analysis of user behavior indicated that most users consume melatonin 20 minutes before bed, shaping product usage recommendations and strategic messaging for stakeholders.",
+                "title": "Sentiment Analysis of Amazon Melatonin Product Reviews"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1133188241,450418886)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "description": "Data Profiling, Cleaning & Integration\n- Conducted data profiling using Y-data Profiling and Talend to identify and address missing data\n- Standardized variable formats, removed duplicate records, and staged Chicago and Dallas rows with 0% data rejection\n\nETL Design & Workflow Execution\n- Designed and executed ETL pipeline in Talend using tMap, tUniqRow, tLogRow, and tUnite components\n- Processed data in under 50 seconds, improving ETL performance by 25%\n\nData Warehouse Design & Dimensional Modeling\n- Created star schema with 7 dimension tables and 2 fact tables\n- Established foreign key constraints and surrogate keys for efficient lookup joins and historical tracking\n\nData Transformation & Normalization\n- Consolidated Dallas violation codes into a normalized field and applied rule-based logic for inspection results\n- Harmonized Chicago and Dallas violation codes using unique prefixes for standardized reporting\n\nData Visualization & Analytics\n- Built dynamic dashboards in Power BI and Tableau for key metrics visualization\n- Enabled stakeholders to analyze inspection trends, risks, and outcomes\n\nMachine Learning for Risk Prediction & Anomaly Detection\n- Developed predictive models using Logistic Regression, Random Forest, Decision Trees, and XGBoost\n- Improved predictive accuracy by 20% for proactive decision-making",
+                "title": "Food Inspection Data Analysis for Chicago and Dallas"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,720628330,442781435)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Chinmay",
+                            "lastName": "Deshpande",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADaYg3kB15GREAO6HsotqN2r5KFK-7SJtX8",
+                            "occupation": "Product Intern @Ottometric | MS Information Systems | Northeastern University",
+                            "objectUrn": "urn:li:member:915964793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADaYg3kB15GREAO6HsotqN2r5KFK-7SJtX8",
+                            "publicIdentifier": "chinmaymd",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1701589208063?e=1741230000&v=beta&t=4ObY47IYjgCb924mDsPeMXewc6p6KIJvxaieV8i_rNw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1701589208063?e=1741230000&v=beta&t=zOpzL4sJATYhqXjbw1Hzp9o_jpvP_64gZER_fBAvvg4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1701589208063?e=1741230000&v=beta&t=WWzLnZL94sBhLzAgJO8htx_2ULue8kjnAc9vGdfMdcU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1701589208063?e=1741230000&v=beta&t=sxp8OJTiVMt0zC7Av8lFIZ8AS3B-6wnIW72iRL8AaS4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQFMHVKrf8CMRQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jWv/Wbl2SnqZGqcdhxAReA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,720628330,442783338)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADaYg3kB15GREAO6HsotqN2r5KFK-7SJtX8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Shreya",
+                            "lastName": "Thakur",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD48z-oBeW9Gcjj-zzFgrLg9GkVGYovM8b0",
+                            "occupation": "Northeastern University Graduate Student | Information Systems Major | Data Analyst | UI/UX Designer | Product Manager",
+                            "objectUrn": "urn:li:member:1044172778",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD48z-oBeW9Gcjj-zzFgrLg9GkVGYovM8b0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698989671173?e=1746057600&v=beta&t=M3e_JzS6kMn6XxohS0oZIrYvp1i4p3PPYBu8XOBzMmw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698989671173?e=1746057600&v=beta&t=1ykf-sc9LIAz1FYaH07QZ8MJMspv1l6aC_n4GBF3SXM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGIdGs6rYSb3g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shreyajthakur",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1698993927785?e=1746057600&v=beta&t=rY-DqnfNlP3SKspiIVKJjv2kr96oIj6lakR-GXPpl4o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1698993927785?e=1746057600&v=beta&t=RkZ53HUot0XkJsJkjYjjXtDiL4R559xxCm_gVbwzKxo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1698993927785?e=1746057600&v=beta&t=ULNZSzVEOd7-wSz8E_r1S9qFbifDeurOyH4x3QY6Jt4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1698993927785?e=1746057600&v=beta&t=raOCxf6zyaFYUziOGaUar4Olbfm5F-6ZbPhqnt5gyTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFH6GqHecgzZg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "zxp0iG+kT6udB5VY131p7A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,720628330,442785094)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD48z-oBeW9Gcjj-zzFgrLg9GkVGYovM8b0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "description": "• Utilized Alteryx to analyze datasets from Austin, Chicago, and NYC, identifying 21.6% to 29.5% missing data, which facilitated\ntargeted data cleaning strategies, enhancing overall data integrity for subsequent regression analysis\n• Designed star schema model,enhancing multidimensional querying and predicting algorithm performance by 30%\n• Executed ADF data pipelines to load 2 million records into staging tables with 0 data rejection, ensuring high-quality data\nintegration.Leveraged SCD Type-2 to track contribution factors,improving historical trend and time analysis by 25%\n• Crafted PowerBI visualizations highlighting 35% reduction in accident occurences over time and injury analysis displaying\n25% decrease in severe injuries,providing actionable insights which reduced accidents with targeted interventions by 15%\n• Merged city datasets to optimize storage and retrieval processes.Implemented ML algorithms such as random forests and\ngradient boosting on top ,improving predictive insights generated for traffic management resource allocation by 15%",
+                "title": "Motor Vehicles Collision Crash Analysis Report(CHI,AUS,NYC)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1999672413,423460013)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "description": "a comprehensive analysis and visualization endeavor that leverages an extensive dataset of 311 service requests from Kansas City, spanning from 2007 to March 2021. This project exemplifies the power of data to uncover insights and inform decision-making processes within municipal services.\nKey Achievements:\nData Profiling & Integrity Analysis: Utilized Alteryx,ydataprofilling and Talend Prep Builder to profile the dataset, identifying,understanding the data behaviour for transformations  and documenting key data quality issues such as missing values, duplicates, and inconsistencies, setting a strong foundation for accurate analysis.\nDatabase Integration: Using Talend Data Studio, successfully staged,denormalized for analytics and integrated cleaned data into Dimensional Model, creating 6 tables out of this dataset, including Azure SQL and SSMS, ensuring seamless data accessibility,readability and management .\nDynamic Visualizations: Developed insightful dashboards in Power BI and Tableau, revealing trends and patterns in service requests over time, source, departmental workloads, and response times, among others.\nGeospatial Analysis: Highlighted geographical distribution of service requests, pinpointing areas with the highest demand, aiding in resource allocation and planning.\nEfficiency & Performance Metrics: Evaluated departmental workloads and response efficiency, offering valuable metrics for improving city services and response strategies.\nTools & Technologies Used:\nAlteryx,ydataprofilling and Tablue Prep Builder for data preparation and profiling\nSSMS and Azure Data Studio for database management\nPower BI and Tableau for advanced data visualization and dashboard creation",
+                "title": "End-to-End Data Analysis and Visualization Project: Insights from Kansas City's 311 Service Requests (2007-2021)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,236706542,415637031)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Aneesh",
+                            "lastName": "Koka",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZdMP4BOX5-6Bb5StlWILLraKXLkfS7QWQ",
+                            "occupation": "AI Engineer Co-op @ Vizit | Graduate Student at Northeastern University",
+                            "objectUrn": "urn:li:member:912077054",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZdMP4BOX5-6Bb5StlWILLraKXLkfS7QWQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 306,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1738594893002?e=1746057600&v=beta&t=DkZ7Q-GwEjeeQwUrwa12SpruhAqMoAMnbztsHFD-kNE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 77
+                                        },
+                                        {
+                                            "width": 306,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738594893002?e=1746057600&v=beta&t=Sqn34h4Z5a47rj4vmU5dLcHygB-LxvMUbLRp3c51gxg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 77
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFjv8KWWZqeAA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "aneeshkoka1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727208616408?e=1746057600&v=beta&t=H0RAs5qLuXpm_fgLE_FH0rNV5s8DOE8OWAZDTyjSWOU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727208616408?e=1746057600&v=beta&t=GDpWwSk_EbGCcKk_AEqC-EOFzyF2Etjo-t30fmE4azw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727208616408?e=1746057600&v=beta&t=ZQHEdMJLDW7EgSC7XZ4oEnLz-KHExf4YRMP1S3Oj1Vo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727208616430?e=1746057600&v=beta&t=6kVYI7Jmn4ojXH4_4ni3mKQh2twvQ17DYtpHIuAtBjE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGOD08dHigYow/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "78BX0toHRgKIfaRvP7Kn0w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,236706542,415634383)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZdMP4BOX5-6Bb5StlWILLraKXLkfS7QWQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dev Mithunisvar",
+                            "lastName": "Premraj",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACoIrXgBMoXD_hW22RZB9D_tXMt1WpK9-tE",
+                            "occupation": "Graduate student at Northeastern University | Tableau | Python | SQL | ADF| Generative AI",
+                            "objectUrn": "urn:li:member:705211768",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACoIrXgBMoXD_hW22RZB9D_tXMt1WpK9-tE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1726534849783?e=1746057600&v=beta&t=qe0QRrJezJ1-UQ1q7i3Xh5iK6lBo7ai8LPySx7q1FsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726534849783?e=1746057600&v=beta&t=pLv3q_9FOQS5tYjD5FcGU2frH1zpQYsQmuI6Xb06CsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHLVIxAdsIHKg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "dev-mithunisvar-premraj",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1723760833563?e=1746057600&v=beta&t=kv3bjfK_wWcVCBTYd_n9-p2zdxeaSMIrSL48yuwJ6to",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1723760833563?e=1746057600&v=beta&t=zQ5D1cmbSTQQAiKBcBfmiMRSfOMfUE8e5_Ygtf8ADpM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1723760833563?e=1746057600&v=beta&t=wV8DbgPABAWIJMp3MlnQG1V8GRWdVRoOYE2Oq8OuWeY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1723760833583?e=1746057600&v=beta&t=OA7ALW3hdGwXcILN_zcHloyQXBKgDPRRnDckAMLkivU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQH41xkKQTGtlQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "EsReerSBSvGHipNERtbUvQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,236706542,415631497)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACoIrXgBMoXD_hW22RZB9D_tXMt1WpK9-tE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Pranav Krishna",
+                            "lastName": "Anand",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD61yJkB4ZbhJ5HbjvKKGNL6U4xf0YtaJSk",
+                            "occupation": "DevOps Product Intern @ Opsera | Top Voice x1 | Master of Science in Information Systems | CI/CD Pipeline Automation, Kubernetes, Terraform | AZ-900, AZ-104, HashiCorp-Terraform Certified",
+                            "objectUrn": "urn:li:member:1052100761",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD61yJkB4ZbhJ5HbjvKKGNL6U4xf0YtaJSk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1715395955644?e=1746057600&v=beta&t=VwIYrd-hTIDBhAHi_CCgUPC5eN9uhlRdg7xXM3N70Dk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715395955644?e=1746057600&v=beta&t=kZoMTlwc_Y0vlBGqCSVrgwFxsS7m59N_rEoD1IknW7E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGE-7HhXIvZCw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "pranavkrishna14",
+                            "trackingId": "V/ZIW8KNSzKKRoTsbWRlMA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,236706542,415634384)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD61yJkB4ZbhJ5HbjvKKGNL6U4xf0YtaJSk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": "1.Developing efficient and resillent systems for disaster response and healthcare management to ensure timely,effective care and resource allocation in crisis situation\n2. Developed a Disaster Management System Application with HealthCare Organisation,Government,Fund Relief,Volunteer and Donation Campaign,Media Industry and Armed Forces inorder to handle catastropic crisis and inhance wellfare of the affected people.\n3. Constructed UI/UX models for  with Netbeans and Java,improving people-userinterface response time to 20%.\n4.Integrated Database Server with Java Application using SQL connector module to provide records data management, boost application perfomance and security handling.\n5. Created analysis using JFreeChart model and PowerBi from the records to provide visualization for determining maximum damaged cities,disaster magnitude,doctor's income,patient medical expenses",
+                "title": "Disaster Management System with Healthcare"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,913573655)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "shushil",
+                            "lastName": "girish",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "occupation": "Grad student @ Northeastern University | Actively Seeking for Summer Full time Opportunities| Information System | Microsoft Certified: Azure Data Engineer Associate | Data Engineer| Data Analyst | Ex-Data Analyst@ CTS",
+                            "objectUrn": "urn:li:member:807776667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698137350816?e=1746057600&v=beta&t=4IcJoBTUpev6-em4tQX9GeB0pCLZQGOoeI2ikWCDZSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698137350816?e=1746057600&v=beta&t=g5nv5bWqHEYiCO0qnXXaLGJtlrsHkJ52NFMteGnOV1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGdha-2xUGQOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shushilgirish",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728363485131?e=1746057600&v=beta&t=mtxt2ZFgNTwb1yTVRxCo0R-rSWskcBwYMZasR0vAK_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728363485131?e=1746057600&v=beta&t=wZR49sFl2X14-knNtQfd1vJrz8di2g-7f17EdYxqVTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728363485131?e=1746057600&v=beta&t=k1GHGwKXwxF9smbw3iGLUr3J8h0UIvrd6Gt6NfNAllY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728363485127?e=1746057600&v=beta&t=SylVluQosDVqKB_SQZYcNbHcSL3zLgelsR-lZgPQFvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH1NJuIC2vNXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0tQCN/cGQpG8PUdb95kmVg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1310239648,423453969)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+                    },
+                    {
+                        "member": {
+                            "firstName": "SAHIL",
+                            "lastName": "RUPARELIA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADCm8uwBhm9i7_3N7zcvkIXjqJXhKUOTHWE",
+                            "occupation": "Actively Seeking Full-Time Opportunities | MS Information Systems @ Northeastern | Ex-Senior Analyst, Capgemini",
+                            "objectUrn": "urn:li:member:816247532",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADCm8uwBhm9i7_3N7zcvkIXjqJXhKUOTHWE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1725833143348?e=1746057600&v=beta&t=lthMJyTrsogVDdTxHEckiddnR5GWimdaq3jCgnl41bw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725833143348?e=1746057600&v=beta&t=VoUywCeCqs5K5h5X3nsJLDodw7am_7AxC2ymRrdswHs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG3aLU-v8thRw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sahilruparelia",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1738631365140?e=1741230000&v=beta&t=b2VyU-KBiFCCN9BOQ4jA7EAhDGq_F_q-qnde8P6XpdE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1738631365140?e=1741230000&v=beta&t=IJ2bV2L9_mK-KlIsOFv4rPqofYUMcgIi4myjwak3OLo",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1738631365140?e=1741230000&v=beta&t=RJVkw87QucRA9n7E1OcygOS4DH5Mfb82HKCww_xyoXw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1738631365113?e=1741230000&v=beta&t=MeFplx9aLapfQwCk8Ykj7mpzOjf4UKIEmxOG_CcPQtI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQGugyLdM9paCQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XUpfYofUSQatcQMWJIWavQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1310239648,423460014)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADCm8uwBhm9i7_3N7zcvkIXjqJXhKUOTHWE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Yashraj",
+                            "lastName": "Kadam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbSTDwBEkgb3zcdrfoLBM3Tq-Dk-g873h4",
+                            "occupation": "Masters in Information Systems at Northeastern University, Boston | Ex-Central Defects Manager, P&G account, DXC Technology",
+                            "objectUrn": "urn:li:member:651316284",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbSTDwBEkgb3zcdrfoLBM3Tq-Dk-g873h4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698725640505?e=1746057600&v=beta&t=K42A8YoDllEagR86I_lNRUnqwXmstoDZWOvlK-acL1o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698725640505?e=1746057600&v=beta&t=FnSqYfhylBhhnKRRxvyxmQ0igWA2LyXtojDo--m1tZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGaZF0btvCInw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yashraj-kadam06",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1698719658522?e=1746057600&v=beta&t=h_sx4JRmbLshwlUko_AJHKKKskCt4dZXSf2B_EujBwo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1698719658522?e=1746057600&v=beta&t=GvdBncZiyGhEpYCJ8eKcjhoePO1aBf5808URGPte48s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1698719658522?e=1746057600&v=beta&t=a2sBwLptAnEySIRpiT2a0K-ruHJSKTOJsbYpgO9t04g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1698719658522?e=1746057600&v=beta&t=4wH5FmqZmxeEI6fmJLH3jRzZppSuvUv3ohwVGsGDSn8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHZkmGauRWi2w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "bj18ostmQryQKX66BeLang=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1310239648,423458107)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbSTDwBEkgb3zcdrfoLBM3Tq-Dk-g873h4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sohni",
+                            "lastName": "Rais",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACfrtyYBeStn3YpWEFjwgmCgBVxuah7R3lY",
+                            "occupation": "Frontend Developer @Northeastern University",
+                            "objectUrn": "urn:li:member:669759270",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACfrtyYBeStn3YpWEFjwgmCgBVxuah7R3lY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1703784589583?e=1746057600&v=beta&t=oSPD8Dhm3ZtLeyYpqoUP-uk7GbwvCQn-1p-znmBqius",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703784589583?e=1746057600&v=beta&t=RSWAROaN9akeEYkQivYS7mhlxlDrU6e6-ToQYBWgPTs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFLCCjDOfThYA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sohnirais",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664437251773?e=1746057600&v=beta&t=vav3eEHhMHYyCkRQsBdEVM97DuuNlO4DThDKjIbNMjY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664437251773?e=1746057600&v=beta&t=EI_vSj9e9WQ4XTv9mP2ZmX5jLNJT2lMWDtjcb_onN5c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664437251773?e=1746057600&v=beta&t=Iex3Rv-1hcIdVtQuxfT9R2gm0ig1doTPFbCwbZwvoiE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664437251773?e=1746057600&v=beta&t=Lbv-uJ3tEYTPqfmuUxUwJso5B35VrxXB-hy4SmOaJm0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEUThnEaavDdg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hBXAduZGRUWzdFJpn7qouw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1310239648,423454911)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACfrtyYBeStn3YpWEFjwgmCgBVxuah7R3lY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Mohammed Anzal",
+                            "lastName": "Shaikh",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADEdp9ABtpvfoLk_WY8syCAMK8XbYVrKSkk",
+                            "occupation": "Prev Cloud Infrastructure Engineering Co-op at Sun Life Financial | Research Assistant at Northeastern University | MS-CSE at Northeastern University Boston | Ex-Accenture",
+                            "objectUrn": "urn:li:member:824027088",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADEdp9ABtpvfoLk_WY8syCAMK8XbYVrKSkk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1719352297769?e=1746057600&v=beta&t=qNyEFMwhiLJ01-584JTbUy-4nLmOHn-j8s7PMZnQslU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355503993?e=1746057600&v=beta&t=dfGh3dgWLsP8KVNLBlH6hhHc0LEiyF_IkGUbNkG7tqc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHnLuv6Kp-yOQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "anzal-shaikh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1701387042891?e=1741230000&v=beta&t=2E1iV-rp4vPwhv1WJ94U9rJSUHFShGcp3VM2ytQXKGM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1701387042891?e=1741230000&v=beta&t=Egl_gPUdwVpjdzeuWTzgyaFtQMuPM-s3RHH6UVRa180",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1701387042891?e=1741230000&v=beta&t=xwBh_nA0A21efOTrkLSiadgZeu1Zv31uSrsM5TZxs98",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1701387042891?e=1741230000&v=beta&t=GhtWlgKESCiN0Yn8ApSvvaJdgImgu0MouXldaDUD92c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQE1oaSmbA0U5Q/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "LXeWPJSERUCdXWPWmlD2Eg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0,1310239648,423460015)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADEdp9ABtpvfoLk_WY8syCAMK8XbYVrKSkk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": "1)Developed a centralized database system to improve data management in hospitals, enhancing operational efficiency, data consistency, and patient care.\n2) Implemented a unified platform for managing patient records, departmental data, staff information, and medical services, resulting in improved data accuracy and enhanced security.\n3) Implemented GUI with CRUD operations using PyQt5 library and utilized Power BI for data visualization.\n4) Technologies/Tools used – SQL Server Management Studio (Client), SQL server, Python, Power BI.",
+                "title": "HealthCare Management System"
+            }
+        ],
+        "skills": [
+            {
+                "name": "TensorFlow"
+            },
+            {
+                "name": "Keras"
+            },
+            {
+                "name": "Pandas"
+            },
+            {
+                "name": "ER/Studio"
+            }
+        ],
+        "urn_id": "ACoAADAlsZsBTs-WtFOrULSdBaTnJLYN6wchPu0"
+    }
+}

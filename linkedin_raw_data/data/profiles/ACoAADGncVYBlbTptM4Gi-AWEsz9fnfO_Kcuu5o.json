@@ -1,0 +1,735 @@
+{
+    "urn_id": "ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+    "fetch_timestamp": "2025-02-26T21:30:58.207464",
+    "profile_data": {
+        "summary": "I am a Data Analysis Enthusiast. Currently, I am enrolled in my third semester of a master's degree in Data Analytics Engineering. Over the years, I have developed relevant analytical skills, such as SAP ABAP development, web development, and database management, during my internship as an undergraduate student. My experience includes working as a ABAP developer to manage data and provide visual insights. I have experience in statistical analysis and mathematical concepts. As part of my Major Projects, I have advanced knowledge in the field of Model Building in Machine Learning, and developing data ETL pipelines. I have excellent communication skills and a goal-oriented vision in data computation field. I believe my skills and enthusiasm make me a valuable asset to any organization.\n\nLanguages: Python, Java, JavaScript\nDatabases: MySQL, PostgreSQL, MongoDB, Oracle, SAP ASE\nData Visualization Tools: Tableau, PowerBI, SAP SAC, Fiori UI5 Framework\nInterests: Data Analytics, Data Visualization",
+        "industryName": "Financial Services",
+        "lastName": "Savani",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:43",
+        "firstName": "Fenil",
+        "entityUrn": "urn:li:fs_profile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Financial Data Analyst @Timbuktu Wealth Management | Ex -Financial Planning & Analyst @Circle Graphics. MS in Data analytics student @NEU",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQF_VJyg-fsEMA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1707417872599?e=1741230000&v=beta&t=QNah7cfOZnxjCruU2gCvUs5KZfvaDTwRB04Po89SxHo",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1707417872599?e=1741230000&v=beta&t=1svO8ueOVRca-d5m00GNjOzbXSANg-aXxXInhtRbJ18",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1707417872599?e=1741230000&v=beta&t=R57Kp8RPk4AHYcKJL3mwQ2JFCtuRmV6bh_g8tA9omv8",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1707417872599?e=1741230000&v=beta&t=Eu3t_miilN0AC9WO26eMj_XEJRX6YIdUFd7xUE8d2J0",
+        "profile_id": "ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+        "member_urn": "urn:li:member:833057110",
+        "public_id": "savanifenil",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,2339323785)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Northeastern University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Teaching Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5274",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGwTPCvlTQlvw/company-logo_"
+            },
+            {
+                "locationName": "Boston, Massachusetts, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,2339326599)",
+                "geoLocationName": "Boston, Massachusetts, United States",
+                "geoUrn": "urn:li:fs_geo:102380872",
+                "companyName": "Timbuktu Capital Management, LLC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "description": "• Conducted in-depth equity research, identifying undervalued stocks with an average annual returns.\n• Developed statistical asset allocation model outperforming traditional benchmarks.\n• Achieved monthly cost savings through derivative hedge techniques during market downturns",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Financial Data Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:840452",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHb13apqI2h8w/company-logo_"
+            },
+            {
+                "locationName": "Longmont, Colorado, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,2219160866)",
+                "geoLocationName": "Longmont, Colorado, United States",
+                "geoUrn": "urn:li:fs_geo:105777453",
+                "companyName": "Circle Graphics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Printing"
+                    ]
+                },
+                "title": "Financial Planning & Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1108764",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH4QWp0wPIE4w/company-logo_"
+            },
+            {
+                "locationName": "Surat, Gujarat, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,2085187157)",
+                "geoLocationName": "Surat, Gujarat, India",
+                "geoUrn": "urn:li:fs_geo:101866859",
+                "companyName": "Exomoon Infotech",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "Increased 10% customer retention rate through enabling Kalman & clustering techniques in RStudio to develop products segmentation strategies. Implemented SQL queries to extract and sort data from MySQL database for our statistical and financial model metrics, resulting in 20% increment in investment accuracy with good ROI numbers.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Business Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:83955049",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH5Jm0H_NzVHw/company-logo_"
+            },
+            {
+                "locationName": "Surat, Gujarat, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,2103424796)",
+                "geoLocationName": "Surat, Gujarat, India",
+                "geoUrn": "urn:li:fs_geo:101866859",
+                "companyName": "Digital Sweep",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "description": "Implemented ETL processes to optimize data aggregation from SAC tables, enhancing operational efficiency and achieving an 11% increase in client satisfaction through streamlined sales data analysis. Improved SQL queries to reduce manual data entry by 10% on screens from backend side to avoid multiple entry rates in database. Created 3 Fiori UI5 smart forms, cutting sales report generation time from 15 to 5 minutes for a 65% time efficiency gain.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "SAP ERP DEVELOPER ",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:69172848",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEj0PxsQAbPPw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1236846085)",
+                    "urn:li:fs_project:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1236958953)",
+                    "urn:li:fs_project:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1237228350)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,822506590)",
+                "school": {
+                    "objectUrn": "urn:li:school:18506",
+                    "entityUrn": "urn:li:fs_miniSchool:18506",
+                    "active": true,
+                    "schoolName": "Northeastern University",
+                    "trackingId": "cWNFRIscQOOJRvBDQM9qig==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGwTPCvlTQlvw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Northeastern University",
+                "fieldOfStudy": "Data analytics engineering ",
+                "schoolUrn": "urn:li:fs_miniSchool:18506"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1236637683)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,667284118)",
+                "school": {
+                    "objectUrn": "urn:li:school:3237831",
+                    "entityUrn": "urn:li:fs_miniSchool:3237831",
+                    "active": true,
+                    "schoolName": "P P SAVANI UNIVERSITY",
+                    "trackingId": "yk/C7FAVRAyFK9mX3Kd/gQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEiQ5l_FbETaw/company-logo_"
+                },
+                "grade": "3.6",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "P P SAVANI UNIVERSITY",
+                "fieldOfStudy": "Information Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:3237831"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Foundations: Data, Data, Everywhere",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "KW72689WTWKS",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "jMqUnJDSRxaGcjgPgOqJiA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/KW72689WTWKS"
+            },
+            {
+                "authority": "TimesPro",
+                "name": "TAW10 - ABAP Workbench Fundamentals & TAW12 - ABAP Workbench Concepts  SAP NetWeaver 7.5 ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "4SD67239TSU2",
+                "company": {
+                    "objectUrn": "urn:li:company:3241570",
+                    "entityUrn": "urn:li:fs_miniCompany:3241570",
+                    "name": "TimesPro",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1656877994901/timespro_logo?e=1748476800&v=beta&t=mhEs5u2geDUZf-Qo2PRlG8kH8VogRLGE1pzV6P9g8SQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1656877994901/timespro_logo?e=1748476800&v=beta&t=-TCOVT7g3ctlv97VN2YzKlPPesw1lajnyfsRwcFB9PU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1656877994901/timespro_logo?e=1748476800&v=beta&t=67eyVNUWjEl_y80HsV6Z5vPgLhTfAikP7jGkfxsy0Bk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEWTJ7sFKyH2A/company-logo_"
+                        }
+                    },
+                    "universalName": "timespro",
+                    "dashCompanyUrn": "urn:li:fsd_company:3241570",
+                    "trackingId": "8nHTH9JhRpOGqS2LPaYACA=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:3241570",
+                "url": "https://drive.google.com/drive/u/1/my-drive"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Handheld AR App Development with Unity",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "4F6VP69RH7W7",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "ACMjUEMwTgOPMQyPx6J/KQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/4F6VP69RH7W7"
+            },
+            {
+                "authority": "FINRA",
+                "name": "FINRA Securities License",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "T0388998",
+                "company": {
+                    "objectUrn": "urn:li:company:1342448",
+                    "entityUrn": "urn:li:fs_miniCompany:1342448",
+                    "name": "FINRA",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1656684702749/finra_logo?e=1748476800&v=beta&t=gkNKE2I2yQmhKs83DOVzOlyfE_JskMQONxsFGVgzWEU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1656684702749/finra_logo?e=1748476800&v=beta&t=nkWBm6fGwTAUyaS6jJY6mEzUxHOTgQjiavzv1D0481g",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1656684702749/finra_logo?e=1748476800&v=beta&t=5j4cS216KKZAj9N_R-LzqC4w2NaxZHMPIwlCAg2YpGs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGQ6PoGBC_vZA/company-logo_"
+                        }
+                    },
+                    "universalName": "finra",
+                    "dashCompanyUrn": "urn:li:fsd_company:1342448",
+                    "trackingId": "zDkhyMvHSICl9UJGY37dbQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1342448"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Tax Advisor",
+                "companyName": "Boston Tax Coalition",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "cause": "ECONOMIC_EMPOWERMENT",
+                "description": "Volunteering as a Boston tax coalition service where we provide fully inclusive tax guidance to taxpayers who are not aware of its benefits and help those who are not filing taxes."
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,822506590)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fenil",
+                            "lastName": "Savani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "occupation": "Financial Data Analyst @Timbuktu Wealth Management | Ex -Financial Planning & Analyst @Circle Graphics. MS in Data analytics student @NEU",
+                            "objectUrn": "urn:li:member:833057110",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "publicIdentifier": "savanifenil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1707417872599?e=1741230000&v=beta&t=QNah7cfOZnxjCruU2gCvUs5KZfvaDTwRB04Po89SxHo",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1707417872599?e=1741230000&v=beta&t=1svO8ueOVRca-d5m00GNjOzbXSANg-aXxXInhtRbJ18",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1707417872599?e=1741230000&v=beta&t=R57Kp8RPk4AHYcKJL3mwQ2JFCtuRmV6bh_g8tA9omv8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1707417872599?e=1741230000&v=beta&t=Eu3t_miilN0AC9WO26eMj_XEJRX6YIdUFd7xUE8d2J0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQF_VJyg-fsEMA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "p10b7Cy2QReR30ubgP+7EQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1236846085,384924432)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "I developed a high-quality dataset for a predictive model by collecting and preprocessing data from a Kaggle source on past disease outbreaks. I utilized a stochastic gradient descent algorithm to train a gated recurrent unit model on the prepared dataset. Using the walk-forward cross-validation technique, I fine-tuned the hyperparameters of the model and achieved good recall and F1 scores of up to 75%. To explore the effects of different interventions on disease outbreaks and their spread across the world, I created new data samples through a PyTorch pipeline using a variational autoencoder. I designed a time series and cumulative prediction curve using Tableau to visualize the probability distribution of cases against the outbreak.",
+                "title": "DISEASE OUTBREAK PREDICTION"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,822506590)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fenil",
+                            "lastName": "Savani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "occupation": "Financial Data Analyst @Timbuktu Wealth Management | Ex -Financial Planning & Analyst @Circle Graphics. MS in Data analytics student @NEU",
+                            "objectUrn": "urn:li:member:833057110",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "publicIdentifier": "savanifenil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1707417872599?e=1741230000&v=beta&t=QNah7cfOZnxjCruU2gCvUs5KZfvaDTwRB04Po89SxHo",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1707417872599?e=1741230000&v=beta&t=1svO8ueOVRca-d5m00GNjOzbXSANg-aXxXInhtRbJ18",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1707417872599?e=1741230000&v=beta&t=R57Kp8RPk4AHYcKJL3mwQ2JFCtuRmV6bh_g8tA9omv8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1707417872599?e=1741230000&v=beta&t=Eu3t_miilN0AC9WO26eMj_XEJRX6YIdUFd7xUE8d2J0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQF_VJyg-fsEMA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "p10b7Cy2QReR30ubgP+7EQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1237228350,384920579)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "I designed and implemented a custom database schema to track daily trades and financial data for a portfolio of over 100 assets, which improved data accuracy and reduced processing time by 30%. I developed complex SQL queries to extract key performance metrics and generate custom reports for clients, which resulted in a 25% reduction in report preparation time. Additionally, I utilized ETL tools such as Talend and SSIS to automate data integration and processing, which led to a 50% reduction in data entry errors and improved data consistency. To further ensure data quality, I implemented a data quality control framework to detect and resolve data anomalies, reducing data inconsistencies by 90%. Finally, I collaborated with a team of analysts to develop a custom dashboard in Tableau that provides real-time visibility into portfolio performance, enabling rapid decision-making.",
+                "title": "STOCK MARKET ASSET MANAGEMENT"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,822506590)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fenil",
+                            "lastName": "Savani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "occupation": "Financial Data Analyst @Timbuktu Wealth Management | Ex -Financial Planning & Analyst @Circle Graphics. MS in Data analytics student @NEU",
+                            "objectUrn": "urn:li:member:833057110",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "publicIdentifier": "savanifenil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1707417872599?e=1741230000&v=beta&t=QNah7cfOZnxjCruU2gCvUs5KZfvaDTwRB04Po89SxHo",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1707417872599?e=1741230000&v=beta&t=1svO8ueOVRca-d5m00GNjOzbXSANg-aXxXInhtRbJ18",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1707417872599?e=1741230000&v=beta&t=R57Kp8RPk4AHYcKJL3mwQ2JFCtuRmV6bh_g8tA9omv8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1707417872599?e=1741230000&v=beta&t=Eu3t_miilN0AC9WO26eMj_XEJRX6YIdUFd7xUE8d2J0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQF_VJyg-fsEMA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "p10b7Cy2QReR30ubgP+7EQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1236958953,384926418)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "I analyzed the records of NYC agencies from the past 5 years, and used Pearson correlation analysis to remodel necessary columns. Using Plotly Express, I created various charts and deployed them on Plotly Dash to provide detailed insights into the reasons for accidents across more than 50 counties. Additionally, I created a dashboard GUI on Tableau that includes over 7 visualization charts and integrated filter options to allow users to retrieve records within specific time periods. The dashboard provides a comprehensive view of the analyzed data, making it easier to track and interpret the findings.",
+                "title": "MOTOR VEHICLE CRASH ANALYSIS OF NYC"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,667284118)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fenil",
+                            "lastName": "Savani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "occupation": "Financial Data Analyst @Timbuktu Wealth Management | Ex -Financial Planning & Analyst @Circle Graphics. MS in Data analytics student @NEU",
+                            "objectUrn": "urn:li:member:833057110",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o",
+                            "publicIdentifier": "savanifenil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1707417872599?e=1741230000&v=beta&t=QNah7cfOZnxjCruU2gCvUs5KZfvaDTwRB04Po89SxHo",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1707417872599?e=1741230000&v=beta&t=1svO8ueOVRca-d5m00GNjOzbXSANg-aXxXInhtRbJ18",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1707417872599?e=1741230000&v=beta&t=R57Kp8RPk4AHYcKJL3mwQ2JFCtuRmV6bh_g8tA9omv8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1707417872599?e=1741230000&v=beta&t=Eu3t_miilN0AC9WO26eMj_XEJRX6YIdUFd7xUE8d2J0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQF_VJyg-fsEMA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "p10b7Cy2QReR30ubgP+7EQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o,1236637683,384925405)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "I incorporated data of Yahoo Finance into stock prediction and sentiment analysis. I utilized PyTorch pipeline to collect and preprocess datasets from Yahoo Finance, including text data from news articles and financial reports, and employed Neural Network LSTM techniques to extract sentiment features. To mitigate risk and improve returns, I conducted cross-validation permutations. Additionally, I utilized Linear Discriminant Analysis to train a model for feature selection and achieved an F1 score of 65% in accurately classifying predicted labels for forecasting pre-opening market trends. I created visually appealing Tableau dashboards and Trading Views with nested tree maps and Icicle charts to effectively present the data.",
+                "title": "STOCK PREDICTION AND SENTIMENT ANALYSIS"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Financial Services"
+            },
+            {
+                "name": "Investments"
+            },
+            {
+                "name": "Statistics"
+            },
+            {
+                "name": "Decision-Making"
+            }
+        ],
+        "urn_id": "ACoAADGncVYBlbTptM4Gi-AWEsz9fnfO_Kcuu5o"
+    }
+}

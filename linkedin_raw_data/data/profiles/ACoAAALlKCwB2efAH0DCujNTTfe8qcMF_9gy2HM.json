@@ -1,0 +1,924 @@
+{
+    "urn_id": "ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+    "fetch_timestamp": "2025-02-26T21:32:30.842770",
+    "profile_data": {
+        "summary": "Dr. Krishnaram Kenthapadi has over a 20-year record of advancing new research areas, identifying early trends in AI/ML & influencing thought leadership in industry, shaping the technical vision, development & launch of new AI products, and steering company-wide initiatives in new domains. As the Chief Scientist, Clinical AI at Oracle Health, he leads the AI initiatives for Clinical AI Agent & other Oracle Health products. Previously, as the Chief AI Officer & Chief Scientist of Fiddler AI, he led initiatives on generative AI, AI safety, observability & trustworthiness. Previously, he led the responsible AI initiatives in Amazon AWS AI platform, and shaped new initiatives such as Amazon SageMaker Clarify from inception to launch. Before that, he was part of the LinkedIn AI team, where he led a large-scale responsible AI deployment in industry (fairness-aware LinkedIn Talent Search), incubated responsible AI initiatives, and shaped the scientific roadmap for new products such as LinkedIn Salary, and prior to that, he was a researcher at Microsoft Research Silicon Valley Lab.\n\nKrishnaram has advanced the state-of-the-art in areas such as fairness, explainability, privacy, and robustness in ML, and helped start new research areas (e.g., co-authoring the second paper on Differential Privacy). Leveraging his expertise in research and industry, he has steered company-wide initiatives on responsible AI and AI observability, led the technical roadmap/design/launch of new AI products, and improved existing products via technology transfers. His work has been recognized through awards at NAACL, WWW, SODA, CIKM, ICML AutoML workshop, and Microsoft’s AI/ML conference (MLADS). He has published 60+ papers, with 7500+ citations and filed 150+ patents (71 granted). He has given several invited industry talks, presented tutorials on privacy, fairness, explainable AI, model monitoring, responsible AI, and generative AI at forums such as ICML, KDD, WSDM, WWW, FAccT, and AAAI, and instructed a course on responsible AI at Stanford, thereby influencing industry thinking, thought leadership, and practice in his areas of work.\n\nAreas: Health AI, Trustworthy Generative AI, AI Observability, AI Safety, Fairness/Transparency/Explainability/Privacy in AI/ML systems, Algorithms for Large Datasets and Graphs, Data Mining, Web Search, Information Retrieval, Search and Recommendation Systems, Social Network Analysis, Computational Education.\n\nPlease visit his personal homepage (https://cs.stanford.edu/people/kngk) for more information on recent projects, publications & patents.",
+        "industryName": "Internet",
+        "lastName": "Kenthapadi",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Krishnaram",
+        "entityUrn": "urn:li:fs_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104119503"
+        },
+        "geoLocationName": "Sunnyvale, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+        "profile_id": "ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+        "member_urn": "urn:li:member:48572460",
+        "public_id": "krishnaramkenthapadi",
+        "experience": [
+            {
+                "locationName": "Redwood City, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,2405957016)",
+                "geoLocationName": "Redwood City, California, United States",
+                "geoUrn": "urn:li:fs_geo:107180219",
+                "companyName": "Oracle",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "Leading the AI initiatives for Clinical AI Agent and other Oracle Health products, towards the goals of modernizing clinical applications, reducing administrative burden and burnout for clinicians, and driving the transformation of healthcare through trustworthy AI.\n\nhttps://www.oracle.com/health/clinical-suite/clinical-ai-agent/\n\nhttps://www.oracle.com/health/innovation/",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Chief Scientist, Clinical AI",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_"
+            },
+            {
+                "locationName": "Palo Alto, California, United States",
+                "geoUrn": "urn:li:fs_geo:101876708",
+                "companyName": "Fiddler AI",
+                "description": "Led the AI org with responsibility for customer-driven scientific & product innovation, customer success, and thought leadership at Fiddler AI.\n\nDrove technical strategy and initiatives on trustworthy generative AI (Fiddler Auditor, an open-source library for evaluating/red-teaming LLMs before deployment; AI safety/observability/feedback mechanisms for LLMs in production), ML model monitoring, explainability, fairness, model understanding, MLOps, and AI/ML governance at Fiddler AI.\n\nLed scientific investigations on topics such as robustness of large language models (LLMs), safety & security mechanisms for LLMs, ML model monitoring, drift detection for NLP models (using LLM-based embeddings), drift detection for CV models, and explanation based membership inference attacks.\n\nDelivered invited talks at Knowledge First World Symposium, AI Conference, CMU Privacy & AI Governance Seminar, MLconf, ODSC, O'Reilly Enterprise LLMs Conference, Edge AI & Vision Alliance Embedded Vision Summit & Qualcomm Ventures AI Startup Event.\n\nPresented as part of podcasts (such as EqualAI's In AI We Trust podcast, MLOps Community Podcast, and Your Bytes, Your Rights: Biased Machines & Prejudiced Programming), webinars (such as Insight IGNITE webinar on responsible AI, MLOps Community Coffee Session on Responsible AI in Practice, and AI Explained: Model Monitoring Best Practices), and panels (such as ACM SIGKDD Generative AI in India panel, FinRegLab's Virtual Conference on Machine Learning Explained: Evidence on the Explainability and Fairness of ML Credit Models and Charter for Change panel on AI).\n\nInstructed a course on responsible AI at Stanford.\n\nInvited to serve as an honorary research fellow at the Centre for Responsible AI, Indian Institute of Technology-Madras.\n\nPresented tutorials on trustworthy generative AI and ML model monitoring in practice at FAccT '22 '23, KDD '22 '23, WWW '23, and ICML '23, combining experiences across Amazon, Fiddler, Hugging Face & Microsoft.",
+                "title": "Chief AI Officer",
+                "companyUrn": "urn:li:fs_miniCompany:18913526",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,381571389)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,2121983235)",
+                "geoLocationName": "Palo Alto, California, United States",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG1imEExVqSmw/company-logo_"
+            },
+            {
+                "locationName": "Palo Alto, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1880842467)",
+                "geoLocationName": "Palo Alto, California, United States",
+                "geoUrn": "urn:li:fs_geo:101876708",
+                "companyName": "Fiddler AI",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "description": "Fiddler AI is an enterprise startup building a responsible AI and AI observability platform, and aims to build trust into AI by fully automating the monitoring and explainability of AI models in production.\n\nFiddler is a Gartner cool vendor in Enterprise AI Governance, is featured in Forbes AI 50 startups in 2020, and was awarded Technology Pioneer by World Economic Forum. For more information, please visit www.fiddler.ai, follow on Twitter @fiddlerlabs, or send an email to info@fiddler.ai.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Chief Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:18913526",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG1imEExVqSmw/company-logo_"
+            },
+            {
+                "locationName": "Palo Alto, CA",
+                "entityUrn": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1548347378)",
+                "geoLocationName": "Palo Alto, CA",
+                "companyName": "Amazon Web Services (AWS)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "Led the fairness, explainability, privacy, and model understanding in ML initiatives in Amazon AWS AI platform. Led the science roadmap for Cloud, Edge, and Responsible AI in AWS ML Services.\n\nShaped the technical roadmap for Amazon SageMaker Clarify, a new capability of Amazon SageMaker that helps customers detect bias in ML models, and increase transparency by helping explain model behavior to stakeholders and customers (https://aws.amazon.com/sagemaker/clarify and https://aws.amazon.com/blogs/aws/new-amazon-sagemaker-clarify-detects-bias-and-increases-the-transparency-of-machine-learning-models).\n\nLed scientific investigations on topics such as model tuning under fairness constraints (AIES'21; ICML'20 AutoML Workshop Best Paper Award), minimax group fairness (AIES'21), fairness in human-in-the-loop settings (AIES'21), fairness and explainability system design (KDD'21), robustness of explanations (ACL'21 Findings), debugging models using adversarial examples, ML debugger system design (MLSys'21), ML model monitoring system design (KDD'22), and differentially private synthetic data generation (ICML'21).\n\nCo-organized Amazon-wide workshops/off-sites on fairness, on explainability, and on privacy in ML; Generated awareness on these topics through keynotes/talks at various internal forums.\n\nProvided technical guidance for the Amazon Research Award program.\n\nPresented keynotes at LinkedIn-MSR-IISc Workshop on Fairness in ML  and EMNLP'20 PrivateNLP workshop.\n\nPresented tutorials on explainable AI and on responsible AI in industry at AAAI '20 '21, FAccT '20 '21, WWW '20 '21 & ICML '21, combining experiences across Amazon, Google, LinkedIn & Microsoft.\n\nCo-organized ICLR'21 Workshop on Synthetic Data Generation.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Principal Scientist, Machine Learning Services, Amazon AI",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1839845703)",
+                    "urn:li:fs_honor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1799965649)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1478692898)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Fiddler AI",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "description": "Provided guidance in the areas of explainability, fairness, transparency, and privacy in AI/ML, and gave feedback on the product roadmap & technical strategy.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Scientific/Technical Advisor",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:18913526",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG1imEExVqSmw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,34663932)",
+                "school": {
+                    "objectUrn": "urn:li:school:17926",
+                    "entityUrn": "urn:li:fs_miniSchool:17926",
+                    "active": true,
+                    "schoolName": "Stanford University",
+                    "trackingId": "6lJR+7WfRlOHrABcBqrppg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2006
+                    },
+                    "startDate": {
+                        "year": 2001
+                    }
+                },
+                "degreeName": "PhD",
+                "schoolName": "Stanford University",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:17926"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,137939312)",
+                "school": {
+                    "objectUrn": "urn:li:school:17926",
+                    "entityUrn": "urn:li:fs_miniSchool:17926",
+                    "active": true,
+                    "schoolName": "Stanford University",
+                    "trackingId": "wLpWn2zgTCiI6FT3p+zN6A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2005
+                    },
+                    "startDate": {
+                        "year": 2001
+                    }
+                },
+                "degreeName": "M.S.",
+                "schoolName": "Stanford University",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:17926"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,34663974)",
+                "school": {
+                    "objectUrn": "urn:li:school:13501",
+                    "entityUrn": "urn:li:fs_miniSchool:13501",
+                    "active": true,
+                    "schoolName": "Indian Institute of Technology, Madras",
+                    "trackingId": "4aiA6t9sTFObDE3TwJ9Mvw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGqbSuxjLqtWQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2001
+                    },
+                    "startDate": {
+                        "year": 1997
+                    }
+                },
+                "degreeName": "Bachelor of Technology",
+                "schoolName": "Indian Institute of Technology, Madras",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,75)",
+                    "urn:li:fs_honor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,76)",
+                    "urn:li:fs_honor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,77)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:13501"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "name": "My Google Scholar Page",
+                "url": "http://scholar.google.com/citations?user=av5rGaEAAAAJ",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ]
+            },
+            {
+                "name": "My Personal Homepage",
+                "url": "https://cs.stanford.edu/people/kngk/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Invited to serve as a research fellow and provide technical guidance to the Centre for Responsible AI (CeRAI), a cross-disciplinary initiative at the Indian Institute of Technology (IIT) Madras with the goal of shaping Responsible AI policy, development, and deployment in India. The centre aims to pursue research in the domains of Ethical and Responsible AI and become the standard body in India to recommend guidelines and policies to make deployable AI models/systems more accountable, explainable, and responsible.\n\nhttps://cerai.iitm.ac.in/",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,2121983235)",
+                "title": "Honorary Research Fellow",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "issuer": "Centre For Responsible AI (CeRAI), Indian Institute of Technology (IIT) Madras"
+            },
+            {
+                "description": "Our paper titled, \"FinLex: An effective use of word embeddings for financial lexicon generation\" (available at https://assets.amazon.science/d3/30/8f194d454c73bd581b6aeff06d9b/finlex-an-effective-use-of-word-embeddings-for-financial-lexicon-generation.pdf) received this recognition as the outstanding paper in the FinTech category.\n\nhttps://www.keaipublishing.com/en/journals/the-journal-of-finance-and-data-science/jfds-news/jfds-awards-2022-announced/",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1548347378)",
+                "title": "Outstanding Paper in FinTech Award",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "issuer": "The Journal of Finance and Data Science"
+            },
+            {
+                "description": "Our paper titled, \"Fair Bayesian Optimization\" received this award. The paper presents a method to enforce fairness constraints while optimizing a machine learning model's hyperparameters, and demonstrates that this method is broadly applicable, effective, and complementary to other methods for achieving fairness.\n\nPaper: https://arxiv.org/abs/2006.05109\nVideo/slides: https://slideslive.com/38930648/fair-bayesian-optimization\nBlog: https://www.amazon.science/blog/amazon-researchers-win-best-paper-award-for-helping-promote-fairness-in-ai",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1548347378)",
+                "title": "Best Paper Award",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "issuer": "ICML Workshop on Automated Machine Learning (AutoML)"
+            },
+            {
+                "description": "Our paper titled, \"What's in a name? Reducing bias in bios without access to protected attributes\" received this award.",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1352389543)",
+                "title": "Best Thematic Paper Award",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "issuer": "Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019"
+            },
+            {
+                "description": "Received Distinguished Contribution Award in Microsoft's internal AI/ML conference (MLADS Spring'18) for our work titled, \"Fairness-aware Talent Search Ranking at LinkedIn\" on designing fairness-aware machine learning/ranking approaches. Video of LinkedIn CEO, Jeff Weiner referring to our work & this award: https://www.youtube.com/watch?v=DZAJ2hZJFQo\n\nWe have deployed the representative talent search system based on this work to all users of the LinkedIn Recruiter product worldwide (https://engineering.linkedin.com/blog/2018/10/building-representative-talent-search-at-linkedin). Related technical paper in ACM KDD'19 (https://arxiv.org/pdf/1905.01989).",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,1352389543)",
+                "title": "Distinguished Contribution Award in Microsoft's internal AI/ML conference (MLADS Spring 2018)",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "issuer": "Microsoft"
+            },
+            {
+                "description": "Our paper titled, \"Bringing Salary Transparency to the World: Computing Robust Compensation Insights via LinkedIn Salary\" received this award at ACM CIKM 2017 (http://www.cikmconference.org/CIKM2017). This paper presents the AI / statistical modeling system powering the LinkedIn Salary product (https://www.linkedin.com/salary).",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,888490629)",
+                "title": "Best Case Studies Paper Award",
+                "issueDate": {
+                    "month": 11,
+                    "year": 2017
+                },
+                "issuer": "ACM International Conference on Information and Knowledge Management (CIKM)"
+            },
+            {
+                "description": "Received this award from the product team for transferring and integrating hierarchical query classifier and automatic training data generation technologies as part of Bing Commerce Search product.",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "title": "Microsoft Gold Star Award",
+                "issueDate": {
+                    "year": 2011
+                },
+                "issuer": "Microsoft"
+            },
+            {
+                "description": "Received this award for transferring and integrating hierarchical query classifier and automatic training data generation technologies as part of Bing Commerce Search product.",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "title": "Microsoft Research Technology Transfer Award",
+                "issueDate": {
+                    "year": 2011
+                },
+                "issuer": "Microsoft Research"
+            },
+            {
+                "description": "Received multiple “Ship It” awards during 2008-2010 for my contributions to web search ranking and relevance improvements in Bing Search.",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "title": "Microsoft Ship-It Awards",
+                "issueDate": {
+                    "year": 2010
+                },
+                "issuer": "Microsoft"
+            },
+            {
+                "description": "My paper titled, “Releasing Search Queries and Clicks Privately” was nominated for the best paper award out of 880 submissions, and was ranked as the finest paper of the 141 submissions within the Data Mining Track. The paper received media coverage from New Scientist, ACM TechNews, TechFlash, and other sources.",
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "title": "Best Paper Award Finalist",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2009
+                },
+                "issuer": "Eighteenth International Conference on World Wide Web (WWW)"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,888490629)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,599403137,206043061)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2015
+                    }
+                },
+                "description": "- Shaped the technical roadmap for the LinkedIn Salary product (launched to the public in 2016) and have been providing technical guidance/leadership since its inception in 2015.\n- Designed the engineering and modeling architecture, taking into account privacy, de-identification, security, accuracy, and scalability requirements, and led a ~15 people team for the privacy/modeling system implementation. This involved balancing the needs of privacy and modeling, and bridging the large gap between the security and engineering teams.\n- Designed a privacy-preserving data-processing pipeline to ensure that individual salaries are not discoverable. This involved encrypting/de-identifying different aspects of the data at different stages so that there is no single point of failure, and the design is robust to any potential storage/service breaches.\n- Designed and implemented an extensible and robust salary modeling rest.li API, considering the initial product needs (incentive for data collection) as well as subsequent scenarios (basis for LinkedIn Salary product and use as a platform for other LinkedIn verticals). Designed schemas for multiple Voldemort distributed key-value stores to support the Rest.Li interface and the offline aggregation flow. These designs helped bring more stability to the overall software design, which tended to evolve with the UI design.\n- Developed and deployed AI/statistical models to measure/improve data quality. The modeling efforts included outlier detection, regression models for estimating compensation, Bayesian hierarchical smoothing, low rank matrix factorization/completion, propensity modeling for bias correction, and addressing numerous conceptual issues such as coverage vs quality trade-off and mapping external datasets to LinkedIn taxonomy.\n- LinkedIn Engineering Blog Posts.\n- Papers on the statistical modeling system (ACM KDD'18 & CIKM'17 *Best Case Studies Paper Award*) and the privacy architecture (IEEE PAC'17).\n- Filed 42 patents.",
+                "title": "LinkedIn Salary",
+                "url": "https://www.linkedin.com/salary"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,55,56)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "Discovered a new kind of group conversation on Twitter that we call a group chat. These chats are periodic, synchronized group conversations focused on specific topics and they exist at a massive scale. Developed techniques for algorithmically identifying and ranking these groups, and performed large scale evaluation over one year of tweets.",
+                "title": "Algorithmic Identification and Ranking of Twitter Groups",
+                "url": "http://www-cs-students.stanford.edu/~kngk/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,63,64)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "Taking into account the vast amount of existing textbooks designed for traditional printed medium and the potential for enabling new kinds of functionalities through the medium of electronic textbooks, our research focuses on algorithmically diagnosing and enhancing the quality of textbooks. Specifically, we have developed a diagnostic tool for authors and educators to identify weaknesses in a textbook. We have also developed algorithmic and data mining techniques for augmenting different sections of a textbook with links to selective web content (web articles, images & videos) and providing easy access to concepts explained elsewhere in the book that are necessary for understanding the present section. We have built a demonstration of the ideas running on Windows 8 devices as well as on Aakash, the low cost tablet being developed by the Indian government for distribution to millions of students. We showcased our technology and Aakash app (by invitation) to India's Ministry of Human Resource and Development, towards the goal of deploying our app on millions of Aakash tablets.",
+                "title": "Computational Education",
+                "url": "http://www-cs-students.stanford.edu/~kngk/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,53,54)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "The rapid proliferation of low-cost tablet devices that are readily connected to the cloud opens up several new opportunities to transform reading experience. With printed books being digitized, as is, we address the following question: How do we enrich the experience of reading from electronic versions of printed books/documents, on cloud-connected tablets? Towards this goal, as a team, we have developed approaches for enriching documents by first understanding the semantics of the content, and using that representation to algorithmically augment a non-fiction book with links to selective web content such as text, images and videos, at any desired granularity. We have incorporated these technologies into a Windows 8 app as well as a web app. These apps are serviced off a Microsoft Azure cloud service that automatically identifies relevant content to augment the book. The app is in the last stage of being released to the Windows App Store. We also transferred the book augmentation technology in the form of the code, necessary data, and documentation to the Office Reader team. Our work enabled the product team to endow the Office Reader with a differentiating capability, and helped enhance the e-reader demos shown to Bill Gates and other top Microsoft executives.",
+                "title": "Document Understanding and Augmentation with Multimedia Content",
+                "url": "http://www-cs-students.stanford.edu/~kngk/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,57,58)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "Built a working end-to-end experimental commerce search engine showcasing state-of-the-art breakthrough technologies in structured search query processing, hierarchical query classification, indexing strategies, catalog creation and decision aids for users to make informed decisions. Received Microsoft Research Tech Transfer Award and Gold Star Award from the product team for transferring and integrating hierarchical query classifier and automatic training data generation technologies as part of Bing Commerce Search product.",
+                "title": "Lincoln: Next Generation Product Search Engine",
+                "url": "http://research.microsoft.com/en-us/projects/lincoln/default.aspx"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,59,60)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "Provided the first solution to a long standing open problem: is there a way to publish internet search logs in a manner that both preserves usefulness and provably protects privacy of the users posing queries. My solution is simple to state and thus practical, yet non-trivial to analyze. Showed how search queries, clicks and their perturbed counts can be released in a privacy-preserving manner and further that the released data can be used for important practical applications such as helping online advertising campaigns and social science research to understand human nature. [WWW 2009 Best Paper Award Finalist]. Subsequently, invented a method for privacy preserving distance estimation that involves projecting each user's representation into a random, lower-dimensional space via a sparse Johnson-Lindenstrauss transform and then adding Gaussian noise to each entry of the lower-dimensional representation. Provided consultation to a product team in Microsoft, highlighting privacy leaks in the data that was planned to be released, thereby saving Microsoft from a huge PR fiasco.",
+                "title": "Privacy in Search Logs and Other Webscale Datasets",
+                "url": "http://www-cs-students.stanford.edu/~kngk/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,65,66)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "Developed random walk based algorithms for trust computation and rating propagation in social networks, implemented over MSN messenger network (consisting of 300M+ nodes), and engaged with product teams across Microsoft to demonstrate the results and to advocate using MSN messenger network and the notion of trust towards providing a differentiating web search experience.",
+                "title": "Trust and Rating Propagation in Social Networks",
+                "url": "http://www-cs-students.stanford.edu/~kngk/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,79330003)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Krishnaram",
+                            "lastName": "Kenthapadi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "occupation": "Chief Scientist, Clinical AI @ Oracle Health | Building Trustworthy Health AI",
+                            "objectUrn": "urn:li:member:48572460",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM",
+                            "publicIdentifier": "krishnaramkenthapadi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1584506510370?e=1746057600&v=beta&t=iZWjN90p7tsP0eQddJxAcANVEk1Bsmz_BNdEjHB8QQQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1584506510348?e=1746057600&v=beta&t=Iia5QG26RT9hZaihmxLq18ZV0Hss38lqlsIy3FMnr0k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1584506510396?e=1746057600&v=beta&t=0XlT2VN2ASeRSDpfTamF6nukWulVnMyCvtYFo_kTkIg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1584506510430?e=1746057600&v=beta&t=3Af3y2SodUonrRn2fxRYEGqp2Th6v5ShXqsBlCwhH_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFUXEgzuZx_mQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "T2OstdI9TU2pQ0hyChGfrQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM,61,62)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+                    }
+                ],
+                "description": "Worked on challenging problems in the areas of relevance and ranking for web search, and engaged with Bing Search product team to transfer the results of the investigations. Examples of investigations included designing a dynamic ranker with a pruned set of most important features, improving the quality of results for specific classes of queries by designing special rankers, and automatic generation of large amounts of training data from search logs. Showed that temporally relevant and user intent aware labeled training data can be generated automatically by aggregating click activity of hundreds of millions of users, by first forming a preference graph using a probabilistic interpretation of the click log and then formulating as a novel graph partitioning problem. This investigation enabled Bing to deploy country/locale specific rankers in over 25 international markets. Received multiple \"Ship It\" awards for my contributions to web search ranking and relevance improvements in Bing.",
+                "title": "Web Search Ranking",
+                "url": "http://www-cs-students.stanford.edu/~kngk/"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Health AI"
+            },
+            {
+                "name": "Trustworthy Generative AI"
+            },
+            {
+                "name": "AI Safety, Observability, and Governance"
+            },
+            {
+                "name": "Fairness/Explainability/Privacy/Robustness in AI/ML Systems"
+            }
+        ],
+        "urn_id": "ACoAAALlKCwB2efAH0DCujNTTfe8qcMF_9gy2HM"
+    }
+}

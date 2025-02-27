@@ -1,0 +1,1360 @@
+{
+    "urn_id": "ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+    "fetch_timestamp": "2025-02-26T21:33:12.174567",
+    "profile_data": {
+        "summary": "As a data analyst with over 6 years of experience in the FinTech and E-commerce industries, I specialize in turning complex data into actionable insights. My expertise spans data cleaning, manipulation, analysis, and visualization, using advanced tools like SQL (Sybase, PostgreSQL, Amazon Redshift), Python, Jupyter Notebook, Excel, Tableau, Power BI, and QuickSight.\n\nI have successfully contributed to multi-year, multi-phased projects, leveraging both Agile and Waterfall methodologies. My strong foundation in machine learning, statistical analysis, and database management is complemented by my subject matter expertise in back-office fixed income trade settlements.\n\nIn addition, I have hands-on experience with big data technologies like Apache Spark for large-scale data processing, AWS S3 for cloud storage, and Airflow for workflow automation. I hold a Master of Science in Data Science from the University at Buffalo, a diploma in Banking and Finance Management, and a Bachelor's in Electronics.",
+        "industryName": "Computer Software",
+        "lastName": "Mahankali",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Sai Kartheek",
+        "entityUrn": "urn:li:fs_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104116203"
+        },
+        "geoLocationName": "Seattle, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Analytics @ Amazon | SQL | Python | Data Visualization",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+        "profile_id": "ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+        "member_urn": "urn:li:member:391056034",
+        "public_id": "saikartheek-mahankali",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,2489593305)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "- Leveraging advanced SQL skills with Amazon Redshift for data extraction, manipulation, and reporting to drive insights across teams. Skilled in optimizing complex queries for enhanced performance.\n- Develop and manage Quick Sight dashboards to provide real-time insights for stakeholders. Skilled in creating custom ad-hoc reports to meet dynamic business requirements.\n- Design, modify and maintain ETL processes to streamline data flow and ensure accurate data availability for analytics and reporting.\n- Conduct in-depth root cause analysis for dashboard data discrepancies, working collaboratively with stakeholders to ensure data accuracy and resolve issues efficiently.\n- Collaborate closely with stakeholders to understand their needs, delivering tailored SQL solutions and modifications to address specific data queries and reporting requirements.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            },
+            {
+                "locationName": "Olympia, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,2415078769)",
+                "geoLocationName": "Olympia, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104651760",
+                "companyName": "Washington State Liquor and Cannabis Board",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "description": "- Led the prestigious cannabis traceability project as Project Manager, collaborating with finance, legal, enforcement, education, data, and vendor teams to gather comprehensive business requirements.\n- Documented critical project artifacts including project scope, charter, risk management documents, stakeholder register, and project approach document, ensuring robust project planning and execution.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Business Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14811339",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGbfe3LNarGMg/company-logo_"
+            },
+            {
+                "locationName": "Buffalo, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,2310797112)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "University at Buffalo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "description": "Worked as a Graduate Assistant for the CSE 574 Machine Learning course at the State University of New York at Buffalo. \n - Curated programming assignments for the students\n - Graded the students based on their performance in class-activities, programming assignments, and midterm examinations\n -Tutored students on ML concepts",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Teaching Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1820537131)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "Standard Chartered Bank",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "description": "As part of the GPTM Service Delivery Management Team (SDMT), I have\n● Outlined problems, opportunities, and proposed solutions to improve current back-office operations\n● Worked on requirement gathering, change request management, budgeting, and forecasting for new enhancement requests related to Gloss/GPTM.\n● Coordinated with internal and external stakeholders to implement enhancements\n● Standardized finance reconciliation, a major part of the STRIDE GPTM project.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Banking"
+                    ]
+                },
+                "title": "Technical Business Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2235",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFIXBBXX9EX-Q/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru",
+                "entityUrn": "urn:li:fs_position:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1555574452)",
+                "geoLocationName": "Bengaluru",
+                "companyName": "Broadridge",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "description": "• Managed end-to-end trades and settlements migration for Standard Chartered Bank in Singapore.\n• Implementation of Message Automation, Smooth migration of Reference Data and Hong Kong Entity trades and positions to IPE(GLOSS) from SCB's legacy system OPICS.\n• Reduced resolution time by 50% through ownership of incident and request processes.\n• Data Integration Analysis/Support, User Acceptance Testing Support, Conversions, Migration approach along with post-go-live support to ensure perfect production go-live and handover to BAU.\n•  Coordinated with scope and development teams to analyze and deliver product-level enhancements",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Senior Data Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:11834",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHVgy5JYbfW1g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,311667675)",
+                    "urn:li:fs_project:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,311874806)",
+                    "urn:li:fs_project:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,311951401)",
+                    "urn:li:fs_project:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,312527734)",
+                    "urn:li:fs_project:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1151603056)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,818659608)",
+                "school": {
+                    "objectUrn": "urn:li:school:19028",
+                    "entityUrn": "urn:li:fs_miniSchool:19028",
+                    "active": true,
+                    "schoolName": "University at Buffalo",
+                    "trackingId": "PQodfSqTQ7C1ele+peGWNg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University at Buffalo",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:19028"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,815367110)",
+                "school": {
+                    "objectUrn": "urn:li:school:20495",
+                    "entityUrn": "urn:li:fs_miniSchool:20495",
+                    "active": true,
+                    "schoolName": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+                    "trackingId": "wsO/Gwu5TbO640fhPcVQ7Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHW16ttC_rbmQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "degreeName": "Diploma of Education",
+                "schoolName": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+                "fieldOfStudy": "Banking and Finance Management",
+                "degreeUrn": "urn:li:fs_degree:513",
+                "schoolUrn": "urn:li:fs_miniSchool:20495"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1483418176)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,254966582)",
+                "school": {
+                    "objectUrn": "urn:li:school:3243895",
+                    "entityUrn": "urn:li:fs_miniSchool:3243895",
+                    "active": true,
+                    "schoolName": "GITAM Deemed University",
+                    "trackingId": "q+/YoQonTeqE4WhVOZqeZg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEzPn443KHOew/company-logo_"
+                },
+                "grade": "8.87",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Gitam University, Hyderabad",
+                "fieldOfStudy": "Electronics and Communications Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1483833168)",
+                    "urn:li:fs_honor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1484040158)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:3243895"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "LinkedIn Learning ⋅ Course Certificate",
+                "name": "SQL Essential Training",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "AVLf1FTrvc1NDSxLc57nguvxlXyo",
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:66206774",
+                "url": "https://www.linkedin.com/learning/me/completed?u=2185017"
+            },
+            {
+                "authority": "The Chartered Institute for Securities & Investment (The CISI)",
+                "name": "Introduction to Securities and Investment",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "696778",
+                "company": {
+                    "objectUrn": "urn:li:company:790777",
+                    "entityUrn": "urn:li:fs_miniCompany:790777",
+                    "name": "The Chartered Institute for Securities & Investment (The CISI)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630537912064/chartered_institute_for_securities__investment_logo?e=1748476800&v=beta&t=BzfwgTQyJkP5f8nCQ4UKU0q4LYONKucn9HQpeycF5K8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630537912064/chartered_institute_for_securities__investment_logo?e=1748476800&v=beta&t=ES-lFcda1IOU0U8B11iHPD4wZgxK_yGFzB8SI_bmoZI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630537912064/chartered_institute_for_securities__investment_logo?e=1748476800&v=beta&t=S179Rxr9CvTyqpyDNCp0fNZ3Z7yS3eI_930cBK5NYGE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGkKW7j2t-rPg/company-logo_"
+                        }
+                    },
+                    "universalName": "chartered-institute-for-securities-&-investment",
+                    "dashCompanyUrn": "urn:li:fsd_company:790777",
+                    "trackingId": "gxOBUYgNSX+ybSnLcPh8pw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:790777"
+            },
+            {
+                "authority": "LinkedIn Learning ⋅ Course Certificate",
+                "name": "Python Essential Training",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "AWekPaiiYykUMfclLZ83Jo4MQZ0Z",
+                "companyUrn": "urn:li:fs_miniCompany:66206774"
+            },
+            {
+                "authority": "LinkedIn Learning ⋅ Course Certificate",
+                "name": "Data Science Foundations: Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": " Af8pKtBN0Yx15y9-txTPvOaKMSKA",
+                "companyUrn": "urn:li:fs_miniCompany:66206774"
+            },
+            {
+                "authority": "NPTEL",
+                "name": "Programming, Data Structures And Algorithms Using Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "NPTEL21CS21S11610919",
+                "company": {
+                    "objectUrn": "urn:li:company:13229455",
+                    "entityUrn": "urn:li:fs_miniCompany:13229455",
+                    "name": "NPTEL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631333024279?e=1748476800&v=beta&t=qPEnh8DkpbN50fe0X4WkVProBls1FdVQzaV623fBiHo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631333024279?e=1748476800&v=beta&t=nxMLTV_ofqKoveQwhcDLk6Dai_vllaMmrUM0asFHB2s",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631333024279?e=1748476800&v=beta&t=7BW719FQ3SNT0KMZfLsMZ0GGvguMlgaACtF0u071MXE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHJZGa_G2gwUg/company-logo_"
+                        }
+                    },
+                    "universalName": "nptel",
+                    "dashCompanyUrn": "urn:li:fsd_company:13229455",
+                    "trackingId": "6ySy9LPoSnGCxSKM6YapJg=="
+                },
+                "displaySource": "nptel.ac.in",
+                "companyUrn": "urn:li:fs_miniCompany:13229455",
+                "url": "https://internalapp.nptel.ac.in/NOC/NOC21/SEM1/Ecertificates/106/noc21-cs21/Course/NPTEL21CS21S11610919027848.jpg"
+            },
+            {
+                "authority": "Scrum Alliance",
+                "name": "Certified ScrumMaster (CSM)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "1410778",
+                "company": {
+                    "objectUrn": "urn:li:company:871226",
+                    "entityUrn": "urn:li:fs_miniCompany:871226",
+                    "name": "Scrum Alliance",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719257814838/scrum_alliance_logo?e=1748476800&v=beta&t=cPyUxs7Yjr_VicU06hNiOdK2rgJdDqY1vH8s-CROWN8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719256430021/scrum_alliance_logo?e=1748476800&v=beta&t=nl3FpeFOwNlswLszGeGaACbvncjrZU7WHc1UDrrIeUI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1748476800&v=beta&t=r31bBbBVZtLImfiBYprSkZk-_ESnS2OQ0aOA2R1puGo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_"
+                        }
+                    },
+                    "universalName": "scrum-alliance",
+                    "dashCompanyUrn": "urn:li:fsd_company:871226",
+                    "trackingId": "aYdnOmIkR123EDwKrceWDg=="
+                },
+                "displaySource": "bcert.me",
+                "companyUrn": "urn:li:fs_miniCompany:871226",
+                "url": "https://bcert.me/sviafeuft"
+            },
+            {
+                "authority": "NMIMS Global",
+                "name": "Diploma in Banking and Finance Management",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "5d93",
+                "company": {
+                    "objectUrn": "urn:li:company:13365633",
+                    "entityUrn": "urn:li:fs_miniCompany:13365633",
+                    "name": "NMIMS CDOE",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1709546799284/nmimscdoe_logo?e=1748476800&v=beta&t=u98F4S4SbSOO9jv1TlZ7tXMcj5jj-Z-sMDg57LV3pxs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1709546799284/nmimscdoe_logo?e=1748476800&v=beta&t=TvY5DxaTCuDZkJztVejItXsAHx1p6x-46qF0ylIy-Dc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1709546799284/nmimscdoe_logo?e=1748476800&v=beta&t=2naZeXAHlEGkcOcBRx4at6uuX8FZD2ngBIv7yUrKPRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE-tXdca4FiPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "nmimscdoe",
+                    "dashCompanyUrn": "urn:li:fsd_company:13365633",
+                    "trackingId": "ssvnAlkHRwm8Hd+7rISPIw=="
+                },
+                "displaySource": "ngasce-certificate-bucket.s3-ap-south-1.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:13365633",
+                "url": "https://ngasce-certificate-bucket.s3-ap-south-1.amazonaws.com/Certificates/Certificate_Self_29-Jul-2022_BioFs.pdf"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "SQL (Advanced)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "6a1085d6667e",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=iQDobkJ7CXB90gGXuIGUPiAXDsaS8zW3IQ_qJvIJiCU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=SwqL2mWZM3vKWgZlKg3RFE7VJap-2yUoKbx7ZwUo6MM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=VsJfV6fDH9TShaEjUlt4j2nWfy82x2UNxPSD9r33RRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "Uacba4B7TK+rNQV7xioknA=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/6a1085d6667e"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "A prestigious competition held at GITAM University on the occassion of 'Engineers' Day'",
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,254966582)",
+                "title": "Winner - Circuit Debugging",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "issuer": "GITAM University, Hyderabad"
+            },
+            {
+                "description": "'Mind Miracles' is an event held as a part of Pramana,  A National Techno-Cultural fest, tests an individual's Visual Perception, Analytical skill, Team Work and Quantitative Aptitude ",
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,254966582)",
+                "title": "Winner - Mind Miracles",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2013
+                },
+                "issuer": "GITAM University, Hyderabad"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1120094394,417880438)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "description": "Collected, validated, and cleaned global Covid data (277K Rows, 67 Columns) using Excel and PostgreSQL.\nVisualized the insights using Tableau. (Dashboard URL: https://public.tableau.com/app/profile/sai.kartheek.mahankali/viz/COVID-19GlobalDashboard_17062135941510/Dashboard1)",
+                "title": "COVID-19 Data Analysis"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,818659608)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1151603056,429135230)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "In this project, I conducted a comprehensive Time Series Analysis to explore the trends and shifts in the order execution quality among the selected market centers based on the calculated net price improvement over several years. The analysis specifically looked into how each market center's performance evolved and identified significant changes in leadership in terms of execution quality, particularly noting a substantial shift in performance from multiple market centers for over 5 years. This detailed examination included the comparison of weighted-mean and weighted-median net price improvement, providing insights into the consistency and fairness of trade executions by these centers. The project's results are crucial for various stakeholders including traders, investors, brokerage firms, and regulators, helping them make informed decisions and optimize their strategies in the face of changing market dynamics.",
+                "title": "Dynamics of Execution Quality"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,818659608)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,312527734,396848144)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    }
+                ],
+                "description": "Analyzed 900K+ observations from the WHO Mortality report spanning from 1960-2022 to explore patterns and trends in cause of death.\nConducted Exploratory Data Analysis and Time Series Analysis to find key insights and forecast death rate due to non-communicable diseases in the US in the next 5 years.",
+                "title": "Analyzing Cause of Deaths Around the World"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,818659608)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,311951401,396847202)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    }
+                ],
+                "description": "• Developed a Treasure Island Grid World environment in Python using Gymnasium and NumPy.\n• Optimized the performance of Reinforcement Learning agent with SARSA and Q-Learning algorithms.\n• Visualized each iteration of Reinforcement Learning using Matplotlib and documented the results in a comprehensive report.",
+                "title": "Batman Treasure Hunt using Reinforcement Learning"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,818659608)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,311874806,396845355)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    }
+                ],
+                "description": "• Implemented AlexNet CNN using PyTorch and NumPy for image classification on a dataset consisting of 30,000 RGB images.\n• Successfully optimized the model for the Google Street View House Numbers (SVHN) dataset, achieving a test accuracy of 95.65%, by applying data augmentation using techniques such as random rotation, random crop, color jitter, and random horizontal flip.\n• Visualized the datasets, and accuracy metrics using Matplotlib for multiple models as part of hyperparameter tuning and documented the results.",
+                "title": "Image Classification Using AlexNet"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,818659608)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,311667675,396845331)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    }
+                ],
+                "description": "• Analyzed crime patterns in San Francisco based on 620K incident reports using Exploratory Data Analysis (EDA) and Time Series Analysis using Python and PostgreSQL.\n• Identified and visualized 7 key insights, such as year-wise, month-wise, day-wise crime patterns, and top crime categories using Plotly, and Power BI.\n• Consolidated the data insights, and visualizations, and presented actionable recommendations in a comprehensive report.",
+                "title": "San Francisco Crime Data Analysis"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,254966582)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1483418176,141521269)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Muralidhar Srivatsav",
+                            "lastName": "B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABIbproBFqmn08AMJcIrX8Ab6QExByxqJR0",
+                            "occupation": "Lead Software Engineer at Qualys",
+                            "objectUrn": "urn:li:member:303802042",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABIbproBFqmn08AMJcIrX8Ab6QExByxqJR0",
+                            "publicIdentifier": "muralidhar-srivatsav-b-44a8ab85",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588656847733?e=1746057600&v=beta&t=9luD6lA_RXgq4Li0HFIZhevtMO8wEhMg02ueIGZ_1Hg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588656847710?e=1746057600&v=beta&t=eFql7I-Ew38yF9OFhOho3FMZNQclajJIla4av-7jyFE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588656847756?e=1746057600&v=beta&t=cCo7QrR8qfAS8pWdLYTCo59qG8gPz0VM3lwap22FMHk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588656847789?e=1746057600&v=beta&t=8hrGgTtpmGw5w8_Qn-1jL8CfIw6g-9MOSZIy14aoBF0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFLiOk3HnV2rQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "JGEveYEORB69FB8oa5iNtg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1483418176,141520516)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABIbproBFqmn08AMJcIrX8Ab6QExByxqJR0"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sampath",
+                            "lastName": "Maddi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABKBRvIBCaWAonoRBPTwjRndJ10iPFxR5m8",
+                            "occupation": "Lead at Deloitte | Ex KPMG | Ex EY",
+                            "objectUrn": "urn:li:member:310462194",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABKBRvIBCaWAonoRBPTwjRndJ10iPFxR5m8",
+                            "publicIdentifier": "sampath-maddi-756b8187",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1621045171160?e=1746057600&v=beta&t=lk2b4BZRsH1oEPHvc0F9Xhcp7irFvNVL9h_oQ9z2hAU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1621045171160?e=1746057600&v=beta&t=KaCXBhk6W4Ddpk5uLxO56FflWOExtRV3QSLSDwrl9m4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1621045171160?e=1746057600&v=beta&t=nXsB_GmAiN2nydXHUP2y_Pc5iTv4PF667_hILBwKoeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 560,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1621045171160?e=1746057600&v=beta&t=PCIMY0lENXgjLVjmzZhZ3nPQSSAgGDM3ipIbHFEdFe4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 560
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQElkXhERInhig/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "19wqR4LoQFO4kwZ4SWXPKw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1483418176,141522152)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABKBRvIBCaWAonoRBPTwjRndJ10iPFxR5m8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2015
+                    }
+                },
+                "description": "We have implemented a method to evaluate the Bit Error Rate vs Signal to Noise Ratio curve for TDS-OFDM. We have added a cyclic prefix to reduce the Inter Symbol Interference (ISI) , Additive White Gaussian Noise (AWGN) Channel for a uniform Distribution of noise over the signal, Matched Filter to produce best optimal output.",
+                "title": "Evaluation of Sound-to-Noise Ratio (SNR) Vs Bit Error Rate (BER) Curve in Time Domain Synchronous - Orthogonal Frequency Division Multiplexing"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sai Kartheek",
+                            "lastName": "Mahankali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "occupation": "Analytics @ Amazon | SQL | Python | Data Visualization",
+                            "objectUrn": "urn:li:member:391056034",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728006992546?e=1746057600&v=beta&t=ZzDJ2BlSQBbx6RNz7nQM4XkyvC19I74SPzcrrVrxBuc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728006992546?e=1746057600&v=beta&t=ymyAfTRduK1EDmU4MxcA0JPWeZdgbRpqQm-2_FH-mCk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEu20dIVvyaog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "saikartheek-mahankali",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728004512179?e=1746057600&v=beta&t=myU1rYSxwV8aG1z8mch_2Fr9akOGfWVhHGcqkKuySBs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728004512179?e=1746057600&v=beta&t=wD78e1oiC0k71eb1VJ5XjItMQa-jDxVeiPnKrvsyY2g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728004512179?e=1746057600&v=beta&t=pFH8aREXhnzIzAOtF19p4HOWSSY7vFsW38__EcjlZN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728004512206?e=1746057600&v=beta&t=gZ8Pcw_wKE_Zyq5trv9GBrHzfBzvQcJqSEWRUfjgWgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF6AnUDRbbwfg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ufYDLvLsRDWpJz6/9/l/tA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1482768911,141521239)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sampath",
+                            "lastName": "Maddi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABKBRvIBCaWAonoRBPTwjRndJ10iPFxR5m8",
+                            "occupation": "Lead at Deloitte | Ex KPMG | Ex EY",
+                            "objectUrn": "urn:li:member:310462194",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABKBRvIBCaWAonoRBPTwjRndJ10iPFxR5m8",
+                            "publicIdentifier": "sampath-maddi-756b8187",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1621045171160?e=1746057600&v=beta&t=lk2b4BZRsH1oEPHvc0F9Xhcp7irFvNVL9h_oQ9z2hAU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1621045171160?e=1746057600&v=beta&t=KaCXBhk6W4Ddpk5uLxO56FflWOExtRV3QSLSDwrl9m4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1621045171160?e=1746057600&v=beta&t=nXsB_GmAiN2nydXHUP2y_Pc5iTv4PF667_hILBwKoeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 560,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1621045171160?e=1746057600&v=beta&t=PCIMY0lENXgjLVjmzZhZ3nPQSSAgGDM3ipIbHFEdFe4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 560
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQElkXhERInhig/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "19wqR4LoQFO4kwZ4SWXPKw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8,1482768911,141519633)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABKBRvIBCaWAonoRBPTwjRndJ10iPFxR5m8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2015
+                    }
+                },
+                "description": "A Project which requires a blend of in depth technical knowledge in Electronics, Mechanical Engineering and Programming. We have programmed a CNC machine at the prestigious Ordnance Factory which is governed by the Department of Defence Production, Ministry of Defecne, Government of India.",
+                "title": "Computerized Numerical Control Machines"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Data Modeling"
+            },
+            {
+                "name": "Business Insights"
+            },
+            {
+                "name": "Extract, Transform, Load (ETL)"
+            },
+            {
+                "name": "Project Management"
+            }
+        ],
+        "urn_id": "ACoAABdPCqIBDnwWLq5OJwXGGaQR0sj9iUBoJ_8"
+    }
+}

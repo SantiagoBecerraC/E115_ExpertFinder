@@ -1,0 +1,271 @@
+{
+    "urn_id": "ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w",
+    "fetch_timestamp": "2025-02-26T21:43:19.723828",
+    "profile_data": {
+        "summary": "Worked across multiple research and product ML areas including RecSys, Knowledge Graph, Text and Video Search, Content Understanding and Computational Advertising. Love to drive business impact and nurturing teams. \n\nDeep in weeds on Monetization ML since 2016 on diverse marketplaces -- Social Network, Short Video and Last Mile Logistics.\n\nBuilt and scaled teams at multiple places at different stages of growth.\n\nAlways learning...",
+        "industryName": "Computer Software",
+        "lastName": "Rahurkar",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Mandar",
+        "entityUrn": "urn:li:fs_profile:ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105786169"
+        },
+        "geoLocationName": "Menlo Park, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Director of ML at Doordash",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFfmXIWZ1MKFg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1516234881591?e=1746057600&v=beta&t=oRXWj2Xuo2P9zrdZnc9CNxnk33U2YcvRoEvRoqMcKPk",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1516234881060?e=1746057600&v=beta&t=fRWzdf2vDhRQtNv6UO_2BqkCcyE7e6fbtDT0bimDi2g",
+        "img_333_333": "800_800/profile-displayphoto-shrink_800_800/0/1516234880457?e=1746057600&v=beta&t=4fyjY5IH9b_SjhBGz11fzbBz0GYRi8oYHzjFdT5VrdU",
+        "profile_id": "ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w",
+        "member_urn": "urn:li:member:5784671",
+        "public_id": "radnam",
+        "experience": [
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,2058066137)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "DoorDash",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Building teams to solve Ads delivery and marketplace optimization problems including auction, auto-bidding, budget optimization, pacing, budget aware experimentation and measurements.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Director of Artificial Intelligence, Ads and Promos.",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:3205573",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFif47AalnTdA/company-logo_"
+            },
+            {
+                "locationName": "Palo Alto, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,1977293903)",
+                "geoLocationName": "Palo Alto, California, United States",
+                "geoUrn": "urn:li:fs_geo:101876708",
+                "companyName": "ShareChat",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Director Machine Learning, Monetization",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6605974",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGoeY9_j_6slg/company-logo_"
+            },
+            {
+                "locationName": "Palo Alto, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,1755233680)",
+                "geoLocationName": "Palo Alto, California, United States",
+                "geoUrn": "urn:li:fs_geo:101876708",
+                "companyName": "ShareChat",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "- Building SOTA Ad Delivery platform for India's largest local language first platform while innovating parallel revenue streams in line with the core platform offering.\n- Leading the Monetization AI charter currently including Ads Data, Ads Quality, Ads Platform and Ads Insights.\n- Support all ad funnels and formats across Moj and Sharechat; delivering over XX Billion monthly ad impressions.\n- We are working on problems at all stages including bidding, pacing, ad relevance and utility function optimization.\n- Mentoring and developing leaders.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Director of Machine Learning, Monetization",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6605974",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGoeY9_j_6slg/company-logo_"
+            },
+            {
+                "locationName": "Palo Alto, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,1645506522)",
+                "geoLocationName": "Palo Alto, California, United States",
+                "geoUrn": "urn:li:fs_geo:101876708",
+                "companyName": "Something new in Healthcare",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "- Hiring ML/BE engineers.\n- Setting up early infrastructure on GCP and landing MVP at one of the partners.\n- Leading data exploration and ideation exercises with early medical partners.",
+                "title": "Engineering",
+                "region": "urn:li:fs_region:(us,0)"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,1442041025)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Nextdoor",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2016
+                    }
+                },
+                "description": "Engineering, Problem Solving, Mentoring to scale product features on the Nextdoor platform\n- Build sentiment detector to capture sentiment on user comments.\n- Completely built from scratch our Inventory Forecasting and Allocation pipeline which is used to manage all our display ads inventory. \n- Community Health: Identifying and building ML-based solutions to improve community health on the platform.\n- Newsfeed ranking and personalization efforts with a focus on driving user engagement.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Staff Software Engineer",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:1916708",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE5TCP7Rw7A-g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,2153486)",
+                "school": {
+                    "objectUrn": "urn:li:school:18321",
+                    "entityUrn": "urn:li:fs_miniSchool:18321",
+                    "active": true,
+                    "schoolName": "University of Illinois Urbana-Champaign",
+                    "trackingId": "oM0RDlsjRzat0QSeKUgbyQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2003
+                    }
+                },
+                "description": "Advisor: Prof. Thomas Huang\nDissertation: Mining intelligence of crowds for knowledge inference.\n\n- Developed algorithms for higher level knowledge inference of unstructured text using Wikipedia as a data source.\n- Developed and implemented automatic image annotation algorithms using Wikipedia as a knowledge source\n- Part of Star Challenge multimedia team, runners up in the world wide multimedia search contest",
+                "degreeName": "Phd",
+                "schoolName": "University of Illinois at Urbana-Champaign",
+                "fieldOfStudy": "Electrical and Computer Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:18321"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,24023215)",
+                "school": {
+                    "objectUrn": "urn:li:school:18007",
+                    "entityUrn": "urn:li:fs_miniSchool:18007",
+                    "active": true,
+                    "schoolName": "University of Colorado Boulder",
+                    "trackingId": "QvIWyCdTTzqeS9exhqmCjQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2003
+                    },
+                    "startDate": {
+                        "year": 2001
+                    }
+                },
+                "description": "Machine learning for stress detection in speech.",
+                "degreeName": "Master of Science (MS)",
+                "schoolName": "University of Colorado at Boulder",
+                "fieldOfStudy": "ECE, Speech Signal Processing",
+                "schoolUrn": "urn:li:fs_miniSchool:18007"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w,24093493)",
+                "school": {
+                    "objectUrn": "urn:li:school:13663",
+                    "entityUrn": "urn:li:fs_miniSchool:13663",
+                    "active": true,
+                    "schoolName": "University of Mumbai",
+                    "trackingId": "31pdGLM7T0WMpWP1gVOqEg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGsu_DimiqUow/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2001
+                    },
+                    "startDate": {
+                        "year": 1997
+                    }
+                },
+                "description": "Dynamic Time Warping for Speech and Text applications.",
+                "degreeName": "B.E",
+                "schoolName": "University of Mumbai",
+                "fieldOfStudy": "Electrical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13663"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Artificial Intelligence (AI)"
+            },
+            {
+                "name": "Software Development"
+            },
+            {
+                "name": "Information Retrieval"
+            },
+            {
+                "name": "Machine Learning"
+            }
+        ],
+        "urn_id": "ACoAAABYRF8BefKahxJpw1RQKZ3gjLSBt7Lgr4w"
+    }
+}

@@ -1,0 +1,777 @@
+{
+    "urn_id": "ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+    "fetch_timestamp": "2025-02-26T21:33:02.418172",
+    "profile_data": {
+        "summary": "I am a research scientist in Bytedance and working on E-Commerce recommendation/search platform for creators",
+        "industryName": "Higher Education",
+        "lastName": "Wu",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:68",
+        "firstName": "Xidong",
+        "entityUrn": "urn:li:fs_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+        "img_600_600": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+        "profile_id": "ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+        "member_urn": "urn:li:member:535073793",
+        "public_id": "xidong-wu-22924112b",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,2532036340)",
+                "companyName": "Google",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,2373347114)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "ByteDance",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "description": "Recommended and Search System in tiktok shop",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Research Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6575553",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGA-1ynUGnhlA/company-logo_"
+            },
+            {
+                "locationName": "Pittsburgh, Pennsylvania, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,2465822284)",
+                "geoLocationName": "Pittsburgh, Pennsylvania, United States",
+                "geoUrn": "urn:li:fs_geo:101351937",
+                "companyName": "UPMC Hillman Cancer Center",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "1. Used GPT-4 to offer a end-to-end Kowledge graph construction and reasoning in drug discovery.\n2. We introduced a context-aware relational graph that effectively embodies the hierarchical structure of Molecular Regulatory Pathways (MRPs) and resolves semantic inconsistencies by embedding context directly within the relational edges.\n3. We used Retrieval-Augmented Generation (RAG) based on constructed MRPs to imrpvoe GPT-4’s reasoning ability. \n4. We further developed a novel G-Eval scheme, leveraging GPT-4 for annotation-free performance evaluation on graph construction that demonstrated agreement with evaluations on the benchmark dataset.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Machine Learning Researcher",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:65442876",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFUmRabYSWkLg/company-logo_"
+            },
+            {
+                "locationName": "Pittsburgh, Pennsylvania, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,2190487182)",
+                "geoLocationName": "Pittsburgh, Pennsylvania, United States",
+                "geoUrn": "urn:li:fs_geo:101351937",
+                "companyName": "Bosch Center for Artificial Intelligence (BCAI)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "description": "1. Studied the application of foundation models in federated learning.\n2. Fine-tuned the CLIP models (RestNet50 and ViT-Base/32) with prompt tuning and linear probing. Compared the ability of foundation models to mitigate client drift with that of other model structures (ResNet, MobileNet).\n3. Leveraged the zero-shot performance of foundation models to guide the training of lightweight models with knowledge distillation. It largely improves lightweight model performance under severe heterogeneous data settings and benefits inference efficiency.\n4. Achievement: (1) one paper accepted by NeurIPS2023@FL workshop. (2) One patent.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Machine learning research intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:12639123",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQH5KJRtRtPr3Q/company-logo_"
+            },
+            {
+                "locationName": "Cambridge, United Kingdom",
+                "entityUrn": "urn:li:fs_position:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,1522670655)",
+                "geoLocationName": "Cambridge, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:90009477",
+                "companyName": "University of Cambridge",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Summer Student",
+                "region": "urn:li:fs_region:(gb,4555)",
+                "companyUrn": "urn:li:fs_miniCompany:4522",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHvK96T0SuY5g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,794712581)",
+                "school": {
+                    "objectUrn": "urn:li:school:19332",
+                    "entityUrn": "urn:li:fs_miniSchool:19332",
+                    "active": true,
+                    "schoolName": "University of Pittsburgh",
+                    "trackingId": "CXCZfBnqSxC+P22BG+SQfA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF-WX00Sjv9Bg/company-logo_"
+                },
+                "grade": "4",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "University of Pittsburgh",
+                "fieldOfStudy": "Computer Engineering",
+                "degreeUrn": "urn:li:fs_degree:900",
+                "schoolUrn": "urn:li:fs_miniSchool:19332"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614349599)",
+                "school": {
+                    "objectUrn": "urn:li:school:17939",
+                    "entityUrn": "urn:li:fs_miniSchool:17939",
+                    "active": true,
+                    "schoolName": "University of California, Berkeley",
+                    "trackingId": "VtEQc+t9QvyKrFhyULgIrA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100367",
+                "degreeName": "Master's Degree",
+                "schoolName": "University of California, Berkeley",
+                "fieldOfStudy": "Systems Engineering",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:17939"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,616055580)",
+                "school": {
+                    "objectUrn": "urn:li:school:13843",
+                    "entityUrn": "urn:li:fs_miniSchool:13843",
+                    "active": true,
+                    "schoolName": "Politecnico di Milano",
+                    "trackingId": "OK9xqbTkTtySpKBOcpOVGA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGIdDa21xm3FA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "· Fully Scholarship\n· Courses:Data structure; Fundamentals of Information System",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Exchange Program",
+                "schoolName": "Politecnico di Milano",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:13843"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2022,
+                    "day": 28
+                },
+                "name": "Fast Stochastic Recursive Momentum Methods for Imbalanced Data Mining",
+                "publisher": "IEEE International Conference on Data Mining (ICDM 2022)",
+                "url": "https://ieeexplore.ieee.org/abstract/document/10027738",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xidong",
+                            "lastName": "Wu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "occupation": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+                            "objectUrn": "urn:li:member:535073793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "publicIdentifier": "xidong-wu-22924112b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vPIY/flIS8mZv3J+trUNSw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2022,
+                    "day": 23
+                },
+                "name": "Doubly sparse asynchronous learning for stochastic composite optimization",
+                "publisher": "Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI 2022)",
+                "url": "https://www.ijcai.org/proceedings/2022/0266.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xidong",
+                            "lastName": "Wu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "occupation": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+                            "objectUrn": "urn:li:member:535073793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "publicIdentifier": "xidong-wu-22924112b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vPIY/flIS8mZv3J+trUNSw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2021,
+                    "day": 6
+                },
+                "name": "Efficient mirror descent ascent methods for nonsmooth minimax problems",
+                "publisher": "Advances in Neural Information Processing Systems (NeurIPS 2021)",
+                "url": "https://proceedings.neurips.cc/paper/2021/file/56503192b14190d3826780d47c0d3bf3-Paper.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xidong",
+                            "lastName": "Wu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "occupation": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+                            "objectUrn": "urn:li:member:535073793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "publicIdentifier": "xidong-wu-22924112b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vPIY/flIS8mZv3J+trUNSw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+                    }
+                ]
+            },
+            {
+                "name": "AdaGDA: Faster Adaptive Gradient Descent Ascent Methods for Minimax Optimization",
+                "publisher": "International Conference on Artificial Intelligence and Statistics (AISTAT 2023)",
+                "url": "https://arxiv.org/pdf/2106.16101.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xidong",
+                            "lastName": "Wu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "occupation": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+                            "objectUrn": "urn:li:member:535073793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "publicIdentifier": "xidong-wu-22924112b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vPIY/flIS8mZv3J+trUNSw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+                    }
+                ]
+            },
+            {
+                "name": "Decentralized Riemannian Algorithm for Nonconvex Minimax Problems",
+                "publisher": "AAAI Conference on Artificial Intelligence (AAAI 2023)",
+                "url": "https://arxiv.org/pdf/2302.03825.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xidong",
+                            "lastName": "Wu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "occupation": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+                            "objectUrn": "urn:li:member:535073793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "publicIdentifier": "xidong-wu-22924112b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vPIY/flIS8mZv3J+trUNSw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+                    }
+                ]
+            },
+            {
+                "name": "Faster Adaptive Federated Learning",
+                "publisher": "AAAI Conference on Artificial Intelligence (AAAI 2023)",
+                "url": "https://arxiv.org/pdf/2212.00974.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xidong",
+                            "lastName": "Wu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "occupation": "MLE @ Google | RS @ ByteDance | PhD@ U of Pittsburgh | MS @ UC Berkeley",
+                            "objectUrn": "urn:li:member:535073793",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI",
+                            "publicIdentifier": "xidong-wu-22924112b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590459922413?e=1746057600&v=beta&t=z7KlBO7RxasXLbEcMcXGKFNtIE0Mwe1c5xz3MXv2gqo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590459922413?e=1746057600&v=beta&t=O3Rhbd-Psjh9a3RbpNljlkQIeKbMKu76fcEmU29yjTQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590459922413?e=1746057600&v=beta&t=HNapojojKG7e9Snb-lzdOh3WZ_5waVey6TF4k9rqNT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590459922413?e=1746057600&v=beta&t=eYJEA2acb9BPb-V0bzM9E5Ql94-6l_mG2GW5ADs_jJo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEiyCY0RJzlhA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vPIY/flIS8mZv3J+trUNSw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "YJF59V43M35L",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "znKCdo8ZSi2gA5dYXvFHTA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/YJF59V43M35L"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Machine Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "FJDYPM9T5ALG",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "Y54yt/XpS8yFb2NJcNpOpw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/FJDYPM9T5ALG"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": " Outstanding graduates in Beijing",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "issuer": "Beijing Education Bureau"
+            },
+            {
+                "description": "The highest honor for undergraduate students of BUAA (10/14,000)",
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": "Shenyuan Prize",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "issuer": "Beihang University"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": " Merit Student  in Beijing(Top 1%)",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2017,
+                    "day": 1
+                },
+                "issuer": "Beijing Education Bureau"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": "Chinese National Scholarship",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2017,
+                    "day": 1
+                },
+                "issuer": "Ministry of Education of the People's Republic of China (MOE) "
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": "Third Prize in the 26th Feng Ru Cup Technology Competition",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "issuer": "Beihang University"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": "Second Prize in the Beijing Building Structure Contest",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "issuer": "The Education Bureau of Bejing"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": "Chinese National Scholarship",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2015,
+                    "day": 1
+                },
+                "issuer": "Ministry of Education of the People's Republic of China (MOE) "
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI,614348693)",
+                "title": "Third Prize in the Beijing Physics Competition ",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "issuer": "Beijing Education Bureau"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Artificial Intelligence (AI)"
+            },
+            {
+                "name": "Recommender Systems"
+            },
+            {
+                "name": "Search system"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "urn_id": "ACoAAB_klAEBWguAqjFQRQ2mMqGXjA5rrZvF-xI"
+    }
+}

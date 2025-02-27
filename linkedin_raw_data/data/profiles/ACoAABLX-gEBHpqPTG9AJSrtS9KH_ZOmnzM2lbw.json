@@ -1,0 +1,979 @@
+{
+    "urn_id": "ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+    "fetch_timestamp": "2025-02-26T21:28:08.320378",
+    "profile_data": {
+        "summary": "As a Data Scientist at BrickSimple LLC, I applied my skills and knowledge in Python, Machine Learning, Data Visualization, and Image Analysis to create innovative and impactful data solutions for various clients and industries. With 4+ years of experience specializing in developing and deploying AI/ML solutions across healthcare, real estate, and business intelligence domains. Proven track record in leading and managing cross-functional teams and delivering high-impact projects using cutting-edge technologies including LLMs, Deep Learning and Computer Vision. Experienced in full ML lifecycle management and stakeholder collaboration.\n\nMy responsibilities at BrickSimple were:\n- Managed end-to-end machine learning lifecycle, including data collection, preprocessing, model development, and deployment in production.\n- Engaged with clients and senior stakeholders to align machine learning projects with strategic business objectives.\n- Served as a team lead, managing a team of 2-3 people, providing guidance and project oversight to ensure successful delivery of AI solutions.\n- Managed machine learning projects from conception to deployment, ensuring timely delivery, alignment with business goals, and adherence to quality standards.\n- Acted as a subject matter expert in machine learning, staying updated with industry trends to deliver innovative solutions.\n- Maintain up-to-date knowledge of industry trends and best practices in data science and machine learning.\n\nWith over four years of Data Science professional experience at BrickSimple LLC, I have successfully developed and deployed predictive and regression models using algorithms such as LSTMs, Random Forests, SVMs, Large Language Models, AWS ML models, Google Cloud Platform, Clustering Techniques, Deep Neural Networks, etc. I have also worked with various database technologies, such as SQL and Microsoft SQL Server, and data visualization and analysis tools, such as Tableau Desktop and Tableau Prep. I am passionate about solving complex data problems and delivering value to my clients and company.\nIn my previous roles, I have helped to increase the efficiency, speed, and cost reduction of IT processes and workflows by using automation and orchestration tools, such as Microsoft SCORCH and Python. \nEmail- manishgrover9313@gmail.com",
+        "industryName": "Computer Software",
+        "lastName": "Grover",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Manish",
+        "entityUrn": "urn:li:fs_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104937023"
+        },
+        "geoLocationName": "Philadelphia, Pennsylvania",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+        "img_500_500": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+        "profile_id": "ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+        "member_urn": "urn:li:member:316144129",
+        "public_id": "manish-grover",
+        "experience": [
+            {
+                "locationName": "Philadelphia, Pennsylvania ",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445244040)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445364841)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445527644)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445778787)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,446016015)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,446117890)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,924761260)"
+                ],
+                "geoUrn": "urn:li:fs_geo:90000077",
+                "companyName": "BrickSimple LLC",
+                "description": "Responsibilities:\n•Managed end-to-end machine learning lifecycle, including data collection, preprocessing, model development, and deployment in production.\n•Engaged with clients and senior stakeholders to align machine learning projects with strategic business objectives.\n•Served as a team lead, managing a team of 2-3 people, providing guidance and project oversight to ensure successful delivery of AI solutions.\n•Managed machine learning projects from conception to deployment, ensuring timely delivery, alignment with business goals, and adherence to quality standards.\nProjects:\n•AI Chatbot: Developed a RAG-based chatbot using OpenAI API to automate responses for visitors' inquiries on BrickSimple's website. The solution enabled accurate and dynamic engagement with prospective clients by leveraging the company’s past work data, significantly enhancing user interaction and information accessibility. Regularly interacted with directors and key stakeholders to ensure project alignment with business objectives.\n•Real Estate Document Analyzer: Managed and engineered an innovative OCR-driven system leveraging named entity recognition (NER) and BERT language models to precisely extract critical data from real estate documents. Achieved an accuracy rate of over 92%, resulting in a substantial reduction in human error and cost associated with manual data extraction processes.\n•Sales Forecasting Model: Led the design and implementation of a Long Short-Term Memory deep learning model for sales forecasting across multiple SKUs. This initiative led to a notable improvement in inventory management efficiency and optimization, driving substantial cost savings and revenue growth.\n•Surgery Equipment Detection: Developed a state-of-the-art object detection system utilizing Mask R-CNNs for medical environments. This innovative solution significantly enhanced safety protocols and operational efficiency in healthcare settings, ensuring optimal patient care delivery.",
+                "title": "Senior Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:72725",
+                "entityUrn": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "geoLocationName": "Philadelphia, Pennsylvania ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,77)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE_CmxmHBqSqA/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois",
+                "entityUrn": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1333854339)",
+                "geoLocationName": "Chicago, Illinois",
+                "companyName": "University of Illinois at Chicago",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "-> I worked as a graduate teaching assistant in physics laboratory for the physics department. \nMy responsibilities were :\n-> Managed and operated a database with the details of 150 students and managed safety database upgrades which in turn streamlined the already existing process by 10%.\n-> Engineered windows server-client connection between 80-100 computers for 10 physics labs and resolved any issues that occurred in the computer’s connection which increased the working efficiency of the labs by 30%.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:2649",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEBN-jmusbuKg/company-logo_"
+            },
+            {
+                "locationName": "Noida Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,846311670)",
+                "geoLocationName": "Noida Area, India",
+                "companyName": "HCL Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "description": "-> I worked for the Infrastructure Services Division of the HCL Technologies in DRYICE Autonomics as a Junior Analyst (Automation Engineer).\n-> Worked on automating and orchestrating IT processes using System Center Orchestrator (Microsoft SCORCH) and python.\n-> Worked on the project for one of the clients of HCL Technologies, where I helped in increasing the efficiency of the existing IT environment by creating an automated workflows in Microsoft SCORCH tool and Python across the IT management space, in turn ensuring cost reduction by 25% and improved speed of the existing and any future projects by 30%.\n-> Also assessed and solved all IT related issues.\n-> Performed functions such as support, performance analysis, troubleshooting, and capacity\nplanning.\n-> Created a derived mechanism for intelligently placing workload at the time of resources crunch.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Junior Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:1756",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_"
+            },
+            {
+                "locationName": "New Delhi Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,761440737)",
+                "geoLocationName": "New Delhi Area, India",
+                "companyName": "National Physical Laboratory",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2015
+                    }
+                },
+                "description": "-> Successfully created a program which automated the process of calculating the errors and uncertainty of high capacitance materials which decreased the time to complete an experiment by 35% in the organization.\n-> Got to learn about the calibration and standardization processes used for making the instruments.\n-> Worked in the research laboratory and completed the project on-  “Realization of Four-Terminal Air-Capacitance Standards Using Z-Matrix Method” under the mentor-ship of Mr. Satish, Junior Scientist, ALSIM, CSIR-NPL, New Delhi",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Research Trainee (Intern)",
+                "companyUrn": "urn:li:fs_miniCompany:101976453",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE74mYYDwX9XQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,761441475)",
+                "companyName": "Indraprastha Power Generation Company Ltd (IPGCL)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "description": "Got to learn about the process of power generation in the country and completed the project on “Gas Turbine Power Station”.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Oil & Energy"
+                    ]
+                },
+                "title": "Trainee",
+                "companyUrn": "urn:li:fs_miniCompany:8156343"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1336933038)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,991041937)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,991465481)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,999599088)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1001746555)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,656191794)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,62645472)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,63231469)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,484617481)",
+                "school": {
+                    "objectUrn": "urn:li:school:18319",
+                    "entityUrn": "urn:li:fs_miniSchool:18319",
+                    "active": true,
+                    "schoolName": "University of Illinois Chicago",
+                    "trackingId": "55eVGfkRQdyDy177PF8kcQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEBN-jmusbuKg/company-logo_"
+                },
+                "grade": "GPA- 3.40/4",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University of Illinois at Chicago",
+                "fieldOfStudy": "Electrical and Computer Engineering",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18319"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,901147399)",
+                    "urn:li:fs_project:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1335971384)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,322410814)",
+                "activities": "IEEE member",
+                "grade": "CGPA- 7.15/10",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100351",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Maharaja Agrasen Institute Of Technology, Guru Gobind Singh Indraprastha University",
+                "fieldOfStudy": "Electrical and Electronics Engineering"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,202481453)",
+                "activities": "Robotics Society",
+                "grade": "CGPA- 7.71/10",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "The NorthCap University (formerly ITM University)",
+                "fieldOfStudy": "Electrical and Electronics Engineering"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            },
+            {
+                "name": "Hindi"
+            }
+        ],
+        "publications": [
+            {
+                "name": "Determination of Inductive and Capacitive Components of Electrical Equivalent Circuit of Four-Terminal-Pair Capacitance Standards",
+                "publisher": "Advances in Metrology (AdMet2016)",
+                "description": "The reported work has been carried out at LF, HF impedance and DC standard laboratory, the sub-division of ALSIM (Apex level Standards and Industrial Metrology) of CSIR-NPL. The laboratory is responsible for establishing and maintaining impedance standards at low and high frequency, dc standards and dc high voltage standards. The four-terminal-pair (4TP) capacitance standards used in the present work are Agilent 16380A type of nominal values 100 and 1000 pF. These standards can be represented by electrical equivalent circuit model (EECM) as described by Suzuki. The objective of this work is to determine the capacitive and inductive components of EECM, so that frequency characteristics of the 4TP capacitance standards are known.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    },
+                    {
+                        "name": "SATISH"
+                    },
+                    {
+                        "name": "THOMAS JOHN"
+                    },
+                    {
+                        "name": "SACHIN KUMAR"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Volunteer",
+                "companyName": "THE EARTH SAVIOURS FOUNDATION (NGO)",
+                "cause": "SOCIAL_SERVICES"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,924761260,445583609)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": "Led the development of an AI-powered chatbot for BrickSimple's website using a Retrieval-Augmented Generation (RAG) system. Leveraged semantic embeddings for knowledge retrieval, Amazon Bedrock for pipeline orchestration, and OpenAI for natural language responses. The chatbot dynamically engaged visitors based on historical company data, enhancing user interaction and automating responses. Regularly interacted with directors and key stakeholders to ensure project alignment with business objectives.",
+                "title": "AI Chatbot"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,446117890,422406639)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "description": "Led the project development and utilized OpenAI(GPT-3) to develop a document classifier for automated classification of medical documents. Achieved an accuracy of over 88%. This solution significantly streamlined workflow processes, enhancing efficiency and reducing costs in healthcare settings.",
+                "title": "Medical Document Processing"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,446016015,422403778)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Led the design and implementation of a Long Short-Term Memory (LSTM) deep learning model for sales forecasting across multiple SKUs for Rogue Fitness. This initiative led to a notable improvement of over 30% in inventory management efficiency and optimization, driving substantial cost savings and revenue growth.",
+                "title": "Sales Forecasting Model:"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445778787,422408414)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "Conceptualized and created an interactive voice response (IVR) system for appointment management in a dentist's office using Google Dialogflow. Successfully streamlined operations, reduced staffing costs, and minimized errors, resulting in improved operational outcomes and heightened patient satisfaction.",
+                "title": "IVR Telephonic System"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445527644,422406594)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Developed a state-of-the-art object detection system utilizing Mask R-CNNs for medical environments, achieving an impressive accuracy rate of over 86% in identifying various surgical equipment. This innovative solution significantly enhanced safety protocols and operational efficiency in healthcare settings, ensuring optimal patient care delivery.",
+                "title": "Surgery Equipment Detection"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445364841,422403719)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "description": "Engineered an innovative OCR-driven system leveraging named entity recognition (NER) and BERT language models to precisely extract critical data from real estate documents. Achieved terrific accuracy rate of over 92%, resulting in a substantial reduction in human error and cost associated with manual data extraction processes.",
+                "title": "Real Estate Document Analyzer"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1537981164)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,445244040,422403706)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "Spearheaded the development of a cutting-edge speech recognition model utilizing Deep Convolutional Neural Networks (CNN), achieving a remarkable accuracy rate of over 90% in identifying 10 keywords. Applied advanced signal processing techniques to preprocess audio data, resulting in a significant enhancement of model performance and usability.",
+                "title": "Speech Recognition Model"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,484617481)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,656191794,238689659)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "-> Achieved real time tracking and recognition of multiple objects when seen through the HoloLens.\n-> Successfully able to classify different objects into their respective class when a person sees that object through the HoloLens.\n-> Created a server-client connection between the computer (server) and the HoloLens (client).\n-> HoloLens' webcam is used to take picture of the real world continuously and that picture is then fed to the computer where trained convolution neural network is running and it takes that picture as input and gives the output with the label of the image. \n-> Built an Artificial Convolutional Neural Network classifier that can recognize images using Keras and TensorFlow backend.\t\n",
+                "title": "Real-Time Multi-Object Tracking and Recognition using Microsoft HoloLens (Python, Keras, CNNs, OpenCV)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,484617481)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,63231469,238692165)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "description": "-> Built a chat-bot capable of conversing with a person using sequence-to-Sequence learning and LSTMs (RNNs).\n-> Used Cornell Movie--Dialogs Corpus which contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts. It has 220,579 conversational exchanges between 10,292 pairs of movie characters. Involves 9,035 characters from 617 movies, in total 304,713 utterances.\n-> Data pre-processing was done with the help of various natural language processing techniques such as tokenization, lemmatization, stemming etc.\n-> Used techniques like word embeddings, word2vec etc to convert the text data into numerical data.\n-> The model was trained using two Long Short Term Memory networks (RNNs).",
+                "title": "Sequence-to-Sequence Chat-Bot using Recurrent Neural Networks (Python, NLTK, Keras, Scikit learn)"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Manish",
+                            "lastName": "Grover",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "occupation": "Looking for job opportunities in Data Science | Former Data Scientist @ BrickSimple LLC | Master of Science from University Of Illinois, Machine Learning",
+                            "objectUrn": "urn:li:member:316144129",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw",
+                            "publicIdentifier": "manish-grover",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1710807794664?e=1741230000&v=beta&t=lzKn0Z3t0YIM7fRhr2jwQlpJKdLq-zhNqRUKgUeYgG8",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1710807794664?e=1741230000&v=beta&t=Zc7LH8nkVzRXa2mbjGR__R_LSriOmdqTABxtxfhSrcs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1710807794664?e=1741230000&v=beta&t=X-MWikjsrBw502xAdAAMCFJAw554oqF5-73kBNzRwTE",
+                                            "expiresAt": 1741230000000,
+                                            "height": 500
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1710807794664?e=1741230000&v=beta&t=lxGaIkpTttMVfhNMvBdJgmzkpLw0dqx5RXXAqJxKWeQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQE8bDEQ48kuUQ/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h0KFc6amR02seoy5ZhOrow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw,1105113034,223838799)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "-> Used machine learning models such as deep CNN and feed forward neural network to classify images to their respective class. Models were tuned by changing various parameters like number of epochs, number of layers, number of neurons, type of activation function, batch size, learning rate etc to obtain highest accuracy.\n-> Achieved an accuracy of 82 % by using deep CNN model.\n-> The CIFAR-10 dataset was used which consists of 60000 32x32 colour images (RGB) in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.  \n",
+                "title": "Multi-class classification of images using CIFAR-10 dataset (Python, CNN, Scikit learn, Keras)                      "
+            }
+        ],
+        "skills": [
+            {
+                "name": "Big Data"
+            },
+            {
+                "name": "Generative AI"
+            },
+            {
+                "name": "GPT-3"
+            },
+            {
+                "name": "OpenAI"
+            }
+        ],
+        "urn_id": "ACoAABLX-gEBHpqPTG9AJSrtS9KH_ZOmnzM2lbw"
+    }
+}

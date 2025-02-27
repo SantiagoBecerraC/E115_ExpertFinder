@@ -1,0 +1,737 @@
+{
+    "urn_id": "ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY",
+    "fetch_timestamp": "2025-02-26T21:38:47.585893",
+    "profile_data": {
+        "summary": "Experienced Data Scientist with a demonstrated history of working in the management consulting industry. Skilled in Deep Learning, Computer Vision and Machine Learning. Strong research professional, experienced in AI projects involving Natural Language Processing, Image Processing, Predictive Analytics, time series and much more.",
+        "industryName": "Computer Software",
+        "lastName": "Jain",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Shifu",
+        "entityUrn": "urn:li:fs_profile:ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000070"
+        },
+        "geoLocationName": "New York City Metropolitan Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior Data Scientist at Oracle",
+        "profile_id": "ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY",
+        "member_urn": "urn:li:member:324203317",
+        "public_id": "shifu-jain-7b16a990",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,1601197006)",
+                "companyName": "Oracle",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "description": "Natural Language Generation Projects",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_"
+            },
+            {
+                "locationName": "Bangalore",
+                "entityUrn": "urn:li:fs_position:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,1470685209)",
+                "geoLocationName": "Bangalore",
+                "companyName": "Affine Analytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Lead Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:1827639",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFXbeKF6LKXTw/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,1013019597)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "Affine Analytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Senior Business Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:1827639",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFXbeKF6LKXTw/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,494828327)",
+                    "urn:li:fs_course:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,494828389)"
+                ],
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,681635058)",
+                "geoLocationName": "Gurgaon, India",
+                "companyName": "Delhivery",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Transportation/Trucking/Railroad"
+                    ]
+                },
+                "title": "Senior Associate",
+                "companyUrn": "urn:li:fs_miniCompany:2312777",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,2069084114)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF6yAUa9D8NHQ/company-logo_"
+            },
+            {
+                "locationName": "Bathinda, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,855298113)",
+                "geoLocationName": "Bathinda, India",
+                "companyName": "National Fertilizers Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Chemicals"
+                    ]
+                },
+                "title": "Intern",
+                "companyUrn": "urn:li:fs_miniCompany:497999",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEWegUeXTEn8Q/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,494828256)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,237379705)",
+                "school": {
+                    "objectUrn": "urn:li:school:4083130",
+                    "entityUrn": "urn:li:fs_miniSchool:4083130",
+                    "active": true,
+                    "schoolName": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+                    "trackingId": "mHVtk2sTRLaM+aO6yaf9lQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQFoROyC7G6Law/company-logo_"
+                },
+                "activities": "NSS, PRAYAAS",
+                "grade": "8.58/10",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "B. Tech.",
+                "schoolName": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+                "fieldOfStudy": "Instrumentation & Control Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:4083130"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Punjabi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "DataCamp",
+                "name": "Introduction to R",
+                "licenseNumber": "d3dc12349adc30732eedff7b032742f44cd53865",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "6trni0yeTVSIAN8ore6bVA=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/courses/free-introduction-to-r?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Intermediate R",
+                "licenseNumber": "1,690,389",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "KvPjz8LOT0667jonYVMOOg=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/8a258e04c3c9cb603babbe3f62464a7da4470e71"
+            },
+            {
+                "authority": "edX",
+                "name": "edX Honor Code Certificate for Discrete Time Signals and Systems",
+                "company": {
+                    "objectUrn": "urn:li:company:2746406",
+                    "entityUrn": "urn:li:fs_miniCompany:2746406",
+                    "name": "edX",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688142646299/edx_logo?e=1748476800&v=beta&t=nJb0emwMdqL5jHc2Sn6j_DaEPFyKECo8-lW3MTAu8wU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688142646299/edx_logo?e=1748476800&v=beta&t=AFOArR_TwKho9WIG2IXx9CM2fcB3DIuz0iui_hXMdbs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1748476800&v=beta&t=b3huD6sXki-R8MgHvCgAdDvKREfXqnLkfBWTe2GUMkI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_"
+                        }
+                    },
+                    "universalName": "edx",
+                    "dashCompanyUrn": "urn:li:fsd_company:2746406",
+                    "trackingId": "kq/rN3HWShe5paqB/LvT9Q=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2746406",
+                "url": "https://s3.amazonaws.com/verify.edx.org/downloads/0e381f2f96354b759a202dbb5463ab5e/Certificate.pdf"
+            },
+            {
+                "authority": "Coursera Course Certificates",
+                "name": "Managing Big Data with MySQL",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "2G4AKY65YDXT",
+                "company": {
+                    "objectUrn": "urn:li:company:3526187",
+                    "entityUrn": "urn:li:fs_miniCompany:3526187",
+                    "name": "Coursera Course Certificates",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631343250640?e=1748476800&v=beta&t=EmWua1pq5tfKQwpuyZuFd9VaKVMDhELt1mY6Y4Qmfz8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631343250640?e=1748476800&v=beta&t=0-IxoDxiizWyDntpmWsMeSDYJvQvLoielx-S3Fp9rqI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631343250640?e=1748476800&v=beta&t=GNQ3e7VqQOh81O8kSUohx6EgdTMzVIv8V0QRjuUWgkQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera-verified",
+                    "dashCompanyUrn": "urn:li:fsd_company:3526187",
+                    "trackingId": "EzCJYow2Sk+7CLfb1oXFeg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3526187",
+                "url": "https://www.coursera.org/account/accomplishments/verify/2G4AKY65YDXT"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Introduction to Python for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "3,768,900",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "3HNqC0RvSQWJ2OPKe12aEw=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/f7e7ebe7bf31e7b98cb5663fa1b84a61c2dc2973"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "LAF5JWVQ83BW",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "280xbzhwRyOtSbP5ZYSz5w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/LAF5JWVQ83BW"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "Q4NASZKXP5N4",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "ZnuGf54nRsaB4c0zkaR2pQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/Q4NASZKXP5N4"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Structuring Machine Learning Projects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "TWXFZ6LP8984",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "65KWh3ifQBuhnKLaxROu5g=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/TWXFZ6LP8984"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Applied Data Science with Python Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "R6TAQSA3EU3A",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "i4QsZNzqTCOdLBpXaWePug=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/R6TAQSA3EU3A"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "SP3NMT844EC9",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "9M17Gad/TamrKYK5CMhzxg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/SP3NMT844EC9"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Faculty",
+                "companyName": "Prayaas",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2013
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "PRAYAAS is a student-run club for teaching the poor children of construction workers on campus and slums near the campus. It is also involved in many charitable activities. \nI was among the core teaching members of the society."
+            }
+        ],
+        "honors": [
+            {
+                "description": "Hybrid Bagging and Regulatory Management & Automation.",
+                "occupation": "urn:li:fs_position:(ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY,681635058)",
+                "title": "KAIZEN AWARD",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "issuer": "Delhivery"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Onnx"
+            },
+            {
+                "name": "OCI"
+            },
+            {
+                "name": "Model Deployment "
+            },
+            {
+                "name": "MLOps"
+            }
+        ],
+        "urn_id": "ACoAABNS8zUBtN2QpHE--nf7k-nscij_PSSXzLY"
+    }
+}

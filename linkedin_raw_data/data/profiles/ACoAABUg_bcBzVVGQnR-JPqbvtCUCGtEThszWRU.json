@@ -1,0 +1,724 @@
+{
+    "urn_id": "ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+    "fetch_timestamp": "2025-02-26T21:38:06.162834",
+    "profile_data": {
+        "summary": "An innovative and insightful Data Engineer not only skilled in Data Warehousing and Cloud Computing but also equipped with Data Scientist skills in Statistical Analysis, Machine Learning, and Data Mining. I bring with me a diverse skill set in problem-solving, mathematical expertise, technical acumen, and team collaboration. \n\nMy specialties include:\n• Python, R, SQL, SAS, Java, etc.\n• Data Processing, Feature Engineering, Statistical Analysis, Machine Learning [Regressions, Classifications, Clustering, Dimension Reduction], Deep Learning, Medicine Intelligence\n• Data Pipeline, Data Warehouse, Big Data Platform [Apache Spark], AWS",
+        "industryName": "Retail",
+        "lastName": "Wang",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:27",
+        "firstName": "Meixian",
+        "entityUrn": "urn:li:fs_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104119503"
+        },
+        "geoLocationName": "Sunnyvale, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+        "img_600_600": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+        "profile_id": "ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+        "member_urn": "urn:li:member:354483639",
+        "public_id": "meixian-wang",
+        "experience": [
+            {
+                "locationName": "La Mirada, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1844656540)",
+                "geoLocationName": "La Mirada, California, United States",
+                "geoUrn": "urn:li:fs_geo:103486280",
+                "companyName": "Cumberland Farms",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "• Designed relational database and dimensional models for data from stores using MySQL; built ETL pipeline to ingest products’ ordering, stocking, and selling data using Python\n• Reanalyzed inventory reports to adjust inventory levels and reduced inventory carrying costs by 6.5%\n• Refined models to forecast regional sales trends; proposed promotions to boost seasonal products sales by 26%",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:33233",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHDhrJ7Qx-hMA/company-logo_"
+            },
+            {
+                "locationName": "Fremont, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1839287525)",
+                "geoLocationName": "Fremont, California, United States",
+                "geoUrn": "urn:li:fs_geo:106138232",
+                "companyName": "Zillionix",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "• Implemented a batch-processing data pipeline that ingested financial data from serval APIs using PySpark\n• Formulated Python modules that were used to reformat and validate data, and store processed data in AWS RDS\n• Automated ETL processes across data with AWS Lambda to reduce manual workloads by 30%",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13253089",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFlJmUA-dMlOA/company-logo_"
+            },
+            {
+                "locationName": "Gainesville, Florida",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131803098)",
+                    "urn:li:fs_project:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131834085)",
+                    "urn:li:fs_project:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131856439)",
+                    "urn:li:fs_project:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131883932)",
+                    "urn:li:fs_project:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131908444)",
+                    "urn:li:fs_project:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131931028)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "geoLocationName": "Gainesville, Florida",
+                "companyName": "University of Florida - Department of Medicine",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "description": "• Built automated ETL that ingested and cleansed 100 GB+ clinical data using Python\n• Employed clinical algorithms that classified patients into 14 kidney disease stages. Achieved 98% and 93% accuracy for 2 major kidney diseases\n• Designed a multithreading module for the algorithms to improved execution speed by 52%\n• Performed XGBoost and GAM models to predict 8 surgical risks and improved prediction accuracy to 89%",
+                "title": "Data Scientist"
+            },
+            {
+                "locationName": "Gainesville, Florida",
+                "entityUrn": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1130582413)",
+                "geoLocationName": "Gainesville, Florida",
+                "companyName": "University of Florida - Department of Statistics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "description": "• Engaged students interest by assisting with  labs and graded lab reports for Intro to Statistics.\n• Explained concepts in easy-to-understand language tailored specifically for each student.\n• Helped students establish valuable study skills to apply to their coursework.",
+                "title": "Graduate Teaching Assistant"
+            },
+            {
+                "locationName": "Durham, New Hamphire",
+                "entityUrn": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,779418586)",
+                "geoLocationName": "Durham, New Hamphire",
+                "companyName": "University of New Hampshire - Department of Mathematics and Statistics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2016
+                    }
+                },
+                "description": "Graded homework and exams for Finite Mathematics.",
+                "title": "Mathematics Grader"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,470154261)",
+                "school": {
+                    "objectUrn": "urn:li:school:18120",
+                    "entityUrn": "urn:li:fs_miniSchool:18120",
+                    "active": true,
+                    "schoolName": "University of Florida",
+                    "trackingId": "iQ+CfhjBSVCLTcuQLGigmg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEEUHxMAR-Q6w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "description": "Awarded Master's Minor in Computer Science",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100703",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University of Florida",
+                "fieldOfStudy": "Statistics",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18120"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,263126119)",
+                "school": {
+                    "objectUrn": "urn:li:school:18850",
+                    "entityUrn": "urn:li:fs_miniSchool:18850",
+                    "active": true,
+                    "schoolName": "University of New Hampshire",
+                    "trackingId": "Dgtckhj3R7KTfsiuJdn1aA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF6oYr2lTeb1A/company-logo_"
+                },
+                "activities": "Member of Pi Mu Epsilon (Honorary National Mathematics Society, UNH Chapter)\nMember of Hi Beta Kappa (Honorary Society for Liberal Arts and Sciences, UNH Chapter)",
+                "grade": "3.98",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "University of New Hampshire",
+                "fieldOfStudy": "Statistics",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:18850"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Cantonese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Mandarin",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Python for Everybody Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "NGLBL63864XA",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "XIirRIxrSlGim9S/27LahQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/NGLBL63864XA"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meixian",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:354483639",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1631599812727?e=1746057600&v=beta&t=rQNaz1aPfdGlYB4STUhBA2-Hk9hqhIIacAoOFoV5HTg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 844,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631599812727?e=1746057600&v=beta&t=6Q9L41eCMMKNOrtEOo1Xf4hIS-roUlUbXHum-k2n7kA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 211
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHR6-AjcB2s3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meixian-wang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wPAm+6drQRiSoyPqf+uZVw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131908444,215737489)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+                    }
+                ],
+                "description": "Effectively employed 30 GB+ 10-year daily EPA air pollution records to design database views on Oracle SQL; built ARIMA models to forecast temperatures, content of air pollutants, and air quality for seven days into the future for 50+ major U.S. cities. Visualized predictions with time-series plots and inserted them into the website interface. ",
+                "title": "Database Management System for Air Quality"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meixian",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:354483639",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1631599812727?e=1746057600&v=beta&t=rQNaz1aPfdGlYB4STUhBA2-Hk9hqhIIacAoOFoV5HTg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 844,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631599812727?e=1746057600&v=beta&t=6Q9L41eCMMKNOrtEOo1Xf4hIS-roUlUbXHum-k2n7kA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 211
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHR6-AjcB2s3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meixian-wang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wPAm+6drQRiSoyPqf+uZVw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131883932,215734967)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+                    }
+                ],
+                "description": "Introduced descriptive statistics into payment history data and performed feature engineering. Successfully estimated the probability of those cardholders defaulting by developing Logistic Regression, kNN, SVM, Neural Networks, Random Forests, GBDT, and XGBoost models using R and Python. Achieved an 83% accuracy rate.",
+                "title": "Detection of Default Credit Card Clients"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meixian",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:354483639",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1631599812727?e=1746057600&v=beta&t=rQNaz1aPfdGlYB4STUhBA2-Hk9hqhIIacAoOFoV5HTg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 844,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631599812727?e=1746057600&v=beta&t=6Q9L41eCMMKNOrtEOo1Xf4hIS-roUlUbXHum-k2n7kA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 211
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHR6-AjcB2s3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meixian-wang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wPAm+6drQRiSoyPqf+uZVw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131803098,215737464)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+                    }
+                ],
+                "description": "Developed clinically-viable algorithms to detect two common kidney diseases (Acute Kidney Injury and Chronic Kidney Disease) using large clinical datasets. Tasked with designing algorithms that detected if a patient was afflicted with Acute Kidney Injury or Chronic Kidney Disease using the patient’s past clinical records; achieved a 98% accuracy for Acute Kidney Injury and a 93% accuracy for Chronic Kidney Disease. \n\nGrouped patients into 15 classes based on criteria including ICD 9/10 codes and creatinine values from 7.6M+ medical records. Computed reference creatinine and estimated glomerular filtration rate for 84,350 patients, and then used them to categorize patients into eight AKI stages and six CKD stages. Compared the categorization labels to medical doctor diagnoses, achieved 98% accuracy for AKI algorithm and 93% accuracy for CKD algorithm \n",
+                "title": "Phenotyping Algorithms for Kidney Disease "
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meixian",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:354483639",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1631599812727?e=1746057600&v=beta&t=rQNaz1aPfdGlYB4STUhBA2-Hk9hqhIIacAoOFoV5HTg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 844,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631599812727?e=1746057600&v=beta&t=6Q9L41eCMMKNOrtEOo1Xf4hIS-roUlUbXHum-k2n7kA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 211
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHR6-AjcB2s3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meixian-wang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wPAm+6drQRiSoyPqf+uZVw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131931028,215737496)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+                    }
+                ],
+                "description": "Responsible for building an R package that implemented k-fold cross-validation, and non-parametric Bootstrap methods to evaluate prediction accuracy for recommendation systems. Created a user-friendly input environment that let users select training algorithms, prediction formats, and evaluation methods.\n\n",
+                "title": "R Package for Prediction Accuracy of Recommendation System"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meixian",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:354483639",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1631599812727?e=1746057600&v=beta&t=rQNaz1aPfdGlYB4STUhBA2-Hk9hqhIIacAoOFoV5HTg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 844,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631599812727?e=1746057600&v=beta&t=6Q9L41eCMMKNOrtEOo1Xf4hIS-roUlUbXHum-k2n7kA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 211
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHR6-AjcB2s3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meixian-wang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wPAm+6drQRiSoyPqf+uZVw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131834085,215735917)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+                    }
+                ],
+                "description": "This project predicted the postoperative risks (AKI, Sepsis, or other complications) for patients using real-time surgical data. Cleansed 50 GB+ clinical record data and selected 400+ columns for nephrology studies. Designed and implemented a Loess Regression model and visualized content of proteins to estimate a patient’s renal function. Performed XGBoost and GAM models to predict eight surgical risks and improved prediction accuracy to 89%. ",
+                "title": "Real-Time Automated Diagnosis System for AKI"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1352454529)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meixian",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:354483639",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1631599812727?e=1746057600&v=beta&t=rQNaz1aPfdGlYB4STUhBA2-Hk9hqhIIacAoOFoV5HTg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 844,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631599812727?e=1746057600&v=beta&t=6Q9L41eCMMKNOrtEOo1Xf4hIS-roUlUbXHum-k2n7kA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 211
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHR6-AjcB2s3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meixian-wang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534626218188?e=1746057600&v=beta&t=bdaodC1heEeguKNpavriL41q3tFgcxjG08JLX30otFQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534626218235?e=1746057600&v=beta&t=IygRl2YuZ4hcUmhzsL-bTjKkHkB48_YpHM3Pv3L6lW0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534626218419?e=1746057600&v=beta&t=TT5pgJ1IcSLGE-0pcbmkEzsZVLZCqKetmv9Tm8yBJvM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534626218220?e=1746057600&v=beta&t=d4ty-W_DhOubkLxKaLfehjWE8Hjzmh1OkKvVcAb_QKE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 600
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGH-TfI9Wg2wA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wPAm+6drQRiSoyPqf+uZVw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU,1131856439,215734962)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+                    }
+                ],
+                "description": "This project focused on examining urinary gene expressions for Sepsis diagnoses using Affymetrix GeneChip Arrays and discovered the functions of genes in Sepsis, infection, and inflammation by text mining. Effectively applied RMA and LIMMA analyses to extract 68 differentially-expressed genes contributing to Sepsis. Text-mined genes in PubMed for journals relating “sepsis” with “infection” and “inflammation.” ",
+                "title": "Research on Gene Functions in Sepsis "
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Statistics"
+            }
+        ],
+        "urn_id": "ACoAABUg_bcBzVVGQnR-JPqbvtCUCGtEThszWRU"
+    }
+}

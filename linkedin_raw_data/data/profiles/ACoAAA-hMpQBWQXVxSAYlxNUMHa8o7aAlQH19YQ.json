@@ -1,0 +1,831 @@
+{
+    "urn_id": "ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+    "fetch_timestamp": "2025-02-26T21:24:11.162491",
+    "profile_data": {
+        "summary": "I am deep learning algorithm engineer at NVIDIA, and I work on reinforcement learning (RL) and large-scale generative vision and language models. I received my PhD from the University of Illinois at Urbana-Champaign (UIUC) in 2023.. During PhD, I worked on scientific machine learning, graph neural networks (GNN), and RL, and published my work at NeurIPS21, NeurIPS22, and ICML23.",
+        "industryName": "Computer Software",
+        "lastName": "Taghibakhshi",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 3,
+            "day": 2
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Ali",
+        "entityUrn": "urn:li:fs_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103112676"
+        },
+        "geoLocationName": "Chicago, Illinois",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+        "profile_id": "ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+        "member_urn": "urn:li:member:262222484",
+        "public_id": "ali-taghibakhshi-15899973",
+        "experience": [
+            {
+                "locationName": "Santa Clara (Remote)",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,2245011696)",
+                "geoLocationName": "Santa Clara (Remote)",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "Working on multimodal generative AI",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Deep Learning Algorithm Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "Santa Clara (Remote)",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,2170367395)",
+                "geoLocationName": "Santa Clara (Remote)",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Deep Learning Algorithm ",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "Santa Clara, California, United States ",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,1964983345)",
+                "geoLocationName": "Santa Clara, California, United States ",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "description": "I worked in a team of deep learning algorithm engineers and NVIDIA researchers during my internship. I developed a new hierarchical graph neural network model leveraging a cross-attention mechanism for entity resolution tasks. Specifically, I developed the model for the cross-device user matching problem, and the model achieves significantly better performance (5%) compared to the state-of-the-art.  I presented this work at an internal main event held by the Vice President of engineering at NVIDIA.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Deep Learning Algorithm",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "University of Illinois Research Park, Champaign County, Illinois, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,1826434013)",
+                "geoLocationName": "University of Illinois Research Park, Champaign County, Illinois, United States",
+                "companyName": "John Deere",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "description": "* Developed a fully automated and visual-based local navigation and docking method for John Deere robot mower. I employed the developed method on a larger scale and as a parking assist for the Fairway mower. I used deep learning object detection followed by a deep Q-network (reinforcement learning agent) in a serial fashion. Paper available at publication lists.\n\n* Utilized autoencoders for noise reduction in planting conditions.\n\n* Developed a visual-based precision planting method using deep learning for seed depth and trench profile measurement.\n\n* Developed an optimized mowing assist using a combination of deep learning semantic segmentation and scene reconstruction algorithms.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Machinery"
+                    ]
+                },
+                "title": "Machine Learning Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:3789",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,1556047038)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGHcvebsMflbA/company-logo_"
+            },
+            {
+                "locationName": "Iran-Tehran- Niyayesh highway-Shoara st",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,947278471)",
+                "geoLocationName": "Iran-Tehran- Niyayesh highway-Shoara st",
+                "companyName": "Allameh Tabataba'i Highschool, Advanced Branch",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "description": "I taught core courses of Mathematical Olympiad, namely algebra, combinatorics, Euclidean geometry, and number theory to top Olympiad students in Tehran.",
+                "title": "Mathematical Olympiad Instructor"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,742774994)",
+                "school": {
+                    "objectUrn": "urn:li:school:18321",
+                    "entityUrn": "urn:li:fs_miniSchool:18321",
+                    "active": true,
+                    "schoolName": "University of Illinois Urbana-Champaign",
+                    "trackingId": "l51qMcUgSJuJiP+8QmjL2g==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_"
+                },
+                "grade": "3.98/4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Working on machine learning methods for optimizing iterative solvers and algebraic multigrid algorithms.",
+                "degreeName": "Doctor of Philosophy- Ph.D.",
+                "schoolName": "University of Illinois Urbana-Champaign",
+                "fieldOfStudy": "Mechanical Engineering: Scientific Machine Learning",
+                "schoolUrn": "urn:li:fs_miniSchool:18321"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,749630209)",
+                "school": {
+                    "objectUrn": "urn:li:school:18321",
+                    "entityUrn": "urn:li:fs_miniSchool:18321",
+                    "active": true,
+                    "schoolName": "University of Illinois Urbana-Champaign",
+                    "trackingId": "KLo+RpjHRmqJwCqKjxHeLw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_"
+                },
+                "grade": "3.97",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Developed a scalable reinforcement learning framework that optimizes the coarse grid construction of algebraic multigrid methods with guaranteed theoretical convergence utilizing graph neural networks (NeurIPS 2021, paper available at the publication list).",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100360",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University of Illinois Urbana-Champaign",
+                "fieldOfStudy": "Mechanical Engineering",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18321"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,749628355)",
+                "school": {
+                    "objectUrn": "urn:li:school:13801",
+                    "entityUrn": "urn:li:fs_miniSchool:13801",
+                    "active": true,
+                    "schoolName": "Sharif University of Technology",
+                    "trackingId": "lnrp+1uVTzGADP6AXTDkuQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEYGbmjGIH89A/company-logo_"
+                },
+                "grade": "3.91/4",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "description": "Mainly worked on numerical methods and mathematical modeling for engineering problems and published 3 papers in this area using tools such as molecular dynamics simulation, Comsol Multiphysics, and Matlab & Simulink.",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100360",
+                "degreeName": "Bachelor of Science (B.Sc.)",
+                "schoolName": "Sharif University of Technology",
+                "fieldOfStudy": "Mechanical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13801"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            },
+            {
+                "name": "Persian"
+            }
+        ],
+        "publications": [
+            {
+                "name": "Determination of surface properties and elastic constants of FCC metals: a comparison among different EAM potentials in thin film and bulk scale",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ali",
+                            "lastName": "Taghibakhshi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "occupation": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+                            "objectUrn": "urn:li:member:262222484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1629348053428?e=1746057600&v=beta&t=XO5XN5jDqbFhD1beuaLjhMS5g3fbzNhSr9IKPDuy70Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1629348053429?e=1746057600&v=beta&t=B1dfkOKAxSF_R04h1EIlBC3TqnB0AkTf1HIV8nK_RC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE5y5-Ojr46_Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ali-taghibakhshi-15899973",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "D/1KnG8VTLuP5DTkCwWwWw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+                    }
+                ]
+            },
+            {
+                "name": "Local Navigation and Docking of an Autonomous Robot Mower Using Reinforcement Learning and Computer Vision",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ali",
+                            "lastName": "Taghibakhshi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "occupation": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+                            "objectUrn": "urn:li:member:262222484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1629348053428?e=1746057600&v=beta&t=XO5XN5jDqbFhD1beuaLjhMS5g3fbzNhSr9IKPDuy70Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1629348053429?e=1746057600&v=beta&t=B1dfkOKAxSF_R04h1EIlBC3TqnB0AkTf1HIV8nK_RC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE5y5-Ojr46_Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ali-taghibakhshi-15899973",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "D/1KnG8VTLuP5DTkCwWwWw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+                    }
+                ]
+            },
+            {
+                "name": "Optimization-Based Algebraic Multigrid Coarsening Using Reinforcement Learning",
+                "publisher": "Neural Information Processing Systems (NeurIPS 2021)",
+                "description": "Providing a reinforcement learning method utilizing graph neural networks for algebraic multigrid coarsening, outperforming existing algorithms.",
+                "url": "https://arxiv.org/pdf/2106.01854.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ali",
+                            "lastName": "Taghibakhshi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "occupation": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+                            "objectUrn": "urn:li:member:262222484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1629348053428?e=1746057600&v=beta&t=XO5XN5jDqbFhD1beuaLjhMS5g3fbzNhSr9IKPDuy70Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1629348053429?e=1746057600&v=beta&t=B1dfkOKAxSF_R04h1EIlBC3TqnB0AkTf1HIV8nK_RC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE5y5-Ojr46_Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ali-taghibakhshi-15899973",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "D/1KnG8VTLuP5DTkCwWwWw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+                    }
+                ]
+            },
+            {
+                "name": "Study and Simulation of Nanoparticle Translocation Through Cell Membrane",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ali",
+                            "lastName": "Taghibakhshi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "occupation": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+                            "objectUrn": "urn:li:member:262222484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1629348053428?e=1746057600&v=beta&t=XO5XN5jDqbFhD1beuaLjhMS5g3fbzNhSr9IKPDuy70Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1629348053429?e=1746057600&v=beta&t=B1dfkOKAxSF_R04h1EIlBC3TqnB0AkTf1HIV8nK_RC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE5y5-Ojr46_Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ali-taghibakhshi-15899973",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "D/1KnG8VTLuP5DTkCwWwWw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+                    }
+                ]
+            },
+            {
+                "name": "Study of microstructural growth under cyclic martensite phase transition in shape memory alloys; A molecular dynamics approach",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ali",
+                            "lastName": "Taghibakhshi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "occupation": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+                            "objectUrn": "urn:li:member:262222484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1629348053428?e=1746057600&v=beta&t=XO5XN5jDqbFhD1beuaLjhMS5g3fbzNhSr9IKPDuy70Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1629348053429?e=1746057600&v=beta&t=B1dfkOKAxSF_R04h1EIlBC3TqnB0AkTf1HIV8nK_RC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE5y5-Ojr46_Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ali-taghibakhshi-15899973",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "D/1KnG8VTLuP5DTkCwWwWw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+                    }
+                ]
+            },
+            {
+                "name": "Three-dimensional modeling of avascular tumor growth in both static and dynamic culture platforms",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ali",
+                            "lastName": "Taghibakhshi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "occupation": "PhD | Deep Learning Algorithm Engineer @ NVIDIA",
+                            "objectUrn": "urn:li:member:262222484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1629348053428?e=1746057600&v=beta&t=XO5XN5jDqbFhD1beuaLjhMS5g3fbzNhSr9IKPDuy70Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1629348053429?e=1746057600&v=beta&t=B1dfkOKAxSF_R04h1EIlBC3TqnB0AkTf1HIV8nK_RC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 187
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE5y5-Ojr46_Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ali-taghibakhshi-15899973",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726164018446?e=1746057600&v=beta&t=tXSZTNnt91QyGwCa8BsCK37evuSHaFtahj_pg4PqMGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726164018446?e=1746057600&v=beta&t=XpwBWgNuX9bgRXDwZCjXJo4BtOoc_N8Z1jRpzozP7qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726164018446?e=1746057600&v=beta&t=BjfSMkFlBIPKBSOZmrjRvCeJmN1IKr8cYh268WfvkmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726164018568?e=1746057600&v=beta&t=f_-KguX339DTYWGYz4-tWLdPvESfQOIVBFyX37gnw1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFgSuBkjtun_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "D/1KnG8VTLuP5DTkCwWwWw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Object-Oriented Data Structures in C++",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "CZY4764EXSPR",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "ow29KCamStSa7wuNU7V1hw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/share/ad704df1650412c79734a1d648a644e5"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Ordered Data Structures",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "Z4VCCAWT8FAP",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "wp8aPZrkQimjEbpJwWtfQA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/Z4VCCAWT8FAP"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "For developing a fully AI-assisted (reinforcement learning + computer vision) method for John Deere robot mower's docking and local navigation.",
+                "occupation": "urn:li:fs_position:(ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ,1826434013)",
+                "title": "Top technical innovation at UIUC research park (top 3 among about 840 interns)",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "issuer": "University of Illinois at Urbana-Champaign (UIUC)"
+            },
+            {
+                "title": "Bronze Medal",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "issuer": "1st Iranian Geometry Olympid(final round-advanced level)"
+            },
+            {
+                "title": "Silver medal",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "issuer": "32th Iranian National Mathematical Olympiad(3rd round)"
+            },
+            {
+                "title": "Siver Medal",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "issuer": "31th Iranian National Mathematical Olympiad (3rd round)"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Statistics"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Computer Vision"
+            },
+            {
+                "name": "SolidWorks"
+            }
+        ],
+        "urn_id": "ACoAAA-hMpQBWQXVxSAYlxNUMHa8o7aAlQH19YQ"
+    }
+}

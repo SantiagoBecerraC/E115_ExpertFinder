@@ -1,0 +1,1402 @@
+{
+    "urn_id": "ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+    "fetch_timestamp": "2025-02-26T21:44:51.242193",
+    "profile_data": {
+        "summary": "Experienced Engineering and Data Science Executive with a demonstrated history building incredibly strong software teams and products. Particularly strong background in the Search and Information Retrieval, Recommendation Systems, and Data Analytics spaces. Also a startup founder, investor, and advisor with a strong engineering background.",
+        "industryName": "Computer Software",
+        "lastName": "Grainger",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Trey",
+        "entityUrn": "urn:li:fs_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102419620"
+        },
+        "geoLocationName": "Greenville, South Carolina",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI-Powered Search author, Searchkernel Founder,  CTO | Advisor | Professor",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+        "img_427_427": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+        "profile_id": "ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+        "member_urn": "urn:li:member:102539339",
+        "public_id": "treygrainger",
+        "experience": [
+            {
+                "locationName": "United States",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,988428325)"
+                ],
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Searchkernel",
+                "description": "Building the next generation of Search. We serve as an AI-powered search advisory and development firm for some of the world's most innovative companies.",
+                "title": "Founder",
+                "companyUrn": "urn:li:fs_miniCompany:65826577",
+                "entityUrn": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,1629300692)",
+                "geoLocationName": "United States",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEhp8aa4oSrIg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,2479938210)",
+                "companyName": "OpenSource Connections",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Technical Advisor - AI-Powered Search",
+                "companyUrn": "urn:li:fs_miniCompany:120182",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH0Bv01hH5Tgg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,2422075981)",
+                "companyName": "AI-Powered Search",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "Writing \"AI-Powered Search\" book (Manning, 2024)",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Author",
+                "companyUrn": "urn:li:fs_miniCompany:104014941",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHlCLqx7_O-dA/company-logo_"
+            },
+            {
+                "locationName": "Greenville, South Carolina, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,2460766227)",
+                "geoLocationName": "Greenville, South Carolina, United States",
+                "geoUrn": "urn:li:fs_geo:102419620",
+                "companyName": "Furman University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Adjunct Professor of Computer Science",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:20101",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEcSDUxOnLVoA/company-logo_"
+            },
+            {
+                "locationName": "Greater Atlanta Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,1051730497)",
+                "geoLocationName": "Greater Atlanta Area",
+                "geoUrn": "urn:li:fs_geo:90000052",
+                "companyName": "Southern Data Science Conference",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2016
+                    }
+                },
+                "description": "Member of the Advisory Board for the Southern Data Science Conference, the preeminent data science conference across the south-eastern united states.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Advisor",
+                "region": "urn:li:fs_region:(us,52)",
+                "companyUrn": "urn:li:fs_miniCompany:10995381",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGsfYhM59CpeA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,240318368)",
+                "school": {
+                    "objectUrn": "urn:li:school:17926",
+                    "entityUrn": "urn:li:fs_miniSchool:17926",
+                    "active": true,
+                    "schoolName": "Stanford University",
+                    "trackingId": "zLDpyxqCQb2TDP5jXuEkDg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_"
+                },
+                "grade": "4.0 GPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "description": "Pursued Master's-level study at Stanford university, studying Information Retrieval & Web Search for university credit under Professor Chris Manning.",
+                "schoolName": "Stanford University",
+                "fieldOfStudy": "Information Retrieval & Web Search",
+                "schoolUrn": "urn:li:fs_miniSchool:17926"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,81707960)",
+                "school": {
+                    "objectUrn": "urn:li:school:18158",
+                    "entityUrn": "urn:li:fs_miniSchool:18158",
+                    "active": true,
+                    "schoolName": "Georgia Institute of Technology",
+                    "trackingId": "Bffi3SDrRfOlFUTLYO5bOA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFuhLQoh5_7yA/company-logo_"
+                },
+                "grade": "4.0 GPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "Executive  MBA",
+                "schoolName": "Georgia Institute of Technology",
+                "fieldOfStudy": "Management of Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:18158"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,62830722)",
+                "school": {
+                    "objectUrn": "urn:li:school:19370",
+                    "entityUrn": "urn:li:fs_miniSchool:19370",
+                    "active": true,
+                    "schoolName": "Furman University",
+                    "trackingId": "ytDOuzoQSvqBdpwZsHufow==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEcSDUxOnLVoA/company-logo_"
+                },
+                "grade": "Magna Cum Laude",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2007
+                    },
+                    "startDate": {
+                        "year": 2003
+                    }
+                },
+                "degreeName": "Bachelors",
+                "schoolName": "Furman University",
+                "fieldOfStudy": "Computer Science, Business, & Philosophy",
+                "schoolUrn": "urn:li:fs_miniSchool:19370"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2018,
+                    "day": 9
+                },
+                "name": "Fully Automated QA System for Large Scale Search and Recommendation Engines Leveraging Implicit User Feedback",
+                "publisher": "WSDM 2018",
+                "description": "(with Khalifeh AlJadda, Mohammed Korayem)\n\nIn this paper we introduce a fully-automated quality-assurance (QA) system for search and recommendation engines that does not require participation of end users in the process of evaluating any changes in the existing relevancy algorithms. Specifically, the proposed system doesn’t require any manual effort to assign relevancy scores to query/document pairs to generate a golden standard training set, and it also does not require exposing live users to new algorithms to heuristically measure their reactions. The proposed system has been used successfully on CareerBuilder’s web-scale search engine, where it has been demonstrated to accurately simulate nDCG scores offline for previously untested algorithms. In our tests, these nDCG scores map very closely to corresponding realworld improvements in click-through rates when subsequent A/B tests are performed with live user traffic. Such a system can be used to automatically simulate relevancy benchmarks for thousands of search algorithm variants offline before a single end user is ever exposed to a test.",
+                "url": "https://www.researchgate.net/publication/323117021_Fully_Automated_QA_System_for_Large_Scale_Search_and_Recommendation_Engines_Leveraging_Implicit_User_Feedback",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "name": "Mining Massive Hierarchical Data Using a Scalable Probabilistic Graphical Model",
+                "publisher": "Information Sciences (Elsevier)",
+                "description": "(with Khalifeh Aljadda, Mohammed Korayem, Camilo Ortiz, John Miller, Khaled Rasheed, Krys J. Kochut, Hao Peng, William S. York, Rene Ranzinger, Melody Porterfield.\n\nProbabilistic Graphical Models (PGM) are very useful in the fields of machine learning and data mining. The crucial limitation of those models, however, is their scalability. The Bayesian Network, which is one of the most common PGMs used in machine learning and data mining, demonstrates this limitation when the training data consists of random variables, in which each of them has a large set of possible values. In the big data era, one could expect new extensions to the existing PGMs to handle the massive amount of data produced these days by computers, sensors and other electronic devices. With hierarchical data - data that is arranged in a treelike structure with several levels - one may see hundreds of thousands or millions of values distributed over even just a small number of levels. When modeling this kind of hierarchical data across large data sets, unrestricted Bayesian Networks may become infeasible for representing the probability distributions. In this paper, we introduce an extension to Bayesian Networks that can handle massive sets of hierarchical data in a reasonable amount of time and space. The proposed model achieves high precision and high recall when used as a multi-label classifier for the annotation of mass spectrometry data. On another data set of 1.5 billion search logs provided by CareerBuilder.com, the model was able to predict latent semantic relationships among search keywords with high accuracy.",
+                "url": "https://www.researchgate.net/publication/288529613_Mining_Massive_Hierarchical_Data_Using_a_Scalable_Probabilistic_Graphical_Model",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2017,
+                    "day": 4
+                },
+                "name": "Combining content-based and collaborative filtering for job recommendation system: A cost-sensitive Statistical Relational Learning approach",
+                "publisher": "Journal of Knowledge-Based Systems (Elsevier)",
+                "description": "(with Shuo Yang, Mohammed Korayem, Khalifeh AlJadda, and Sriraam Natarajana)\n\nRecommendation systems usually involve exploiting the relations among known features and content that describe items (content-based filtering) or the overlap of similar users who interacted with or rated the target item (collaborative filtering). To combine these two filtering approaches, current model-based hybrid recommendation systems typically require extensive feature engineering to construct a user profile. Statistical Relational Learning (SRL) provides a straightforward way to combine the two approaches through its ability to directly represent the probabilistic dependencies among the attributes of related objects. However, due to the large scale of the data used in real world recommendation systems, little research exists on applying SRL models to hybrid recommendation systems, and essentially none of that research has been applied to real big-data-scale systems. In this paper, we proposed a way to adapt the state-of-the-art in SRL approaches to construct a real hybrid job recommendation system. Furthermore, in order to satisfy a common requirement in recommendation systems (i.e. that false positives are more undesirable and therefore should be penalized more harshly than false negatives), our approach can also allow tuning the trade-off between the precision and recall of the system in a principled way. Our experimental results demonstrate the efficiency of our proposed approach as well as its improved performance on recommendation precision.",
+                "url": "https://doi.org/10.1016/j.knosys.2017.08.017",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2016
+                },
+                "name": "Application of Statistical Relational Learning to Hybrid Recommendation Systems",
+                "publisher": "STARAI 2016",
+                "description": "(with Shuo Yang, Mohammed Korayem, Khalifeh AlJadda, Sriraam Natarajan)\n\nRecommendation systems usually involve exploiting the relations among known features and content that describe items (content-based filtering) or the overlap of similar users who interacted with or rated the target item (collaborative filtering). To combine these two filtering approaches, current model-based hybrid recommendation systems typically require extensive feature engineering to construct a user profile. Statistical Relational Learning (SRL) provides a straightforward way to combine the two approaches. However, due to the large scale of the data used in real world recommendation systems, little research exists on applying SRL models to hybrid recommendation systems, and essentially none of that research has been applied on real big-data-scale systems. In this paper, we proposed a way to adapt the state-of-the-art in SRL learning approaches to construct a real hybrid recommendation system. Furthermore, in order to satisfy a common requirement in recommendation systems (i.e. that false positives are more undesirable and therefore penalized more harshly than false negatives), our approach can also allow tuning the tradeoff between the precision and recall of the system in a principled way. Our experimental results demonstrate the efficiency of our proposed approach as well as its improved performance on recommendation precision",
+                "url": "https://arxiv.org/pdf/1607.01050.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2016
+                },
+                "name": "Entity Type Recognition using an Ensemble of Distributional Semantic Models to Enhance Query Understanding",
+                "publisher": "IEEE COMPSAC 2016",
+                "description": "(with Walid Shalaby, Khalifeh AlJadda, Mohammed Korayem)\n\nWe present an ensemble approach for categorizing search query entities in the recruitment domain. Understanding the types of entities expressed in a search query (Company, Skill, Job Title, etc.) enables more intelligent information retrieval based upon those entities compared to a traditional keyword-based search. Because search queries are typically very short, leveraging a traditional bag-of-words model to identify entity types would be inappropriate due to the lack of contextual information. Our approach instead combines clues from different sources of varying complexity in order to collect real-world knowledge about query entities. We employ distributional semantic representations of query entities through two models: 1) contextual vectors generated from encyclopedic corpora like Wikipedia, and 2) high dimensional word embedding vectors generated from millions of job postings using word2vec. Additionally, our approach utilizes both entity linguistic properties obtained from WordNet and ontological properties extracted from DBpedia. We evaluate our approach on a data set created at CareerBuilder; the largest job board in the US. The data set contains entities extracted from millions of job seekers/recruiters search queries, job postings, and resume documents. After constructing the distributional vectors of search entities, we use supervised machine learning to infer search entity types. Empirical results show that our approach outperforms the state-of-the-art word2vec distributional semantics model trained on Wikipedia. Moreover, we achieve microaveraged F1 score of 97% using the proposed distributional representations ensemble.",
+                "url": "https://arxiv.org/pdf/1604.00933v1.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2016
+                },
+                "name": "Macro-optimization of email recommendation response rates harnessing individual activity levels and group affinity trends",
+                "publisher": "IEEE ICMLA 2016",
+                "description": "(with Khalifeh AlJadda, Mohammed Korayem)\n\nRecommendation emails are among the best ways to re-engage with customers after they have left a website. While on-site recommendation systems focus on finding the most relevant items for a user at the moment (right item), email recommendations add two critical additional dimensions: who to send recommendations to (right person) and when to send them (right time). It is critical that a recommendation email system not send too many emails to too many users in too short of a time window, as users may unsubscribe from future emails or become desensitized and ignore future emails if they receive too many. Also, email service providers may mark such emails as spam if too many of their users are contacted in a short time-window. Optimizing email recommendation systems such that they can yield a maximum response rate for a minimum number of email sends is thus critical for the long-term performance of such a system. In this paper, we present a novel recommendation email system that not only generates recommendations, but which also leverages a combination of individual user activity data, as well as the behavior of the group to which they belong, in order to determine each user’s likelihood to respond to any given set of recommendations within a given time period. In doing this, we have effectively created a meta-recommendation system which recommends sets of recommendations in order to optimize the aggregate response rate of the entire system. The proposed technique has been applied successfully within CareerBuilder’s job recommendation email system to generate a 50% increase in total conversions while also decreasing sent emails by 72%.",
+                "url": "https://arxiv.org/pdf/1609.05989.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2016
+                },
+                "name": "The Semantic Knowledge Graph: A compact, auto-generated model for real-time traversal and ranking of any relationship within a domain",
+                "publisher": "IEEE DSAA 2016",
+                "description": "(with Khalifeh AlJadda, Mohammed Korayem, Andries Smith)\n\nThis paper describes a new kind of knowledge representation and mining system which we are calling the Semantic Knowledge Graph. At its heart, the Semantic Knowledge Graph leverages an inverted index, along with a complementary uninverted index, to represent nodes (terms) and edges (the documents within intersecting postings lists for multiple terms/nodes). This provides a layer of indirection between each pair of nodes and their corresponding edge, enabling edges to materialize dynamically from underlying corpus statistics. As a result, any combination of nodes can have edges to any other nodes materialize and be scored to reveal latent relationships between the nodes. This provides numerous benefits: the knowledge graph can be built automatically from a real-world corpus of data, new nodes - along with their combined edges - can be instantly materialized from any arbitrary combination of preexisting nodes (using set operations), and a full model of the semantic relationships between all entities within a domain can be represented and dynamically traversed using a highly compact representation of the graph. Such a system has widespread applications in areas as diverse as knowledge modeling and reasoning, natural language processing, anomaly detection, data cleansing, semantic search, analytics, data classification, root cause analysis, and recommendations systems. The main contribution of this paper is the introduction of a novel system - the Semantic Knowledge Graph - which is able to dynamically discover and score interesting relationships between any arbitrary combination of entities (words, phrases, or extracted concepts) through dynamically materializing nodes and edges from a compact graphical representation built automatically from a corpus of data representative of a knowledge domain.",
+                "url": "http://www.treygrainger.com/posts/presentations/the-semantic-knowledge-graph/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2015
+                },
+                "name": "Improving the Quality of Semantic Relationships Extracted from Massive User Behavioral Data",
+                "publisher": "IEEE Big Data 2015",
+                "description": "(with Khalifeh Aljadda and Mohammed Korayem)\n\nAs the ability to store and process massive amounts of user behavioral data increases, new approaches continue to arise for leveraging the wisdom of the crowds to gain insights that were previously very challenging to discover by text mining alone. For example, through collaborative filtering, we can learn previously hidden relationships between items based upon users' interactions with them, and we can also perform ontology mining to learn which keywords are semantically-related to other keywords based upon how they are used together by similar users as recorded in search engine query logs. The biggest challenge to this collaborative filtering approach is the variety of noise and outliers present in the underlying user behavioral data. In this paper we propose a novel approach to improve the quality of semantic relationships extracted from user behavioral data. Our approach utilizes millions of documents indexed into an inverted index in order to detect and remove noise and outliers.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2015
+                },
+                "name": "Query Sense Disambiguation Leveraging Large Scale User Behavioral Data",
+                "publisher": "IEEE Big Data 2015",
+                "description": "(with Mohammed Korayem, Camilo Ortiz, and Khalifeh Aljadda)\n\nTerm ambiguity - the challenge of having multiple\npotential meanings for a keyword or phrase - can be a major\nproblem for search engines. Contextual information is essential\nfor word sense disambiguation, but search queries are often\nlimited to very few keywords, making the available textual context\nneeded for disambiguation minimal or non-existent. In this paper\nwe propose a novel system to identify and resolve term ambiguity\nin search queries using large-scale user behavioral data. The\nproposed system demonstrates that, despite the lack of context\nin most keyword queries, multiple potential senses of a keyword\nor phrase within a search query can be accurately identified,\ndisambiguated, and expressed in order to maximize the likelihood\nof fulfilling a user’s information need. The proposed system\novercomes the immediate lack of context by leveraging largescale\nuser behavioral data from historical query logs. Unlike\ntraditional word sense disambiguation methods that rely on\nknowledge sources or available textual corpora, our system is\nlanguage-agnostic, is able to easily handle domain-specific terms\nand meanings, and is automatically generated so that it does\nnot grow out of date or require manual updating as ambiguous\nterms emerge or undergo a shift in meaning. The system has\nbeen implemented using the Hadoop eco-system and integrated\nwithin CareerBuilder’s semantic search engine.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2014,
+                    "day": 18
+                },
+                "name": "Solr In Action",
+                "publisher": "Manning Publications Co.",
+                "description": "Solr in Action is a comprehensive guide to implementing scalable search using Apache Solr 4. This clearly-written book walks you through well-documented examples ranging from basic keyword searching to scaling a system for billions of documents and queries. You'll gain a deep understanding of how to implement core Solr capabilities such as faceted navigation through search results, matched snippet highlighting, field collapsing and search results grouping, spell checking, query auto-complete, querying by functions, and geo-spatial searching.",
+                "url": "http://www.solrinaction.com",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Timothy",
+                            "lastName": "Potter",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEe_DgBk9Uy-Kb3vuxPUsLBnkH0E8vEtOE",
+                            "occupation": "Creating next generation infrastructure for companies creating physical world artificial intelligence",
+                            "objectUrn": "urn:li:member:18807864",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAEe_DgBk9Uy-Kb3vuxPUsLBnkH0E8vEtOE",
+                            "publicIdentifier": "thelabdude",
+                            "trackingId": "FRqvnsHjQyyTSh0E7PpVCQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAEe_DgBk9Uy-Kb3vuxPUsLBnkH0E8vEtOE"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Coding the Matrix: Linear Algebra through Computer Science Applications (Brown University)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2013
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "IjgTmofgRKClvm0mFNs6pQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/course/matrix"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Mining Massive Datasets (Stanford University)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "JMtFzIY5QxmkUyx3pbZKXg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/course/mmds"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Machine Learning (Stanford University)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2011
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "WU6fI8MKTzGUuHOAuldp3g=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/learn/machine-learning"
+            },
+            {
+                "authority": "Udacity",
+                "name": "Introduction to Artificial Intelligence",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2011
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2475568",
+                    "entityUrn": "urn:li:fs_miniCompany:2475568",
+                    "name": "Udacity",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=cwuTvver91m4g5aZrO9NRAm26Fn7YFbaGp14zNwX5vk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=J67TxZc8kPEEa8Sf81YawA1B6yM5IO5apx9HK33YVYA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=StkTgdtIui2ph0KWjTGJxctqJ_MjVsbBiLNGR2f56JI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_"
+                        }
+                    },
+                    "universalName": "udacity",
+                    "dashCompanyUrn": "urn:li:fsd_company:2475568",
+                    "trackingId": "+zthLVGGStG+Gv0tEL+tKQ=="
+                },
+                "displaySource": "udacity.com",
+                "companyUrn": "urn:li:fs_miniCompany:2475568",
+                "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271"
+            },
+            {
+                "name": "Certified Scrum Product Owner (CSPO)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2015
+                    }
+                },
+                "displaySource": "bcert.me",
+                "url": "http://bcert.me/shvqbxfal"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,1629300692)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,988428325,239762002)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "Great search is all about delivering the right results. Today’s search engines are expected to be smart, understanding the nuances of natural language queries, as well as each user’s preferences and context. AI-Powered Search teaches you the latest machine learning techniques to create search engines that continuously learn from your users and your content, to drive more domain-aware and intelligent search. Written by Trey Grainger, the Chief Algorithms Officer at Lucidworks, this authoritative book empowers you to create and deploy search engines that take advantage of user interactions and the hidden semantic relationships in your content to constantly get smarter and automatically deliver better, more relevant search experiences.",
+                "title": "AI-Powered Search",
+                "url": "http://aiPoweredSearch.com"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,493737481)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Trey",
+                            "lastName": "Grainger",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "occupation": "AI-Powered Search author, Searchkernel Founder, CTO | Advisor | Professor",
+                            "objectUrn": "urn:li:member:102539339",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1543252201136?e=1746057600&v=beta&t=P1CYUqJhFdcyYZ5itaOfgYcj0BCxCRKwJh__yopUHBU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1543252201078?e=1746057600&v=beta&t=sP4LZWZs7yk7Qm2yQESqXfxQIQ_JWTIcW69UiQoNlrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG4LFw2sD0uog/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "treygrainger",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1546544746731?e=1746057600&v=beta&t=5XJIA2CPamRLx3TL6sG9iXwDpgCP4zXxb7JjBi9TK8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1546544746668?e=1746057600&v=beta&t=pz7rWwToZnJ3YynKhkwRNmm033WCk23gXI0jEff6mZs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1546544746955?e=1746057600&v=beta&t=-m6pF0mwuon0_OghLlDC7Q1x6rA19kSNJTNDDF6h_Yg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 427,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1546544746648?e=1746057600&v=beta&t=GfEsKoa33OqUIpVLV6y37cWcHO3MVeygPl_XD0ksREM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 427
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEE6MjSt0ZT-w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "51xzR7uPRzS+vTd9YBcFdg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,37,38)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Timothy",
+                            "lastName": "Potter",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEe_DgBk9Uy-Kb3vuxPUsLBnkH0E8vEtOE",
+                            "occupation": "Creating next generation infrastructure for companies creating physical world artificial intelligence",
+                            "objectUrn": "urn:li:member:18807864",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAEe_DgBk9Uy-Kb3vuxPUsLBnkH0E8vEtOE",
+                            "publicIdentifier": "thelabdude",
+                            "trackingId": "FRqvnsHjQyyTSh0E7PpVCQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o,37,39)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAEe_DgBk9Uy-Kb3vuxPUsLBnkH0E8vEtOE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2012
+                    }
+                },
+                "description": "Solr in Action is a comprehensive guide to implementing scalable search using Apache Solr. This clearly written book walks you through well-documented examples ranging from basic keyword searching to scaling a system for billions of documents and queries. It will give you a deep understanding of how to implement core Solr capabilities.",
+                "title": "Solr In Action",
+                "url": "http://www.solrinaction.com"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Solr"
+            },
+            {
+                "name": "Lucene"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Agile"
+            }
+        ],
+        "urn_id": "ACoAAAYcoEsBFYr1W3WMX-loEjWE__Gged_we9o"
+    }
+}

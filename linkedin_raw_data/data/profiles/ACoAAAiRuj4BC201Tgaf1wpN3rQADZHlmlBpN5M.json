@@ -1,0 +1,447 @@
+{
+    "urn_id": "ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+    "fetch_timestamp": "2025-02-26T21:20:58.701741",
+    "profile_data": {
+        "summary": "3+ years of experience in Machine Learning, Deep Learning, Statistical Modeling, and Data Analysis. Accomplished projects involving large distributed datasets and advanced prediction models. Proficiency in Cloud Infrastructure for designing ML models. Actively seeking full-time positions as a Machine Learning Engineer, Data Scientist, or Applied Scientist.",
+        "industryName": "Computer Software",
+        "lastName": "Fan",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Xueliu (Sheryl)",
+        "entityUrn": "urn:li:fs_profile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000084"
+        },
+        "geoLocationName": "San Francisco Bay Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Analytic, Data Mining",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHDRI9RyNcMSg/profile-displayphoto-shrink_",
+        "img_200_200": "200_200/B56ZQgC6Q_HQAc-/0/1735704422743?e=1746057600&v=beta&t=5rsDeYlt3TCF8veaVwLTaFwhc6HWYY3jsrSjaXftrcQ",
+        "img_800_800": "800_800/B56ZQgC6Q_HQAg-/0/1735704422743?e=1746057600&v=beta&t=_tl8i7DqjO26O9W0A_JuW9veGkHWB5OsRDoonmvoGzM",
+        "img_100_100": "100_100/B56ZQgC6Q_HQAY-/0/1735704422743?e=1746057600&v=beta&t=q5t_SWyl3BeIY37dkG1yzjbumI6IolCTn-SB2zqE3g4",
+        "img_400_400": "400_400/B56ZQgC6Q_HQAk-/0/1735704422716?e=1746057600&v=beta&t=_Y5ZYcQHPizfBX0tRZf40HSlIb4U5sXRTimr9IVN3Q4",
+        "profile_id": "ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+        "member_urn": "urn:li:member:143768126",
+        "public_id": "xueliufan",
+        "experience": [
+            {
+                "locationName": "Cupertino, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M,2281038145)",
+                "geoLocationName": "Cupertino, California, United States",
+                "geoUrn": "urn:li:fs_geo:106758460",
+                "companyName": "Electronic Company",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "title": "Field Data Analyst",
+                "region": "urn:li:fs_region:(us,0)"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M,2007108325)",
+                "companyName": "Ample",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Data Scientist Intern",
+                "companyUrn": "urn:li:fs_miniCompany:4812135",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG0Rg7sWD3cbQ/company-logo_"
+            },
+            {
+                "locationName": "Cleveland/Akron, Ohio Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M,737433697)",
+                "geoLocationName": "Cleveland/Akron, Ohio Area",
+                "geoUrn": "urn:li:fs_geo:90000028",
+                "companyName": "Case Western Reserve University",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Assistant",
+                "region": "urn:li:fs_region:(us,28)",
+                "companyUrn": "urn:li:fs_miniCompany:157330",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwBDBTA9tvA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M,202377367)",
+                "school": {
+                    "objectUrn": "urn:li:school:19091",
+                    "entityUrn": "urn:li:fs_miniSchool:19091",
+                    "active": true,
+                    "schoolName": "Case Western Reserve University",
+                    "trackingId": "cslwAgRaQhCEyE/RJXvKGA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwBDBTA9tvA/company-logo_"
+                },
+                "degreeName": "Doctor of Philosophy (PhD)",
+                "schoolName": "Case Western Reserve University",
+                "fieldOfStudy": "Energy, Nanotechnology",
+                "schoolUrn": "urn:li:fs_miniSchool:19091"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M,813881969)",
+                "school": {
+                    "objectUrn": "urn:li:school:17911",
+                    "entityUrn": "urn:li:fs_miniSchool:17911",
+                    "active": true,
+                    "schoolName": "San José State University",
+                    "trackingId": "iiqb58isTAK/jHwuTue5fQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "San Jose State University",
+                "fieldOfStudy": "Data Analytics",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:17911"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M,83678210)",
+                "school": {
+                    "objectUrn": "urn:li:school:11398",
+                    "entityUrn": "urn:li:fs_miniSchool:11398",
+                    "active": true,
+                    "schoolName": "Tsinghua University",
+                    "trackingId": "UC0uFzy/T5+UmerQdGwGEA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFJU3_2fIeNWw/company-logo_"
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Tsinghua University",
+                "fieldOfStudy": "Materials Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:11398"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2016,
+                    "day": 28
+                },
+                "name": "Functionalized graphene nanoplatelets from ball milling for energy applications",
+                "publisher": "Current Opinion in Chemical Engineering",
+                "url": "http://www.sciencedirect.com/science/article/pii/S2211339816000046",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xueliu (Sheryl)",
+                            "lastName": "Fan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "occupation": "Data Analytic, Data Mining",
+                            "objectUrn": "urn:li:member:143768126",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "publicIdentifier": "xueliufan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZQgC6Q_HQAc-/0/1735704422743?e=1746057600&v=beta&t=5rsDeYlt3TCF8veaVwLTaFwhc6HWYY3jsrSjaXftrcQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZQgC6Q_HQAg-/0/1735704422743?e=1746057600&v=beta&t=_tl8i7DqjO26O9W0A_JuW9veGkHWB5OsRDoonmvoGzM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZQgC6Q_HQAY-/0/1735704422743?e=1746057600&v=beta&t=q5t_SWyl3BeIY37dkG1yzjbumI6IolCTn-SB2zqE3g4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZQgC6Q_HQAk-/0/1735704422716?e=1746057600&v=beta&t=_Y5ZYcQHPizfBX0tRZf40HSlIb4U5sXRTimr9IVN3Q4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHDRI9RyNcMSg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IPze1D8kS1+D3k9yWEI7WA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M"
+                    },
+                    {
+                        "name": "Dong Wook Chang"
+                    },
+                    {
+                        "name": "Xuli Chen"
+                    },
+                    {
+                        "name": "Jong-Beom Baek"
+                    },
+                    {
+                        "name": "Liming Dai"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2015,
+                    "day": 20
+                },
+                "name": "3D graphene based materials for energy storage",
+                "publisher": "Current Opinion in Colloid & Interface Science",
+                "url": "http://www.sciencedirect.com/science/article/pii/S1359029415000941",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xueliu (Sheryl)",
+                            "lastName": "Fan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "occupation": "Data Analytic, Data Mining",
+                            "objectUrn": "urn:li:member:143768126",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "publicIdentifier": "xueliufan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZQgC6Q_HQAc-/0/1735704422743?e=1746057600&v=beta&t=5rsDeYlt3TCF8veaVwLTaFwhc6HWYY3jsrSjaXftrcQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZQgC6Q_HQAg-/0/1735704422743?e=1746057600&v=beta&t=_tl8i7DqjO26O9W0A_JuW9veGkHWB5OsRDoonmvoGzM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZQgC6Q_HQAY-/0/1735704422743?e=1746057600&v=beta&t=q5t_SWyl3BeIY37dkG1yzjbumI6IolCTn-SB2zqE3g4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZQgC6Q_HQAk-/0/1735704422716?e=1746057600&v=beta&t=_Y5ZYcQHPizfBX0tRZf40HSlIb4U5sXRTimr9IVN3Q4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHDRI9RyNcMSg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IPze1D8kS1+D3k9yWEI7WA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M"
+                    },
+                    {
+                        "name": "Xuli Chen"
+                    },
+                    {
+                        "name": "Liming Dai"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2014,
+                    "day": 30
+                },
+                "name": "Graphene networks for high-performance flexible and transparent supercapacitors",
+                "publisher": "RSC Advances",
+                "url": "http://pubs.rsc.org/en/content/articlelanding/2014/ra/c4ra05076b/unauth",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xueliu (Sheryl)",
+                            "lastName": "Fan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "occupation": "Data Analytic, Data Mining",
+                            "objectUrn": "urn:li:member:143768126",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "publicIdentifier": "xueliufan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZQgC6Q_HQAc-/0/1735704422743?e=1746057600&v=beta&t=5rsDeYlt3TCF8veaVwLTaFwhc6HWYY3jsrSjaXftrcQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZQgC6Q_HQAg-/0/1735704422743?e=1746057600&v=beta&t=_tl8i7DqjO26O9W0A_JuW9veGkHWB5OsRDoonmvoGzM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZQgC6Q_HQAY-/0/1735704422743?e=1746057600&v=beta&t=q5t_SWyl3BeIY37dkG1yzjbumI6IolCTn-SB2zqE3g4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZQgC6Q_HQAk-/0/1735704422716?e=1746057600&v=beta&t=_Y5ZYcQHPizfBX0tRZf40HSlIb4U5sXRTimr9IVN3Q4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHDRI9RyNcMSg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IPze1D8kS1+D3k9yWEI7WA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M"
+                    },
+                    {
+                        "name": "Tao Chen"
+                    },
+                    {
+                        "name": "Liming Dai"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2013,
+                    "day": 1
+                },
+                "name": "Bubble Formation at a Submerged Orifice for Aluminum Foams Produced by Gas Injection Method",
+                "publisher": "Metallurgical and Materials Transactions A",
+                "url": "http://link.springer.com/article/10.1007/s11661-012-1418-8",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Xueliu (Sheryl)",
+                            "lastName": "Fan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "occupation": "Data Analytic, Data Mining",
+                            "objectUrn": "urn:li:member:143768126",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M",
+                            "publicIdentifier": "xueliufan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZQgC6Q_HQAc-/0/1735704422743?e=1746057600&v=beta&t=5rsDeYlt3TCF8veaVwLTaFwhc6HWYY3jsrSjaXftrcQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZQgC6Q_HQAg-/0/1735704422743?e=1746057600&v=beta&t=_tl8i7DqjO26O9W0A_JuW9veGkHWB5OsRDoonmvoGzM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZQgC6Q_HQAY-/0/1735704422743?e=1746057600&v=beta&t=q5t_SWyl3BeIY37dkG1yzjbumI6IolCTn-SB2zqE3g4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZQgC6Q_HQAk-/0/1735704422716?e=1746057600&v=beta&t=_Y5ZYcQHPizfBX0tRZf40HSlIb4U5sXRTimr9IVN3Q4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHDRI9RyNcMSg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IPze1D8kS1+D3k9yWEI7WA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M"
+                    },
+                    {
+                        "name": "Xiang Chen"
+                    },
+                    {
+                        "name": "Xingnan Liu"
+                    },
+                    {
+                        "name": "Huiming Zhang"
+                    },
+                    {
+                        "name": "Yanxiang Li"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "CVD"
+            },
+            {
+                "name": "Nanomaterials"
+            },
+            {
+                "name": "AFM"
+            },
+            {
+                "name": "Research"
+            }
+        ],
+        "urn_id": "ACoAAAiRuj4BC201Tgaf1wpN3rQADZHlmlBpN5M"
+    }
+}

@@ -1,0 +1,1101 @@
+{
+    "urn_id": "ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+    "fetch_timestamp": "2025-02-26T21:33:59.343070",
+    "profile_data": {
+        "summary": "Proficient Data Scientist with a Master of Science degree in Data Science from the University at Buffalo, New York, with over five years of professional experience in the IT industry. My career has focused on creating innovative solutions in Machine Learning, Generative AI, and Software Development, with applications spanning the automotive, technology, and business sectors.\n\nWith expertise in Large Language Models (LLMs) and Generative AI tools like LangChain, I have developed advanced AI-driven systems that enhance decision-making and operational efficiency.\n\n🔹 Key Highlights:\n\nGenerative AI Solutions: Designed and implemented applications using LangChain and OpenAI APIs, including a company insights app with real-time stock analysis and competitor research capabilities.\nAI-Powered Risk Detection: Built a compliance-focused NLP system leveraging BERT and other LLMs to detect sensitive information during virtual business meetings, achieving great accuracy and reducing data breach risks by 30%.\nNLP-Based Chatbots: At Ford Motor Company, developed real-time chatbots using Semantic Search techniques for question-answering, automating customer support in the automotive sector and enhancing user experience.\nML Proof-of-Concepts: Delivered classification and anomaly detection models for predictive analytics, leveraging Python libraries such as scikit-learn, pandas, and PyCaret, improving efficiency across operations.\nDeep Learning Expertise: Applied object detection frameworks like YOLO and PyTorch to solve complex image analysis problems, showcasing proficiency in CNN-based architectures.\n🔹 Tech Portfolio:\n\nProgramming & Tools: Python, SQL, C#, PyTorch, Keras, Flask, Django, JavaScript, HTML, pandas, scikit-learn, seaborn, matplotlib, PyCaret.\nDatabases: PostgreSQL, MS SQL Server, Oracle DB, MongoDB, SQLite.\nMachine Learning Techniques: Logistic Regression, Decision Trees, Random Forest, CNNs, NLP (Semantic Search, Question Answering), Anomaly Detection.\nGenerative AI Tools: LangChain, OpenAI APIs, LLM Chain, and prompt engineering techniques.\nDeep Learning Tools: YOLO, PyTorch, TensorFlow, and advanced CNN architectures.\nWith a passion for integrating cutting-edge technologies like Generative AI and LLMs, I am dedicated to delivering impactful solutions that solve real-world problems. I am actively seeking full-time opportunities where I can contribute to innovative projects, optimize processes, and drive transformative business outcomes.",
+        "industryName": "Computer Software",
+        "lastName": "Srinivasan",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Arjun",
+        "entityUrn": "urn:li:fs_profile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:100219842"
+        },
+        "geoLocationName": "Phoenix, Arizona",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior Analyst - Data Science(GEN AI)- Infosys Topaz, USA | 5+ years experience in IT Industry from India | MS in Data Science | ML, Gen AI, RAG, AgenticAI |",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzMe437Cb3oA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1695677510301?e=1746057600&v=beta&t=T6rY9-H0DhVxicyfCBGcZ8pEPc12W_DHAGdeTZp77JA",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1695677510301?e=1746057600&v=beta&t=9g-yLzXIbQBCWsQAe2t0t5pX7DenBmtSA-cmlpNruRQ",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1695677510301?e=1746057600&v=beta&t=T499SVHQQcNW9GcolyTaKfLiHXQY8XM3szXygCQMreI",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1695677510301?e=1746057600&v=beta&t=7Upn1pB3qet3MaoO7hDQmv5tYhLu827UV5JQM14vWg4",
+        "profile_id": "ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+        "member_urn": "urn:li:member:282067777",
+        "public_id": "arjun-srinivasan-jul1995",
+        "experience": [
+            {
+                "locationName": "Phoenix, Arizona, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,2543035027)",
+                "geoLocationName": "Phoenix, Arizona, United States",
+                "geoUrn": "urn:li:fs_geo:100219842",
+                "companyName": "Infosys",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2024
+                    }
+                },
+                "description": "Part of Topaz Center of Excellence team which deals with Agentic AI, Computer Vision and Natural Language Processing use-cases from leading clients in retail, healthcare, finance and other major industries. Utilizing Google Vertex AI, LangGraph, Microsoft Autogen and other Agentic frameworks to solve complex AI problems.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Analyst- Data Science - Generative AI, RAG and LLM",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1283",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+            },
+            {
+                "locationName": "Buffalo, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,2091652468)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "University at Buffalo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Student",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+            },
+            {
+                "locationName": "Santa Clara, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,2344861027)",
+                "geoLocationName": "Santa Clara, California, United States",
+                "geoUrn": "urn:li:fs_geo:100075706",
+                "companyName": "EITACIES Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "description": "- Implemented Named Entity Recognition using Python.\n- Employed SpaCy library for advanced pre-trained NLP modeling.\n- Utilized Displacy for sophisticated entity visualization.\n- Integrated tqdm for efficient generation of DocBin objects, aligning with SpaCy's specifications.\n- Utilized Keras and Tensorflow for LSTM networks in order to classify the possibility of inappropriate texts in chat conversations",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1994671",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEBVc7YYVLgFw/company-logo_"
+            },
+            {
+                "locationName": "Chennai, Tamil Nadu, India",
+                "geoUrn": "urn:li:fs_geo:115702354",
+                "companyName": "Ford Motor Company",
+                "description": "Machine Learning Solutions Development: Designed and deployed scalable machine learning models to improve operational efficiency and automate processes.\nRepetitive Repairs Classification: Achieved 72% accuracy and reduced service center costs by 30% in 6 months using Decision Trees, Random Forest, XGBoost and Artificial Neural Networks. Conducted hyperparameter tuning with grid search to optimize performance.\nChatbot PoC: Built an NLP-based semantic search model, deployed via Flask API on Kubernetes, and integrated it with a Pega chatbot to handle query automation, reducing manual efforts by 50%.\n\nProof of Concepts (PoCs): Led multiple PoCs to demonstrate the feasibility of ML solutions for business challenges.\nDeveloped Python Flask-based APIs for automating manual query processes.\nUtilized PyCaret for anomaly detection to identify process inefficiencies.\nAutomation & Optimization: Part of Robotics Process Automation CoE to identify and implement ML-driven automation opportunities. Supported over 10 cross-functional teams in developing and deploying ML models within an agile framework. Executed the importation and integration of PMML models on the Pega platform.\n\nTechnical Expertise: Delivered solutions leveraging advanced algorithms, tools, and platforms:\nProficient in Decision Trees, Random Forest, XGBoost, and Artificial Neural Networks.\nExtensive experience in Python, Flask, Scikit-learn, Kubernetes, and Postman.\nExplored ensemble methods and implemented classification and regression algorithms for enhanced model performance.",
+                "title": "Senior Software Engineer (ML and RPA)",
+                "companyUrn": "urn:li:fs_miniCompany:1483",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,32713910)",
+                    "urn:li:fs_honor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,32811285)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1958078954)",
+                "geoLocationName": "Chennai, Tamil Nadu, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZnQf3t8fKKg/company-logo_"
+            },
+            {
+                "locationName": "Chennai, Tamil Nadu, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1458614106)",
+                "geoLocationName": "Chennai, Tamil Nadu, India",
+                "companyName": "Ford Motor Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "description": "Process Automation & Optimization:\nIdentified automation opportunities to streamline operations and reduce manual effort.\nDeveloped and implemented Robotic Process Automation (RPA) solutions using Python, Flask, and Kubernetes, reducing manual query processing by 50%.\n\nData Visualization & Reporting:\nDesigned and developed Tableau dashboards to track automation performance, visualize process metrics, and provide actionable insights to stakeholders.\n\nProof of Concepts (PoCs):\nBuilt Python Flask-based APIs to automate repetitive tasks and integrate with Pega chatbot systems.\n\nCollaborative Development:\nPart of Robotics Process Automation Center of Excellence (CoE) to support over 10 teams in deploying RPA solutions.\nConducted experiments with ML-based automation enhancements, leveraging decision trees, anomaly detection, and other advanced techniques.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "RPA Developer",
+                "companyUrn": "urn:li:fs_miniCompany:1483",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,818554308)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZnQf3t8fKKg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,866785968)",
+                "school": {
+                    "objectUrn": "urn:li:school:19028",
+                    "entityUrn": "urn:li:fs_miniSchool:19028",
+                    "active": true,
+                    "schoolName": "University at Buffalo",
+                    "trackingId": "9TN+vBGwTYeT1sbdGYCUxg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+                },
+                "grade": "3.4",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University at Buffalo",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:19028"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,175297099)",
+                "school": {
+                    "objectUrn": "urn:li:school:208917",
+                    "entityUrn": "urn:li:fs_miniSchool:208917",
+                    "active": true,
+                    "schoolName": "Rajalakshmi Engineering College",
+                    "trackingId": "AZ06HQ7wTJ2zKlZXhhmBDg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFGbaiDqm7pGg/company-logo_"
+                },
+                "grade": "3",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "I completed B.Tech in Information Technology from Rajalakshmi Engineering College, affiliated with Anna University, Chennai, India",
+                "degreeName": "Bachelor's Degree",
+                "schoolName": "Rajalakshmi Engineering College",
+                "fieldOfStudy": "Information Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:208917"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,175298629)",
+                "school": {
+                    "objectUrn": "urn:li:school:20331",
+                    "entityUrn": "urn:li:fs_miniSchool:20331",
+                    "active": true,
+                    "schoolName": "Kendriya Vidyalaya",
+                    "trackingId": "HTrOsKe+RmGfyFY7yXxIxA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFiB3Otc6s1Mw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2000
+                    }
+                },
+                "schoolName": "Kendriya Vidyalaya",
+                "schoolUrn": "urn:li:fs_miniSchool:20331"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "PadhAI - One Fourth Labs",
+                "name": "DL #103- Sigmoid Neuron - IIT Madras affiliated course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "00G2F3OYs7119x17yL",
+                "company": {
+                    "objectUrn": "urn:li:company:14508697",
+                    "entityUrn": "urn:li:fs_miniCompany:14508697",
+                    "name": "PadhAI - One Fourth Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=lFsQqqe2dZzT7K9jjjWlAXmzoHMNMQBkJVrfvWyzCgY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=L7APXWplpAuDujq_ZcYFjtOVc_ZMlQhL-ykTUJ-z81o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=EiEDC2C8TWq1vTSwK4Cj0AvuleF5whKumnxSPs9qa4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQHYO42rfVInQg/company-logo_"
+                        }
+                    },
+                    "universalName": "padhai-onefourthlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:14508697",
+                    "trackingId": "90qQJ1RaQWKBIgnXdbqvHg=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:14508697",
+                "url": "https://www.guvi.in/verify-certificate?id=00G2F3OYs7119x17yL&course=dl_sigmoid_neuron"
+            },
+            {
+                "authority": "PadhAI - One Fourth Labs",
+                "name": "DL #104- Feedforward Neural Networks- IIT Madras affiliated course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "87UH77d87V1l6N0p5m",
+                "company": {
+                    "objectUrn": "urn:li:company:14508697",
+                    "entityUrn": "urn:li:fs_miniCompany:14508697",
+                    "name": "PadhAI - One Fourth Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=lFsQqqe2dZzT7K9jjjWlAXmzoHMNMQBkJVrfvWyzCgY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=L7APXWplpAuDujq_ZcYFjtOVc_ZMlQhL-ykTUJ-z81o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=EiEDC2C8TWq1vTSwK4Cj0AvuleF5whKumnxSPs9qa4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQHYO42rfVInQg/company-logo_"
+                        }
+                    },
+                    "universalName": "padhai-onefourthlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:14508697",
+                    "trackingId": "akwdMs+IRKSovdkCwPEPGQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:14508697"
+            },
+            {
+                "authority": "PadhAI - One Fourth Labs",
+                "name": "DL #107- Introduction to Pytorch - IIT Madras affiliated course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "x8Bfn5377E1u509G0K",
+                "company": {
+                    "objectUrn": "urn:li:company:14508697",
+                    "entityUrn": "urn:li:fs_miniCompany:14508697",
+                    "name": "PadhAI - One Fourth Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=lFsQqqe2dZzT7K9jjjWlAXmzoHMNMQBkJVrfvWyzCgY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=L7APXWplpAuDujq_ZcYFjtOVc_ZMlQhL-ykTUJ-z81o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=EiEDC2C8TWq1vTSwK4Cj0AvuleF5whKumnxSPs9qa4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQHYO42rfVInQg/company-logo_"
+                        }
+                    },
+                    "universalName": "padhai-onefourthlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:14508697",
+                    "trackingId": "GWGfmeeaSIyxR98IVHqo4A=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:14508697",
+                "url": "https://www.guvi.in/share-certificate/x8Bfn5377E1u509G0K"
+            },
+            {
+                "authority": "PadhAI - One Fourth Labs",
+                "name": "DL #108- Convolutional Neural Networks- IIT Madras affiliated course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "14e5750N24O76HL6l4",
+                "company": {
+                    "objectUrn": "urn:li:company:14508697",
+                    "entityUrn": "urn:li:fs_miniCompany:14508697",
+                    "name": "PadhAI - One Fourth Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=lFsQqqe2dZzT7K9jjjWlAXmzoHMNMQBkJVrfvWyzCgY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=L7APXWplpAuDujq_ZcYFjtOVc_ZMlQhL-ykTUJ-z81o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=EiEDC2C8TWq1vTSwK4Cj0AvuleF5whKumnxSPs9qa4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQHYO42rfVInQg/company-logo_"
+                        }
+                    },
+                    "universalName": "padhai-onefourthlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:14508697",
+                    "trackingId": "NXN5SMwKSj2ZXKn1ZyxYwQ=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:14508697",
+                "url": "https://www.guvi.in/verify-certificate?id=14e5750N24O76HL6l4&course=dl_convolutional_neural_networks"
+            },
+            {
+                "authority": "PadhAI - One Fourth Labs",
+                "name": "DL#109 - Deep Convolutional Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "1pE521VA931kLT57W7",
+                "company": {
+                    "objectUrn": "urn:li:company:14508697",
+                    "entityUrn": "urn:li:fs_miniCompany:14508697",
+                    "name": "PadhAI - One Fourth Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=lFsQqqe2dZzT7K9jjjWlAXmzoHMNMQBkJVrfvWyzCgY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=L7APXWplpAuDujq_ZcYFjtOVc_ZMlQhL-ykTUJ-z81o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630605627801/padhai_onefourthlabs_logo?e=1748476800&v=beta&t=EiEDC2C8TWq1vTSwK4Cj0AvuleF5whKumnxSPs9qa4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQHYO42rfVInQg/company-logo_"
+                        }
+                    },
+                    "universalName": "padhai-onefourthlabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:14508697",
+                    "trackingId": "c2Xrx1k5STKtlbpOyxUJlw=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:14508697",
+                "url": "https://www.guvi.in/share-certificate/1pE521VA931kLT57W7"
+            },
+            {
+                "authority": "University at Buffalo",
+                "name": "Master of Science in Engineering Science(Data Science Specialization)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "CeDiD: 24UQ-ANHD-ABNM and Name: Arjun Srinivasan",
+                "company": {
+                    "objectUrn": "urn:li:company:6502",
+                    "entityUrn": "urn:li:fs_miniCompany:6502",
+                    "name": "University at Buffalo",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1660069485905/universityatbuffalo_logo?e=1748476800&v=beta&t=dnHVTrc6YtqLdc2zi8Cn_4WItDhMcwCufSaVGvf3iAI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1660069485905/universityatbuffalo_logo?e=1748476800&v=beta&t=ZdCAX6EWgJy0oU1v7qyqSy-lr6RVicOoRmC3stR5DjA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1660069485905/universityatbuffalo_logo?e=1748476800&v=beta&t=cka7k4YE28BjLzBbHGRNFLqw2pdFQltC0qlU-d11VuM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+                        }
+                    },
+                    "universalName": "universityatbuffalo",
+                    "dashCompanyUrn": "urn:li:fsd_company:6502",
+                    "trackingId": "HtE4y/cqTmOWbW9JWmpFvQ=="
+                },
+                "displaySource": "buffalo.edu",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "url": "https://registrar.buffalo.edu/diploma/credential-validation.php"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "ChatGPT Prompt Engineering for Developers",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "rVqZ7hdxSsiIpjlUScbpLA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:18246783"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "AI Agents in LangGraph",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "BsPMEP95QImM6qkekKoI1A=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:18246783"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1958078954)",
+                "title": "Recognition for Robotics Process Automation Training",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "issuer": "Ford Motor Company"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1958078954)",
+                "title": "Recognition for RPA VDI migrations to new Data Center",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "issuer": "Ford Motor Company"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1458614106)",
+                "title": "Asia Pacific Recognition Award",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "issuer": "Ford Motor Company"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Arjun",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "occupation": "Senior Analyst - Data Science(GEN AI)- Infosys Topaz, USA | 5+ years experience in IT Industry from India | MS in Data Science | ML, Gen AI, RAG, AgenticAI |",
+                            "objectUrn": "urn:li:member:282067777",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733160785731?e=1746057600&v=beta&t=KKrRxPQWPIPN_ssRGuQuJygXFyzse2yXVAq3CclFi6U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733160785731?e=1746057600&v=beta&t=SIWaEBy5fa4MMEuu-6aYG66jz9coimKVQlRKc19jlqg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEjTCBXQTo0zA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arjun-srinivasan-jul1995",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695677510301?e=1746057600&v=beta&t=T6rY9-H0DhVxicyfCBGcZ8pEPc12W_DHAGdeTZp77JA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695677510301?e=1746057600&v=beta&t=9g-yLzXIbQBCWsQAe2t0t5pX7DenBmtSA-cmlpNruRQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695677510301?e=1746057600&v=beta&t=T499SVHQQcNW9GcolyTaKfLiHXQY8XM3szXygCQMreI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695677510301?e=1746057600&v=beta&t=7Upn1pB3qet3MaoO7hDQmv5tYhLu827UV5JQM14vWg4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzMe437Cb3oA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YGbj7BhwQ4emJRNoRTj24A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1353496118,448626500)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "description": "This project focuses on predicting customer churn (attrition) using an Artificial Neural Network (ANN) model trained on a customer dataset with demographic and financial features. The project demonstrates end-to-end implementation of a machine learning solution, from data preprocessing to model deployment.\n\nThe dataset contains 10,000 records with features such as customer geography, gender, age, credit score, balance, tenure, and more. The target variable indicates whether a customer churned (1) or stayed (0).\n\nThe ANN was built and trained using TensorFlow/Keras, with the following configurations:\n\nActivation Functions: Relu in intermediate layers, Sigmoid in the output layer for binary classification.\nOptimizer: Adam optimizer with a learning rate of 0.01.\nLoss Function: Binary Cross-Entropy.\nEarly Stopping: Implemented to prevent overfitting, reducing training time by halting when validation loss stagnates.\nKey technologies like TensorBoard were utilized to monitor training progress through loss and accuracy visualizations, weight distributions, and neural network architecture debugging.\n\nThe model was deployed as a Streamlit web application, allowing users to input custom data and receive real-time churn probability predictions. The app provides an intuitive interface and showcases how machine learning models can be operationalized for business use cases.\n\nTechnical Highlights:\nPreprocessed the data by encoding categorical variables and scaling numerical features.\nSaved the model in H5 format and encoded preprocessing steps using Pickle for reusability.\nAchieved early stopping after 20 epochs, optimizing training time and validation performance.\nDeployed an interactive, user-friendly web app to simulate real-world usage.\nThis project is an excellent demonstration of applying data science, machine learning, and deployment skills to solve business-critical problems.",
+                "title": "Customer churn using Artificial Neural Networks(ANN)"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Arjun",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "occupation": "Senior Analyst - Data Science(GEN AI)- Infosys Topaz, USA | 5+ years experience in IT Industry from India | MS in Data Science | ML, Gen AI, RAG, AgenticAI |",
+                            "objectUrn": "urn:li:member:282067777",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733160785731?e=1746057600&v=beta&t=KKrRxPQWPIPN_ssRGuQuJygXFyzse2yXVAq3CclFi6U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733160785731?e=1746057600&v=beta&t=SIWaEBy5fa4MMEuu-6aYG66jz9coimKVQlRKc19jlqg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEjTCBXQTo0zA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arjun-srinivasan-jul1995",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695677510301?e=1746057600&v=beta&t=T6rY9-H0DhVxicyfCBGcZ8pEPc12W_DHAGdeTZp77JA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695677510301?e=1746057600&v=beta&t=9g-yLzXIbQBCWsQAe2t0t5pX7DenBmtSA-cmlpNruRQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695677510301?e=1746057600&v=beta&t=T499SVHQQcNW9GcolyTaKfLiHXQY8XM3szXygCQMreI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695677510301?e=1746057600&v=beta&t=7Upn1pB3qet3MaoO7hDQmv5tYhLu827UV5JQM14vWg4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzMe437Cb3oA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YGbj7BhwQ4emJRNoRTj24A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,561816794,439967394)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "\"Company Search\" is a Streamlit app designed to simplify the process of gathering and understanding information about companies. By leveraging OpenAI's powerful language models, this app provides users with a comprehensive overview of a company's history, products, and services in just a few clicks. Additionally, it tracks a company's highest stock price in 2021 and highlights competitors who outperformed them that year.\n\nKey Features:\n\nCompany Overview: Delivers concise information about a company's background and offerings.\nPerformance Tracking: Analyzes and displays the company's top stock price in 2021 and identifies stronger competitors during that period.\nPowered by AI: Utilizes OpenAI's API, Langchain, and custom prompt chains to efficiently extract and present relevant data. Langchain's chain feature ensures seamless conversation flow in the app.\nHow It Works:\n\nEnter the company name.\nThe AI processes extensive data in seconds using pre-trained models via OpenAI's API.\nResults are presented clearly in an intuitive Streamlit interface.\nTech Stack:\n\nOpenAI API (model: gpt-3.5-turbo-instruct)\nLangchain (ConversationBufferMemory, Sequential Chain, PromptTemplate)\nStreamlit\nPython\nUse Cases:\n\nInvestors: Quickly evaluate company performance and compare it with competitors.\nJob Seekers: Research potential employers and gain insights into the competitive landscape.\nBusiness Analysts: Streamline data collection and analysis for reports and presentations.\nMotivation: Driven by a passion for making complex tasks more accessible through AI, \"Company Search\" aims to democratize access to valuable company information. Special thanks to Krish Naik for his educational content on LLM and Machine Learning, which inspired this project.",
+                "title": "Company Search with LangChain, OpenAI APIs & Streamlit"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Arjun",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "occupation": "Senior Analyst - Data Science(GEN AI)- Infosys Topaz, USA | 5+ years experience in IT Industry from India | MS in Data Science | ML, Gen AI, RAG, AgenticAI |",
+                            "objectUrn": "urn:li:member:282067777",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733160785731?e=1746057600&v=beta&t=KKrRxPQWPIPN_ssRGuQuJygXFyzse2yXVAq3CclFi6U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733160785731?e=1746057600&v=beta&t=SIWaEBy5fa4MMEuu-6aYG66jz9coimKVQlRKc19jlqg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEjTCBXQTo0zA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arjun-srinivasan-jul1995",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695677510301?e=1746057600&v=beta&t=T6rY9-H0DhVxicyfCBGcZ8pEPc12W_DHAGdeTZp77JA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695677510301?e=1746057600&v=beta&t=9g-yLzXIbQBCWsQAe2t0t5pX7DenBmtSA-cmlpNruRQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695677510301?e=1746057600&v=beta&t=T499SVHQQcNW9GcolyTaKfLiHXQY8XM3szXygCQMreI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695677510301?e=1746057600&v=beta&t=7Upn1pB3qet3MaoO7hDQmv5tYhLu827UV5JQM14vWg4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzMe437Cb3oA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YGbj7BhwQ4emJRNoRTj24A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1459339462,423805317)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "description": "Created a synthetic dataset with fictional credit card details for sensitive information protection. Utilized Python's SpaCy for named entity detection with pre-trained NLP models and stored predictions in MongoDB. NVIDIA GPU facilitated training of large models.\n\nProject Details- https://arjunsai07.github.io/CreditCardEntityRecognition/\nProject Repository- https://github.com/arjunsai07/CreditCardEntityRecognition",
+                "title": "Credit Card Details Detection using SpaCy Named Entity Recognition"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Arjun",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "occupation": "Senior Analyst - Data Science(GEN AI)- Infosys Topaz, USA | 5+ years experience in IT Industry from India | MS in Data Science | ML, Gen AI, RAG, AgenticAI |",
+                            "objectUrn": "urn:li:member:282067777",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733160785731?e=1746057600&v=beta&t=KKrRxPQWPIPN_ssRGuQuJygXFyzse2yXVAq3CclFi6U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733160785731?e=1746057600&v=beta&t=SIWaEBy5fa4MMEuu-6aYG66jz9coimKVQlRKc19jlqg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEjTCBXQTo0zA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arjun-srinivasan-jul1995",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695677510301?e=1746057600&v=beta&t=T6rY9-H0DhVxicyfCBGcZ8pEPc12W_DHAGdeTZp77JA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695677510301?e=1746057600&v=beta&t=9g-yLzXIbQBCWsQAe2t0t5pX7DenBmtSA-cmlpNruRQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695677510301?e=1746057600&v=beta&t=T499SVHQQcNW9GcolyTaKfLiHXQY8XM3szXygCQMreI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695677510301?e=1746057600&v=beta&t=7Upn1pB3qet3MaoO7hDQmv5tYhLu827UV5JQM14vWg4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzMe437Cb3oA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YGbj7BhwQ4emJRNoRTj24A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,1729149127,424056384)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "- Market Dynamics: Witnessed a surge in demand for used vehicles, underscored by their cost-effectiveness, reliability, and environmental sustainability.\n- Operational Hurdles: Identified a significant barrier for potential buyers in sifting through an expansive inventory, necessitating extensive time and analytical effort.\n- Technical Innovation: Implemented a robust PostgreSQL database management system, enhancing the efficiency and precision of pre-owned vehicle searches.\n- Schema Engineering: Methodically constructed and optimized database tables and schemas, employing principles of relational database design to establish a scalable and maintainable data model.\n- Normalization Mastery: Executed comprehensive data normalization, applying 1NF, 2NF, 3NF, and BCNF techniques to mitigate data redundancy and ensure data integrity.\n- Advanced Data Manipulation: Utilized Python's Pandas library for sophisticated data cleansing and structuring, transforming raw data into logically segmented dataframes for optimal database integration and query performance.",
+                "title": "CarQuest-A-Student-Centric-Used-Car-SQL-Solution"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Arjun",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "occupation": "Senior Analyst - Data Science(GEN AI)- Infosys Topaz, USA | 5+ years experience in IT Industry from India | MS in Data Science | ML, Gen AI, RAG, AgenticAI |",
+                            "objectUrn": "urn:li:member:282067777",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1733160785731?e=1746057600&v=beta&t=KKrRxPQWPIPN_ssRGuQuJygXFyzse2yXVAq3CclFi6U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733160785731?e=1746057600&v=beta&t=SIWaEBy5fa4MMEuu-6aYG66jz9coimKVQlRKc19jlqg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEjTCBXQTo0zA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arjun-srinivasan-jul1995",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695677510301?e=1746057600&v=beta&t=T6rY9-H0DhVxicyfCBGcZ8pEPc12W_DHAGdeTZp77JA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695677510301?e=1746057600&v=beta&t=9g-yLzXIbQBCWsQAe2t0t5pX7DenBmtSA-cmlpNruRQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695677510301?e=1746057600&v=beta&t=T499SVHQQcNW9GcolyTaKfLiHXQY8XM3szXygCQMreI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695677510301?e=1746057600&v=beta&t=7Upn1pB3qet3MaoO7hDQmv5tYhLu827UV5JQM14vWg4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzMe437Cb3oA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YGbj7BhwQ4emJRNoRTj24A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM,856755586,420262604)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "- Project Objective: Visualize FIFA 18 player data using Tableau for in-depth analysis.\n- Interactive Dashboards: Develop dashboards to explore player ratings, potentials, club distributions, and nationalities.\n- Insights Targeted:\n   Uncover player performance insights. \n   Analyze club strategies.\n   Identify game-wide trends.\n- Data Scope: Covers extensive data across all players featured in FIFA 18.\n- Expected Outcomes:\n   Quantitative assessment of player abilities.\n   Comparative analysis of clubs based on player stats.\n   Geographic trends in player nationalities and club affiliations.\n\nProject Details- https://arjunsai07.github.io/Tableau--FIFA-18-Game-analysis/",
+                "title": "Tableau project on FIFA 18 Game Analysis"
+            }
+        ],
+        "skills": [
+            {
+                "name": "GPT-4"
+            },
+            {
+                "name": "Prompt Engineering"
+            },
+            {
+                "name": "LangGraph"
+            },
+            {
+                "name": "VertexAI"
+            }
+        ],
+        "urn_id": "ACoAABDQA0EBAPqwd0Gy8tySYNMDuWcGvtlazwM"
+    }
+}

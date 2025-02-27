@@ -1,0 +1,1329 @@
+{
+    "urn_id": "ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+    "fetch_timestamp": "2025-02-26T21:18:25.339075",
+    "profile_data": {
+        "summary": "I am an Acting Instructor at University of Washington, where I work on developing classical and quantum computing algorithms for calculating relativistic and quantum field theory for molecular science. I have a PhD in Applied Physics from Rutgers University and New Jersey Institute of Technology, and over five years of experience in theoretical and computational physics.\n\nMy current research focuses on quantum machine learning and quantum-classical hybrid algorithms for molecular simulation, aimed at near-term and fault-tolerant quantum computing. I have designed efficient state preparation circuits, developed machine learning models to generate effective variational ansatz, and analyzed models for topological mechanical metamaterials. I have also acquired multiple certifications in machine learning and deep learning, and published several papers in prestigious journals. My mission is to advance the frontiers of quantum science and technology, and to inspire and educate the next generation of quantum scientists and engineers.",
+        "industryName": "Higher Education",
+        "lastName": "Zhu",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:68",
+        "firstName": "Linghua",
+        "entityUrn": "urn:li:fs_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104116203"
+        },
+        "geoLocationName": "Seattle, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+        "profile_id": "ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+        "member_urn": "urn:li:member:235766446",
+        "public_id": "linghua-zhu-abab5a66",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,1853514714)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "University of Washington",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2584",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,1383089577)",
+                "companyName": "Virginia Tech",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "description": "> Designed efficient state preparation (VQE) circuits that respect particle number, total spin, spin projection, and time-reversal symmetries, and provide explicit decompositions and gate counts in terms of standard gate sets in each case.\n> Developed RNN-VQE, a machine learning model which uses recurrent neural networks to learn and quickly generate effective variational ansatz for VQE.\n> Developed ADAPT-QAOA by allowing more freedom in the single qubit gates and even further by allowing for entangling operations in the mixing layer.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Postdoctoral Associate",
+                "companyUrn": "urn:li:fs_miniCompany:166811",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C510BAQGEnHJ3Ojm1Jg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,1383090352)",
+                "companyName": "Rutgers University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2016
+                    }
+                },
+                "description": "Analyzed a model for topological mechanical metamaterials made of spinners interacting through magnets. The model serves as a test for topological electron Hamiltonian developed in last work. We showed how the results for electron system can be used to predict the results for mechanical system. We first studied 1D system with open edges and compared with the preliminary experimental data, which reveals consistency between theory and experiments, in particular the frequency and vibrational mode of edge modes. Encourages by the agreement, we carried out calculations for 2D systems, which correspond to 2D electron system studied in last work, and made predictions. From the calculations, flat frequency bands are found in the bulk frequency band gap, localized at open edges of a ribbon. We calculated how the group velocity for these bands depend on the width of the ribbon, which can be compared with future experiments.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:4262",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,1155700286)",
+                "companyName": "New Jersey Institute of Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "description": "A model for two-dimensional electronic, photonic, and mechanical metamaterial systems is presented, which has flat one-dimensional zero-mode energy bands and stable localized states of a topological origin confined within twin boundaries, antiphase boundaries, and at open edges. Topological origins of these flat bands are analyzed for an electronic system as a specific example, using a two-dimensional extension of the Su-Schrieffer-Heeger Hamiltonian with alternating shift of the chains. It is demonstrated that the slow group velocities of the localized flat band states are sensitively controlled by the distance between the boundaries and the propagation can be guided through designed paths of these boundaries. We also discuss how to realize this model in metamaterials.",
+                "title": "Research Assistant"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,1155496548)",
+                "companyName": "New Jersey Institute of Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "description": "Simulated the photoinduced nonequilibrium\ndynamics of a model system for the CO instability, which includes electrons, periodic lattice\ndistortions, and a phonon thermal reservoir. Our approach is based on a tight-binding\nHamiltonian and the dynamics governed by the Boltzmann equations and the Newton’s equation.\nOur simulations reveal intricately coupled nonequilibrium dynamics of the electronic order\nparameter and the periodic lattice distortion under various conditions of the photon energy and\nthe pump fluence. We also discuss how the critical fluence of photoinduced insulator-metal\ntransitions depends on the photon energy, which could be important for the applications of the\nCO and related materials for future ultrafast switching devices. Agreements are found between\nour simulation results and recent experiments.",
+                "title": "Research Assistant"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,628061822)",
+                "school": {
+                    "objectUrn": "urn:li:school:18865",
+                    "entityUrn": "urn:li:fs_miniSchool:18865",
+                    "active": true,
+                    "schoolName": "New Jersey Institute of Technology",
+                    "trackingId": "Sp0+5EOUTy6LrjLUIJjDCA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "Joint Ph.D. program",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100356",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "New Jersey Institute of Technology",
+                "fieldOfStudy": "Applied Physics",
+                "schoolUrn": "urn:li:fs_miniSchool:18865"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,628061772)",
+                "school": {
+                    "objectUrn": "urn:li:school:18874",
+                    "entityUrn": "urn:li:fs_miniSchool:18874",
+                    "active": true,
+                    "schoolName": "Rutgers University",
+                    "trackingId": "S4ZuM+jLRCSlzrw6iB33vQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "Joint Ph.D. program",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100356",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "Rutgers University",
+                "fieldOfStudy": "Applied Physics",
+                "schoolUrn": "urn:li:fs_miniSchool:18874"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,478098020)",
+                "school": {
+                    "objectUrn": "urn:li:school:11405",
+                    "entityUrn": "urn:li:fs_miniSchool:11405",
+                    "active": true,
+                    "schoolName": "University of Science and Technology of China",
+                    "trackingId": "jeOqjcZvRzaMMy10Ws8Txw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHntW5nqVdqDQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100892",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "University of Science and Technology of China",
+                "fieldOfStudy": "Physics",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:11405"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2023,
+                    "day": 13
+                },
+                "name": "Optimizing Shot Assignment in Variational Quantum Eigensolver Measurement",
+                "description": "The rapid progress in quantum computing has opened up new possibilities for tackling complex scientific problems. Variational quantum eigensolver (VQE) holds the potential to solve quantum chemistry problems and achieve quantum advantages. However, the measurement step within the VQE framework presents challenges. It can introduce noise and errors while estimating the objective function with a limited measurement budget. Such error can slow down or prevent the convergence of VQE. To reduce measurement error, many repeated measurements are needed to average out the noise in the objective function. By consolidating Hamiltonian terms into cliques, simultaneous measurements can be performed, reducing the overall measurement shot count. However, limited prior knowledge of each clique, such as noise level of measurement, poses a challenge. This work introduces two shot assignment strategies based on estimating the standard deviation of measurements to improve the convergence of VQE and reduce the required number of shots. These strategies specifically target two distinct scenarios: over-allocated and under-allocated shots. The efficacy of the optimized shot assignment strategy is demonstrated through numerical experiments conducted on a H2 molecule. This research contributes to the advancement of VQE as a practical tool for solving quantum chemistry problems, paving the way for future applications in complex scientific simulations on quantum computers.",
+                "url": "https://arxiv.org/abs/2307.06504",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2022,
+                    "day": 11
+                },
+                "name": "An adaptive quantum approximate optimization algorithm for solving combinatorial problems on a quantum computer",
+                "publisher": "Physical Review Research - APS",
+                "description": "The quantum approximate optimization algorithm (QAOA) is a hybrid variational quantum-classical algorithm that solves combinatorial optimization problems. While there is evidence suggesting that the fixed form of the original QAOA ansatz is not optimal, there is no systematic approach for finding better ansätze. We address this problem by developing an iterative version of QAOA that is problem-tailored, and which can also be adapted to specific hardware constraints. We simulate the algorithm on a class of Max-Cut graph problems and show that it converges much faster than the original QAOA, while simultaneously reducing the required number of CNOT gates and optimization parameters.",
+                "url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033029",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2022,
+                    "day": 26
+                },
+                "name": "How Much Entanglement Do Quantum Optimization Algorithms Require?",
+                "description": "Many classical optimization problems can be mapped to finding the ground states of diagonal Ising Hamiltonians, for which variational quantum algorithms such as the Quantum Approximate Optimization Algorithm (QAOA) provide heuristic methods. Because the solutions of such classical optimization problems are necessarily product states, it is unclear how entanglement affects their performance. An Adaptive Derivative-Assembled Problem-Tailored (ADAPT) variation of QAOA improves the convergence rate by allowing entangling operations in the mixer layers whereas it requires fewer CNOT gates in the entire circuit. In this work, we study the entanglement generated during the execution of ADAPT-QAOA. Through simulations of the weighted Max-Cut problem, we show that ADAPT-QAOA exhibits substantial flexibility in entangling and disentangling qubits. By incrementally restricting this flexibility, we find that a larger amount of entanglement entropy at earlier stages coincides with faster convergence at later stages. In contrast, while the standard QAOA quickly generates entanglement within a few layers, it cannot remove excess entanglement efficiently. Our results offer implications for favorable features of quantum optimization algorithms.",
+                "url": "https://arxiv.org/abs/2205.12283",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2022,
+                    "day": 25
+                },
+                "name": "Adaptive variational algorithms for quantum Gibbs state preparation",
+                "description": "The preparation of Gibbs thermal states is an important task in quantum computation with applications in quantum simulation, quantum optimization, and quantum machine learning. However, many algorithms for preparing Gibbs states rely on quantum subroutines which are difficult to implement on near-term hardware. Here, we address this by (i) introducing an objective function that, unlike the free energy, is easily measured, and (ii) using dynamically generated, problem-tailored ansätze. This allows for arbitrarily accurate Gibbs state preparation using low-depth circuits. To verify the effectiveness of our approach, we numerically demonstrate that our algorithm can prepare high-fidelity Gibbs states across a broad range of temperatures and for a variety of Hamiltonians.",
+                "url": "https://arxiv.org/abs/2203.12757",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    },
+                    {
+                        "name": "Ada Warren"
+                    },
+                    {
+                        "name": "Linghua Zhu"
+                    },
+                    {
+                        "name": "Nicholas J. Mayhall"
+                    },
+                    {
+                        "name": "Edwin Barnes"
+                    },
+                    {
+                        "name": "Sophia E. Economou"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2020,
+                    "day": 23
+                },
+                "name": "Observation of Flat Frequency Bands at Open Edges and Antiphase Boundary Seams in Topological Mechanical Metamaterials",
+                "publisher": "Physical Review Letters - APS",
+                "description": "Motivated by the recent theoretical studies on a two-dimensional (2D) chiral Hamiltonian based\non the Su-Schrieffer-Heeger chains [L. Zhu, E. Prodan, and K. H. Ahn, Phys. Rev. B 99, 041117(R)\n(2019)], we experimentally and computationally demonstrate that topological flat frequency bands\ncan occur at open edges of 2D planar metamaterials and at antiphase boundary seams of ring-shaped\nor tubular metamaterials. Specifically, using mechanical systems made of magnetically coupled\nspinners, we reveal that the presence of the edge or seam bands that are flat in the entire projected\nreciprocal space follows the predictions based on topological winding numbers. The edge-to-edge\ndistance sensitively controls the flatness of the edge bands and the localization of excitations. The\nanalogue of the fractional charge state is also observed. Possible realizations of flat bands in a large\nclass of metamaterials, including photonic crystals and electronic metamaterials, are discussed.",
+                "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.225501",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2020,
+                    "day": 28
+                },
+                "name": "Efficient Symmetry-Preserving State Preparation Circuits for the Variational Quantum Eigensolver Algorithm",
+                "publisher": "npj Quantum Information - Nature",
+                "description": "The variational quantum eigensolver is one of the most promising approaches for performing\nchemistry simulations using noisy intermediate-scale quantum (NISQ) processors. The efficiency of\nthis algorithm depends crucially on the ability to prepare multi-qubit trial states on the quantum\nprocessor that either include, or at least closely approximate, the actual energy eigenstates of the\nproblem being simulated while avoiding states that have little overlap with them. Symmetries play a\ncentral role in determining the best trial states. Here, we present efficient state preparation circuits\nthat respect particle number, total spin, spin projection, and time-reversal symmetries. These\ncircuits contain the minimal number of variational parameters needed to fully span the appropriate\nsymmetry subspace dictated by the chemistry problem while avoiding all irrelevant sectors of Hilbert\nspace. We show how to construct these circuits for arbitrary numbers of orbitals, electrons, and spin\nquantum numbers, and we provide explicit decompositions and gate counts in terms of standard\ngate sets in each case.",
+                "url": "https://doi.org/10.1038/s41534-019-0240-1",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2018,
+                    "day": 27
+                },
+                "name": "Flat energy bands within antiphase and twin boundaries and at open edges in topological materials",
+                "publisher": "Phys. Rev. B Rapid Commun.",
+                "description": "A model for two-dimensional electronic, photonic, and mechanical metamaterial systems is presented, which\nhas flat one-dimensional zero-mode energy bands and stable localized states of a topological origin confined\nwithin twin boundaries, antiphase boundaries, and at open edges. Topological origins of these flatbands are\nanalyzed for an electronic system as a specific example, using a two-dimensional extension of the Su-SchriefferHeeger Hamiltonian with alternating shift of the chains. It is demonstrated that the slow group velocities of the\nlocalized flat band states are sensitively controlled by the distance between the boundaries and the propagation\ncan be guided through designed paths of these boundaries. We also discuss how to realize this model in\nmetamaterials.",
+                "url": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041117",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2017,
+                    "day": 2
+                },
+                "name": "Photoinduced nonequilibrium dynamics in charge ordered materials",
+                "publisher": "Journal of Applied Physics ",
+                "description": "We study the nonequilibrium dynamics of photoinduced phase transitions in charge ordered (CO)\nsystems with a strong electron-lattice interaction and analyze the interplay between electrons,\nperiodic lattice distortions, and a phonon thermal reservoir. Simulations based on a tight-binding\nHamiltonian and Boltzmann equations reveal partially decoupled oscillations of the electronic\norder parameter and the periodic lattice distortion during CO melting, which becomes more energy\nefficient with lower photon energy. The cooling rate of the electron system correlates with the CO\ngap dynamics, responsible for an order of magnitude decrease in the cooling rate upon the gap\nreopening. We also find that the time-dependent frequency of coherent oscillation reflects the\ndynamics of the energy landscape, such as transition between single-well and double-well, which\nsensitively depends on the photon energy and the pump fluence. The results demonstrate the intricate nonequilibrium dynamics in CO materials. ",
+                "url": "https://doi.org/10.1063/1.5018045",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            },
+            {
+                "name": "RNN-VQE: A Machine Learning Approach to Generating Variational Ansatz",
+                "publisher": "In preparation",
+                "description": "The variational quantum eigensolver (VQE) is a leading near-term hybrid classical/quantumalgorithm for calculating spectra of molecular Hamiltonians. As with any variational approach, itsperformance depends sensitively on the selection of an appropriate variational form. Recentwork has detailed the effectiveness of ADAPT-VQE, an adaptive approach to VQE in which thevariational form is grown iteratively, resulting in ansatze which yield high performance withminimal numbers of variational parameters. This approach, however, is quantum resourceintensive, requiring many quantum circuit executions and state measurements to grow theansatze. Here we present RNN-VQE, a machine learning model which uses recurrent neuralnetworks to learn and quickly generate effective variational ansatze for VQE",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "University of Washington",
+                "name": "Machine Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "4PHAQ4G65Z98",
+                "company": {
+                    "objectUrn": "urn:li:company:2584",
+                    "entityUrn": "urn:li:fs_miniCompany:2584",
+                    "name": "University of Washington",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630545704089/university_of_washington_logo?e=1748476800&v=beta&t=qyJNcJufH75UTZBHgt7cQgbqFBTE_PIB9dgx8UckpQk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630545704089/university_of_washington_logo?e=1748476800&v=beta&t=VBrp2P7uMB2a9BvevBkfawOBJV-shf4l3W5lkbWnnPI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630545704089/university_of_washington_logo?e=1748476800&v=beta&t=NO19wWq1Rky3YttLn3zRQ36LndcMujiPCjqmmkFt9-w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-washington",
+                    "dashCompanyUrn": "urn:li:fsd_company:2584",
+                    "trackingId": "UgX3pp0FRDCybl4Letuilg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2584",
+                "url": "https://www.coursera.org/account/accomplishments/verify/4PHAQ4G65Z98"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "FTKUZTUDAS5K",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "F4QtsfqsRc2NV1kTiBAvkg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/FTKUZTUDAS5K"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "CVAM44NTRVEB",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "DMD8bD7QQmmAA72cj8Qm7Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/verify/CVAM44NTRVEB"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,1642518169,329256856)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "The preparation of Gibbs states is an important task in quantum computation with applications in quantum simulation, quantum optimization, and quantum machine learning. However, many algorithms for preparing Gibbs states rely on quantum subroutines which are difficult to implement on near-term hardware. Here, we address this by (i) introducing an objective function that, unlike the free energy, is easily measured and (ii) using dynamically generated, problem-tailored ansatze. This allows for arbitrarily accurate Gibbs state preparation using low-depth circuits. To verify the effectiveness of our approach, we numerically demonstrate that our algorithm can prepare high-fidelity Gibbs states across a broad range of temperatures and for a variety of Hamiltonians.",
+                "title": "Developed ADAPT-VQA Quantum Gibbs State Preparation"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,453933117,251354439)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "title": "Developed RNN-VQE, a machine learning model which uses recurrent neural networks to learn and quickly generate effective variational ansatz for VQE."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,453951219,251356338)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "title": "Developed ADAPT-QAOA by allowing more freedom in the single qubit gates and even further by allowing for entangling operations in the mixing layer."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,453909350,251354433)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "title": "Designed efficient state preparation (VQE) circuits that respect particle number, total spin, spin projection, and time-reversal symmetries, and provide explicit decompositions and gate counts in terms of standard gate sets in each case."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,453862949,251353761)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "title": "Design and analyzed a model for topological mechanical metamaterials made of spinners interacting through magnets."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,453762517,251356311)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "title": "Simulated the photoinduced nonequilibrium dynamics of a model system for the CO "
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Linghua",
+                            "lastName": "Zhu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "occupation": "Research Scientist @ University of Washington | Quantum Computing | Quantum Machine Learning",
+                            "objectUrn": "urn:li:member:235766446",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y",
+                            "publicIdentifier": "linghua-zhu-abab5a66",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1704911894438?e=1746057600&v=beta&t=-GSXPUAi6Rh3f5gFBvL1kPdH0bMfyHDbV4zAUQLWQOQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1704911894438?e=1746057600&v=beta&t=VzOVU3BD9xv_l0epsHQiF2lbwWh1a8PgUX2A4SbrYB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1704911894438?e=1746057600&v=beta&t=hFSN6C29rvpL9prvqGz13g0PjuWVcjACvvQyLubf4qQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1704911894438?e=1746057600&v=beta&t=-nL5vtF4Fl8DIH_-jzoD7fB9AAAPv-CMnj9AURTalkE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyU0-xj01USw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Cmcl+SynRCSDFQIZP/ICNg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y,453674847,251356293)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2011
+                    }
+                },
+                "title": "Photon emissions in quantum dots and fast dephasing mechanisms."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Physics"
+            },
+            {
+                "name": "Quantum Computing"
+            },
+            {
+                "name": "Quantum Information"
+            },
+            {
+                "name": "Python"
+            }
+        ],
+        "urn_id": "ACoAAA4Ngq4BsWlMeOnA5z4S6bT6FSlqR8niB2Y"
+    }
+}

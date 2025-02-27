@@ -1,0 +1,1108 @@
+{
+    "urn_id": "ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+    "fetch_timestamp": "2025-02-26T21:34:40.302520",
+    "profile_data": {
+        "summary": "Logical(I assume) Human who likes to solve problems and provide solutions!! ",
+        "industryName": "Computer Software",
+        "lastName": "THAKUR",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "SNEHAL",
+        "entityUrn": "urn:li:fs_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI ",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_",
+        "img_800_800": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+        "img_200_200": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+        "img_100_100": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+        "img_400_400": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+        "profile_id": "ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+        "member_urn": "urn:li:member:585439141",
+        "public_id": "snehal-thakur-97108b144",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,2232586891)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Amazon Web Services (AWS)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+            },
+            {
+                "locationName": "Michigan, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,2213761577)",
+                "geoLocationName": "Michigan, United States",
+                "geoUrn": "urn:li:fs_geo:103051080",
+                "companyName": "Allison Transmission",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Software Engineer 2",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:162383",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFmSggIXRx_eA/company-logo_"
+            },
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,2146076914)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "University of Massachusetts Amherst",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4508",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+            },
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,2040590872)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "University of Massachusetts Amherst",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Grader",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Computer Science Grader",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4508",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+            },
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1983617453)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Amazon Web Services (AWS)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "Developed a robust mechanism for routing customer configurations for AWS’s Trusted Advisor service.\nSecured global database, preserved data contract & generalized data to use other AWS resources which is convenient through integrated\narchitecture.\nAWS resources used: DynamoDB, Lambda, CloudWatch, API Gateway, CloudFormation, S3, IAM and Route53",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Development Engineer intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,744737747)",
+                "school": {
+                    "objectUrn": "urn:li:school:18526",
+                    "entityUrn": "urn:li:fs_miniSchool:18526",
+                    "active": true,
+                    "schoolName": "University of Massachusetts Amherst",
+                    "trackingId": "AkIqcMVPS4OCvbCAFNH8rQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Masters",
+                "schoolName": "University of Massachusetts Amherst",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18526"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,47288312)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,425280723)",
+                "school": {
+                    "objectUrn": "urn:li:school:376036",
+                    "entityUrn": "urn:li:fs_miniSchool:376036",
+                    "active": true,
+                    "schoolName": "Veermata Jijabai Technological Institute (VJTI)",
+                    "trackingId": "0NYMdcJNSHG70w6N7wIF1A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHO0gh30ZJMpQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "Bachelor of Technology",
+                "schoolName": "Veermata Jijabai Technological Institute (VJTI)",
+                "fieldOfStudy": "Electronics and Communications Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:376036"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2019,
+                    "day": 8
+                },
+                "name": "\"BlockchainandAnomalyDetectionbasedMonitoringSystemforEnforcing WastewaterReuse\"",
+                "publisher": "THE 10th INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) ,IEEE.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "SNEHAL",
+                            "lastName": "THAKUR",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "occupation": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI",
+                            "objectUrn": "urn:li:member:585439141",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1673376547514?e=1746057600&v=beta&t=xYvi0eagDFU3nH93ZZk6kFSJ8UxgPA2GmAHfOBlqoYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        },
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673376547514?e=1746057600&v=beta&t=sF64dzS5vJ08CYk3A7SFC0Eqo-SI3Rm-9tKc-tnh_QE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGepMdYWh5fyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "snehal-thakur-97108b144",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1h+AYXyyRXClCx2S1s5MWA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2019,
+                    "day": 1
+                },
+                "name": "“Blockchain based Distributed Consensus for Byzantine Fault\r\nTolerance in PMU Network",
+                "publisher": "THE 10th INTERNATIONAL CONFERENCE ON\r\nCOMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) ,IEEE.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "SNEHAL",
+                            "lastName": "THAKUR",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "occupation": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI",
+                            "objectUrn": "urn:li:member:585439141",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1673376547514?e=1746057600&v=beta&t=xYvi0eagDFU3nH93ZZk6kFSJ8UxgPA2GmAHfOBlqoYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        },
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673376547514?e=1746057600&v=beta&t=sF64dzS5vJ08CYk3A7SFC0Eqo-SI3Rm-9tKc-tnh_QE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGepMdYWh5fyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "snehal-thakur-97108b144",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1h+AYXyyRXClCx2S1s5MWA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sreerag",
+                            "lastName": "Iyer",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACfeZMsBS5xqnf-b8RfZKTIyLk2KBPKGPNY",
+                            "occupation": "Software Engineer at MathWorks",
+                            "objectUrn": "urn:li:member:668886219",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACfeZMsBS5xqnf-b8RfZKTIyLk2KBPKGPNY",
+                            "publicIdentifier": "sreeragiyer",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1633475363252?e=1746057600&v=beta&t=xXoalhXrTzOwhaMaOK700D_wWPTC9UTckVLqZnh4KYY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1633475363252?e=1746057600&v=beta&t=t8FckdA1UgvX4z87GwMtuD-ndi2t9-v5Qg8Ww_xuCBM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1633475363252?e=1746057600&v=beta&t=owZSp44gBRBF91V7TRlENaK_rDp2IUSV5KDok9hf1Uw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 749,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1633475363252?e=1746057600&v=beta&t=Bxa9xYIVgjX3EbTvcdlnG36K9i59ZPVsOBMKAqFvTw0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 749
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQH82kKxVCzjYw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "KQX/ZjL4QTuk2czsreaWIA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACfeZMsBS5xqnf-b8RfZKTIyLk2KBPKGPNY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Mihirraj",
+                            "lastName": "Dixit",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5Xh2kB8CechehWqfgnZrFAoAxm6cKj80k",
+                            "occupation": "MS in CS @UdS | Ex-Rakuten Symphony | B.Tech EXTC @VJTI'19",
+                            "objectUrn": "urn:li:member:509052777",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5Xh2kB8CechehWqfgnZrFAoAxm6cKj80k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1652218892419?e=1746057600&v=beta&t=fHHEYPZGjcysu2G-jxFQHxmL8OPE6mOdjm0c8qNtadg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652218892419?e=1746057600&v=beta&t=0WqbxaI19UvxJKEiwN8w8Pcbw2qWtTZGXUeCaBV-BA0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQHgdXyOX0LxzQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mihirraj-dixit",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693068208777?e=1746057600&v=beta&t=nHOtUzgCYbuBC6tqEQnsvYiKWkXJRm3FJ0SSeBpUS-I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693068208777?e=1746057600&v=beta&t=9K4Rx9cnxuyC1-yXPJDGae9nIuwUhG7Isk1R4r1j0dM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693068208777?e=1746057600&v=beta&t=4Sq_YI2sGxb7kqJADMWBL9nO_VMueXXe7eAPi57R_Uw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693068208777?e=1746057600&v=beta&t=xzTZy67vBXfab5wN25plMzq60oplwYle7L7X_m8XKWc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE0sHhERoFSpA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "WjfqLFfhSeyjzhdJIUvWnw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5Xh2kB8CechehWqfgnZrFAoAxm6cKj80k"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Rajneesh",
+                            "lastName": "Katkam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAByvRYgBdOGGMXzO4ZKAvOucBYbmmBWqKwE",
+                            "occupation": "Senior Backend Engineer @ CleverTap | IIT Bombay",
+                            "objectUrn": "urn:li:member:481248648",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAByvRYgBdOGGMXzO4ZKAvOucBYbmmBWqKwE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1659832120478?e=1746057600&v=beta&t=TUKnd1_aNmpqyQStZVvsfbqci78TtX3xLSahn5NyCjQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659832120478?e=1746057600&v=beta&t=6Fmpo0oRItA82Wbf770pdV4c2Uhf_JLlG40hVVUSKoU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQEfuBOkeexSPw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajneesh-katkam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1630530652072?e=1746057600&v=beta&t=73qcb3kfFIi03idBaKhP-OrWIy8XSij8Q66uZJNwEW4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1630530652072?e=1746057600&v=beta&t=bv0Xl60thZP_ZnFCYMpnrHGcx5TcC5uwfgtpT0XXGQo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1630530652072?e=1746057600&v=beta&t=LFkD7C4BpHVX90u2C8Okyz81DsCZBBBj-ZrqjI3vITQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1630530652072?e=1746057600&v=beta&t=yNVDLtuGk4-NRwoTQEbrg7PZQIflUxcnbDcHWmM2T0M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGUCu1ETi3e3g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "JdBK/RCPTnO6UoXw3CxUrg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAByvRYgBdOGGMXzO4ZKAvOucBYbmmBWqKwE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Ashish",
+                            "lastName": "Agrawal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABzPNZQBP08MiD6OYzsBvpHhCkYwFhh_i4I",
+                            "occupation": "Building Granite @IBM Research | MS CS(Intelligent Systems) @IIT Bombay'24",
+                            "objectUrn": "urn:li:member:483341716",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABzPNZQBP08MiD6OYzsBvpHhCkYwFhh_i4I",
+                            "publicIdentifier": "ashish-agrawal-784a53115",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1573288417780?e=1746057600&v=beta&t=-ESsHyD2HYRuGSggH1jejTnc8Ux3VS-DEMWq-fz_wzQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1573288417758?e=1746057600&v=beta&t=U-yEm3FT_UPmKJq7XdRV8bX7z40ppiqs6ZGgcHgjays",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1573288417804?e=1746057600&v=beta&t=tHDbK1MxGpSKx1kRRnYeOujV0zXypYStl3wZkd2DwU0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1573288417833?e=1746057600&v=beta&t=cxgLQyuMTJaM7736CnMts49CtCif322om96LsWfOyh8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQEFpV50rAa9Ng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VLzbIUM0SGKbSYcDWsOIKA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABzPNZQBP08MiD6OYzsBvpHhCkYwFhh_i4I"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Student Volunteer",
+                "companyName": "Teach For India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2016
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "Helping underprivileged kids of BMC park site school, Vikhroli in attaining knowledge and created interest among them about education.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:356833",
+                        "entityUrn": "urn:li:fs_miniCompany:356833",
+                        "name": "Teach For India",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630671094456/teach_for_india_logo?e=1748476800&v=beta&t=O_pta-mr5wtFMpW5T1wOggAh1VbYm0i9YGeLvf4ltFU",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630671094457/teach_for_india_logo?e=1748476800&v=beta&t=sP6Fl1tym_VCI1RqetshAe3VCRt9aLyd2Y7Dq4IMy_4",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630671094457/teach_for_india_logo?e=1748476800&v=beta&t=2Ojv9EsTK3rVmiWApeK_QTpmCAb3pnJj4gfYFHiUVl8",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEaDE_wvYMOJA/company-logo_"
+                            }
+                        },
+                        "universalName": "teach-for-india",
+                        "dashCompanyUrn": "urn:li:fsd_company:356833",
+                        "trackingId": "WresphLDQlaXhD8JZ3uTSQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:356833"
+            },
+            {
+                "role": "Student Volunteer",
+                "companyName": "Aseema Charitable Trust",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2017
+                    }
+                },
+                "cause": "CHILDREN",
+                "description": "Organizing various events such learning sessions, clothes donation, advisory sessions to the underprivileged section of the society.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3801842",
+                        "entityUrn": "urn:li:fs_miniCompany:3801842",
+                        "name": "Aseema Charitable Trust",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631375777249?e=1748476800&v=beta&t=5Cj35uk9sL_DIK-EhBgk0CqOdzBCmt-V8b_b_LQvwL8",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631375777249?e=1748476800&v=beta&t=xCdMbBb-L7FDfT34-bwinZJ79niDJGAifyptfobX0ks",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631375777249?e=1748476800&v=beta&t=MUEN_xYw5CF46ZWND-ZJNJNN0MDSbidNhiK9Iwx7b2E",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQFYNBFgD2QP4w/company-logo_"
+                            }
+                        },
+                        "universalName": "aseema-charitable-trust",
+                        "dashCompanyUrn": "urn:li:fsd_company:3801842",
+                        "trackingId": "AGVXEJ+CQTCk4L759qEI9A=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3801842"
+            }
+        ],
+        "honors": [
+            {
+                "description": "Second Runner Up from 1650 teams",
+                "occupation": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1434619191)",
+                "title": "Second RunnerUp in Global Water Hackathon",
+                "issueDate": {
+                    "month": 5,
+                    "year": 2019,
+                    "day": 1
+                }
+            },
+            {
+                "description": "Winner  from 1200 teams",
+                "occupation": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1434619191)",
+                "title": "Winner in WRC International Hackathon",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2019,
+                    "day": 1
+                },
+                "issuer": "Water Research Commission"
+            },
+            {
+                "description": "Second Runner Up from 650 teams",
+                "occupation": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1434619191)",
+                "title": "Second RunnerUp in Siemens MakeIT Real Hackathon",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2018,
+                    "day": 1
+                },
+                "issuer": "Siemens"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1434619191)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SNEHAL",
+                            "lastName": "THAKUR",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "occupation": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI",
+                            "objectUrn": "urn:li:member:585439141",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1673376547514?e=1746057600&v=beta&t=xYvi0eagDFU3nH93ZZk6kFSJ8UxgPA2GmAHfOBlqoYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        },
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673376547514?e=1746057600&v=beta&t=sF64dzS5vJ08CYk3A7SFC0Eqo-SI3Rm-9tKc-tnh_QE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGepMdYWh5fyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "snehal-thakur-97108b144",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1h+AYXyyRXClCx2S1s5MWA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,47062022,227601806)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "description": "Blockchain based wastewater recycle control system was proposed which efficiently manages the wastewater and coordinates it among the industries and the government.\n The data collected from various sources was analysed for extracting features for anomaly detection. Algorithms like autoencoders, DBScan, LSTM were deployed.",
+                "title": "Anomaly Detection and blockchain based Monitoring System for Enforcing Wastewater Reuse",
+                "url": "https://youtu.be/O3gm3H-xF5w"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1434619191)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SNEHAL",
+                            "lastName": "THAKUR",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "occupation": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI",
+                            "objectUrn": "urn:li:member:585439141",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1673376547514?e=1746057600&v=beta&t=xYvi0eagDFU3nH93ZZk6kFSJ8UxgPA2GmAHfOBlqoYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        },
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673376547514?e=1746057600&v=beta&t=sF64dzS5vJ08CYk3A7SFC0Eqo-SI3Rm-9tKc-tnh_QE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGepMdYWh5fyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "snehal-thakur-97108b144",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1h+AYXyyRXClCx2S1s5MWA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,47135063,227603662)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "description": "Securing the Smart Grid Peer to Peer Network by applying Blockchain Technology.\n Developing a consensus protocol for energy efficient systems. ",
+                "title": "Blockchain in Smart Grid Infrastructure"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,1434619191)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SNEHAL",
+                            "lastName": "THAKUR",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "occupation": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI",
+                            "objectUrn": "urn:li:member:585439141",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1673376547514?e=1746057600&v=beta&t=xYvi0eagDFU3nH93ZZk6kFSJ8UxgPA2GmAHfOBlqoYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        },
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673376547514?e=1746057600&v=beta&t=sF64dzS5vJ08CYk3A7SFC0Eqo-SI3Rm-9tKc-tnh_QE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGepMdYWh5fyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "snehal-thakur-97108b144",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1h+AYXyyRXClCx2S1s5MWA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,47198485,227603669)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "Pre-processing techniques such as de-skewing, skeletal morphology,MSER and vertical profiling were used on the target handwritten image to achieve image segmentation followed by text recognition using tesseract – ocr 4.0 and LSTM network. ",
+                "title": "Handwriting Analysis using Machine Learning"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,425280723)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SNEHAL",
+                            "lastName": "THAKUR",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "occupation": "SDE @AWS | SDE2 @Allison Transmission | SDE intern @AWS | MS in CS @UMass Amherst |Schneider Electric| VJTI",
+                            "objectUrn": "urn:li:member:585439141",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1673376547514?e=1746057600&v=beta&t=xYvi0eagDFU3nH93ZZk6kFSJ8UxgPA2GmAHfOBlqoYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        },
+                                        {
+                                            "width": 396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673376547514?e=1746057600&v=beta&t=sF64dzS5vJ08CYk3A7SFC0Eqo-SI3Rm-9tKc-tnh_QE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 99
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGepMdYWh5fyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "snehal-thakur-97108b144",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZU1WK_pHsAg-/0/1740356759890?e=1741230000&v=beta&t=xIVirYDNMD_gBDM8FTvujpmh6mJUT1AW4L0KaZyWSmk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZU1WK_pHsAY-/0/1740356759890?e=1741230000&v=beta&t=YoCNeIoD8LtSt5jipF1l6s5YXV8Ku1PZkoAe59M3r5A",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZU1WK_pHsAk-/0/1740356759890?e=1741230000&v=beta&t=LpDyRLTo6nR1AQ3ia9QGtYJqlmtxdI5TOw_ImR5Pj80",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZU1WK_pHsAc-/0/1740356759861?e=1741230000&v=beta&t=hQFWvOWwYnAwPoQlqZR_VMJiN5n9Um-h2-0AcqhT1Cg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGkVSjRZr35Gw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1h+AYXyyRXClCx2S1s5MWA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U,47288312,227604405)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "description": "1. IOT based traffic and road management system with\tAutomated Parking slot having fire detection.\n2.Development and implementation of Android App for monitoring a waste disposal bin by obtaining sensor readings from cloud storage. User can then navigate to the bin with the app.\n3. E-Toll booth using RFID (passive RFIDs)",
+                "title": "IOT based mini projects"
+            }
+        ],
+        "skills": [
+            {
+                "name": "React.js"
+            },
+            {
+                "name": "Swagger API"
+            },
+            {
+                "name": "Docker Products"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)"
+            }
+        ],
+        "urn_id": "ACoAACLlF6UBPA16RbVojdwDX65Bw6iIDVYZ47U"
+    }
+}

@@ -1,0 +1,1645 @@
+{
+    "urn_id": "ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+    "fetch_timestamp": "2025-02-26T21:50:50.086867",
+    "profile_data": {
+        "summary": "At Ahold Delhaize USA, I leverage advanced analytics to transform large datasets into strategic insights. With a Master's degree in Analytics specializing in Statistical Modeling from Northeastern University, my role encompasses building data analytics solutions to drive business growth, designing KPI-tracking reports and dashboards to measure performance, and performing complex data analysis to enhance customer satisfaction and retention.\n\nI lead a cross-functional team and employ statistical modeling and data analysis tools including SQL, Python, and R, Power BI, Databricks, Alteryx, and Advanced Excel to communicate findings and drive data-informed decisions. I am also a certified Tableau Desktop Specialist. My expertise in data analysis and reporting as well as more than five years of professional experience help to deliver actionable intelligence, ensuring the organization's competitive edge in the dynamic retail landscape.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Tay",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Lee Ping",
+        "entityUrn": "urn:li:fs_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000007"
+        },
+        "geoLocationName": "Greater Boston",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior Data Analyst | Master's in Analytics",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+        "img_534_534": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+        "profile_id": "ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+        "member_urn": "urn:li:member:343116247",
+        "public_id": "lee-ping-tay",
+        "experience": [
+            {
+                "locationName": "Greater Boston",
+                "entityUrn": "urn:li:fs_position:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1651209762)",
+                "geoLocationName": "Greater Boston",
+                "geoUrn": "urn:li:fs_geo:90000007",
+                "companyName": "Ahold Delhaize USA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "description": "•\tDesign and build reports and dashboards that track KPIs and metrics, provide insights and communicate findings to clients\n•\tExtract large data sets from Azure Data Lake and perform data analysis on millions of sales transactions (using SQL, Python, R, Alteryx, Databricks, and Power BI) to identify customer trends, measure sales and campaign performance, customer engagement, and channel engagement to increase customer satisfaction and retention\n•       Collaborate with cross-functional partners to identify business needs, complete data analysis, deliver effective presentations of findings and recommendations to management\n•      Collaborate with predictive analytics team and third-party vendor to develop customer behavioral models that track customer engagement and customer segmentation, guide audience development, support marketing campaign and sales goals\n•\tLead a cross functional group (Data Science, Campaign Management, Finance, and Operations Planning) to provide corporate level metrics reporting for the senior leadership team\n•\tCollaborate with business stakeholders to develop corporate level metrics to evaluate customer engagement, channel engagement, and financial impact\n•\tConduct post-campaign and test/control analysis, measure sales performance and impact (e.g., incremental lift and ROI), provide actionable insights to clients, communicate findings, and make recommendations for audience selections and offer targeting\n•\tManage projects to deliver advanced analytical solutions and apply agile development methodologies\n•\tGuide interns on data analysis and building reports",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Senior Data Analyst, Advanced Analytics",
+                "region": "urn:li:fs_region:(us,7)",
+                "companyUrn": "urn:li:fs_miniCompany:76521590",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGkbpBJI-b3ng/company-logo_"
+            },
+            {
+                "locationName": "Boston, MA",
+                "entityUrn": "urn:li:fs_position:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1397485288)",
+                "geoLocationName": "Boston, MA",
+                "companyName": "Edmit",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "description": "•\tPerform data collection, data mining, data cleaning, and data wrangling.\n•\tConduct data analysis and build models in R and Python for decision making\n•\tDeliver quantitative results and create data visualization to identify trends and insights.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Data Analyst / Consultant",
+                "companyUrn": "urn:li:fs_miniCompany:18275035",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFxhnqKXTXrWA/company-logo_"
+            },
+            {
+                "locationName": "Boston, MA",
+                "entityUrn": "urn:li:fs_position:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1532752222)",
+                "geoLocationName": "Boston, MA",
+                "companyName": "Massachusetts General Hospital",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "- Collaborated with the team to translate data needs through the design of analytic and reporting tools including Excel and Tableau dashboards to improve quality of care and decision-making\n- Supported the physician and technology lead in the acquisition, analysis, and reporting of clinical and administrative data\n- Interpreted and communicated performance data for clinical and executive audiences\n- Generated reports to track clinician documentation and healthcare data\n- Provided data analytical and project management support for the team\n- Assisted with data requests from clinical departments",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Data Analyst Intern",
+                "companyUrn": "urn:li:fs_miniCompany:2896",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGPgoRVXky9Dg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1351427324)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1351645226)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1351708930)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1351736831)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1351837463)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1351974402)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1352042358)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1360185568)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300596145)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300701649)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1352395372)",
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1352616377)",
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1353290155)",
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1353488838)",
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1354716466)",
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1450856562)",
+                    "urn:li:fs_project:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1194058551)"
+                ],
+                "description": "Completed Coursework: Data Warehousing & SQL, Data Management and Big Data, Predictive Analytics, Enterprise Analytics, Data Mining, Communication and Visualization for Data Analytics, Applications in Artificial Intelligence (AI), Probability and Statistics, Geographical Information System (GIS)",
+                "degreeName": "Master's degree",
+                "schoolUrn": "urn:li:fs_miniSchool:18506",
+                "entityUrn": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "school": {
+                    "objectUrn": "urn:li:school:18506",
+                    "entityUrn": "urn:li:fs_miniSchool:18506",
+                    "active": true,
+                    "schoolName": "Northeastern University",
+                    "trackingId": "b+IDIQ1cR7ah/LOyvdB8IA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGwTPCvlTQlvw/company-logo_"
+                },
+                "activities": "Data Club",
+                "grade": "GPA: 3.94",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "schoolName": "Northeastern University",
+                "fieldOfStudy": "Analytics - Concentration in Statistical Modeling",
+                "degreeUrn": "urn:li:fs_degree:500"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299564203)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299581942)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299603016)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299634616)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299652731)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299678436)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299691317)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299807823)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299846934)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,542820092)",
+                "school": {
+                    "objectUrn": "urn:li:school:10234",
+                    "entityUrn": "urn:li:fs_miniSchool:10234",
+                    "active": true,
+                    "schoolName": "RMIT University",
+                    "trackingId": "Me2XjpCYR7igNrhvihVSVA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEGU1obJOmROQ/company-logo_"
+                },
+                "grade": "Passed with Distinction",
+                "description": "Completed Coursework: Business Statistics, Financial Market, International Monetary Economics, International Trade, Investment, Macroeconomics, Prices and Market, Price Theory, Quantitative Analysis, Risk Management",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "RMIT University",
+                "fieldOfStudy": "Economics and Finance",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:10234"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,299901505)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300050700)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300087242)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300146150)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300488271)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300526768)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,300635173)",
+                    "urn:li:fs_course:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,949359308)"
+                ],
+                "description": "Completed Coursework: Calculus and Analytic Geometry, Differential Equations, Cellular and Molecular Biology, Engineering Physics (Mechanics & Wave Motion), Introduction to Astronomy, Geology, and Meteorology, General Psychology, Social Science.",
+                "degreeName": "Associate's degree",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1871732795)",
+                    "urn:li:fs_honor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1872286482)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:32060",
+                "entityUrn": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,586128282)",
+                "school": {
+                    "objectUrn": "urn:li:school:32060",
+                    "entityUrn": "urn:li:fs_miniSchool:32060",
+                    "active": true,
+                    "schoolName": "City Colleges of Chicago-Harold Washington College",
+                    "trackingId": "2TIBc+rFRU6gxrQ3syWwSQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGctgApnPhMhQ/company-logo_"
+                },
+                "activities": "Phi Theta Kappa Honors Society",
+                "grade": "GPA: 3.88",
+                "schoolName": "City Colleges of Chicago-Harold Washington College",
+                "fieldOfStudy": "Science",
+                "degreeUrn": "urn:li:fs_degree:100"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "DataCamp",
+                "name": "Intermediate Python for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "7919102",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "/jK6pkJPSZGFs/EIH7XPFw=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/5383632651a4a4090d75871b6fee598adbe81db6"
+            },
+            {
+                "authority": "Level Education from Northeastern University",
+                "name": "Data Analytics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10195111",
+                    "entityUrn": "urn:li:fs_miniCompany:10195111",
+                    "name": "Level at Northeastern University",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630567078348/level_at_northeastern_logo?e=1748476800&v=beta&t=9fy7_JOq5pzKFUEXP2_ZIDqYwjXOydBvQYSfdUlT9VY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630567078348/level_at_northeastern_logo?e=1748476800&v=beta&t=n6icysZ5IyfRLYOLyMHsqxxMpiRy7NuMiUhB1AlNnpU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630567078348/level_at_northeastern_logo?e=1748476800&v=beta&t=btcRTHSkDgm91f1VmMYRuj7Jmo1FSUqwxfq7O3uDCwM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGrOMn3_8E02A/company-logo_"
+                        }
+                    },
+                    "universalName": "level-at-northeastern",
+                    "dashCompanyUrn": "urn:li:fsd_company:10195111",
+                    "trackingId": "soU8UvV+SbO410rbpiHt9g=="
+                },
+                "displaySource": "parchment.com",
+                "companyUrn": "urn:li:fs_miniCompany:10195111",
+                "url": "https://www.parchment.com/u/award/15ad3b4d90c28b2a99fbefd55e5cebad"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Natural Language Processing Fundamentals in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "9430546",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "7d/WXqoOSUiHDAzG2tueLw=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/3fe1fa4230a88a00a00e2ec29387d465d048860f?share=true"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Deep Learning with Keras in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "10262651",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "dn5vcInASU+wpXcA42QKwg=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/7f17dda15f02a4b499625849885b09d3375b3cfa?share=true"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Web Scraping in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "10531001",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "D3C6t6VgTiWpUfICmA8Ekg=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/1e95046bb0b88aa6d97055bec97a8611db72adb8?share=true"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Introduction to TensorFlow in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "10262660",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "c39wWCWYQPmgK3pkjyBlxg=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/0a560579aff7e37a61ff264d7abba460f0cb266e"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "SQL for Exploratory Data Analysis",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": " 11037464",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "XxaZNZ3gQsax+CzTM/G/Ag=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/3e374ebeb7b75c532bd679425b13ba93de5327e4"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Introduction to Scala",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "11899609",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "tY3Z6CixQYGaN0IqY99fyA=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/dee2df9648cc372ee63c774ff27a81bc15b567ea"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Predicting Customer Churn in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "12266543",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "cK7xpKFBR2mKBMKtM6HpNA=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/f033ad6fa40de02fb55593f0b74f956ad58200d9"
+            },
+            {
+                "authority": "Coursera Course Certificates",
+                "name": "Customer Analytics - The Wharton School of the University of Pennsylvania",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "SR6ACLR4W83Z",
+                "company": {
+                    "objectUrn": "urn:li:company:3526187",
+                    "entityUrn": "urn:li:fs_miniCompany:3526187",
+                    "name": "Coursera Course Certificates",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631343250640?e=1748476800&v=beta&t=EmWua1pq5tfKQwpuyZuFd9VaKVMDhELt1mY6Y4Qmfz8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631343250640?e=1748476800&v=beta&t=0-IxoDxiizWyDntpmWsMeSDYJvQvLoielx-S3Fp9rqI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631343250640?e=1748476800&v=beta&t=GNQ3e7VqQOh81O8kSUohx6EgdTMzVIv8V0QRjuUWgkQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera-verified",
+                    "dashCompanyUrn": "urn:li:fsd_company:3526187",
+                    "trackingId": "3LEY/UefTJqiRU/hcHbrhg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3526187",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/SR6ACLR4W83Z"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "DataKind + Microsoft Virtual DataDive Volunteer",
+                "companyName": "DataKind",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Applying AI to Societal Challenges in US Cities. To integrate machine learning and predictive modeling into regional sustainability and net-zero planning for more accurate forecasts and better decision-making about how to eliminate carbon dioxide and greenhouse gas emissions from the regional economy.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2543012",
+                        "entityUrn": "urn:li:fs_miniCompany:2543012",
+                        "name": "DataKind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/B4EZUaNa_bG0AM-/0/1739901481355/datakind_logo?e=1748476800&v=beta&t=OruxCBtYAya4NgPJVucG_YfpM5RupaunR_fvdSKp3VM",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/B4EZUaNa_bG0Ac-/0/1739901481355/datakind_logo?e=1748476800&v=beta&t=G4I0c0niHy68hSH33oOdR8DYjyCmhbT5twr-qFIVSd0",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/B4EZUaNa_bG0AU-/0/1739901481355/datakind_logo?e=1748476800&v=beta&t=Nz1lsU3OdnZQc73MUPce168ZwWfIyRVzNFaIlq1BYpQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFPKY-f4ehfag/company-logo_"
+                            }
+                        },
+                        "universalName": "datakind",
+                        "dashCompanyUrn": "urn:li:fsd_company:2543012",
+                        "trackingId": "s7bBD0GUT4avz4U0ZBJBow=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2543012"
+            },
+            {
+                "role": "ODSC Virtual Conference Volunteer",
+                "companyName": "Open Data Science Conference (ODSC)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Conducted Open Data Science Conference (ODSC) Virtual Conference webinar sessions. Collaborated with speakers and maintained communication with attendees.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:9358547",
+                        "entityUrn": "urn:li:fs_miniCompany:9358547",
+                        "name": "Open Data Science Conference (ODSC)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630652503652/open_data_science_logo?e=1748476800&v=beta&t=cTVRmgJ45B0OZrdqK37sNgIx97CT8MaBnVFJYILqjPI",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630652503652/open_data_science_logo?e=1748476800&v=beta&t=TT9TJmcfMct76FOyVthJurpDZvGeOAb8R7DjUyfj70A",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630652503652/open_data_science_logo?e=1748476800&v=beta&t=Qa12H2tQZLQeLykhnXjwzchKwZ4_0iU-VVs-jWWZkpI",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF9xxYuQyx3Yw/company-logo_"
+                            }
+                        },
+                        "universalName": "open-data-science",
+                        "dashCompanyUrn": "urn:li:fsd_company:9358547",
+                        "trackingId": "2B3HJ66aToyfot6oxW9rwQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:9358547"
+            },
+            {
+                "role": "Project Applications Reviewer for Inclusive Growth & Recovery Challenge",
+                "companyName": "DataKind",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "cause": "ECONOMIC_EMPOWERMENT",
+                "description": "Assessed and evaluated project applications to find exceptional ideas from around the world that will apply data science and AI to encourage inclusive growth and economic recovery.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2543012",
+                        "entityUrn": "urn:li:fs_miniCompany:2543012",
+                        "name": "DataKind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/B4EZUaNa_bG0AM-/0/1739901481355/datakind_logo?e=1748476800&v=beta&t=OruxCBtYAya4NgPJVucG_YfpM5RupaunR_fvdSKp3VM",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/B4EZUaNa_bG0Ac-/0/1739901481355/datakind_logo?e=1748476800&v=beta&t=G4I0c0niHy68hSH33oOdR8DYjyCmhbT5twr-qFIVSd0",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/B4EZUaNa_bG0AU-/0/1739901481355/datakind_logo?e=1748476800&v=beta&t=Nz1lsU3OdnZQc73MUPce168ZwWfIyRVzNFaIlq1BYpQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFPKY-f4ehfag/company-logo_"
+                            }
+                        },
+                        "universalName": "datakind",
+                        "dashCompanyUrn": "urn:li:fsd_company:2543012",
+                        "trackingId": "aC7aSdZHQsaqUDsMXioRkg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2543012"
+            }
+        ],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,586128282)",
+                "title": "Phi Beta Kappa"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,586128282)",
+                "title": "Presidential Scholar"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1353290155,257599092)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Identified e-commerce customer spending behaviors, customer segments, and built dashboards using R and Tableau. ",
+                "title": "Clustering and Classification for E-commerce Customer Segmentation using R and Tableau",
+                "url": "https://public.tableau.com/profile/leeping.tay#!/vizhome/EcommerceDashboard_15617846479760/E-commerceDB"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1353488838,257597969)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Identified users’ behaviors based on user activity data and created dashboards using R Shiny and Tableau",
+                "title": "Created dashboards using R Shiny and Tableau – Scratch User Activity Data",
+                "url": "https://leepingtay.shinyapps.io/RshinyProj/"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1352616377,257597878)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Built features, created and trained eight classification models to predict the customer churn using Python.",
+                "title": "Customer Churn Prediction in Python",
+                "url": "https://github.com/leepingtay/Predict_Customer_Churn"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,725472399,259437064)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Created a deep learning text classification model to identified digits from handwritten images using Keras in Python.",
+                "title": "Deep Learning Neural Network - Digits Recognition using Keras in Python",
+                "url": "https://github.com/leepingtay/deep_learning_digits_recognition_keras"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1354716466,257599240)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Built a predictive model to detect threats and predict high risk employees from employees' computer activities in General Electric.",
+                "title": "Detected Threats and Predicted High Risk Employees in General Electric Using Python"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1450856562,257606135)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Developed a SQL Database to store labor market data provided by Burning Glass Technologies. Performed query and built Tableau dashboard to analyze the data.",
+                "title": "Developed a SQL Database for Labor Market Analysis"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1352395372,257595994)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Predicted heart disease patients by created 58 features, built and trained seven classification models (Decision Tree, Gradient Boosting, K-Nearest neighbors, Logistic Regression, Naive Bayes, Random Forest, Stochastic Gradient Descent), and presented outcomes.",
+                "title": "Heart Disease Prediction using Python",
+                "url": "https://github.com/leepingtay/predictive_analytics_heart_disease"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1354343051,257599206)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Conducted exploratory data analysis and performed linear regression and residuals analysis on college tuition fees and admission rate in R.",
+                "title": "Linear Regression on College Admission in R.",
+                "url": "https://github.com/leepingtay/linear_regression_college_admission"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,574709816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1194058551,262485675)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Built a Natural Language Processing (NLP) deep learning text classification model to classify whether a SMS text message is spam, using Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) in Keras and Python.",
+                "title": "NLP Deep Learning LSTM Recurrent Neural Network - SMS Spam Detection using Keras in Python"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Lee Ping",
+                            "lastName": "Tay",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "occupation": "Senior Data Analyst | Master's in Analytics",
+                            "objectUrn": "urn:li:member:343116247",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1650662772659?e=1746057600&v=beta&t=KFGT5SEfLhpelJFxPiyIAmoUDjeJVZ3j-LsdXCFHItk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        },
+                                        {
+                                            "width": 760,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650662772659?e=1746057600&v=beta&t=z4EAOP9zYvRTqEN8V1E_3cfsXZdt5ZWefW4AHhcMJeI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 190
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFw7NPI6QRzEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "lee-ping-tay",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1588104769715?e=1746057600&v=beta&t=Ifuxj5xI-PX_dFDe7ifbvjYKouhbAfWvpvm29xgeYtE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1588104769691?e=1746057600&v=beta&t=z1LrJswSr5XQs4V5T93Fp0DhWfVmLiEvnoqX0Uxrf7U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1588104769744?e=1746057600&v=beta&t=TqlLxmDQguctZiWsVh_lcQ89VRgr386K3nLV572pDzw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 534,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1588104769773?e=1746057600&v=beta&t=vKiS07xhdEW19x3EyjuVojELV82lknLvozJYPFGAuFY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 534
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGwisuFzTaeBQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DTO4w3iBS/OKdMygtXi9ww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg,1353585232,257598497)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+                    }
+                ],
+                "description": "Extracted information on most active Nasdaq stocks from Nasdaq news website.",
+                "title": "Web Scraping Nasdaq News using Python – extracted information from Nasdaq’s website ",
+                "url": "https://github.com/leepingtay/web_scraping_Nasdaq_News_Python"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Team Leadership"
+            },
+            {
+                "name": "Problem Solving"
+            },
+            {
+                "name": "Critical Thinking"
+            },
+            {
+                "name": "Key Performance Indicators"
+            }
+        ],
+        "urn_id": "ACoAABRzidcBRapaxW_FiHy5YVTzVAzv7299ZVg"
+    }
+}

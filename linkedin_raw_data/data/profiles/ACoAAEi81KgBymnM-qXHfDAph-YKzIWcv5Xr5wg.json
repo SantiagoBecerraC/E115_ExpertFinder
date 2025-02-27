@@ -1,0 +1,580 @@
+{
+    "urn_id": "ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+    "fetch_timestamp": "2025-02-26T21:35:26.783274",
+    "profile_data": {
+        "summary": "Data Scientist | AI Engineer | Generative AI & LLM Expert | Cloud AI & Business Growth Strategist\n\n My Journey into AI & Data Science\n\nFrom the very beginning, I have been passionate about using data to solve real-world problems and drive business growth. With a strong foundation in Machine Learning (ML), Generative AI (GenAI), and NLP, I have transformed large-scale datasets into actionable insights, automation solutions, and AI-driven products.\n\nMy journey started in Data Science and quickly expanded into AI Engineering, LLM development, and MLOps, allowing me to build and deploy intelligent AI systems that optimize business processes and improve efficiency. Over the past 4+ years, I have worked on predictive analytics, AI-powered automation, and cloud AI deployment across industries like Healthcare, Finance, and Product Analytics.\n\nWhat excites me the most is the power of AI-driven business transformation. I have built LLMs, AI chatbots, predictive ML models, and automated decision-making frameworks that deliver tangible impact for companies—boosting efficiency, reducing costs, and scaling AI adoption at an enterprise level.",
+        "industryName": "Hospital & Health Care",
+        "lastName": "MEDA",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 7,
+            "day": 15
+        },
+        "industryUrn": "urn:li:fs_industry:14",
+        "firstName": "ANIL",
+        "entityUrn": "urn:li:fs_profile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104455108"
+        },
+        "geoLocationName": "Naperville, Illinois",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist at Cigna Healthcare | AI Engineer | Specializing in Data Analysis, Generative AI, Machine Learning, and Data Visualization| RAG| Proficient in Python, SQL, GCP & AWS, and PowerBI, Tableau",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQESMTat9uDTFw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1716407767941?e=1746057600&v=beta&t=4mJt6lZsaDWDKqLV7h2Xzcb2czrWc7aLhs9pgGaqIcc",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1716407767941?e=1746057600&v=beta&t=_NUup7ka3Mj2Sh3gHI9Uhwtw2-jCBp4CNTlzlMMPFpg",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1716407767941?e=1746057600&v=beta&t=U4VmUBdKIYM2HQF5ALyiR1liJ5-d-Mjp6NNMPDXBbEo",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1716407767941?e=1746057600&v=beta&t=U79mUZg5Pl5qlGrlvp4L0AlBX2uIrKqTERhAHFwioBk",
+        "profile_id": "ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+        "member_urn": "urn:li:member:1220334760",
+        "public_id": "anil-meda-18m",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,2375248394)",
+                "companyName": "Cigna Healthcare",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": " Developed and deployed Predictive ML Models (Linear Regression, Random Forest, Decision Trees, XGBoost, SVM, Neural Networks and Large Language Models (LLM)), enhancing product yield forecasting and manufacturing process efficiency by 30%.\n• Built a custom Named Entity Recognition (NER) classification model using TensorFlow for medical-grade health data, increasing accuracy from 89% to 95%, supporting critical healthcare data applications.\n• Integrated Retrieval – Augmented Generation (RAG) techniques using tools such as Haystack and LangChian to improve the precision and recall of text -based data extraction.\n• Designed and automated ETL pipelines in Dataiku for seamless data migration from Snowflake to Google Cloud Platform (GCP), implementing data validation checks, leading to 45% reduction in data processing time.\n• Deployed machine learning models and data workflows on GCP services (BigQuery, Dataflow) to enable real-time data analysis and scalable storage solutions, ensuring efficient handling of streaming data from wearable and IoT devices.\n• Created 15 Power BI dashboards for real-time tracking of manufacturing performance and developed a PowerApps application to improve communication of key performance indicators (KPIs) with internal stakeholders.\n• Utilized SQL with over 70 CTE queries in Genesys, optimizing analytical reporting and retrieval efficiency by 20%\n• Automated data wrangling, data modeling, feature selection, and model performance reports in Dataiku.\n• Worked closely with the Data Science team at Feinstein Institutes for Medical Research, contributing to a $3 million grant\nproject focused on high-volume, medical-grade data processing for real-time clinical monitoring.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:2490",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEKR4WGDEMNsw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,2363828674)",
+                "companyName": "Discover Financial Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "description": "• Built ensemble machine learning models including (Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost, and GBM) using scikit-learn for churn prediction, reducing false positives & negatives by 27%.\n• Enhanced loan default prediction accuracy by optimizing Random Forest model, improving F1 score from 0.71 to 0.84 through targeted feature engineering and hyperparameter tuning.\n• Implemented XGBoost model using R programming with over 500 features for fraud detection, employing regularization and cross-validation to facilitate model selection.\n• Designed a SARIMA time series forecasting model in Python (pmdarima), achieving 83% MAPE in anomaly detection and impact analysis, and deployed on AWS SageMaker.\n• Automated monthly financial reporting processes using Python, SQL, and Tableau and standardized metrics & KPIs across departments, resulting in a ~72-hour monthly reduction in manual workload.\n• Implemented ETL pipelines for real-time data streaming of customer engagement data to AWS Kinesis Data Firehose and AWS S3 buckets and utilized AWS Glue and Athena for data transformation and extraction.\n• Built Python-based topic and sentiment analysis using NLTK library and Hugging Face's pre-trained BERT model (Large Language Model), providing dashboards for complex customer interaction data analysis.\n• Led data mining from AWS Redshift and Snowflake data lake using SQL and Python for data modeling and ad-hoc analysis driving insights for strategic decision-making.\n• Conducted data cleaning, preprocessing (one-hot encoding & target encoding), and Exploratory Data Analysis on ~20 million customer records using NumPy, Pandas, SciPy, Matplotlib & R Shiny for actionable insights.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:3762",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEsP5_Oy6THpA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,2363829539)",
+                "companyName": "HCLTech",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "description": "• Developed a collaborative filtering recommendation system for an e-commerce platform, resulting in an 11% increase in conversion rates through rigorous statistical analysis (hypothesis testing) and A/B testing.\n• Collaborated with cross-functional teams to integrate Python, R, and SQL in traditional statistical modeling (ANOVA) for product feature analysis, enhancing user engagement and conversion rates on the website.\n• Led Bayesian A/B tests (hypothesis testing) for website design & recommendation algorithms, leading to a 9% improvement in click-through rates.\n• Executed ad-hoc data analysis & processing with Python, and Spark & utilized SQL queries for GCP BigQuery to extract sales trends & insights.\n• Defined success metrics for product analytics, conducted power analyses &provided actionable recommendations.\n• Applied Random Forest in Marketing Mix Modeling to analyze marketing expenditure, optimizing budget allocation for increased ROI.\n• Designed and published interactive data visualizations, dashboards & reports in Tableau, providing stakeholders with real-time sales and product insights for a retail client.\n• Produced predictive analytics reports using Python and Tableau, visualizing prediction outcomes and key performance indicators to inform strategic business decisions.",
+                "title": "Data Scientist"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,119840221)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120026116)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120063293)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120101592)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120136511)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120171917)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120212769)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120367786)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120415936)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120558585)",
+                    "urn:li:fs_course:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,120634550)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,936028468)",
+                "school": {
+                    "objectUrn": "urn:li:school:18274",
+                    "entityUrn": "urn:li:fs_miniSchool:18274",
+                    "active": true,
+                    "schoolName": "Lewis University",
+                    "trackingId": "uNuBqdGqQvOy0ndxh4CLZQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGNH7pbZEdYmA/company-logo_"
+                },
+                "grade": "3.28/4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Lewis University",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:18274"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,936029362)",
+                "school": {
+                    "objectUrn": "urn:li:school:4129005",
+                    "entityUrn": "urn:li:fs_miniSchool:4129005",
+                    "active": true,
+                    "schoolName": "CMR College of Engineering & Technology",
+                    "trackingId": "T+yN+fjwTFmidl5c6jd9uQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEEf96n13OC1A/company-logo_"
+                },
+                "grade": "7.7/10.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "CMR College of Engineering & Technology",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:4129005"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Codebasics",
+                "name": "Excel: Mother of Business Intelligence",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "CB-51-167703",
+                "company": {
+                    "objectUrn": "urn:li:company:30247123",
+                    "entityUrn": "urn:li:fs_miniCompany:30247123",
+                    "name": "Codebasics",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1699071252850/codebasics_logo?e=1748476800&v=beta&t=w8qUzCJs7DSlrjefqo_m9Rr0dvLEsqriJisrRz6q0qY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1699071252850/codebasics_logo?e=1748476800&v=beta&t=c7kXghvAbkN0dWFApXIxhA59ZbK2MEx1LgXjVK3khTY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1699071252850/codebasics_logo?e=1748476800&v=beta&t=Qokc1cafMGPcP3eQfOfihfoagxMI4SvByWmXki1jHIk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEfirRPUlUbjg/company-logo_"
+                        }
+                    },
+                    "universalName": "codebasics",
+                    "dashCompanyUrn": "urn:li:fsd_company:30247123",
+                    "trackingId": "w2gR75uxRo+7AhNjqTJcGg=="
+                },
+                "displaySource": "codebasics.io",
+                "companyUrn": "urn:li:fs_miniCompany:30247123",
+                "url": "https://codebasics.io/certificate/CB-51-167703"
+            },
+            {
+                "authority": "Codebasics",
+                "name": "Get Job Ready: Power BI Data Analytics for All Levels 2.0",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "CB-49-167703",
+                "company": {
+                    "objectUrn": "urn:li:company:30247123",
+                    "entityUrn": "urn:li:fs_miniCompany:30247123",
+                    "name": "Codebasics",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1699071252850/codebasics_logo?e=1748476800&v=beta&t=w8qUzCJs7DSlrjefqo_m9Rr0dvLEsqriJisrRz6q0qY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1699071252850/codebasics_logo?e=1748476800&v=beta&t=c7kXghvAbkN0dWFApXIxhA59ZbK2MEx1LgXjVK3khTY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1699071252850/codebasics_logo?e=1748476800&v=beta&t=Qokc1cafMGPcP3eQfOfihfoagxMI4SvByWmXki1jHIk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEfirRPUlUbjg/company-logo_"
+                        }
+                    },
+                    "universalName": "codebasics",
+                    "dashCompanyUrn": "urn:li:fsd_company:30247123",
+                    "trackingId": "qM8JekDISQGanGwl+plDXA=="
+                },
+                "displaySource": "codebasics.io",
+                "companyUrn": "urn:li:fs_miniCompany:30247123",
+                "url": "https://codebasics.io/certificate/CB-49-167703"
+            },
+            {
+                "authority": "Microsoft",
+                "name": "Microsoft Certified: Power BI Data Analyst Associate",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "4F4D0CCC0EA50128",
+                "company": {
+                    "objectUrn": "urn:li:company:1035",
+                    "entityUrn": "urn:li:fs_miniCompany:1035",
+                    "name": "Microsoft",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=cXVZCE8mOgVaEaaKyfowShM37-NEhqJEOr76Lys85q8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=3X-8oGwA0eTRLVUD7NwBSX-Ifcw0dUO0toOun1UxQS0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+                        }
+                    },
+                    "universalName": "microsoft",
+                    "dashCompanyUrn": "urn:li:fsd_company:1035",
+                    "trackingId": "D5JwlwbtQVuI2Fl9Ors3Zg=="
+                },
+                "displaySource": "microsoft.com",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "url": "https://learn.microsoft.com/api/credentials/share/en-us/ANILMEDA-0341/4F4D0CCC0EA50128?sharingId"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "ANIL",
+                            "lastName": "MEDA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+                            "occupation": "Data Scientist at Cigna Healthcare | AI Engineer | Specializing in Data Analysis, Generative AI, Machine Learning, and Data Visualization| RAG| Proficient in Python, SQL, GCP & AWS, and PowerBI, Tableau",
+                            "objectUrn": "urn:li:member:1220334760",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1716473080264?e=1746057600&v=beta&t=ogS3K5cxSVsGXc94YLCx2-C8RqXrAsdmyVis-GVO40U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716473080264?e=1746057600&v=beta&t=8FHUulTuWNlhKQRNbCczcjH7JH2AbyivkHmKXaMIpew",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFhmiotsX8Ezw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "anil-meda-18m",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716407767941?e=1746057600&v=beta&t=4mJt6lZsaDWDKqLV7h2Xzcb2czrWc7aLhs9pgGaqIcc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716407767941?e=1746057600&v=beta&t=_NUup7ka3Mj2Sh3gHI9Uhwtw2-jCBp4CNTlzlMMPFpg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716407767941?e=1746057600&v=beta&t=U4VmUBdKIYM2HQF5ALyiR1liJ5-d-Mjp6NNMPDXBbEo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716407767941?e=1746057600&v=beta&t=U79mUZg5Pl5qlGrlvp4L0AlBX2uIrKqTERhAHFwioBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQESMTat9uDTFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0uDA3WoYTWSo4HCfEEMDOQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,123619832,410814753)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2022
+                    }
+                },
+                "description": "•Designed and developed a visually engaging personal portfolio website, achieving a 30% increase in user engagement compared to previous versions.\n•Implemented responsive design principles, culminating in enhancement in mobile accessibility and a reduction in bounce rates on mobile devices.\n•Enhanced user interaction by incorporating active elements, leading to increase in average session duration and rise in click-through rates.\n•Showcased 15 projects, enhancing retention and increasing contact form submissions by 35%.\n•Leveraged HTML, CSS, and JavaScript for a 30% faster website load time, ensuring seamless browsing.\n•Employed SEO optimization techniques, resulting in increase in organic traffic and improvement in search engine rankings.",
+                "title": "Personal Portfolio"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "ANIL",
+                            "lastName": "MEDA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+                            "occupation": "Data Scientist at Cigna Healthcare | AI Engineer | Specializing in Data Analysis, Generative AI, Machine Learning, and Data Visualization| RAG| Proficient in Python, SQL, GCP & AWS, and PowerBI, Tableau",
+                            "objectUrn": "urn:li:member:1220334760",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1716473080264?e=1746057600&v=beta&t=ogS3K5cxSVsGXc94YLCx2-C8RqXrAsdmyVis-GVO40U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716473080264?e=1746057600&v=beta&t=8FHUulTuWNlhKQRNbCczcjH7JH2AbyivkHmKXaMIpew",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFhmiotsX8Ezw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "anil-meda-18m",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716407767941?e=1746057600&v=beta&t=4mJt6lZsaDWDKqLV7h2Xzcb2czrWc7aLhs9pgGaqIcc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716407767941?e=1746057600&v=beta&t=_NUup7ka3Mj2Sh3gHI9Uhwtw2-jCBp4CNTlzlMMPFpg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716407767941?e=1746057600&v=beta&t=U4VmUBdKIYM2HQF5ALyiR1liJ5-d-Mjp6NNMPDXBbEo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716407767941?e=1746057600&v=beta&t=U79mUZg5Pl5qlGrlvp4L0AlBX2uIrKqTERhAHFwioBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQESMTat9uDTFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0uDA3WoYTWSo4HCfEEMDOQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,123024472,410815352)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "description": "•Leverage Python's Pandas library to wrangle and clean the weather data, achieving a data integrity improvement of at least 20% in preparation for analysis.\n•Apply advanced statistical techniques to identify correlations and trends, resulting in a 30% increase in the accuracy of weather trend predictions.\n•Operate Tableau's interactive features to create dynamic visualizations, leading to improvement in data exploration capabilities, enabling deeper insights.\n•Employ Excel for initial data assessment, achieving a reduction in data preparation time, allowing for more efficient trend analysis.\n•Instrument machine learning models to forecast weather trends, resulting in increase in prediction accuracy compared to traditional statistical methods.\n•Incorporate GIS tools to spatially visualize weather data, providing a 20% enhancement in understanding the geographic distribution of trends and anomalies.",
+                "title": "Explore Weather Trends"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "ANIL",
+                            "lastName": "MEDA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+                            "occupation": "Data Scientist at Cigna Healthcare | AI Engineer | Specializing in Data Analysis, Generative AI, Machine Learning, and Data Visualization| RAG| Proficient in Python, SQL, GCP & AWS, and PowerBI, Tableau",
+                            "objectUrn": "urn:li:member:1220334760",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1716473080264?e=1746057600&v=beta&t=ogS3K5cxSVsGXc94YLCx2-C8RqXrAsdmyVis-GVO40U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716473080264?e=1746057600&v=beta&t=8FHUulTuWNlhKQRNbCczcjH7JH2AbyivkHmKXaMIpew",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFhmiotsX8Ezw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "anil-meda-18m",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716407767941?e=1746057600&v=beta&t=4mJt6lZsaDWDKqLV7h2Xzcb2czrWc7aLhs9pgGaqIcc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716407767941?e=1746057600&v=beta&t=_NUup7ka3Mj2Sh3gHI9Uhwtw2-jCBp4CNTlzlMMPFpg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716407767941?e=1746057600&v=beta&t=U4VmUBdKIYM2HQF5ALyiR1liJ5-d-Mjp6NNMPDXBbEo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716407767941?e=1746057600&v=beta&t=U79mUZg5Pl5qlGrlvp4L0AlBX2uIrKqTERhAHFwioBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQESMTat9uDTFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0uDA3WoYTWSo4HCfEEMDOQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg,581394097,417203176)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg"
+                    }
+                ],
+                "description": "•Led the implementation of advanced analytics techniques for banking data, elevating data-driven decision-making by a remarkable 25%.Utilizing Visio for detailed process mapping and visualization.\n•Operated Python and relevant libraries to conduct thorough data exploration, feature engineering, and deploy predictive modelling.\n•Directed an in-depth exploratory Data Analysis, revealing intricate patterns, trends, and correlations within the banking dataset.\n•Completed and applied machine learning models to predict customer behaviour, achieving an outstanding accuracy rate of 85%.\n•Crafted compelling visualizations and reports, enhancing Stakeholder Communication and decision-making processes with clear and employed Visio to create high-quality diagrams and flowcharts for presenting complex data more effectively.",
+                "title": "Banking Analytics"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Retrieval-Augmented Generation (RAG)"
+            },
+            {
+                "name": "PySpark"
+            },
+            {
+                "name": "Tesseract"
+            },
+            {
+                "name": "Vertex AI"
+            }
+        ],
+        "urn_id": "ACoAAEi81KgBymnM-qXHfDAph-YKzIWcv5Xr5wg"
+    }
+}

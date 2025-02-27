@@ -1,0 +1,2608 @@
+{
+    "urn_id": "ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+    "fetch_timestamp": "2025-02-26T21:38:16.132820",
+    "profile_data": {
+        "summary": "As a Computer Science and Mathematics student at the University of Toronto, I’ve had the opportunity to dive deep into the world of software development while also embracing challenges that push my boundaries. Being awarded the Lester B. Pearson Scholarship was a significant milestone for me—recognizing my efforts among the top 37 international students globally was both humbling and motivating. My academic journey has been enriched by real-world experiences where I’ve focused on delivering scalable software solutions that genuinely make a difference.\n\nDuring my time at Dayforce as a Software Developer Intern, I discovered how impactful small changes can be. By reducing API response times by 35%, I not only enhanced system performance but also improved user experience significantly. Collaborating with cross-functional teams taught me the importance of communication in tech—it's not just about writing code; it’s about creating connections that lead to innovative solutions.\n\nAt TD Bank, I had the chance to work on both backend and frontend projects. One highlight was optimizing our database infrastructure using Docker containerization for PostgreSQL on RHEL8. This effort led to a 25% decrease in deployment issues—an achievement that reinforced my belief in continuous improvement through technology. Additionally, designing reusable React components cut our development time by 20%, showcasing how efficiency can drive productivity.\n\nBeyond academics and internships, I’ve enjoyed being part of the University of Toronto Formula Racing team as a Recruit for Firmware and Driverless systems. This experience allowed me to apply my technical skills in an exciting environment while learning about teamwork under pressure—an exhilarating blend of engineering and collaboration.\n\nI’m always eager to connect with fellow tech enthusiasts or anyone interested in discussing innovative software solutions or collaborative projects! Feel free to reach out via email if you’d like to chat about tech trends or potential opportunities.\n\nSkills: C#, Kafka, Docker, PostgreSQL, React, TypeScript, SCSS",
+        "industryName": "Computer Software",
+        "lastName": "Malik",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 11,
+            "day": 13
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Haris",
+        "entityUrn": "urn:li:fs_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101876708"
+        },
+        "geoLocationName": "Palo Alto, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+        "profile_id": "ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+        "member_urn": "urn:li:member:873416662",
+        "public_id": "haris-malik-",
+        "experience": [
+            {
+                "locationName": "Palo Alto, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,2568440450)",
+                "geoLocationName": "Palo Alto, California, United States",
+                "geoUrn": "urn:li:fs_geo:101876708",
+                "companyName": "K-Scale Labs",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Robotics Resident ",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:101107935",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHXi0Tmr5BEvQ/company-logo_"
+            },
+            {
+                "locationName": "Toronto, Ontario, Canada",
+                "entityUrn": "urn:li:fs_position:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,2435989082)",
+                "geoLocationName": "Toronto, Ontario, Canada",
+                "geoUrn": "urn:li:fs_geo:100025096",
+                "companyName": "Dayforce",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "- Achieved a 35% reduction in API response times by developing and optimizing core APIs and frameworks using\nC# and Kafka, demonstrating strong performance engineering skills\n- Ensured zero downtime during high traffic scenarios by conducting comprehensive performance testing and optimiz-\ning resource management, resulting in a 20% improvement in system reliability\n- Decreased database load and processing times by 30% through the implementation of an event-driven framework\nfor data publishing and consumption, enhancing overall system performance\n- Designed and implemented processes granting quicker entry points into essential databases for new recruits; improved\nindividual task completion timelines by reducing average setup time from 2 hrs down to 30 mins per person",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(ca,0)",
+                "companyUrn": "urn:li:fs_miniCompany:389781",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHdtu-vtlu2zg/company-logo_"
+            },
+            {
+                "locationName": "Toronto, Ontario, Canada",
+                "entityUrn": "urn:li:fs_position:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,2264301607)",
+                "geoLocationName": "Toronto, Ontario, Canada",
+                "geoUrn": "urn:li:fs_geo:100025096",
+                "companyName": "aUToronto",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "- Implemented a touchscreen interface to adjust car’s GPS offset and reconfigure settings, monitor GPS status etc.\nduring the competition run to ensure compliance with Autodrive requirements and reducing setup time by 25%. - Collaborated with the vehicle interface and perception teams, to process and display crucial ROS messages, delivering\ncritical car information on the display and improving data accessibility by 40%.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "HMI Lead",
+                "region": "urn:li:fs_region:(ca,0)",
+                "companyUrn": "urn:li:fs_miniCompany:25010452",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGRCr_1iog3Ww/company-logo_"
+            },
+            {
+                "locationName": "Toronto, Ontario, Canada",
+                "entityUrn": "urn:li:fs_position:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,2176058756)",
+                "geoLocationName": "Toronto, Ontario, Canada",
+                "geoUrn": "urn:li:fs_geo:100025096",
+                "companyName": "UTFR - University of Toronto Formula Racing",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "Autonomy Stack - Perception Team - 12 Months May 2023 – Apr 2024\n- Developed a camera–LiDAR fusion pipeline in C++ and ROS2 to enhance cone detection accuracy; integrated\nYOLO for 2D bounding boxes with RANSAC/KNN clustering for 3D, increasing detection precision by 25%.\n- Implemented automated coordinate transforms to correct misalignment between camera and LiDAR frames, re-\nducing calibration errors by 30% and strengthening real-time perception performance.\n- Applied ground plane removal and cone-shaped filtering to eliminate irrelevant point-cloud data, cutting false-\npositive detections by 40% and refining obstacle identification.\n- Optimized ROS2 node callbacks and parallelized inference tasks, reducing latency in the perception loop by 20%\nand improving overall decision-making speed for path planning.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Autonomy Stack - Perception",
+                "region": "urn:li:fs_region:(ca,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10928785",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFzF0XIf30Hww/company-logo_"
+            },
+            {
+                "locationName": "Toronto, Ontario, Canada",
+                "entityUrn": "urn:li:fs_position:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,2484130826)",
+                "geoLocationName": "Toronto, Ontario, Canada",
+                "geoUrn": "urn:li:fs_geo:100025096",
+                "companyName": "TD",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "- Achieved a 25% decrease in deployment issues by optimizing database infrastructure through implementing Docker\ncontainerization for PostgreSQL on RHEL8, resulting in a more reliable and efficient deployment process.\n- Improved response times by 40% and significantly reduced database load by implementing an efficient caching layer using Redis, resulting in enhanced application performance and user experience.\n- Supported a 30% increase in user traffic by developing and maintaining RESTful APIs, ensuring high availability and scalability, resulting in a robust and scalable application infrastructure.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Banking"
+                    ]
+                },
+                "title": "Software Engineer - Backend",
+                "region": "urn:li:fs_region:(ca,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2775",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGAdNSAqeT_wQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1051158539)",
+                "school": {
+                    "objectUrn": "urn:li:school:10861",
+                    "entityUrn": "urn:li:fs_miniSchool:10861",
+                    "active": true,
+                    "schoolName": "University of Toronto",
+                    "trackingId": "la1CbozJRd2KTFS9XdNPjg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_"
+                },
+                "grade": "97%",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "Relevant Coursework:\n- Introduction to Self-Driving Cars\n- State Estimation and Localization for Self-Driving Cars\n- Visual Perception for Self-Driving Cars\n- Motion Planning for Self-Driving Cars",
+                "degreeName": "Specialization",
+                "schoolName": "University of Toronto",
+                "fieldOfStudy": "Self Driving Cars",
+                "schoolUrn": "urn:li:fs_miniSchool:10861"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,45182095)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,47983570)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,48004492)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,48028166)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,48086078)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,185010142)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,185035402)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,185079528)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,185139884)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,185180607)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,185259824)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,302742034)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,302764221)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,302789261)",
+                    "urn:li:fs_course:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,302812543)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303)",
+                    "urn:li:fs_project:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303461725)",
+                    "urn:li:fs_project:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303737272)",
+                    "urn:li:fs_project:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303960099)"
+                ],
+                "description": "Relevant Coursework:\n- Operating Systems\n- Algorithms and Data Structures\n- Software Design\n- Data Structures and Analysis\n- Human-Computer Interaction\n- Computer Organization\n- Advanced Calculus and Linear Algebra\n- Probability\n- Machine Learning and Artificial Intelligence",
+                "degreeName": "Honours Bachelor of Science (BSc)",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,47556377)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:10861",
+                "entityUrn": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,748884094)",
+                "school": {
+                    "objectUrn": "urn:li:school:10861",
+                    "entityUrn": "urn:li:fs_miniSchool:10861",
+                    "active": true,
+                    "schoolName": "University of Toronto",
+                    "trackingId": "/oTjhuOsSruBlTx0M9dQNA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_"
+                },
+                "activities": "- aUToronto Self-Driving Car Team (GUI Lead)\n- University of Toronto Formula SAE Racing (Firmware & Driverless)\n- Pakistani Students Federation (Director of Corporate Relations)\n- Robotics Society\n- Hackathon Participant & Winner (EVolve Hackathon, UOttaHacks)\n- Scarborough Campus Residence Council (President)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "schoolName": "University of Toronto",
+                "fieldOfStudy": "Computer Science and Mathematics (Co-op)"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1732007104)",
+                    "urn:li:fs_project:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1732151758)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,961571383)",
+                "school": {
+                    "objectUrn": "urn:li:school:10917",
+                    "entityUrn": "urn:li:fs_miniSchool:10917",
+                    "active": true,
+                    "schoolName": "EPFL",
+                    "trackingId": "usdIY952TPmq5AcqyEjWkg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH2roCFqd0gPA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "École polytechnique fédérale de Lausanne",
+                "fieldOfStudy": "Computer Science - Exchange Semester",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:10917"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Punjabi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Urdu",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Meta",
+                "name": "Introduction to Front-End Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "MPPW67FSNEZ4",
+                "company": {
+                    "objectUrn": "urn:li:company:10667",
+                    "entityUrn": "urn:li:fs_miniCompany:10667",
+                    "name": "Meta",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=IIXPAybd6VQ_n4j5ouIMh4XGRXQfKR5zVYQXpLNAKnw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=LAaRqJErfHrhA6R2aUkS_vy8Gwo2JvoaXQYgEvj88dI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=CPntGMR8LfvjqOAOqfA2ehMdhYYGnELEisT77uB4T7o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_"
+                        }
+                    },
+                    "universalName": "meta",
+                    "dashCompanyUrn": "urn:li:fsd_company:10667",
+                    "trackingId": "zhXvhFr5SGGJ0h+QMRMePQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:10667",
+                "url": "https://coursera.org/share/9713768d1346af29b9296945c24cf2c1"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Supervised Machine Learning: Regression and Classification",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "37D9PEELKKMW",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "ftsa50MVQZmGMG7rrkrubw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/37D9PEELKKMW"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Advanced Learning Algorithms",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "VQAK5AVYT76Z",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "SBou29YYSWSFPod+cRZgnQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/9a54f07b75d532e05eabd062c0bd5e0d"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "22ACM8HYDCA7",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "02AEK4RuSNm/hFULeOKZUA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/01b5387a08239f3a0a9c59789e473f31"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Machine Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "A8A8EB9XGPU7",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "Sghz72zPSr2bF15YEnWe0A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/7b1eded7bfb8480f3d66beee7a0e32cd"
+            },
+            {
+                "authority": "Meta",
+                "name": "Version Control",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "BTG6KU534QJZ",
+                "company": {
+                    "objectUrn": "urn:li:company:10667",
+                    "entityUrn": "urn:li:fs_miniCompany:10667",
+                    "name": "Meta",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=IIXPAybd6VQ_n4j5ouIMh4XGRXQfKR5zVYQXpLNAKnw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=LAaRqJErfHrhA6R2aUkS_vy8Gwo2JvoaXQYgEvj88dI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=CPntGMR8LfvjqOAOqfA2ehMdhYYGnELEisT77uB4T7o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_"
+                        }
+                    },
+                    "universalName": "meta",
+                    "dashCompanyUrn": "urn:li:fsd_company:10667",
+                    "trackingId": "9cDGdPO4SrmJ5kMoWy1BbA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:10667",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/BTG6KU534QJZ"
+            },
+            {
+                "authority": "Meta",
+                "name": "Programming with JavaScript",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "XU7QS8QQZEY7",
+                "company": {
+                    "objectUrn": "urn:li:company:10667",
+                    "entityUrn": "urn:li:fs_miniCompany:10667",
+                    "name": "Meta",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=IIXPAybd6VQ_n4j5ouIMh4XGRXQfKR5zVYQXpLNAKnw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=LAaRqJErfHrhA6R2aUkS_vy8Gwo2JvoaXQYgEvj88dI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=CPntGMR8LfvjqOAOqfA2ehMdhYYGnELEisT77uB4T7o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_"
+                        }
+                    },
+                    "universalName": "meta",
+                    "dashCompanyUrn": "urn:li:fsd_company:10667",
+                    "trackingId": "qW3bSoDZRDGMfs5X5owBMw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:10667",
+                "url": "https://coursera.org/share/e51a1003efbd0b7182aca531e7ebf6f0"
+            },
+            {
+                "authority": "Meta",
+                "name": "Introduction to Android Mobile Application Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "JYNJVJFP4B8R",
+                "company": {
+                    "objectUrn": "urn:li:company:10667",
+                    "entityUrn": "urn:li:fs_miniCompany:10667",
+                    "name": "Meta",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=IIXPAybd6VQ_n4j5ouIMh4XGRXQfKR5zVYQXpLNAKnw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=LAaRqJErfHrhA6R2aUkS_vy8Gwo2JvoaXQYgEvj88dI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=CPntGMR8LfvjqOAOqfA2ehMdhYYGnELEisT77uB4T7o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_"
+                        }
+                    },
+                    "universalName": "meta",
+                    "dashCompanyUrn": "urn:li:fsd_company:10667",
+                    "trackingId": "+cgp+JV8RdCOlnZ6sBpiDQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:10667",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/JYNJVJFP4B8R"
+            },
+            {
+                "authority": "Meta",
+                "name": "Introduction to Back-End Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "7SYBNUE6VRSQ",
+                "company": {
+                    "objectUrn": "urn:li:company:10667",
+                    "entityUrn": "urn:li:fs_miniCompany:10667",
+                    "name": "Meta",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=IIXPAybd6VQ_n4j5ouIMh4XGRXQfKR5zVYQXpLNAKnw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=LAaRqJErfHrhA6R2aUkS_vy8Gwo2JvoaXQYgEvj88dI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1636138754252/facebook_logo?e=1748476800&v=beta&t=CPntGMR8LfvjqOAOqfA2ehMdhYYGnELEisT77uB4T7o",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_"
+                        }
+                    },
+                    "universalName": "meta",
+                    "dashCompanyUrn": "urn:li:fsd_company:10667",
+                    "trackingId": "B7Elpr+7S1GLyDmK2Bf2cg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:10667",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/7SYBNUE6VRSQ"
+            },
+            {
+                "authority": "University of Pennsylvania",
+                "name": "Introduction to Java and Object-Oriented Programming",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "EKBHPUQQW2NF",
+                "company": {
+                    "objectUrn": "urn:li:company:3165",
+                    "entityUrn": "urn:li:fs_miniCompany:3165",
+                    "name": "University of Pennsylvania",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630601168515/university_of_pennsylvania_logo?e=1748476800&v=beta&t=v7U8CYRTNAGm2a3Pgmg1X-_YdIXSpxPSG-xJiFFiRQg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630601168515/university_of_pennsylvania_logo?e=1748476800&v=beta&t=fTWUmZyC1t__PftWD2mWXZb3CQTzKhUGMrc1jxdQqFI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630601168515/university_of_pennsylvania_logo?e=1748476800&v=beta&t=dTJuxTW8Vo6mqXwb_Pju5UQFeEfTCy8HAr1pN3-H7_0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHnbnsnJlBiZg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-pennsylvania",
+                    "dashCompanyUrn": "urn:li:fsd_company:3165",
+                    "trackingId": "gYKSj8doTR6heiHghMxvMw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3165",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/EKBHPUQQW2NF"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Student Ambassador",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "The Microsoft Learn Student Ambassadors is a program to sponsor students majoring in disciplines related to technology. The MSP program enhances students' employability by offering training in skills not usually taught in academia, including knowledge of Microsoft technologies.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=cXVZCE8mOgVaEaaKyfowShM37-NEhqJEOr76Lys85q8",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=3X-8oGwA0eTRLVUD7NwBSX-Ifcw0dUO0toOun1UxQS0",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+                            }
+                        },
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "S4NfbZWjSrq0uxYTvsWXFw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1035"
+            },
+            {
+                "role": "President (Behtar Pakistan Movement)",
+                "companyName": "Pakistan Red Crescent Society (PRCS)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "A social Welfare movement launced under the umbrella of Pakistan Red Crescent Society, Federal Capital Branch Islamabad. Worked on children education projects, led climate change awareness walks and inspired young students to serve the community in the greatest way possible.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:13378950",
+                        "entityUrn": "urn:li:fs_miniCompany:13378950",
+                        "name": "Pakistan Red Crescent Society (PRCS)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631327159154?e=1748476800&v=beta&t=zn5qyD-Y4vdiT5uea9v2FqjPdx2ox6KTi1CVf-Rq2bA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631327159154?e=1748476800&v=beta&t=7JS8uovk8a2B7asVieSLxpqhB7IuI2IeEIwGpNbHcWw",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631327159154?e=1748476800&v=beta&t=n2l11cktfFzShwWnt38_JHzbMRHApDTa3kzYhf1LM-0",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHHYImDO9GHHw/company-logo_"
+                            }
+                        },
+                        "universalName": "pakistan-red-crescent-society-prcs",
+                        "dashCompanyUrn": "urn:li:fsd_company:13378950",
+                        "trackingId": "rLazqva/T7+hkDx1Pvm99w=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13378950"
+            },
+            {
+                "role": "President (Scarborough Campus Residence Council)",
+                "companyName": "University of Toronto Scarborough",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Provide leadership, direction and guidance to the council and responsible for ensuring the efficient operation of the administration of all aspects of the Council. Represent the council to the university administration to bring forward student concerns. Assist the Vice Presidents to ensure all tasks are completed in a timely manner.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:15090783",
+                        "entityUrn": "urn:li:fs_miniCompany:15090783",
+                        "name": "University of Toronto Scarborough",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630669300311/university_of_toronto_scarborough_logo?e=1748476800&v=beta&t=ZrqjRi2JmeKJI6ljY8eUVE-ek6C-YgkFHtea2svMitI",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630669300311/university_of_toronto_scarborough_logo?e=1748476800&v=beta&t=oQnc651upfsMjeb7N2oxT4yP1bOwkJEpkCiLPeQjVDY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630669300311/university_of_toronto_scarborough_logo?e=1748476800&v=beta&t=_DQD1aBISBenlMAhe7RXVaji8JQpevAd3U9TnSsVOCg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHlSkOZF3kDcw/company-logo_"
+                            }
+                        },
+                        "universalName": "university-of-toronto-scarborough",
+                        "dashCompanyUrn": "urn:li:fsd_company:15090783",
+                        "trackingId": "/M3/TTzaQvipdW/MzHE/WQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:15090783"
+            }
+        ],
+        "honors": [
+            {
+                "description": "The Lester B. Pearson International Full-ride Scholarship at the University of Toronto provides exceptional international students with the opportunity to study at one of the world's top universities in a multicultural city. This highly competitive scholarship recognizes students who demonstrate academic excellence, creativity, leadership, and have made a positive impact on their school and community. The scholarship covers tuition, books, incidental fees, and full residence support for four years and is tenable only at the University of Toronto for first-entry, undergraduate programs, with approximately 37 students named as Lester B. Pearson Scholars each year.",
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,748884094)",
+                "title": "The Lester B. Pearson International Student Scholarship",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "issuer": "Univeristy of Toronto"
+            },
+            {
+                "description": "A full-ride scholarship to attend the Oxbridge summer program at the University of Oxford, making me the only recipient from my country to receive such an opportunity. This scholarship covered all program expenses, allowing me to fully immerse myself in the academic and cultural experience provided by Oxbridge Academic Programs.",
+                "title": "Academic Achievement Award to attend Oxbridge Academic Program at the University of Oxford",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "issuer": "Oxbridge Academic Programs by Worldstrides"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1731849985,453178350)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Syed Asad",
+                            "lastName": "Hussain",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw",
+                            "occupation": "Developer @ IBM Consulting | CS @ University of Toronto",
+                            "objectUrn": "urn:li:member:908692295",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1716347876765?e=1746057600&v=beta&t=qjrkc-qzqhagQpbgKMfjNsfzbLlsJwxoS6t6M6e8qtI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716347876765?e=1746057600&v=beta&t=1HQfAWCdosORmeAAN8wggN_DvoboSQEIdrOPZrUuMUE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEoPjRlRffyww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "syed-ah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716347907860?e=1746057600&v=beta&t=BAftyhhnRDTSRlEyGv9yUBes-38-rbgHVe8uBtcOT1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716347907860?e=1746057600&v=beta&t=3uKEbhL2UDA8vsOt15HbfCkJt4A6aPkAUvl_Y_jXaHY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716347907860?e=1746057600&v=beta&t=Ucr2Vq8H9Jtl0QQqiuu8TnIcfyixHq70aU-7qIZOPK4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716347907860?e=1746057600&v=beta&t=hWmQGe32_nraM8wOa4qJnSnlpsFkjS-hdMmg4sqsKZ0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHUgzKtyh6d_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "cg6RTkFjSGGJwjB0J/NuLQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1731849985,453173913)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vikram ",
+                            "lastName": "Narra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "occupation": "Computer Science @ UofT",
+                            "objectUrn": "urn:li:member:846299725",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1736144969514?e=1746057600&v=beta&t=lgi5OaLDNuULm4bgIMJ-1b5autUbD91VxUIG6_ebPMA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736144969514?e=1746057600&v=beta&t=thCw_PM9p3oYcxweYGhMU_h_S84vnp9Q29vDutqbwuA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGYSft-rNiJZg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vikramnarra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729198793061?e=1746057600&v=beta&t=l6ygjowC6lZdWjJlTIeYxCxwl7_NNKPVdnimIJYbDXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729198793061?e=1746057600&v=beta&t=Hw1pgifvLWgXryNtyrXRJAljXDQAoZP3ous3mZKxG2Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729198793061?e=1746057600&v=beta&t=2UO7zeL2b3ueyn9wr5lBbRtsUDXnsFdToVespD6FJHw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 498,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729198793063?e=1746057600&v=beta&t=DQaXll5qss4jZvz1WwhKc0ygGynhNmPWGjPzUGQexbQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 498
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFo7FNu980Q9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IUDCV29FSBSiGPvKy03bOg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1731849985,453174667)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "Developed a web-based route planner that integrates the OpenAI API for context-aware suggestions with the Google Maps API for navigation data. The system provides real-time, adaptive route recommendations factoring in distance, time, and daily step goals.\n\nHighlights: Chatbot-style interface, location-based personalization, seamless front-to-backend integration, and dynamic routing logic.",
+                "title": "RuteX (Deployed)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,961571383)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1732151758,453175615)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "Built a flexible ML pipeline for both classification (breed identification) and regression (coordinate prediction). Explored KNN, Logistic Regression, and Linear Regression with hyperparameter tuning and metric visualization.\n\nHighlights: Performance metrics (accuracy, F1, MSE), bias term appending, normalization steps, and 3D plotting of hyperparameter search (e.g., K, lambda, learning rates).",
+                "title": "Classical Machine Learning Pipeline (KNN, Logistic/Linear Regression)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,961571383)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1732007104,453174678)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "Implemented a custom Vision Transformer (ViT) to classify handwritten digits from the MNIST dataset, showcasing the power of Transformer-based models on smaller-scale computer vision tasks.\n\nHighlights: Data preprocessing pipeline, multi-headed self-attention, model performance evaluation (accuracy, confusion matrix), and a modular training loop.",
+                "title": "Vision Transformers for MNIST Classification"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,748884094)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303960099,389573969)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vikram ",
+                            "lastName": "Narra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "occupation": "Computer Science @ UofT",
+                            "objectUrn": "urn:li:member:846299725",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1736144969514?e=1746057600&v=beta&t=lgi5OaLDNuULm4bgIMJ-1b5autUbD91VxUIG6_ebPMA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736144969514?e=1746057600&v=beta&t=thCw_PM9p3oYcxweYGhMU_h_S84vnp9Q29vDutqbwuA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGYSft-rNiJZg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vikramnarra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729198793061?e=1746057600&v=beta&t=l6ygjowC6lZdWjJlTIeYxCxwl7_NNKPVdnimIJYbDXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729198793061?e=1746057600&v=beta&t=Hw1pgifvLWgXryNtyrXRJAljXDQAoZP3ous3mZKxG2Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729198793061?e=1746057600&v=beta&t=2UO7zeL2b3ueyn9wr5lBbRtsUDXnsFdToVespD6FJHw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 498,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729198793063?e=1746057600&v=beta&t=DQaXll5qss4jZvz1WwhKc0ygGynhNmPWGjPzUGQexbQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 498
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFo7FNu980Q9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IUDCV29FSBSiGPvKy03bOg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303960099,389577335)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Syed Asad",
+                            "lastName": "Hussain",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw",
+                            "occupation": "Developer @ IBM Consulting | CS @ University of Toronto",
+                            "objectUrn": "urn:li:member:908692295",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1716347876765?e=1746057600&v=beta&t=qjrkc-qzqhagQpbgKMfjNsfzbLlsJwxoS6t6M6e8qtI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716347876765?e=1746057600&v=beta&t=1HQfAWCdosORmeAAN8wggN_DvoboSQEIdrOPZrUuMUE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEoPjRlRffyww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "syed-ah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716347907860?e=1746057600&v=beta&t=BAftyhhnRDTSRlEyGv9yUBes-38-rbgHVe8uBtcOT1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716347907860?e=1746057600&v=beta&t=3uKEbhL2UDA8vsOt15HbfCkJt4A6aPkAUvl_Y_jXaHY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716347907860?e=1746057600&v=beta&t=Ucr2Vq8H9Jtl0QQqiuu8TnIcfyixHq70aU-7qIZOPK4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716347907860?e=1746057600&v=beta&t=hWmQGe32_nraM8wOa4qJnSnlpsFkjS-hdMmg4sqsKZ0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHUgzKtyh6d_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "cg6RTkFjSGGJwjB0J/NuLQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303960099,389575632)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anastasiia",
+                            "lastName": "Nerush",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADN5W-gBQ-xkQBxjq6ta2YLDdx8zVXy6sLg",
+                            "occupation": "UX Designer @ Produktiv Agency | IXD @ Sheridan College",
+                            "objectUrn": "urn:li:member:863591400",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADN5W-gBQ-xkQBxjq6ta2YLDdx8zVXy6sLg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1665769643128?e=1746057600&v=beta&t=L3w-qaIhvaHYP5YVFzeXPGVG0OmrQ62IWYohBB0RMgY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1665769643128?e=1746057600&v=beta&t=H1kCae9-R9X1l7U3UNa0QGivlt-6Icrp0t7JpiQ9nN8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQE9ia8njiLgdQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ananerush",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1719877233737?e=1746057600&v=beta&t=74zAAoohIEWekv3nqN9n4Onz5T60FCJKSnLy_EmqNyM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1719877233737?e=1746057600&v=beta&t=Xlzp26B8qfsrMcnWhupcZFP-R5mgIRFKDyQKBVZ-0_U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1719877233737?e=1746057600&v=beta&t=j0yzRkZ3t6Pqijm7yfosFqubr_13JOUrQp-9bXT8-H8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1719877233760?e=1746057600&v=beta&t=3kO2xUzfqYljQ2x4zv5si63LyksY1XbXxr7QJPd1RKI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3z8Wp6lCtGQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0w3GYRXkRw6cx2bZRvRGOQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303960099,389579064)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADN5W-gBQ-xkQBxjq6ta2YLDdx8zVXy6sLg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "description": "Project Signify is an app designed to bridge the communication gap between deaf and hearing individuals by detecting and translating sign language gestures into written text in real-time. The app aims to promote social inclusion and provide greater access to information and opportunities for the deaf community. The development process involved careful consideration of user needs and the integration of multiple components, including the use of Python and TensorFlow library for computer vision, a React.js frontend, and a Flask server to translate sign language into English. Future plans include expanding language support and integrating the app with other communication platforms and apps.",
+                "title": "Signify",
+                "url": "https://devpost.com/software/signify-be5a6m"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,748884094)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303461725,389577319)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vikram ",
+                            "lastName": "Narra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "occupation": "Computer Science @ UofT",
+                            "objectUrn": "urn:li:member:846299725",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1736144969514?e=1746057600&v=beta&t=lgi5OaLDNuULm4bgIMJ-1b5autUbD91VxUIG6_ebPMA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736144969514?e=1746057600&v=beta&t=thCw_PM9p3oYcxweYGhMU_h_S84vnp9Q29vDutqbwuA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGYSft-rNiJZg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vikramnarra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729198793061?e=1746057600&v=beta&t=l6ygjowC6lZdWjJlTIeYxCxwl7_NNKPVdnimIJYbDXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729198793061?e=1746057600&v=beta&t=Hw1pgifvLWgXryNtyrXRJAljXDQAoZP3ous3mZKxG2Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729198793061?e=1746057600&v=beta&t=2UO7zeL2b3ueyn9wr5lBbRtsUDXnsFdToVespD6FJHw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 498,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729198793063?e=1746057600&v=beta&t=DQaXll5qss4jZvz1WwhKc0ygGynhNmPWGjPzUGQexbQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 498
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFo7FNu980Q9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IUDCV29FSBSiGPvKy03bOg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303461725,389573952)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anastasiia",
+                            "lastName": "Nerush",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADN5W-gBQ-xkQBxjq6ta2YLDdx8zVXy6sLg",
+                            "occupation": "UX Designer @ Produktiv Agency | IXD @ Sheridan College",
+                            "objectUrn": "urn:li:member:863591400",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADN5W-gBQ-xkQBxjq6ta2YLDdx8zVXy6sLg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1665769643128?e=1746057600&v=beta&t=L3w-qaIhvaHYP5YVFzeXPGVG0OmrQ62IWYohBB0RMgY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1665769643128?e=1746057600&v=beta&t=H1kCae9-R9X1l7U3UNa0QGivlt-6Icrp0t7JpiQ9nN8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQE9ia8njiLgdQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ananerush",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1719877233737?e=1746057600&v=beta&t=74zAAoohIEWekv3nqN9n4Onz5T60FCJKSnLy_EmqNyM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1719877233737?e=1746057600&v=beta&t=Xlzp26B8qfsrMcnWhupcZFP-R5mgIRFKDyQKBVZ-0_U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1719877233737?e=1746057600&v=beta&t=j0yzRkZ3t6Pqijm7yfosFqubr_13JOUrQp-9bXT8-H8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1719877233760?e=1746057600&v=beta&t=3kO2xUzfqYljQ2x4zv5si63LyksY1XbXxr7QJPd1RKI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3z8Wp6lCtGQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0w3GYRXkRw6cx2bZRvRGOQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303461725,389573953)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADN5W-gBQ-xkQBxjq6ta2YLDdx8zVXy6sLg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "description": "Winner of the UOttaHacks 5 competition at the University of Ottawa, Project Safespot is a web app that provides real-time monitoring and alerts for vulnerable individuals to reduce the risk of falls and other accidents. The app uses cloud-based machine learning algorithms and computer vision techniques to detect signs of injury or danger and immediately notify emergency contacts. It was built using CSS, Figma, Flask, HTML, JavaScript, Node.js, NumPy, OpenCV, and React.",
+                "title": "SafeSpot",
+                "url": "https://devpost.com/software/safespot-cek3vb"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,748884094)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303737272,389573958)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vikram ",
+                            "lastName": "Narra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "occupation": "Computer Science @ UofT",
+                            "objectUrn": "urn:li:member:846299725",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1736144969514?e=1746057600&v=beta&t=lgi5OaLDNuULm4bgIMJ-1b5autUbD91VxUIG6_ebPMA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736144969514?e=1746057600&v=beta&t=thCw_PM9p3oYcxweYGhMU_h_S84vnp9Q29vDutqbwuA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGYSft-rNiJZg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vikramnarra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729198793061?e=1746057600&v=beta&t=l6ygjowC6lZdWjJlTIeYxCxwl7_NNKPVdnimIJYbDXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729198793061?e=1746057600&v=beta&t=Hw1pgifvLWgXryNtyrXRJAljXDQAoZP3ous3mZKxG2Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729198793061?e=1746057600&v=beta&t=2UO7zeL2b3ueyn9wr5lBbRtsUDXnsFdToVespD6FJHw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 498,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729198793063?e=1746057600&v=beta&t=DQaXll5qss4jZvz1WwhKc0ygGynhNmPWGjPzUGQexbQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 498
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFo7FNu980Q9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IUDCV29FSBSiGPvKy03bOg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303737272,389575622)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Divyansh",
+                            "lastName": "Kachchhava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADj9oDcB07m4aWgyyiaSPb82M-Da4YkcbVY",
+                            "occupation": "Software Developer Intern @RBC | CS @UofT",
+                            "objectUrn": "urn:li:member:956145719",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADj9oDcB07m4aWgyyiaSPb82M-Da4YkcbVY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1690491490820?e=1746057600&v=beta&t=FtKC7BfpP8sqbiS8akEDiDgWEOrl0aaZymso59FBRQM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690491490820?e=1746057600&v=beta&t=pSExRRTKkk9ZaDWx6ZLeCxC-XgIPL-DeV0f8qKWM5f4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHgaUfOs8bPPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "divyansh-kachchhava-09b265228",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1700587875716?e=1746057600&v=beta&t=gC-yc8Yahgyi8gcouOkuqgDI7Y6bM2fysM-JWHRN8-M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1700587875716?e=1746057600&v=beta&t=PIcLQpCiiXL0u5TU9sMqx_ks82SJoBdOa8t5uKfKv-M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1700587875716?e=1746057600&v=beta&t=xNY22FQk3Kpn4vYuBu3_fgplJ5mDzikkWZqtXGpalz8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 599,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1700587875716?e=1746057600&v=beta&t=0xULDsdf5BvvHhX4Pv4ZKNxtuWEwezJxARD-JqtpsPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 599
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHOgKfAycDMzg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "pyFCdJW+QCihULxkYZYFQg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303737272,389575623)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADj9oDcB07m4aWgyyiaSPb82M-Da4YkcbVY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Ahmad",
+                            "lastName": "Hakim",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADdWvE8Bb5mggKR20fbcCO5FwmGe7R1_tXU",
+                            "occupation": "Software Developer | Computer Science @ UofT",
+                            "objectUrn": "urn:li:member:928431183",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADdWvE8Bb5mggKR20fbcCO5FwmGe7R1_tXU",
+                            "publicIdentifier": "ahmad-hakim-693b1a21a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728695462740?e=1746057600&v=beta&t=xEMm-o41bEOE6VbtAf-U2pIiCDJO_gK50UpmLL4-Kos",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728695462740?e=1746057600&v=beta&t=enlxVGnFLSSSHAfvXd7IB8N65eggvcEdhO8hR5xakT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728695462740?e=1746057600&v=beta&t=yNamSt6yunsQfrWwkMbyZ1ad3a3pB2NQdRDRotDsvlA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728695462758?e=1746057600&v=beta&t=y20-nwQGaKgF3roFH-j8o_PfmdWBrkL_AWj0MhqZm38",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFQC8dWTC7Y3A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DCgHVHZjQomsEzk5XRY2wQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,303737272,389573959)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADdWvE8Bb5mggKR20fbcCO5FwmGe7R1_tXU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "Project CarbonCam is an Android application designed to promote sustainability by using pictures and images, which are accessible to people of all ages, to educate them on the harmful effects of non-sustainable practices. The app uses the camera to take a picture of an object, record its dimensions and composition, and match it to a collection of records containing images of different waste items. The app then calculates the resources that can be saved by recycling the item and the carbon emission that would come from the object. The project was built with a combination of Android Studio, Figma, Google Colab, Java, Python, TensorFlow, and TensorFlowlite.",
+                "title": "CarbonCam",
+                "url": "https://devpost.com/software/carboncam"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,748884094)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303,364775634)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Syed Asad",
+                            "lastName": "Hussain",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw",
+                            "occupation": "Developer @ IBM Consulting | CS @ University of Toronto",
+                            "objectUrn": "urn:li:member:908692295",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1716347876765?e=1746057600&v=beta&t=qjrkc-qzqhagQpbgKMfjNsfzbLlsJwxoS6t6M6e8qtI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716347876765?e=1746057600&v=beta&t=1HQfAWCdosORmeAAN8wggN_DvoboSQEIdrOPZrUuMUE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEoPjRlRffyww/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "syed-ah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716347907860?e=1746057600&v=beta&t=BAftyhhnRDTSRlEyGv9yUBes-38-rbgHVe8uBtcOT1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716347907860?e=1746057600&v=beta&t=3uKEbhL2UDA8vsOt15HbfCkJt4A6aPkAUvl_Y_jXaHY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716347907860?e=1746057600&v=beta&t=Ucr2Vq8H9Jtl0QQqiuu8TnIcfyixHq70aU-7qIZOPK4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716347907860?e=1746057600&v=beta&t=hWmQGe32_nraM8wOa4qJnSnlpsFkjS-hdMmg4sqsKZ0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHUgzKtyh6d_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "cg6RTkFjSGGJwjB0J/NuLQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303,364776635)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADYpi0cBYI_SbVEAjPkTQTLPLWWNKjntzMw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Ansh",
+                            "lastName": "Aneel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADp3ckMBo4WyRpnMGb_sYpCcWc7TphStmlI",
+                            "occupation": "CEO of Scriptose | Mathematics and Computer Science Student @ University of Toronto | Math/CS TA | Passionately Curious",
+                            "objectUrn": "urn:li:member:980906563",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADp3ckMBo4WyRpnMGb_sYpCcWc7TphStmlI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1663164238447?e=1746057600&v=beta&t=TFZPIUnYuOino9xo4bB3lnlHyeIQfSpRLogduFs9DuI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1040,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1663164238447?e=1746057600&v=beta&t=YsHSjuH_aZ9T41-XxenXbNq6-1YhPKRLkJ3GIOFH5DE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 260
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGg_ziysn7lVA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "anshaneel",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1698949495851?e=1746057600&v=beta&t=lUvnCczY8q8T6_n-pDVMZ-3CsxqO0El1VPW93ZCGav4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1698949495851?e=1746057600&v=beta&t=3WmuV4JF2XXklRvNZKiPcJu0WZ9Ors8GAewREbDTcVg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1698949495851?e=1746057600&v=beta&t=R61zaVZQIe02CgJN7v-n_1k3nHv3roGwn9dqO8IuMSU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1698949495851?e=1746057600&v=beta&t=_98fG9ikhaVS2JF4EmFfYm7kShFGiTgCfEjeKiOwSKI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxM4p9S5MweQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hmNooHIQTf2lIJR9OJ4+SA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303,364778503)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADp3ckMBo4WyRpnMGb_sYpCcWc7TphStmlI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vikram ",
+                            "lastName": "Narra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "occupation": "Computer Science @ UofT",
+                            "objectUrn": "urn:li:member:846299725",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1736144969514?e=1746057600&v=beta&t=lgi5OaLDNuULm4bgIMJ-1b5autUbD91VxUIG6_ebPMA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736144969514?e=1746057600&v=beta&t=thCw_PM9p3oYcxweYGhMU_h_S84vnp9Q29vDutqbwuA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGYSft-rNiJZg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vikramnarra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1729198793061?e=1746057600&v=beta&t=l6ygjowC6lZdWjJlTIeYxCxwl7_NNKPVdnimIJYbDXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1729198793061?e=1746057600&v=beta&t=Hw1pgifvLWgXryNtyrXRJAljXDQAoZP3ous3mZKxG2Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1729198793061?e=1746057600&v=beta&t=2UO7zeL2b3ueyn9wr5lBbRtsUDXnsFdToVespD6FJHw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 498,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1729198793063?e=1746057600&v=beta&t=DQaXll5qss4jZvz1WwhKc0ygGynhNmPWGjPzUGQexbQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 498
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFo7FNu980Q9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "IUDCV29FSBSiGPvKy03bOg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303,364778504)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADJxgk0Bb_XRHkyRGj05YPeEPpoD3nZhYSE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dhruv",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADXJbrIBrKcqcpku1C2ojpJ8Ptaj0IgHlkc",
+                            "occupation": "Software Engineer Intern @ StackAdapt | Co-Founder @ Lifomation",
+                            "objectUrn": "urn:li:member:902393522",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADXJbrIBrKcqcpku1C2ojpJ8Ptaj0IgHlkc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1734817148736?e=1746057600&v=beta&t=S8Atxbt_jkdpe1jpWofmmznAcV6zomemKG6iG7iqof8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734817148736?e=1746057600&v=beta&t=BCUJPkUNZNcpyxmxt-3rBHMRGYHPQPYRkV6uu3cO0LA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGy4zY9JRHOEQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "dhruv-ap",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727829275101?e=1746057600&v=beta&t=gDPy4Kt_gABN9QwdCwedpLfgBS4oqLla2r7IIS8euQ0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727829275101?e=1746057600&v=beta&t=2z9f5kqN0ye3y5BzMevi8XcV05W8IlycIUEKIA1PPV4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727829275101?e=1746057600&v=beta&t=8G_ihamiFIccgQALUpu-UM9YU8ERfPa_wco4kbwsSSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 610,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727829275107?e=1746057600&v=beta&t=51riRbHm_xfrlh4NwF_E8nx7U5KhPrsE8VPXmLjNujA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 610
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFkt2Vyws1jxg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "mLnzUv5RQoqVfHNLJwbCPA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303,364777516)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADXJbrIBrKcqcpku1C2ojpJ8Ptaj0IgHlkc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Priyank",
+                            "lastName": "Dave",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADKmVjwBimR79R2hqs9_NO7uarPcY758F6w",
+                            "occupation": "Computer Science student @University of Toronto",
+                            "objectUrn": "urn:li:member:849761852",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADKmVjwBimR79R2hqs9_NO7uarPcY758F6w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1675000827034?e=1746057600&v=beta&t=Ox-EhJVIsZhMLxsg0dsaiWL5VojP04wjLvXFn0yheC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1024,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675000827034?e=1746057600&v=beta&t=aNirL45QiEKBrXBsKPVaEWqJPdWsB_4UcWkYQZ1JlSM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 256
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEVJIXWoxQJeA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "priyankdave14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1620976880321?e=1746057600&v=beta&t=KEAylyWkDCLAtzDNuv9Wie2Rl6G5-16T4qobfZgCAeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1620976880321?e=1746057600&v=beta&t=3VpFGBbCVlzBM-0wzwasZOrGLQ0ohJkqLLYvsVTgdeA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1620976880321?e=1746057600&v=beta&t=b_iN4ldgl399UB1c0VYHu0DnB8_VB6lEhGLyx_LHApU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1620976880321?e=1746057600&v=beta&t=SSXxJTSdnUxg6Oxy-LSHDMaUyE_iRnXeqn7ymC_mnXo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHeXHgqHk7Ldw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ZRXhx/+iR0OOadWcEqMJ8w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1877575303,364779432)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADKmVjwBimR79R2hqs9_NO7uarPcY758F6w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "The team created an Android application with the goal of promoting equity and inclusion and increasing efficiency in the healthcare industry. The app includes features such as appointment booking at nearby health clinics. They also performed a market analysis and showcased accessibility policies to ensure the app is accessible to all users. Additionally, the team developed a website for the clinic side model.",
+                "title": "HealthCan",
+                "url": "https://github.com/harismalik-1/Health-Canada-App"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Haris",
+                            "lastName": "Malik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "occupation": "Robotics @ KScale (YC W24) | CS & Math @ UofT | Ex-SDE @ Dayforce & TD Bank | Full-Ride Scholar (Lester B. Pearson)",
+                            "objectUrn": "urn:li:member:873416662",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676831305040?e=1746057600&v=beta&t=7GqH1jIlUprN5Q_Dm7c2Kz8S-xSVSQiqepl6RurjG5Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676831305040?e=1746057600&v=beta&t=9ka_4A5b0NMdJqjH9zBtl2_mCEOhs9_1PMGpe79gq0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFgVEeNs19qGg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "haris-malik-",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1662005046432?e=1746057600&v=beta&t=_uSr0DhVDZ_-ZkS5bn-nNATVAjvy6xfm7-3__K5EaDg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1662005046432?e=1746057600&v=beta&t=Risg-ks6zWeudh2sJP2lOwoNEtpyUpnxbinCYXmQYWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1662005046432?e=1746057600&v=beta&t=HoQa_I5-jlZKDjrXBJJwJT2S7gt_cJa6youQf2pjD8k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1662005046432?e=1746057600&v=beta&t=JIhyiKipmpE4-ksbmAV-CUXdly-i5S6iwdCt3Z_wd7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFifMOxJ0MfHw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VAZEH/gATLONb9qBPBuQ6Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c,1878837709,364776688)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "- Basic implication of the Minimax algorithm and the alpha beta pruning algorithm",
+                "title": "TicTacToe Minimax"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Reinforcement Learning"
+            },
+            {
+                "name": "VLM"
+            },
+            {
+                "name": "Localization"
+            },
+            {
+                "name": "Robotics"
+            }
+        ],
+        "urn_id": "ACoAADQPR9YBx8qvznmsmE6KEJv8mBxqo5nm53c"
+    }
+}

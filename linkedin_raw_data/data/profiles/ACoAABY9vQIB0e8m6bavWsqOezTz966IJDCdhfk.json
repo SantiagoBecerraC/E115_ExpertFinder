@@ -1,0 +1,693 @@
+{
+    "urn_id": "ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+    "fetch_timestamp": "2025-02-26T21:48:41.078274",
+    "profile_data": {
+        "summary": "I’m a graduate student in Chemical Engineering (with Advanced Data Science Option) at University of Washington, with the background in applying statistical analysis and machine learning methods on big data, and developing data visualization tools in cheminformatics/bioinformatics field. \n\nI have experience in developing visualization tool for unsupervised machine learning analysis (clustering, PCA, etc.) on genomics data. I’ve also worked on projects in exploratory data analysis, feature selection, building and evaluating models. Please check my GitHub page for more details about my Data Science Portfolio: https://github.com/JiayuanGuo/Data-Science-Portfolio\n\nI’m looking for full-time positions and internships as an entry-level data analyst. My email is jyguovivian@gmail.com\n\nSkills and Qualifications:\n• Programming: Python (Pandas/NumPy/Matplotlib/Scikit-Learn), R\n• Machine Learning Models: Linear Regression, Random Forest, Support Vector Machine, K-Means Clustering\n• Tools: SQL, Shell, Git, Tableau, Amazon Web Services (AWS), Plot.ly\n• Others: Bioinformatics, Genomics, NGS data",
+        "industryName": "Biotechnology",
+        "lastName": "G.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:12",
+        "firstName": "Jiayuan (Vivian)",
+        "entityUrn": "urn:li:fs_profile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104116203"
+        },
+        "geoLocationName": "Seattle, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data & Applied Scientist at Microsoft",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF-jpX-PuWccw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1585809611293?e=1746057600&v=beta&t=m-SjIm8Swm2dsZAqeG_AkZ5Bbc9f4BuqA0qN8X1Xwiw",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1585809611267?e=1746057600&v=beta&t=jwyIDgJPL_s3b6i-7wXZkAn_AYO1UoxRpR6sxIueZV8",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1585809611331?e=1746057600&v=beta&t=b-inwZOeA0tx7jj5KtBN9IvAHGtyX0s4WX4tq92LaN4",
+        "img_686_686": "800_800/profile-displayphoto-shrink_800_800/0/1585809611363?e=1746057600&v=beta&t=-RJhNgnTRkikTMKIp9mOZzn4yPdq-NZuAPUP9zx4e6E",
+        "profile_id": "ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+        "member_urn": "urn:li:member:373144834",
+        "public_id": "jyguo-vivian",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1720630464)",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data & Applied Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1450431668)",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist (Pactera)",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1450431640)",
+                "companyName": "University of Washington",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:2584",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+            },
+            {
+                "locationName": "Seattle,WA",
+                "entityUrn": "urn:li:fs_position:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1117494596)",
+                "geoLocationName": "Seattle,WA",
+                "companyName": "University of Washington",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2017
+                    }
+                },
+                "description": "• Chemical Engineering + Data Science + Computation\n\n• Mentored by David A. C. Beck, eScience Institute, University of Washington             \n\n• Work Overview: Developing a Visualization Tool for Unsupervised Machine Learning Analysis on Genomics Data\n- Applied K-means clustering and PCA analysis on RNA-seq data using Scikit-Learn.                    \n- Created SQL database and wrote queries for data loading and extraction.\n- Built an interactive web application and visualized analysis results by Tableau and Plot.ly – Dash.\n\n• Beck's Research Lab Homepage: http://faculty.washington.edu/dacb/\n• Beck's Research Lab Github Page: https://github.com/BeckResearchLab",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:2584",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+            },
+            {
+                "locationName": "Greater Seattle Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1253404012)",
+                "geoLocationName": "Greater Seattle Area",
+                "geoUrn": "urn:li:fs_geo:90000091",
+                "companyName": "University of Washington",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "• Participated in the NSF NRT Data Intensive Research Enabling Clean Technology (DIRECT) training program of the Clean Energy Institute in University of Washington\n\n• Work Overview:\n- Tested hypotheses to analyze the effect of open circuit voltage and short circuit current on power conversion efficiency, using the Harvard Clean Energy Database.\n- Developed Python scripts to build k-NN model and predict atom type based on its radius, achieving the classification accuracy of 87%.\n- Lead a group of 4 graduate students to develop a suggestion model for electricity generation using random forest classification and statistical analysis.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "DIRECT Data Science Trainee",
+                "region": "urn:li:fs_region:(us,91)",
+                "companyUrn": "urn:li:fs_miniCompany:2584",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,355698810)",
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,355762844)",
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,355802756)",
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,355853842)",
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,513032313)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1291322357)"
+                ],
+                "description": "Grad-Level Courses: Machine Learning, Software Engineering, Statistical Learning, Methods of Engineering Analysis ",
+                "degreeName": "Master's degree",
+                "schoolUrn": "urn:li:fs_miniSchool:19657",
+                "entityUrn": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,422736113)",
+                "school": {
+                    "objectUrn": "urn:li:school:19657",
+                    "entityUrn": "urn:li:fs_miniSchool:19657",
+                    "active": true,
+                    "schoolName": "University of Washington",
+                    "trackingId": "Lo/yW3GzTV+sOc0B7tJhdQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100340",
+                "schoolName": "University of Washington",
+                "fieldOfStudy": "Chemical Engineering (Data Science)",
+                "degreeUrn": "urn:li:fs_degree:500"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1291188957)",
+                    "urn:li:fs_project:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1291254707)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,422737728)",
+                "school": {
+                    "objectUrn": "urn:li:school:19657",
+                    "entityUrn": "urn:li:fs_miniSchool:19657",
+                    "active": true,
+                    "schoolName": "University of Washington",
+                    "trackingId": "pzHVVKsZSqeqEQ4LoVe0GQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "description": "A graduate training program of the Clean Energy Institute, funded by the National Science Foundation Research Traineeship Program (NRT). The project-based learning component of the traineeship will provide graduate students the chance to teach and practice leadership and management skills, a unique opportunity most trainees would not otherwise receive.\n\n• Coursework: Software Engineering for Data Scientists, Data Science Methods for Clean Energy Research, Machine Learning for Biomedical and Public Health Big Data, Math for Engineering Analysis\n\n• Projects:\n- Developing a Visualization Tool for Unsupervised Machine Learning Analysis on Genomics Data (Master Thesis)\n- Analysis and Optimization of Lignin Pyrolysis Kinetic Model (Data Science Capstone Project)\n- Electricity Analysis and Suggestion System (Data Science Coursework Project)\n- Regression Analysis of Harvard Clean Energy Project Database (Data Science Coursework Project)\nhttp://www.cei.washington.edu/opportunities/direct/",
+                "degreeName": "Training Program",
+                "schoolName": "University of Washington",
+                "fieldOfStudy": "Data Science: Data-Intensive Research Enabling Clean Technologies (DIRECT)",
+                "schoolUrn": "urn:li:fs_miniSchool:19657"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,355940265)",
+                    "urn:li:fs_course:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,513123214)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,512641089)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,241873494)",
+                "school": {
+                    "objectUrn": "urn:li:school:11389",
+                    "entityUrn": "urn:li:fs_miniSchool:11389",
+                    "active": true,
+                    "schoolName": "Tianjin University",
+                    "trackingId": "0KUUbAdHSNCqNCT+YNw9UQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF4wed2P4L9EA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100340",
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "Tianjin University",
+                "fieldOfStudy": "Chemical Engineering",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:11389"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Mandarin",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Student Mentor",
+                "companyName": "University of Washington",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "cause": "EDUCATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2584",
+                        "entityUrn": "urn:li:fs_miniCompany:2584",
+                        "name": "University of Washington",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630545704089/university_of_washington_logo?e=1748476800&v=beta&t=qyJNcJufH75UTZBHgt7cQgbqFBTE_PIB9dgx8UckpQk",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630545704089/university_of_washington_logo?e=1748476800&v=beta&t=VBrp2P7uMB2a9BvevBkfawOBJV-shf4l3W5lkbWnnPI",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630545704089/university_of_washington_logo?e=1748476800&v=beta&t=NO19wWq1Rky3YttLn3zRQ36LndcMujiPCjqmmkFt9-w",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEMmhF9TqUCgA/company-logo_"
+                            }
+                        },
+                        "universalName": "university-of-washington",
+                        "dashCompanyUrn": "urn:li:fsd_company:2584",
+                        "trackingId": "AdcR9UUQQ0GfNgl8CyywmQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2584"
+            },
+            {
+                "role": "Venue Volunteer",
+                "companyName": "Olympic Council of Asia (OCA)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2013
+                    }
+                },
+                "cause": "SOCIAL_SERVICES"
+            },
+            {
+                "role": "Volunteer Teacher",
+                "companyName": "Chinese Heart (Culture Promotion in Sichuan Province)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2013
+                    }
+                },
+                "cause": "EDUCATION"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,422736113)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jiayuan (Vivian)",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "occupation": "Data & Applied Scientist at Microsoft",
+                            "objectUrn": "urn:li:member:373144834",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "publicIdentifier": "jyguo-vivian",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1585809611293?e=1746057600&v=beta&t=m-SjIm8Swm2dsZAqeG_AkZ5Bbc9f4BuqA0qN8X1Xwiw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1585809611267?e=1746057600&v=beta&t=jwyIDgJPL_s3b6i-7wXZkAn_AYO1UoxRpR6sxIueZV8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1585809611331?e=1746057600&v=beta&t=b-inwZOeA0tx7jj5KtBN9IvAHGtyX0s4WX4tq92LaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 686,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1585809611363?e=1746057600&v=beta&t=-RJhNgnTRkikTMKIp9mOZzn4yPdq-NZuAPUP9zx4e6E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 686
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF-jpX-PuWccw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ejTgOu9qQW2HFqLuCFGq9g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1291322357,185530604)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "description": "•\tPre-processed Dnase-seq and RNA-seq data with high dimensional features (p > 20,000) in Python\n•\tImplemented and compared Ridge Regression, Lasso Regression, Random Forest and SVM, increasing prediction accuracy by 13%",
+                "title": "Genome-wide Prediction of Chromatin Accessibility based on gene expression                                   ",
+                "url": "https://github.com/JiayuanGuo/Machine-Learning-Methods-biost/tree/master/ClassProject"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jiayuan (Vivian)",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "occupation": "Data & Applied Scientist at Microsoft",
+                            "objectUrn": "urn:li:member:373144834",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "publicIdentifier": "jyguo-vivian",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1585809611293?e=1746057600&v=beta&t=m-SjIm8Swm2dsZAqeG_AkZ5Bbc9f4BuqA0qN8X1Xwiw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1585809611267?e=1746057600&v=beta&t=jwyIDgJPL_s3b6i-7wXZkAn_AYO1UoxRpR6sxIueZV8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1585809611331?e=1746057600&v=beta&t=b-inwZOeA0tx7jj5KtBN9IvAHGtyX0s4WX4tq92LaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 686,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1585809611363?e=1746057600&v=beta&t=-RJhNgnTRkikTMKIp9mOZzn4yPdq-NZuAPUP9zx4e6E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 686
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF-jpX-PuWccw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ejTgOu9qQW2HFqLuCFGq9g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1132798114,199605512)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "description": "•\tExplored and processed unbalanced dataset by resampling technique using Python.\n•\tBuilt classification model for fraud detection using Logistic Regression and Random Forests.\n•\tEvaluated the model by using the performance metrics (confusion matrix, precision-recall curve, ROC curve) ",
+                "title": "Bank Fraud Detection Analysis"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,422737728)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jiayuan (Vivian)",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "occupation": "Data & Applied Scientist at Microsoft",
+                            "objectUrn": "urn:li:member:373144834",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "publicIdentifier": "jyguo-vivian",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1585809611293?e=1746057600&v=beta&t=m-SjIm8Swm2dsZAqeG_AkZ5Bbc9f4BuqA0qN8X1Xwiw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1585809611267?e=1746057600&v=beta&t=jwyIDgJPL_s3b6i-7wXZkAn_AYO1UoxRpR6sxIueZV8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1585809611331?e=1746057600&v=beta&t=b-inwZOeA0tx7jj5KtBN9IvAHGtyX0s4WX4tq92LaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 686,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1585809611363?e=1746057600&v=beta&t=-RJhNgnTRkikTMKIp9mOZzn4yPdq-NZuAPUP9zx4e6E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 686
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF-jpX-PuWccw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ejTgOu9qQW2HFqLuCFGq9g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1291254707,185531703)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "description": "•\tAnalyzed chemical kinetic model of lignin pyrolysis (involving 93 species and 406 reactions) to predict the temporal evolution of molecules and functional groups during chemical reaction\n•\tDeveloped an open source package in both Cantera and Scipy to solve complex reaction network\n",
+                "title": "Analysis and Optimization of Lignin Pyrolysis Kinetic Model                                                ",
+                "url": "https://github.com/JiayuanGuo/Ligpy-Cantera"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,422737728)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jiayuan (Vivian)",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "occupation": "Data & Applied Scientist at Microsoft",
+                            "objectUrn": "urn:li:member:373144834",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "publicIdentifier": "jyguo-vivian",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1585809611293?e=1746057600&v=beta&t=m-SjIm8Swm2dsZAqeG_AkZ5Bbc9f4BuqA0qN8X1Xwiw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1585809611267?e=1746057600&v=beta&t=jwyIDgJPL_s3b6i-7wXZkAn_AYO1UoxRpR6sxIueZV8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1585809611331?e=1746057600&v=beta&t=b-inwZOeA0tx7jj5KtBN9IvAHGtyX0s4WX4tq92LaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 686,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1585809611363?e=1746057600&v=beta&t=-RJhNgnTRkikTMKIp9mOZzn4yPdq-NZuAPUP9zx4e6E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 686
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF-jpX-PuWccw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ejTgOu9qQW2HFqLuCFGq9g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,1291188957,185531718)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "•\tImplemented Random Forest model and statistical analysis for electricity generation suggestion model.\n•\tBuilt Graphical User Interface (GUI) based on Tkinter package, with prioritized resources and revenue plots presented by matplotlib.  ",
+                "title": "Electricity Analysis and Suggestion System (EASE)                                                                ",
+                "url": "https://github.com/JiayuanGuo/EASE-Project"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,241873494)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jiayuan (Vivian)",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "occupation": "Data & Applied Scientist at Microsoft",
+                            "objectUrn": "urn:li:member:373144834",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk",
+                            "publicIdentifier": "jyguo-vivian",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1585809611293?e=1746057600&v=beta&t=m-SjIm8Swm2dsZAqeG_AkZ5Bbc9f4BuqA0qN8X1Xwiw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1585809611267?e=1746057600&v=beta&t=jwyIDgJPL_s3b6i-7wXZkAn_AYO1UoxRpR6sxIueZV8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1585809611331?e=1746057600&v=beta&t=b-inwZOeA0tx7jj5KtBN9IvAHGtyX0s4WX4tq92LaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 686,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1585809611363?e=1746057600&v=beta&t=-RJhNgnTRkikTMKIp9mOZzn4yPdq-NZuAPUP9zx4e6E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 686
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF-jpX-PuWccw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ejTgOu9qQW2HFqLuCFGq9g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk,512641089,185529914)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "description": "•\tPreparation of the hydrophobic coating on the surface of foam silicon carbide packing by sol-gel method\n•\tPreparation of the inorganic-organic composite coating to increase the adhesion of the coating\n•\tResearch on the liquid distribution by high-speed video technology\n\n",
+                "title": "Preparation of the hydrophobic coating on SiC foam structured packing and the research of its liquid distribution ability "
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Git"
+            },
+            {
+                "name": "Shell Scripting"
+            }
+        ],
+        "urn_id": "ACoAABY9vQIB0e8m6bavWsqOezTz966IJDCdhfk"
+    }
+}

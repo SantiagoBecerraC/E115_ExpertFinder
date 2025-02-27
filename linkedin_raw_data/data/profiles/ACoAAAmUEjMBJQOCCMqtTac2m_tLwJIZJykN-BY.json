@@ -1,0 +1,940 @@
+{
+    "urn_id": "ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+    "fetch_timestamp": "2025-02-26T21:25:18.975855",
+    "profile_data": {
+        "summary": "Software Engineer, C++, Python, Java, Spring Framework, Azure, Azure Storage, AWS, Infrastructure, Distributed System, Cassandra, Spark, Kafka",
+        "industryName": "Internet",
+        "lastName": "Cheng",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Tony",
+        "entityUrn": "urn:li:fs_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102571732"
+        },
+        "geoLocationName": "New York, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Software Engineer at Google",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_",
+        "img_99_100": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+        "img_199_200": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+        "img_399_400": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+        "img_674_674": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+        "profile_id": "ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+        "member_urn": "urn:li:member:160698931",
+        "public_id": "tonycheng98",
+        "experience": [
+            {
+                "locationName": "Mountain View, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1691639124)",
+                "geoLocationName": "Mountain View, California, United States",
+                "geoUrn": "urn:li:fs_geo:102250832",
+                "companyName": "Google",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1737678556)",
+                "companyName": "Bank of America Merrill Lynch",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "AVP Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:3797085",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEwSq6HbLmEdQ/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1121662446)",
+                "geoLocationName": "Greater New York City Area",
+                "companyName": "Priceline",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:7451",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHPSj3O0m7XYg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,4)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,5)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,6)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,7)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,8)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,9)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,11)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,14)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,15)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,16)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,18)",
+                    "urn:li:fs_course:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,19)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,300975492)",
+                "school": {
+                    "objectUrn": "urn:li:school:19058",
+                    "entityUrn": "urn:li:fs_miniSchool:19058",
+                    "active": true,
+                    "schoolName": "Baruch College",
+                    "trackingId": "HM5UCuQSQxe9rCtgXnw6WQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGKtkUZgoPtHA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100692",
+                "degreeName": "Bachelor of Arts (B.A.)",
+                "schoolName": "Baruch College",
+                "fieldOfStudy": "Mathematics and Statistics",
+                "schoolUrn": "urn:li:fs_miniSchool:19058"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Mandarin",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "SIchuanese Mandarin",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Society of Actuaries",
+                "name": "Exam P/1, Probability Theory",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:27203",
+                    "entityUrn": "urn:li:fs_miniCompany:27203",
+                    "name": "Society of Actuaries",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=sYa9M5BEbw9BJuhVJLjbLtQVJZvmkpEHz1skZ1_xaQQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=9kY7HzFpQsKhTNB0e1q6WPT9YcSHGMNh3bcrL0kamqg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=ue5FNC0ylk_goD8Mj0DfTTxBg72ej1RePVaSL3lx0iQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEmalSAi4D24A/company-logo_"
+                        }
+                    },
+                    "universalName": "society-of-actuaries",
+                    "dashCompanyUrn": "urn:li:fsd_company:27203",
+                    "trackingId": "H1dv0Zt1SFmPUXN9LkmIEA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:27203"
+            },
+            {
+                "authority": "Society of Actuaries",
+                "name": "Exam FM/2, Financial Mathematics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:27203",
+                    "entityUrn": "urn:li:fs_miniCompany:27203",
+                    "name": "Society of Actuaries",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=sYa9M5BEbw9BJuhVJLjbLtQVJZvmkpEHz1skZ1_xaQQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=9kY7HzFpQsKhTNB0e1q6WPT9YcSHGMNh3bcrL0kamqg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=ue5FNC0ylk_goD8Mj0DfTTxBg72ej1RePVaSL3lx0iQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEmalSAi4D24A/company-logo_"
+                        }
+                    },
+                    "universalName": "society-of-actuaries",
+                    "dashCompanyUrn": "urn:li:fsd_company:27203",
+                    "trackingId": "7S/oqXguQb6j7qvXy3bSQg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:27203"
+            },
+            {
+                "authority": "Society of Actuaries",
+                "name": "Exam MFE/3F, Financial Economics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:27203",
+                    "entityUrn": "urn:li:fs_miniCompany:27203",
+                    "name": "Society of Actuaries",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=sYa9M5BEbw9BJuhVJLjbLtQVJZvmkpEHz1skZ1_xaQQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=9kY7HzFpQsKhTNB0e1q6WPT9YcSHGMNh3bcrL0kamqg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719850933032/society_of_actuaries_logo?e=1748476800&v=beta&t=ue5FNC0ylk_goD8Mj0DfTTxBg72ej1RePVaSL3lx0iQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEmalSAi4D24A/company-logo_"
+                        }
+                    },
+                    "universalName": "society-of-actuaries",
+                    "dashCompanyUrn": "urn:li:fsd_company:27203",
+                    "trackingId": "WUCZQqFmSOqpN52WpMTwLw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:27203"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "The Awards and Scholarships Committee met three times during the academic year 2013-2014\nto evaluate and recommend nominations for the following awards and scholarships. \nIn addition, the committee reviewed applications and selected scholarship recipients electronically two times.",
+                "title": "Student Academic Merit Scholarship",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "issuer": "Sharon Lall - Ramnarine, Chairperson"
+            },
+            {
+                "title": "Mathematics and Computer Science Award",
+                "issueDate": {
+                    "month": 5,
+                    "year": 2014
+                },
+                "issuer": "City University of New York"
+            },
+            {
+                "title": "Arthur Werner Memorial Scholarship  Endowment",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "issuer": "Sharon Lall - Ramnarine, Chairperson"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1252961979,139241950)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                },
+                "description": " Abstract: Affine transformations are very important in image recognition and image recovery. An affine transformation is a composition of rotations, translations, dilation, and shears. In this talk, I will show how to use Linear Algebra and other operations to investigate the graph of an orbit obtained from iterations of an affine transformation applied to a point. More precisely, I will show that for a given unimodular affine transformation, the graph of orbit of a point lies on a conic section. We will demonstrate our results using Maple.",
+                "title": "The Orbits of Unimodular Affine Dynamic Transformations"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,3)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul",
+                            "lastName": "Donato",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAN3g-UBdSTCiAQORk45cWGzcoUI1gPlSXc",
+                            "occupation": "Financial Strategist | USMC Veteran | Researcher | Community College Student",
+                            "objectUrn": "urn:li:member:58164197",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAN3g-UBdSTCiAQORk45cWGzcoUI1gPlSXc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 757,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1705367652086?e=1746057600&v=beta&t=lAv5xWyTajO3Sobxf-L19AS9lwyeYSAW9KO_ahUsZp0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 189
+                                        },
+                                        {
+                                            "width": 757,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705367652086?e=1746057600&v=beta&t=Bnxv_cGgXR0RMAiZVsWLZHHRD9FhCFEdzWHlBuvBct4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 189
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFVjGfVypa_Zw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "paulsdonato",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1690630892829?e=1746057600&v=beta&t=XI9IBgBXBeCa9lvQmbABsB6XPBCdmFEmscsbGpoTIIA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1690630892829?e=1746057600&v=beta&t=RRcE6c_V1MUoRSr3JmSca9cZSgmDZ95frUCZa-CjtRs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1690630892829?e=1746057600&v=beta&t=Mx7qB_35HkS0umR6nftQ356f0_eg1XuFVFX3aI_aR_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1690630892829?e=1746057600&v=beta&t=GHAWY6pJU8oIxYcEbJP__dOzHZk9EkQ5D0974cL2w1k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHInGMG_leQrg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fTaL4aErRF6M/asHp53xjQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,4)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAN3g-UBdSTCiAQORk45cWGzcoUI1gPlSXc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Ross",
+                            "lastName": "Dong",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA6x7VsBGc2qzpuu8czJXjbVC-HkkudEvDI",
+                            "occupation": "躬行学堂创始人",
+                            "objectUrn": "urn:li:member:246541659",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA6x7VsBGc2qzpuu8czJXjbVC-HkkudEvDI",
+                            "publicIdentifier": "ross-dong-6a36966a",
+                            "trackingId": "SJ69XE7NTFiVGyksMYykNw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,5)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA6x7VsBGc2qzpuu8czJXjbVC-HkkudEvDI"
+                    },
+                    {
+                        "name": "Gabriela Gomez",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,6)"
+                    },
+                    {
+                        "name": "Ee Shiun Hong",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,7)"
+                    },
+                    {
+                        "name": "Rose Hoa Khuu",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,8)"
+                    },
+                    {
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,9)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAttifUBVsTsDqwUcM6kSBCosXkG2zSm6Ko"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vijay",
+                            "lastName": "S.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4GnGkBRQskcNbyNyrorC5bm5lfI15qHlQ",
+                            "occupation": "Graduated From Zicklin School of Business - Cuny Baruch College",
+                            "objectUrn": "urn:li:member:235314281",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4GnGkBRQskcNbyNyrorC5bm5lfI15qHlQ",
+                            "publicIdentifier": "vijay-s-2b598166",
+                            "trackingId": "Q66fwykBS7SFIyz0zMIr1w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,2,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4GnGkBRQskcNbyNyrorC5bm5lfI15qHlQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2013
+                    }
+                },
+                "description": "The College Fed Challenge is a yearly team competition for undergraduate college students inspired by the working of the Federal Open Market Committee (FOMC). The intent is to encourage students to learn more about the U.S. macro economy, the Federal Reserve System and the implementation of monetary policy. \n\nIn addition to the educational benefits and confidence arising through rigorous competition, students benefit from opportunities to apply their economic experiences in the real world. These skill learned can be applied to acquire internships, discover potential career paths, and hone skills of public speaking, logical thinking, writing, and analysis. \n\n•\tTo develop an understanding of the components of a modern    economy and their long-term contribution to economic growth and development, while appreciating the short-run fluctuations, which lead to business cycle activity.\n•\tTo comprehend the role of the Federal Reserve System in creating monetary policy designed to promote economic stabilization in furtherance of achieving the dual mandate of price level stability and maximum employment while assuring moderate long term interest rates and financial system stability.\n•\tTo understand the short-run and long-run interactions of monetary policy with regard to unemployment, inflation, economic growth, fiscal policy, and exchange rate stability.\n•\tTo promote an understanding of current political and economic issues which impact on overall economic and financial system activity.\n•\tTo increase students’ awareness and understanding of the unique role of the Federal Reserve in the economy.\n•\tTo develop students’ research, cooperation, presentation, and critical thinking skills.",
+                "title": "College Fed Challenge",
+                "url": "http://www.qcc.cuny.edu/news/2013/04/PBS-Economic-Commentator-Addresses-Fed-Challenge-Team%20.html"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,195107656,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Jia",
+                            "lastName": "Cheong, M.S.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA687f4Be564GkfmtXCeurCB0jmHhq8pLUk",
+                            "occupation": "UX Researcher",
+                            "objectUrn": "urn:li:member:247262718",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA687f4Be564GkfmtXCeurCB0jmHhq8pLUk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1603060006085?e=1746057600&v=beta&t=LNbiLNqEjLOjE7ZYEg4fx8gofhFJYlmnVANMkfPwIos",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 900,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1603060006085?e=1746057600&v=beta&t=4szxhpGtPZCTLUV_Q-QzIFpiIWsRjSzrw2HP3G_8k34",
+                                            "expiresAt": 1746057600000,
+                                            "height": 225
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFpHHvRVdpepA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jia-cheong",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1651355992890?e=1746057600&v=beta&t=JqHui5IqAQ97eb8ZWxn23XAkmZq1I5ljCxG9vVWxyv0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1651355992890?e=1746057600&v=beta&t=JtbLU4pXdnZTCn-knbW4-CNGP6a6s5IqAeT3iVi3FRQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1651355992890?e=1746057600&v=beta&t=xyaLyNJI4xNHh-m3_XMb3bz5pNAM4LbtBguMq0hgdDA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 696,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1651355992890?e=1746057600&v=beta&t=QmI2UlZ_ngkqWzmDIOU-Wy4jEAxGF3a0-EcGlgcZHeE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 696
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEGiQSWSesNNg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "pWzgDvvLQfeH48bqmYUpYQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,195107656,2)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA687f4Be564GkfmtXCeurCB0jmHhq8pLUk"
+                    },
+                    {
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,195107656,3)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAttifUBVsTsDqwUcM6kSBCosXkG2zSm6Ko"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Elvis",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAuNj1QB-n4Zs9JK3bbTIdWZZkFuQ-Q054o",
+                            "occupation": "Business & Commercial Loan Manager | Operations SME | Client Specialist",
+                            "objectUrn": "urn:li:member:193826644",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAuNj1QB-n4Zs9JK3bbTIdWZZkFuQ-Q054o",
+                            "publicIdentifier": "eguaman",
+                            "trackingId": "JpOlROozS7q34SwdhIrkQg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,195107656,4)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAuNj1QB-n4Zs9JK3bbTIdWZZkFuQ-Q054o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2013
+                    }
+                },
+                "description": "A mock trial is an act or imitation trial. It is similar to a moot court, but mock trials simulate lower-court trials, while moot court simulates appellate court hearings. Attorneys preparing for a real trial might use a mock trial consisting of volunteers as role players to test theories or experiment with each other. Mock trial is also the name of an extracurricular program in which students participate in rehearsed trials to learn about the legal system in a competitive manner.",
+                "title": "Mock Trial Competition"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1042061335,145816279)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    }
+                ],
+                "description": "•\tClassified whether clients will leave the bank based on geo-demographical and transactional information\n•\tCreated Artificial Neural Network model on bank churn classification by using Keras & Theano & Tensorflow\n•\tApplied adam optimizer and binary cross entropy along with stochastic gradient descent\n",
+                "title": "Bank Churning Classification",
+                "url": "https://github.com/Taoge123/Artificial-Neural-Network"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1042127604,146168100)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    }
+                ],
+                "description": "•\tImproved various update rules to optimize Neural Networks, batch normalization, dropout\n•\tConstructed image captioning with RNNS & LSTMs and image generation by using classes, inversion and DeepDream\n",
+                "title": "Convolutional Neural Network Implementation "
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1042094387,145817150)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    }
+                ],
+                "description": "•\tTrained a Convolutional Neural Network (CNN) to classify cats and dogs species with an accuracy of 95%\n•\tUtilized Keras and Tensorflow for analysis, image augmentation, and GPU parallelism\n",
+                "title": "Image Detection",
+                "url": "https://github.com/Taoge123/Convolutional-Neural-Network-Image-Classification"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Cheng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "occupation": "Software Engineer at Google",
+                            "objectUrn": "urn:li:member:160698931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY",
+                            "publicIdentifier": "tonycheng98",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603918632363?e=1746057600&v=beta&t=puwSNr1Npjl_E6ADOgN4faXRNTb6PUiY0935sPTh2a4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603918632364?e=1746057600&v=beta&t=0Qf4dgcB969gJzPaJJYOxjKJHDi0V6l9yYxm6sFL4E4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603918632364?e=1746057600&v=beta&t=updCc_J6BZUa_9uB-wquJe0j3BpeJ2-VTvUtyXKvYuw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 674,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603918632364?e=1746057600&v=beta&t=1U7YOOKc8eDQJ7Cfa8GaxLzmdTwxrS7K6S6hr-WdE6c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 674
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF_9eWAarLA0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/35MuUa7SI+sFfaTcBVXYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY,1042019779,145818188)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+                    }
+                ],
+                "description": "•\tDeveloped Quant Trading models using advanced Machine Learning techniques (ie. Random Forests and KNN, etc)\n•\tUsed Gradient Boosted trees on tuning parameters and evaluated performance by Sharpe Ratio\n•\tBuild an end-to-end application from data collection and preparation to model selection\n",
+                "title": "Quant Trading model",
+                "url": "https://github.com/Taoge123/Quant-Trade-Model---Machine-Learning"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Software Infrastructure"
+            },
+            {
+                "name": "Software Design"
+            },
+            {
+                "name": "Engineering"
+            },
+            {
+                "name": "Algorithms"
+            }
+        ],
+        "urn_id": "ACoAAAmUEjMBJQOCCMqtTac2m_tLwJIZJykN-BY"
+    }
+}

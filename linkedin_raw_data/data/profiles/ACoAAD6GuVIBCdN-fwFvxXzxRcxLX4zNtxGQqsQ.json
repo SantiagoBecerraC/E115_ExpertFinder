@@ -1,0 +1,601 @@
+{
+    "urn_id": "ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+    "fetch_timestamp": "2025-02-26T21:37:34.758305",
+    "profile_data": {
+        "summary": "My experience goes beyond just analyzing and controlling cash flows—I have transformed my skills into something greater, inspired by the world of IT technologies. I shifted to development, choosing Python as a tool to create powerful and innovative solutions.\n\nI am an expert in building APIs, integrating chatbots, and implementing complex, data-driven projects. My work speaks for itself: it doesn’t just function—it impresses. I am ready to apply my unique skill set in a team environment.\n\nI am actively improving my English and am already prepared to use it to expand my professional horizons. I don’t just learn—I strive to always be one step ahead.",
+        "industryName": "Computer Software",
+        "lastName": "Shevchenko",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Anna",
+        "entityUrn": "urn:li:fs_profile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104987206"
+        },
+        "geoLocationName": "Cary, North Carolina",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Python Developer | Data Analysis",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQElaT7a7bI_gA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1727878186642?e=1741230000&v=beta&t=GCR4PhnIqHS-_hqP_I7zbes5V366ZZDJ26LiJ3uu34o",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1727878186642?e=1741230000&v=beta&t=gd_Uz2aJqZdWrHowOitdslvr69A-76YxdeQY-5oBZss",
+        "img_600_600": "800_800/profile-framedphoto-shrink_800_800/0/1727878186642?e=1741230000&v=beta&t=q7raOtSz87K159s2SHf2LoYDBNNF-2356Ow_s_0V9SQ",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1727878186608?e=1741230000&v=beta&t=3cQ_IeODyLYLmnlaAmAeqO3CwiKEaK7wBY2w-GAmwVQ",
+        "profile_id": "ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+        "member_urn": "urn:li:member:1049016658",
+        "public_id": "radiant2958",
+        "experience": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2038512669)",
+                    "urn:li:fs_project:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,667167282)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2300694643)",
+                "companyName": "ТОО Roiter",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "description": "Collaborated on developing RESTful APIs and databases for a logistics company, improving cargo distribution efficiency and reducing logistic errors by 20%.\nLed the development of an API for a tourism platform with booking functionality and Telegram bot integration, reducing request processing time and boosting sales by 3%.\nOptimized API performance with Redis caching, reducing client response times by 70% and significantly enhancing processing speed.",
+                "title": "Python Developer"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,1179316743)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2178569693)",
+                "companyName": "Freelance",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Managed end-to-end development of independent Python projects, delivering high-quality solutions on time.\nDesigned and deployed chatbots to automate business workflows, boosting efficiency and reducing manual effort by up to 40%.\nBuilt scalable databases and FastAPI modules, ensuring seamless data integration and future scalability.\nDeveloped APIs with automated payment systems for volunteer projects, streamlining workflows and improving user experience.\nCollaborated with teams to create innovative backend solutions, driving a 25% increase in customer satisfaction.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Backend Developer",
+                "companyUrn": "urn:li:fs_miniCompany:882217"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2178572142)",
+                "companyName": "Treasury Support Department",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "Delivered data-driven insights to optimize account openings and payment processes, improving operational efficiency and compliance.\nConducted advanced analysis using Python (Pandas), SQL, and Excel to enhance fund allocation and financial decision-making.\nReduced payment errors by 25% through data validation and process improvement.\nBoosted client trust by providing accurate, actionable financial reports to support strategic decisions.",
+                "title": "Data Analyst"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2178574488)",
+                "companyName": "Project activities",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "Analyzed data using machine learning. Sample Projects: \"Bitcoin Price Prediction\" A neural network that is trained to predict the Bitcoin price. This project was made independently as part of training at the \"University of Artificial Intelligence\". My tasks: -processed and prepared data; -developed and built the structure of the neural network; -trained the neural network using the algorithm; -tested the model on test data; - Analyzed the received forecasts. Stack: Python, Pandas, Numpy, TensorFlow, Scikit-learn, Matplotlib.",
+                "title": "Data Scientist"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,834634319)",
+                "activities": "Tutorship",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2022
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+                "degreeName": "Junior",
+                "schoolName": "GeekBrains",
+                "fieldOfStudy": "Computer Engineering"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,834816957)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "schoolName": "University of Artificial Intelligence",
+                "fieldOfStudy": "Data science and artificial intelligence"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,834819635)",
+                "school": {
+                    "objectUrn": "urn:li:school:16214",
+                    "entityUrn": "urn:li:fs_miniSchool:16214",
+                    "active": true,
+                    "schoolName": "Altai State University",
+                    "trackingId": "7hyywhxyRx2TXN67U9bbvg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Алтайский Государственный Университет",
+                "fieldOfStudy": "Finance and financial management",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:16214"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Английский",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Русский",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2300694643)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Anna",
+                            "lastName": "Shevchenko",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "occupation": "Python Developer | Data Analysis",
+                            "objectUrn": "urn:li:member:1049016658",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706249153142?e=1746057600&v=beta&t=WDnokshnyjVxsqQyVz_XxkgJnCStPdYtgQ8h390Q0_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706249153142?e=1746057600&v=beta&t=bUcLL-1W9A87QDsi3xAPtibrzIXkb6bQivCEsZcrirI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHmChQ3AkyIwQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "radiant2958",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1727878186642?e=1741230000&v=beta&t=GCR4PhnIqHS-_hqP_I7zbes5V366ZZDJ26LiJ3uu34o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1727878186642?e=1741230000&v=beta&t=gd_Uz2aJqZdWrHowOitdslvr69A-76YxdeQY-5oBZss",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1727878186642?e=1741230000&v=beta&t=q7raOtSz87K159s2SHf2LoYDBNNF-2356Ow_s_0V9SQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 600
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1727878186608?e=1741230000&v=beta&t=3cQ_IeODyLYLmnlaAmAeqO3CwiKEaK7wBY2w-GAmwVQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQElaT7a7bI_gA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iEahJQdBQMay7zbld8239A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2038512669,440511539)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": "This project is a website for the tourist base \"Usadba na Chemalke,\" hosted on the domain https://усадьбаначемалке.рф\n\n\"Usadba na Chemalke\" is a cozy tourist base located in a picturesque area. The website provides information about available rooms, services, news, and events. It also features a room booking system.\n\nhttps://github.com/radiant2958/TouristBaseSite.git\n\nTech Stack: Python 3.11+, FastAPI, MySQL, Django, Docker, HTML, CSS, JavaScript.",
+                "title": "Web-site Base on Chemalka"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2300694643)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Anna",
+                            "lastName": "Shevchenko",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "occupation": "Python Developer | Data Analysis",
+                            "objectUrn": "urn:li:member:1049016658",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706249153142?e=1746057600&v=beta&t=WDnokshnyjVxsqQyVz_XxkgJnCStPdYtgQ8h390Q0_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706249153142?e=1746057600&v=beta&t=bUcLL-1W9A87QDsi3xAPtibrzIXkb6bQivCEsZcrirI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHmChQ3AkyIwQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "radiant2958",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1727878186642?e=1741230000&v=beta&t=GCR4PhnIqHS-_hqP_I7zbes5V366ZZDJ26LiJ3uu34o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1727878186642?e=1741230000&v=beta&t=gd_Uz2aJqZdWrHowOitdslvr69A-76YxdeQY-5oBZss",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1727878186642?e=1741230000&v=beta&t=q7raOtSz87K159s2SHf2LoYDBNNF-2356Ow_s_0V9SQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 600
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1727878186608?e=1741230000&v=beta&t=3cQ_IeODyLYLmnlaAmAeqO3CwiKEaK7wBY2w-GAmwVQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQElaT7a7bI_gA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iEahJQdBQMay7zbld8239A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,667167282,441334187)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "This is a Django web application designed for storing, searching, and sharing culinary recipes. Our website offers a user-friendly interface for creating and editing recipes, as well as the ability to share your culinary masterpieces with other users.\nWebsite:  https://radiant.pythonanywhere.com/",
+                "title": "Delicious Recipe Book"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Anna",
+                            "lastName": "Shevchenko",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "occupation": "Python Developer | Data Analysis",
+                            "objectUrn": "urn:li:member:1049016658",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706249153142?e=1746057600&v=beta&t=WDnokshnyjVxsqQyVz_XxkgJnCStPdYtgQ8h390Q0_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706249153142?e=1746057600&v=beta&t=bUcLL-1W9A87QDsi3xAPtibrzIXkb6bQivCEsZcrirI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHmChQ3AkyIwQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "radiant2958",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1727878186642?e=1741230000&v=beta&t=GCR4PhnIqHS-_hqP_I7zbes5V366ZZDJ26LiJ3uu34o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1727878186642?e=1741230000&v=beta&t=gd_Uz2aJqZdWrHowOitdslvr69A-76YxdeQY-5oBZss",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1727878186642?e=1741230000&v=beta&t=q7raOtSz87K159s2SHf2LoYDBNNF-2356Ow_s_0V9SQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 600
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1727878186608?e=1741230000&v=beta&t=3cQ_IeODyLYLmnlaAmAeqO3CwiKEaK7wBY2w-GAmwVQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQElaT7a7bI_gA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iEahJQdBQMay7zbld8239A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,666973097,441336122)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "description": "This service is a fully functional RESTful API built using Django REST Framework (DRF). It is designed to facilitate the search for the nearest available vehicles for cargo transportation and to manage information about cargo and vehicles.",
+                "title": "Logistics API Service"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,2178569693)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Anna",
+                            "lastName": "Shevchenko",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "occupation": "Python Developer | Data Analysis",
+                            "objectUrn": "urn:li:member:1049016658",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706249153142?e=1746057600&v=beta&t=WDnokshnyjVxsqQyVz_XxkgJnCStPdYtgQ8h390Q0_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706249153142?e=1746057600&v=beta&t=bUcLL-1W9A87QDsi3xAPtibrzIXkb6bQivCEsZcrirI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHmChQ3AkyIwQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "radiant2958",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1727878186642?e=1741230000&v=beta&t=GCR4PhnIqHS-_hqP_I7zbes5V366ZZDJ26LiJ3uu34o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1727878186642?e=1741230000&v=beta&t=gd_Uz2aJqZdWrHowOitdslvr69A-76YxdeQY-5oBZss",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1727878186642?e=1741230000&v=beta&t=q7raOtSz87K159s2SHf2LoYDBNNF-2356Ow_s_0V9SQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 600
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1727878186608?e=1741230000&v=beta&t=3cQ_IeODyLYLmnlaAmAeqO3CwiKEaK7wBY2w-GAmwVQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQElaT7a7bI_gA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iEahJQdBQMay7zbld8239A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,1179316743,407057379)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "description": "Development of a web service in Python3 using FastAPI to store English questions for quizzes via an external API.",
+                "title": "Web-service SboschikQuestions"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Anna",
+                            "lastName": "Shevchenko",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "occupation": "Python Developer | Data Analysis",
+                            "objectUrn": "urn:li:member:1049016658",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706249153142?e=1746057600&v=beta&t=WDnokshnyjVxsqQyVz_XxkgJnCStPdYtgQ8h390Q0_I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706249153142?e=1746057600&v=beta&t=bUcLL-1W9A87QDsi3xAPtibrzIXkb6bQivCEsZcrirI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHmChQ3AkyIwQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "radiant2958",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1727878186642?e=1741230000&v=beta&t=GCR4PhnIqHS-_hqP_I7zbes5V366ZZDJ26LiJ3uu34o",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1727878186642?e=1741230000&v=beta&t=gd_Uz2aJqZdWrHowOitdslvr69A-76YxdeQY-5oBZss",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1727878186642?e=1741230000&v=beta&t=q7raOtSz87K159s2SHf2LoYDBNNF-2356Ow_s_0V9SQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 600
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1727878186608?e=1741230000&v=beta&t=3cQ_IeODyLYLmnlaAmAeqO3CwiKEaK7wBY2w-GAmwVQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQElaT7a7bI_gA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iEahJQdBQMay7zbld8239A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ,1243603003,385331062)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "A project to develop a neural network for predicting the Bitcoin exchange rate based\non historical data. The project used Python libraries such as Pandas, NumPy, TensorFlow\nand Scikit-learn. The task was to pre-process the data and configure the parameters of\nthe model. Data preprocessing functions and a three-layer neural network were created\nusing the activation functions \"relu\" and \"linear\", trained on the optimization algorithm\n\"adam\". The average absolute error (MAE) was used as a metric. The project made it\npossible to predict the future Bitcoin exchange rate quite successfully and compare\nforecasts with real values, despite the simplicity of the neural network.",
+                "title": "Prediction Bitcoin",
+                "url": "https://github.com/radiant2958/Prediction-Bitcoin.git"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python3.11, Django REST Framework, PostgreSQL, Docker, Docker Compose, geopy, Celery."
+            },
+            {
+                "name": "Django REST Framework"
+            },
+            {
+                "name": "Radis"
+            },
+            {
+                "name": "HTML"
+            }
+        ],
+        "urn_id": "ACoAAD6GuVIBCdN-fwFvxXzxRcxLX4zNtxGQqsQ"
+    }
+}

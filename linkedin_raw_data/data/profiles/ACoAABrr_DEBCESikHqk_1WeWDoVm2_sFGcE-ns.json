@@ -1,0 +1,1573 @@
+{
+    "urn_id": "ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+    "fetch_timestamp": "2025-02-26T21:29:45.111884",
+    "profile_data": {
+        "industryName": "Research",
+        "lastName": "Yavary",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 4,
+            "day": 26
+        },
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "Aura Arefeh",
+        "entityUrn": "urn:li:fs_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000084"
+        },
+        "geoLocationName": "San Francisco Bay Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+        "profile_id": "ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+        "member_urn": "urn:li:member:451673137",
+        "public_id": "arefehyavary",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,2561084096)",
+                "companyName": "Google",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Participant, Startup School: Gen AI - Building AI Agents",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "locationName": "California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,1858527678)",
+                "geoLocationName": "California, United States",
+                "geoUrn": "urn:li:fs_geo:102095887",
+                "companyName": "University of California, Davis",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "Discrete Mathematics",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Teaching Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2842",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEBG25KNBwuCQ/company-logo_"
+            },
+            {
+                "locationName": "California, United States",
+                "geoUrn": "urn:li:fs_geo:102095887",
+                "companyName": "University of California, Davis",
+                "description": "Cal Trans Project\nBlood Cell Disease Prediction\nADHD Diagnosis using Actigraph Data\nModel-Based Reinforcement Learning\nDistributional Shift",
+                "title": "Graduate Machine Learning Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:2842",
+                "entityUrn": "urn:li:fs_position:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,1858531307)",
+                "geoLocationName": "California, United States",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,1499795504)"
+                ],
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEBG25KNBwuCQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,2167598440)",
+                "companyName": "MANRRS",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Professional Training & Coaching"
+                    ]
+                },
+                "title": "Graduate Mentor ",
+                "companyUrn": "urn:li:fs_miniCompany:1353221",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGPGbc-07CfuA/company-logo_"
+            },
+            {
+                "locationName": "Tehran, Iran",
+                "entityUrn": "urn:li:fs_position:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,1686056057)",
+                "geoLocationName": "Tehran, Iran",
+                "geoUrn": "urn:li:fs_geo:103186832",
+                "companyName": "University of Tehran",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Researcher",
+                "region": "urn:li:fs_region:(ir,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1657928",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE-NIX4SUSCOg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,1053779724)",
+                "school": {
+                    "objectUrn": "urn:li:school:4070296",
+                    "entityUrn": "urn:li:fs_miniSchool:4070296",
+                    "active": true,
+                    "schoolName": "Y Combinator",
+                    "trackingId": "7C3U9SxCSmCkzPlPciyOBQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "degreeName": "Startup School",
+                "schoolName": "Y Combinator",
+                "schoolUrn": "urn:li:fs_miniSchool:4070296"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,1053783270)",
+                "school": {
+                    "objectUrn": "urn:li:school:484105",
+                    "entityUrn": "urn:li:fs_miniSchool:484105",
+                    "active": true,
+                    "schoolName": "Google pour les pros",
+                    "trackingId": "owQE9jJwQ9SNoStWV+aBCQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFXLzokzsjwEA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "degreeName": "Google Project Management: Professional Certificate",
+                "schoolName": "Google pour les pros",
+                "schoolUrn": "urn:li:fs_miniSchool:484105"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,754392872)",
+                "school": {
+                    "objectUrn": "urn:li:school:17942",
+                    "entityUrn": "urn:li:fs_miniSchool:17942",
+                    "active": true,
+                    "schoolName": "University of California, Davis",
+                    "trackingId": "4xyXXQf2RIqTClWB5NVeBQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEBG25KNBwuCQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "University of California, Davis",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:900",
+                "schoolUrn": "urn:li:fs_miniSchool:17942"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English "
+            },
+            {
+                "name": "Persian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2020,
+                    "day": 12
+                },
+                "name": "Information verification in social networks based on user feedback and news agencies",
+                "publisher": "Springer",
+                "url": "https://link.springer.com/article/10.1007/s13278-019-0616-4",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2020
+                },
+                "name": "Document Embedding using piped ELM-GAN Model",
+                "publisher": "IMCOM 2021 - IEEE",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2020
+                },
+                "name": "Time based model for Information Credibility on Twitter",
+                "publisher": "IMCOM 2021 - IEEE",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2019,
+                    "day": 17
+                },
+                "name": "Information verification improvement by textual entailment methods",
+                "publisher": "SN Applied Sciences",
+                "url": "https://link.springer.com/article/10.1007/s42452-019-1073-4",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2019,
+                    "day": 3
+                },
+                "name": "Information Verification Enhancement Using Entailment Methods",
+                "publisher": "Springer, Cham",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-030-37309-2_17",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2018,
+                    "day": 21
+                },
+                "name": "Solving Dynamic Vehicle Routing Problem with Pickup and Delivery by CLARITY Method",
+                "publisher": "IEEE",
+                "url": "https://ieeexplore.ieee.org/abstract/document/8523908",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2018,
+                    "day": 18
+                },
+                "name": "Rumor detection on Twitter using extracted patterns from conversational tree",
+                "publisher": "IEEE",
+                "url": "https://ieeexplore.ieee.org/abstract/document/8387241",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2018,
+                    "day": 25
+                },
+                "name": "Popularity prediction of images and videos on Instagram",
+                "publisher": "IEEE",
+                "url": "https://ieeexplore.ieee.org/abstract/document/8387246",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2018
+                },
+                "name": "Hand Posture Recognition in 3D space using Ensemble Voting Classifier",
+                "publisher": "3rd International Conference on Electrical Engineering",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aura Arefeh",
+                            "lastName": "Yavary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "occupation": "PhD Candidate in Computer Science | Agentic LLM | GenAI | LLM | Multi-Modal | Foundation Models | Embodied AI | Machine Learning Researcher | 8+ years experience in ML projects | Laboratory for AI, Robotics & Automation",
+                            "objectUrn": "urn:li:member:451673137",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517373691117?e=1746057600&v=beta&t=JzvX2-Mr8qjP7glNvgxRRpcdp4qGXVr5HcAqQdBim_E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517373690768?e=1746057600&v=beta&t=xkbQYo_fIvycBwBlYgFQFzKoCoIHGOzlLQATbcXswGU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQETz0SZr91DuQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arefehyavary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1716269252349?e=1746057600&v=beta&t=Us53p_0NclfXj-rQVr9PhPXOl5pVxorzArF-HIVH5Ds",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1716269252349?e=1746057600&v=beta&t=OGKeMb6eI5sbzpml_kk5mOtdvc4mRi5gt2Uxf9pkGRw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1716269252349?e=1746057600&v=beta&t=TTzpr4NtPm6jApWG3n_sYDYKQZKufvcpfGpAG2VxCKo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1716269252349?e=1746057600&v=beta&t=EkMQD7bYNsCS_-wISW4X4txiylA78fg2WGW4l2KwC2Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEJx7HqQ_RRBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qqCyaFGUSDOqHJjxdvqFcA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Text Retrieval and Search Engines",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "5HZN8M7KQ863",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "t5czou/BSxmzqB5fveci0w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/5HZN8M7KQ863"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Text Mining and Analytics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "K53DEAS76FV4",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "c9MtmhG8TjyvKo4fQ0cIdQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/K53DEAS76FV4"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Unsupervised Learning in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "01d6440bfb5adaef71533fde2b2ed757201fbf59",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "iCbsfu3oTDKdCDP5w35I8g=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/01d6440bfb5adaef71533fde2b2ed757201fbf59"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Mastering Agile & Scrum: From Beginner to Expert",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-5384f69f-55d0-4719-96e5-a6d025864b01",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "1wdL8hGjTradCOBIxIbLxg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-5384f69f-55d0-4719-96e5-a6d025864b01/"
+            },
+            {
+                "authority": "World Education Services",
+                "name": "Verified International Academic Qualifications",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:61690",
+                    "entityUrn": "urn:li:fs_miniCompany:61690",
+                    "name": "World Education Services",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1715805044273/worldeducationservices_logo?e=1748476800&v=beta&t=ee-x4DQe8XVEvSZ6b-Fe-srdmx21cY6NtJo98bXuvO8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1715805044273/worldeducationservices_logo?e=1748476800&v=beta&t=ZQNpAOHiF9wgReufrYb1P3OXWXCs2CAhYC0A7Tn_1zk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1715805044273/worldeducationservices_logo?e=1748476800&v=beta&t=oMZEIZ5LrE3td4wyKS0W4k7u7TuLRg46aLISAZLbkuQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGrSmKE472DMw/company-logo_"
+                        }
+                    },
+                    "universalName": "worldeducationservices",
+                    "dashCompanyUrn": "urn:li:fsd_company:61690",
+                    "trackingId": "53yrgdwqT/OjatmWeq1T5w=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:61690",
+                "url": "https://www.youracclaim.com/badges/2c5b3b8f-137d-4b2a-8a41-075e3e036495?source=linked_in_profile"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Data Science with Python Certification Training and Project",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "UC-a29a76bc-676a-4177-ac7d-cdbcea",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "y0r5axSFSYaaMPA06D1mUw=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-a29a76bc-676a-4177-ac7d-cdbceafc949d.pdf"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "https://coursera.org/verify/M2GPKREW7SXV",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "hs+0YXUDQF6gCoW7QsH0zw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/verify/M2GPKREW7SXV"
+            },
+            {
+                "authority": "Sololearn",
+                "name": "C++ Tutorial",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "1051-4414295/",
+                "company": {
+                    "objectUrn": "urn:li:company:9435690",
+                    "entityUrn": "urn:li:fs_miniCompany:9435690",
+                    "name": "Sololearn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630576160230/sololearn_inc__logo?e=1748476800&v=beta&t=5YXvL0uA7DT7nkgjWCi926Sw0OjAfeRaO1JEe2NqOy8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630576160230/sololearn_inc__logo?e=1748476800&v=beta&t=7roo_T-hm-kjP6ZGjEJbJtKxNdqn8b50556ZdDGNQ78",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1748476800&v=beta&t=IqEoReZ1oq0_lk_sNYeSTxhASV7POlFHXqCvIn3OASU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_"
+                        }
+                    },
+                    "universalName": "sololearn-inc-",
+                    "dashCompanyUrn": "urn:li:fsd_company:9435690",
+                    "trackingId": "RUJmIe7DTnG5ZXv/BHYIpQ=="
+                },
+                "displaySource": "sololearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:9435690",
+                "url": "https://www.sololearn.com/Certificate/1051-4414295/jpg/"
+            },
+            {
+                "authority": "Sololearn",
+                "name": "Python 3 Tutorial",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "1073-4414295",
+                "company": {
+                    "objectUrn": "urn:li:company:9435690",
+                    "entityUrn": "urn:li:fs_miniCompany:9435690",
+                    "name": "Sololearn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630576160230/sololearn_inc__logo?e=1748476800&v=beta&t=5YXvL0uA7DT7nkgjWCi926Sw0OjAfeRaO1JEe2NqOy8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630576160230/sololearn_inc__logo?e=1748476800&v=beta&t=7roo_T-hm-kjP6ZGjEJbJtKxNdqn8b50556ZdDGNQ78",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1748476800&v=beta&t=IqEoReZ1oq0_lk_sNYeSTxhASV7POlFHXqCvIn3OASU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_"
+                        }
+                    },
+                    "universalName": "sololearn-inc-",
+                    "dashCompanyUrn": "urn:li:fsd_company:9435690",
+                    "trackingId": "ZKc7OSWcSZiJgzVTirMbVw=="
+                },
+                "displaySource": "sololearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:9435690",
+                "url": "https://www.sololearn.com/Certificate/1073-4414295/jpg/"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Deep Learning: Model Optimization and Tuning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "SJVIDZswReGIPH1LCb8hIw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/5ab292735edb5aa5bf21a2f1f314b4de177a5e020296da8fd60f8a655daa20b2"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Mentor",
+                "companyName": "Coursera",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2016
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Courses:\n- Text Retrieval and Search Engines course by Professor ChengXiang Zhai\n- Text Retrieval and Search Engines course by Professor ChengXiang Zhai",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2453129",
+                        "entityUrn": "urn:li:fs_miniCompany:2453129",
+                        "name": "Coursera",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                            }
+                        },
+                        "universalName": "coursera",
+                        "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                        "trackingId": "0/pdzB4VTROj2K7edYsMlA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2453129"
+            },
+            {
+                "role": "Reviewer",
+                "companyName": "IEEE Transactions ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "role": "Reviewer",
+                "companyName": "Knowledge Based Systems Journal ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                }
+            }
+        ],
+        "honors": [
+            {
+                "title": "Fellowship",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "issuer": "UC Davis"
+            },
+            {
+                "title": "Fellowship",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "issuer": "UC Davis"
+            },
+            {
+                "title": "FellowShip",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "issuer": "NSF"
+            },
+            {
+                "title": "Autonomous Greenhouse Challenge 3rd Edition",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Fellowship",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "issuer": "UC Davis"
+            },
+            {
+                "title": "First Place in Computer Science Field in YSA",
+                "issueDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns,306786104)",
+                "title": "Gifted Student Award,  Qualified for graduate studies at University of Tehran without entrance exam"
+            },
+            {
+                "title": "Selected for study in schools of National Organization for Development of Exceptional Talents"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Product Demonstration"
+            },
+            {
+                "name": "Sales Presentations"
+            },
+            {
+                "name": "Spatial Data"
+            },
+            {
+                "name": "Problem Solving"
+            }
+        ],
+        "urn_id": "ACoAABrr_DEBCESikHqk_1WeWDoVm2_sFGcE-ns"
+    }
+}

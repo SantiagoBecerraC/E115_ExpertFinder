@@ -1,0 +1,569 @@
+{
+    "urn_id": "ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ",
+    "fetch_timestamp": "2025-02-26T21:51:36.804724",
+    "profile_data": {
+        "summary": "Accomplished Enterprise & Solutions Architect with over 20 years of experience in AI-driven cloud solutions, modern DevOps, and enterprise automation. Specialized expertise in Google Cloud AI (Vertex AI, AutoML) and Salesforce AI (Agentforce 2, Data Cloud), along with AWS, Azure, Kubernetes and hybrid cloud architectures. Proficient in LLMs (RAG, Transformer Models, Vertex AI Custom Models), AI Infrastructure Optimization, and AI-powered DevOps automation. Proven track record in architecting scalable, event-driven microservices, AI-driven business automation, and secure cloud-native solutions for federal and commercial enterprises.\n\nCore Skills & Technologies\n\n• Google Cloud AI Services: Vertex AI, AutoML, AI APIs, BigQuery ML, TPUs/GPUs, Cloud Run, Kubernetes\n• Salesforce AI & Cloud: Agentforce 2, Agentforce 2 Analytics, Data Cloud, LWC, Apex, Flows, MuleSoft\n• MLOps & AI Deployment: CI/CD for AI, model versioning, AI governance, AI security\n• Generative AI & Large Language Models (LLMs): RAG, NLP, Deep Learning, AI Infrastructure Optimization\n• Cloud Computing & DevOps: Google Cloud, AWS, Azure, Terraform, Docker, Kubernetes, Serverless AI\n• Enterprise AI Strategy & Architecture: AI-powered digital transformation, AI-driven CRM, AI-assisted automation\n• AI Sales Engineering & Customer Engagement: Pre-sales AI consulting, GTM AI strategies, AI adoption roadmaps",
+        "industryName": "Computer Software",
+        "lastName": "Mayfield",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Roy",
+        "entityUrn": "urn:li:fs_profile:ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103715657"
+        },
+        "geoLocationName": "Sterling, Virginia",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI Solutions Architect | Google Cloud AI | Salesforce AI | MLOps | AI Infrastructure",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQFf_QAqZhK8KQ/profile-framedphoto-shrink_",
+        "img_640_640": "800_800/B4EZUdhs5SH0Ag-/0/1739957129081?e=1741230000&v=beta&t=VepSsCybfM4anGCJ2MYavCICV7pBn_-9pEQAxD6_UlU",
+        "img_400_400": "400_400/B4EZUdhs5SH0Ac-/0/1739957129081?e=1741230000&v=beta&t=nbnfzR14YRE97CT9qg43m3OJ7SsO7Ebvg8Vdhi7v6JQ",
+        "img_100_100": "100_100/B4EZUdhs5SH0Ak-/0/1739957129081?e=1741230000&v=beta&t=RJazj0gMaIAueqVkVqEzdOl-n0ypieRIHyvlGeeR98U",
+        "img_200_200": "200_200/B4EZUdhs5SH0AY-/0/1739957129049?e=1741230000&v=beta&t=RV4xnU9AeuUEDlYClLwPtgYnrYJH9eGKI6ykhBUPgxc",
+        "profile_id": "ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ",
+        "member_urn": "urn:li:member:17337591",
+        "public_id": "roy-mayfield-3b39815",
+        "experience": [
+            {
+                "locationName": "Potomac Falls, VA",
+                "entityUrn": "urn:li:fs_position:(ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ,2578884395)",
+                "geoLocationName": "Potomac Falls, VA",
+                "companyName": "RM Technologies",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "description": "• Architected AI-driven automation for Salesforce data pipelines, enhancing business process automation.\n• Engineered AI/ML solutions on Google Cloud (Vertex AI, AutoML), optimizing model lifecycle automation.\n• Integrated Salesforce AI-driven applications, leveraging Agentforce 2 and Data Cloud for real-time insights.\n• Led AI transformation projects for enterprises, integrating Google AI and Salesforce AI into customer solutions.\n• Implemented MLOps pipelines for automated model retraining and deployment.\n• Designed and optimized AI inference workloads using TPUs/GPUs on Google Cloud.\n• Collaborated with Sales & GTM teams to develop AI-based go-to-market strategies.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior AI Solutions Architect | Google Cloud AI & Salesforce AI",
+                "companyUrn": "urn:li:fs_miniCompany:106261017",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFZxfT9nRQfUA/company-logo_"
+            },
+            {
+                "locationName": "Chantilly, Virginia, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ,2211522581)",
+                "geoLocationName": "Chantilly, Virginia, United States",
+                "geoUrn": "urn:li:fs_geo:105811802",
+                "companyName": "SNAP Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "description": "• Developed Salesforce AI-powered CRM solutions, integrating CRM Analytics and predictive analytics.\n• Designed AI-driven automation using Lightning Apps, Apex, LWC, and MuleSoft for enterprise workflows.\n• Architected cloud-based AI solutions, optimizing Salesforce AI pipelines for customer insights.\n• Led AI adoption workshops for enterprise clients, enabling AI-driven decision-making.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Government Relations"
+                    ]
+                },
+                "title": "Solutions Architect | Salesforce & AI Cloud",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1155542",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHWijVTxAe_PA/company-logo_"
+            },
+            {
+                "locationName": "Sterling, VA",
+                "entityUrn": "urn:li:fs_position:(ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ,1043743088)",
+                "geoLocationName": "Sterling, VA",
+                "companyName": "REI Systems",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "description": "• Led enterprise AI & cloud transformation initiatives, integrating AI into large-scale business applications.\n• Designed event-driven architectures, optimizing cloud scalability and AI automation.\n• Developed secure, high-performance cloud-native applications, leveraging AWS, Azure, and Kubernetes.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Lead Solutions Architect | Enterprise Cloud & AI",
+                "companyUrn": "urn:li:fs_miniCompany:24187",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHK1SoBfWwfeA/company-logo_"
+            },
+            {
+                "locationName": "Fairfax, VA",
+                "entityUrn": "urn:li:fs_position:(ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ,291327757)",
+                "geoLocationName": "Fairfax, VA",
+                "companyName": "InfoReliance",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2012
+                    }
+                },
+                "description": "• Led enterprise AI-driven tax data retrieval projects, consolidating legacy IRS systems.\n• Designed cloud-based document processing pipelines with serverless computing & AI OCR.\n• Developed Enterprise KPIs Dashboards for finance, security, and strategy executives.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Infrastructure Architect | IRS Enterprise Services",
+                "companyUrn": "urn:li:fs_miniCompany:23163",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQG4SSbxdODaWg/company-logo_"
+            },
+            {
+                "locationName": "Reston, VA",
+                "entityUrn": "urn:li:fs_position:(ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ,25674033)",
+                "geoLocationName": "Reston, VA",
+                "companyName": "Avanade, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2007
+                    }
+                },
+                "description": "• Managed IRS enterprise portals and HCTC modernization with cloud-native architectures.\n• Developed secure, distributed architectures for U.S. Census Bureau mobile data collection.\n• Led cross-functional teams to implement innovative solutions for Avanade, Inc. in Reston, VA.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Group Manager, Solutions Architect",
+                "companyUrn": "urn:li:fs_miniCompany:3033",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGmlDR0g_2XIg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ,282911156)",
+                "school": {
+                    "objectUrn": "urn:li:school:18068",
+                    "entityUrn": "urn:li:fs_miniSchool:18068",
+                    "active": true,
+                    "schoolName": "The George Washington University",
+                    "trackingId": "PIfVvmXuTIGySPebGTz7Jw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFSVBibNbqMQA/company-logo_"
+                },
+                "activities": "Technical Staff, School of Engineering and Applied Science Computing Facility",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 1986
+                    },
+                    "startDate": {
+                        "year": 1981
+                    }
+                },
+                "degreeName": "Bachelor of Science (BS)",
+                "schoolName": "The George Washington University",
+                "fieldOfStudy": "Electrical and Electronics Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:18068"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Amazon Web Services",
+                "name": "AWS Certified Solutions Architect",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "Q3Q4V0HsSDahV5BVVGjUuw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2382910"
+            },
+            {
+                "authority": "Arcitura Education Inc.",
+                "name": "Certified SOA Architect",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2012
+                    }
+                },
+                "licenseNumber": "0999364",
+                "company": {
+                    "objectUrn": "urn:li:company:2239979",
+                    "entityUrn": "urn:li:fs_miniCompany:2239979",
+                    "name": "Arcitura Education Inc.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1646871703495/arcitura_logo?e=1748476800&v=beta&t=NHVkxw1Z1zTYlzmZ1O-ndf3x-WV_kmJsple7v6eReGU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1646871703495/arcitura_logo?e=1748476800&v=beta&t=VpiMxykJ1AJ5JbP7qsI8KSMht2A_YF-5X99O64Jhhwo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1646871703495/arcitura_logo?e=1748476800&v=beta&t=7rFQHmuziOE-PPgeoQEDoU26WnFCj2luEh385twuI38",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHWIdcKLM5qsQ/company-logo_"
+                        }
+                    },
+                    "universalName": "arcitura",
+                    "dashCompanyUrn": "urn:li:fsd_company:2239979",
+                    "trackingId": "p/Mxly9KTa2bc4tpRaCedA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2239979"
+            },
+            {
+                "authority": "Salesforce",
+                "name": "Salesforce Certified AI Specialist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3185",
+                    "entityUrn": "urn:li:fs_miniCompany:3185",
+                    "name": "Salesforce",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=XGpRSEic5Y1ytbBHrWp0z1u3-Dt7_HUGkC-OVsUY7HM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=MpI_GvGzjNVIAZ4Zd59Impvg3Xkc3eTza7ByOyTlCNY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_"
+                        }
+                    },
+                    "universalName": "salesforce",
+                    "dashCompanyUrn": "urn:li:fsd_company:3185",
+                    "trackingId": "b8MycHU0RauWgvmP1y6ZmA=="
+                },
+                "displaySource": "salesforce.com",
+                "companyUrn": "urn:li:fs_miniCompany:3185",
+                "url": "https://www.salesforce.com/trailblazer/profile"
+            },
+            {
+                "authority": "Salesforce",
+                "name": "Salesforce Certified Sales Cloud Consultant",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3185",
+                    "entityUrn": "urn:li:fs_miniCompany:3185",
+                    "name": "Salesforce",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=XGpRSEic5Y1ytbBHrWp0z1u3-Dt7_HUGkC-OVsUY7HM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=MpI_GvGzjNVIAZ4Zd59Impvg3Xkc3eTza7ByOyTlCNY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_"
+                        }
+                    },
+                    "universalName": "salesforce",
+                    "dashCompanyUrn": "urn:li:fsd_company:3185",
+                    "trackingId": "b8hekvxwQ5SutKm+7K4qrQ=="
+                },
+                "displaySource": "salesforce.com",
+                "companyUrn": "urn:li:fs_miniCompany:3185",
+                "url": "https://www.salesforce.com/trailblazer/rmayfield"
+            },
+            {
+                "authority": "Salesforce",
+                "name": "Salesforce Certified Administrator (SCA)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3185",
+                    "entityUrn": "urn:li:fs_miniCompany:3185",
+                    "name": "Salesforce",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=XGpRSEic5Y1ytbBHrWp0z1u3-Dt7_HUGkC-OVsUY7HM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=MpI_GvGzjNVIAZ4Zd59Impvg3Xkc3eTza7ByOyTlCNY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_"
+                        }
+                    },
+                    "universalName": "salesforce",
+                    "dashCompanyUrn": "urn:li:fsd_company:3185",
+                    "trackingId": "Lz6be97TRsivsTAd1p+vtA=="
+                },
+                "displaySource": "salesforce.com",
+                "companyUrn": "urn:li:fs_miniCompany:3185",
+                "url": "https://www.salesforce.com/trailblazer/rmayfield"
+            },
+            {
+                "authority": "Salesforce",
+                "name": "Salesforce Certified Platform Developer I",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3185",
+                    "entityUrn": "urn:li:fs_miniCompany:3185",
+                    "name": "Salesforce",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=XGpRSEic5Y1ytbBHrWp0z1u3-Dt7_HUGkC-OVsUY7HM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=MpI_GvGzjNVIAZ4Zd59Impvg3Xkc3eTza7ByOyTlCNY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_"
+                        }
+                    },
+                    "universalName": "salesforce",
+                    "dashCompanyUrn": "urn:li:fsd_company:3185",
+                    "trackingId": "EkOhN14vQzuOQIsJTVoNCw=="
+                },
+                "displaySource": "salesforce.com",
+                "companyUrn": "urn:li:fs_miniCompany:3185",
+                "url": "https://www.salesforce.com/trailblazer/rmayfield"
+            },
+            {
+                "authority": "Google",
+                "name": "Google Cloud Professional Machine Learning Engineer (In Progress)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "6BUHgC7wR6ShPx5eSkGhSg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1441"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Cloud AI Infrastructure (TPUs, GPUs, Kubernetes, Serverless AI)"
+            },
+            {
+                "name": "Google Cloud AI (Vertex AI, AutoML, AI APIs, BigQuery ML)"
+            },
+            {
+                "name": "MLOps & AI Deployment (CI/CD, Model Versioning, AI Governance)"
+            },
+            {
+                "name": "AI & Large Language Models (LLM)"
+            }
+        ],
+        "urn_id": "ACoAAAEIjPcBtr9wrEdZz1-kfkOfQmw-chdIyDQ"
+    }
+}

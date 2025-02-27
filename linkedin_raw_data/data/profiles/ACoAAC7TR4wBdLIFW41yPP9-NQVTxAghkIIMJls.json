@@ -1,0 +1,197 @@
+{
+    "urn_id": "ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls",
+    "fetch_timestamp": "2025-02-26T21:27:58.594126",
+    "profile_data": {
+        "industryName": "Computer Software",
+        "lastName": "S",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "HIRTHIK",
+        "entityUrn": "urn:li:fs_profile:ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Engineer at Macy's",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQGXW0U7XhrOLA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1660002772504?e=1741230000&v=beta&t=TUpVBCOe1aXdV7tcMDEp3ow3AL28lfIiP4DtjRhO57g",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1660002772504?e=1741230000&v=beta&t=Ly7lUCmAFqLsbWVWEX4qCXD0cLszahUZ_iIqrE8Dj2w",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1660002772504?e=1741230000&v=beta&t=27nX1BL1UdtCqL8BdpR2jUifadBYdkFPbPFkEIH3rm8",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1660002772504?e=1741230000&v=beta&t=unPJaXupc7QOeoiMITQ-FDwldTjVpq1z5B-HliKyXGs",
+        "profile_id": "ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls",
+        "member_urn": "urn:li:member:785598348",
+        "public_id": "hirthikrahul",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls,2491048673)",
+                "companyName": "Macy's",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "description": "o\tDevelop and maintain ETL pipelines using Spark SQL and PySpark frameworks to automate the discovery and transformation of data and improve the efficiency in data retrieval.\no\tDevelop pipelines for micro-batch processing for near-real time applications using Apache Spark Streaming and Storm for real-time analytics applications.\no\tAutomate CDC (Change data Capture) to process the schema change in real time improving data accuracy by 9% and reducing manual processes and optimizing data delivery.\no\tTransformed raw data into structured format to ease the analytics.\no\tConsolidated the data from 5+ sources into a scalable data warehouse which increased the data retrieval speed by 15% and reducing  errors by 7%\no\tCollaborating with cross-functional teams to understand data requirements and develop scalable data products and efficient pipelines.\no\tMonitor the health of the pipelines and automate workflows and optimized data infrastructure to support company’s data architecture into callable jobs to increase the optimization in repetitive tasks.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Associate Data Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:2300",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGiIfwesONqBA/company-logo_"
+            },
+            {
+                "locationName": "Warrensburg, Missouri, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls,2456581442)",
+                "geoLocationName": "Warrensburg, Missouri, United States",
+                "geoUrn": "urn:li:fs_geo:101490819",
+                "companyName": "University of Central Missouri",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "description": "· Developed AI models using existing Machine Learning algorithms to perform predictive analysis and create visualizations of the findings using matplotlib.\n· Used Power BI and Tableau to create dashboards and visualizations.\n· Participated in code-reviews and project requirement analysis session to share ideas and better implementations of our projects.\n· Designed and implemented ETL pipelines in Databricks to scrape websites and make visualizations.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:166633",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH3IZ3CZ-misg/company-logo_"
+            },
+            {
+                "locationName": "Hyderabad, Telangana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls,2456577860)",
+                "geoLocationName": "Hyderabad, Telangana, India",
+                "geoUrn": "urn:li:fs_geo:105556991",
+                "companyName": "Innova Solutions",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "One year of experience as a support engineer to troubleshoot the data issues based on priority and severity concerning the policy claims.\nCleaning the data and maintaining integrity of data to have a cohesive database across the systems.\nMonitored the critical applications and implemented pro-active measures for policy renewals to reduce the ticket inflow in the future.\nCleared the redundant transactions in the database and archived the duplicate data.\nCreated comprehensive dashboards and bi-weekly reports on policy data. Provide the post deployment support and address the Splunk monitoring alerts to reduce the backlog jobs.\nExperience in designing reports based on requirements gathered from various client meetings.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Associate Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:164376",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFdXNZHoHFaCQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls,975702561)",
+                "school": {
+                    "objectUrn": "urn:li:school:18690",
+                    "entityUrn": "urn:li:fs_miniSchool:18690",
+                    "active": true,
+                    "schoolName": "University of Central Missouri",
+                    "trackingId": "/oQQquQzRWuboh8FBkRIQQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH3IZ3CZ-misg/company-logo_"
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Masters",
+                "schoolName": "University of Central Missouri",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18690"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls,629875717)",
+                "school": {
+                    "objectUrn": "urn:li:school:3230714",
+                    "entityUrn": "urn:li:fs_miniSchool:3230714",
+                    "active": true,
+                    "schoolName": "MVGR College of Engineering",
+                    "trackingId": "5bpYSmQzRTeRgw6tFAvwUQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "MVGR College of Engineering",
+                "fieldOfStudy": "Electronics and Communications Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3230714"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls,975704367)",
+                "school": {
+                    "objectUrn": "urn:li:school:18690",
+                    "entityUrn": "urn:li:fs_miniSchool:18690",
+                    "active": true,
+                    "schoolName": "University of Central Missouri",
+                    "trackingId": "wSYS6+vES0CRI43tfoRL6w==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH3IZ3CZ-misg/company-logo_"
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master's ",
+                "schoolName": "University of Central Missouri",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18690"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Apache Kafka"
+            },
+            {
+                "name": "Representational State Transfer (REST)"
+            },
+            {
+                "name": "Attention to Detail"
+            },
+            {
+                "name": "Data Integrity"
+            }
+        ],
+        "urn_id": "ACoAAC7TR4wBdLIFW41yPP9-NQVTxAghkIIMJls"
+    }
+}

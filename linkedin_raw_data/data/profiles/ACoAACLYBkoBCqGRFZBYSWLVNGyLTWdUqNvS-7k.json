@@ -1,0 +1,1484 @@
+{
+    "urn_id": "ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+    "fetch_timestamp": "2025-02-26T21:20:26.716094",
+    "profile_data": {
+        "summary": "I am a Data Science Graduate Student at the University at Buffalo. I am actively seeking Data Science and Machine Learning internship opportunities for Spring 2022/ full-time effective July 2022. \n\nThe boundless possibility of exploring new things has always kept my inquisitive mind engrossed. Proactive in my approach to learning, I found a new interest, Artificial-Intelligence after coming across my Android phone’s feature of Google’s Text-To-Speech Converter that guided me towards Natural Language Processing. Since then, I have been exploring and growing in the Data Science and ML domain.\n\nPresently I am a Data Science Master’s student at the University at Buffalo – SUNY having three years of professional experience in the relevant field with Infosys LTD and ThirdEye Data Analytics Pvt. Ltd.\n\nSimultaneously active participation in a wide range of extra-curricular activities has ensured my gregarious personality. Love for music and passion for literary activities like Sudoku compelled me to participate in the cultural fests. Recently, I have grown a new interest in Kayaking and have been really enjoying doing so. \n\nCompetencies: data science, machine learning, Python, Tableau, Artificial Intelligence, PySpark\n\nIf you have a project I can work on, please reach out to me at sanchari.gautam@gmail.com.",
+        "industryName": "Information Technology & Services",
+        "lastName": "GAUTAM",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "SANCHARI",
+        "entityUrn": "urn:li:fs_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103676418"
+        },
+        "geoLocationName": "Buffalo, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Software Development I Python | Machine Learning",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+        "profile_id": "ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+        "member_urn": "urn:li:member:584582730",
+        "public_id": "sgautam14",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1986961025)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "Alexa AI-Natural Understanding team",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            },
+            {
+                "locationName": "Buffalo, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1925151986)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "University at Buffalo School of Law",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "- Managed library book shelving\n- Monitor the Library rules and ethics \n- Manage the patron's services and requests",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Student Librarian",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:15101377",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEfOFlLfDEe_w/company-logo_"
+            },
+            {
+                "locationName": "Buffalo, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1837687048)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "University at Buffalo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "- Member of the UB Student Association - managed the extracurricular session of Kayaking at University Lasalle lake.\n- Member of the UB Campus Dining & Shops",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Student Services Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+            },
+            {
+                "locationName": "Kolkata, West Bengal, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1487617930)",
+                "geoLocationName": "Kolkata, West Bengal, India",
+                "geoUrn": "urn:li:fs_geo:111795395",
+                "companyName": "ThirdEye Data - Data Sciences, Analytics & Engineering",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "description": "- Developed web-based application for Anomaly Detection of servers with an accuracy of 85% - Employed Z-score approach and Logistic Regression on attributes of various servers \n- Built an application to implement Churn Analysis of Shopify customers with an efficiency of 80% - Enforced Decision Tree and Random Forest on demographic and business characteristics of customers\n- Researched and established a tool for Image Quality Check to detect blurriness and occlusion in an image - Explored and applied OpenCV library, Random Forest, SVM, Azure – Blobs and ADF Pipeline\n- Crafted and boosted a Recommendation Engine having Collaborative and Content-based filtering increasing accuracy by 20% - Executed Euclidean distance, K-Means Clustering on vectorized customer details and product details to find most similar customers\n- Collaborated and enhanced Floor Plan Generation product to improve efficiency by 23% - Augmented GAN model with Pix2Pix software to generate new floor plans based on customers’ criteria",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:236096",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF8kuk5KQrYcw/company-logo_"
+            },
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1405363102)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "Infosys",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "description": "Data Analysis, Data Visualization, Metrics handling, Data Manipulation and Preprocessing using Python Pandas and Numpy libraries, SQL server.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "System Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1283",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,815263908)",
+                    "urn:li:fs_project:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,815363994)",
+                    "urn:li:fs_project:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,836128965)",
+                    "urn:li:fs_project:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1165583559)",
+                    "urn:li:fs_project:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1166795906)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,703216469)",
+                "school": {
+                    "objectUrn": "urn:li:school:19028",
+                    "entityUrn": "urn:li:fs_miniSchool:19028",
+                    "active": true,
+                    "schoolName": "University at Buffalo",
+                    "trackingId": "LwTBLTDMTWyuJD9Hurp5GQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+                },
+                "grade": "3.7 / 4",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University at Buffalo",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:19028"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,552459032)",
+                "school": {
+                    "objectUrn": "urn:li:school:354045",
+                    "entityUrn": "urn:li:fs_miniSchool:354045",
+                    "active": true,
+                    "schoolName": "International Institute of Information Technology Bangalore",
+                    "trackingId": "+p6Nqt8URru+wcP8Af7/OQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE_nLNex0UufA/company-logo_"
+                },
+                "grade": "3.7/4",
+                "description": "Data analysis using Python, data cleaning and management, data visualisation using Python and Tableau, RDBMS using SQL query and MySQL, Statistical Modeling of Data, Exploratory Data analysis, Hypothesis Testing, ML Algorithms",
+                "degreeName": "PG Diploma",
+                "schoolName": "International Institute of Information Technology – Bangalore",
+                "fieldOfStudy": "Data science ",
+                "schoolUrn": "urn:li:fs_miniSchool:354045"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,572185625)",
+                "school": {
+                    "objectUrn": "urn:li:school:218967",
+                    "entityUrn": "urn:li:fs_miniSchool:218967",
+                    "active": true,
+                    "schoolName": "St. Thomas' College of Engineering & Technology 122",
+                    "trackingId": "iRP0+mJ5TQ2w8vwVrVOlBw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG4Zs4kRs7q7A/company-logo_"
+                },
+                "grade": "8.81/10",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "St. Thomas' College of Engineering & Technology 122",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:218967"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Infosys",
+                "name": "Python Programming",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1283",
+                    "entityUrn": "urn:li:fs_miniCompany:1283",
+                    "name": "Infosys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=vCCF5G3MFlgwlX8ssU7XcuF9t3151bNBp00dTy1WMe8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=rYhW8rG2rZz5hGb19Qkgs_S-jt2lt4_PhUee4tjlE3A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=1v_Z9mfe79mQLJdNys7WMusFlnKbUkX8R4oy1SQJFJA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+                        }
+                    },
+                    "universalName": "infosys",
+                    "dashCompanyUrn": "urn:li:fsd_company:1283",
+                    "trackingId": "j+dUGecySdWHWHUXsxbUeA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1283"
+            },
+            {
+                "authority": "Infosys",
+                "name": "RDBMS Using SQL Query",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1283",
+                    "entityUrn": "urn:li:fs_miniCompany:1283",
+                    "name": "Infosys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=vCCF5G3MFlgwlX8ssU7XcuF9t3151bNBp00dTy1WMe8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=rYhW8rG2rZz5hGb19Qkgs_S-jt2lt4_PhUee4tjlE3A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=1v_Z9mfe79mQLJdNys7WMusFlnKbUkX8R4oy1SQJFJA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+                        }
+                    },
+                    "universalName": "infosys",
+                    "dashCompanyUrn": "urn:li:fsd_company:1283",
+                    "trackingId": "mr3IwcOTQ4W1r2B7zIKQsw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1283"
+            },
+            {
+                "authority": "DIRAC SOLUTIONS, INC.",
+                "name": "Web Development Using Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:16028961",
+                    "entityUrn": "urn:li:fs_miniCompany:16028961",
+                    "name": "DIRAC SOLUTIONS, INC.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1722070009605?e=1748476800&v=beta&t=z1EmTjYMi-TIRx71hGwvq2ex-uBnqDTPFNfz9IQDCSk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1722070009605?e=1748476800&v=beta&t=VJYGtQRYKf8pn0vN6hEQyML60YJkyq08L5vmNXmOna4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1722070009605?e=1748476800&v=beta&t=ifeppNQRJSxPD5_9TH_z6AMVLa260gFwvmqlJZ4emqo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQG67nRlsC1IZg/company-logo_"
+                        }
+                    },
+                    "universalName": "dirac-solutions-inc.",
+                    "dashCompanyUrn": "urn:li:fsd_company:16028961",
+                    "trackingId": "3ErV8MRYRqqPK1/iv5rJpg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:16028961"
+            },
+            {
+                "authority": "Infosys",
+                "name": "Object Oriented Programming Using Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1283",
+                    "entityUrn": "urn:li:fs_miniCompany:1283",
+                    "name": "Infosys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=vCCF5G3MFlgwlX8ssU7XcuF9t3151bNBp00dTy1WMe8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=rYhW8rG2rZz5hGb19Qkgs_S-jt2lt4_PhUee4tjlE3A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=1v_Z9mfe79mQLJdNys7WMusFlnKbUkX8R4oy1SQJFJA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+                        }
+                    },
+                    "universalName": "infosys",
+                    "dashCompanyUrn": "urn:li:fsd_company:1283",
+                    "trackingId": "LOTCUNO2T+6ebkx7BcRKlA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1283"
+            },
+            {
+                "authority": "Infosys",
+                "name": "Business Communication",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1283",
+                    "entityUrn": "urn:li:fs_miniCompany:1283",
+                    "name": "Infosys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=vCCF5G3MFlgwlX8ssU7XcuF9t3151bNBp00dTy1WMe8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=rYhW8rG2rZz5hGb19Qkgs_S-jt2lt4_PhUee4tjlE3A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=1v_Z9mfe79mQLJdNys7WMusFlnKbUkX8R4oy1SQJFJA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+                        }
+                    },
+                    "universalName": "infosys",
+                    "dashCompanyUrn": "urn:li:fsd_company:1283",
+                    "trackingId": "guATHz3PR4yWyt3Pi4+rVg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1283"
+            },
+            {
+                "authority": "Infosys",
+                "name": "Articulation Skill",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1283",
+                    "entityUrn": "urn:li:fs_miniCompany:1283",
+                    "name": "Infosys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=vCCF5G3MFlgwlX8ssU7XcuF9t3151bNBp00dTy1WMe8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=rYhW8rG2rZz5hGb19Qkgs_S-jt2lt4_PhUee4tjlE3A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=1v_Z9mfe79mQLJdNys7WMusFlnKbUkX8R4oy1SQJFJA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+                        }
+                    },
+                    "universalName": "infosys",
+                    "dashCompanyUrn": "urn:li:fsd_company:1283",
+                    "trackingId": "ItSGHauoR9uSOm3dZBQJHw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1283"
+            },
+            {
+                "authority": "International Institute of Information Technology – Bangalore",
+                "name": "Data Management Using Statistics and EDA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:800493",
+                    "entityUrn": "urn:li:fs_miniCompany:800493",
+                    "name": "International Institute of Information Technology Bangalore",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1735036209832/iiitbofficial_logo?e=1748476800&v=beta&t=S1uTPqGlYWH4zzW1SBXyKJ2hoCGmHc2i-pFR8AjOF1U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1735036209832/iiitbofficial_logo?e=1748476800&v=beta&t=E0z0n_Fxkq6_lRcebgS8DduHkUa2rsvwL5KhH7l0-BM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1735036209832/iiitbofficial_logo?e=1748476800&v=beta&t=6PZrUhnXZmTefUv5cjs3bYzbQFQLJMjn5UI4Ynhj6Bo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE_nLNex0UufA/company-logo_"
+                        }
+                    },
+                    "universalName": "iiitbofficial",
+                    "dashCompanyUrn": "urn:li:fsd_company:800493",
+                    "trackingId": "bXYaim+DSzKOATJPbyQruw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:800493"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Spark and Python for Big Data with PySpark",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "06SQQZiFR0+hEbM0F5njrQ=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-6515edd6-c1c9-43e7-8fa5-564647e54673/"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Gold Badge Winner - SQL",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=iQDobkJ7CXB90gGXuIGUPiAXDsaS8zW3IQ_qJvIJiCU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=SwqL2mWZM3vKWgZlKg3RFE7VJap-2yUoKbx7ZwUo6MM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=VsJfV6fDH9TShaEjUlt4j2nWfy82x2UNxPSD9r33RRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "yFX/iE22T6KkLERRFZYiLA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:435210"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Python (Basic) Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=iQDobkJ7CXB90gGXuIGUPiAXDsaS8zW3IQ_qJvIJiCU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=SwqL2mWZM3vKWgZlKg3RFE7VJap-2yUoKbx7ZwUo6MM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=VsJfV6fDH9TShaEjUlt4j2nWfy82x2UNxPSD9r33RRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "zbEFedWuRMyNQZhutmw6Rg=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/9cc1a43ab0ea"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "title": "Certificate Of Achievement ",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "issuer": "Infosys LTD"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,619605252,322123603)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "description": "Created a neural network with 1 hidden layer and 1 output layer with 15 hidden units.\nImplemented the activation functions of Sigmoid, tanh, relu, leaky relu.\nEmployed L2 regularization with lambda of 0.7 and dropout regularization with keep_prob of 0.7.\nGenerated graph of sigmoid loss for 15000 epochs.",
+                "title": "Neural Network From Scratch",
+                "url": "https://github.com/sanchari1403/My_First_Neural_Network"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,703216469)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1165583559,330278457)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Hrishagni",
+                            "lastName": "De",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACNGSsIBfbi0O_ZE5xQDu1Bz-jnVbuNGCh4",
+                            "occupation": "SUNY UB Data Science Graduate Student || Ex-Cognizant",
+                            "objectUrn": "urn:li:member:591809218",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACNGSsIBfbi0O_ZE5xQDu1Bz-jnVbuNGCh4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1625074664596?e=1746057600&v=beta&t=cMYLz6536b5V-8QsggAzSZ9Bm7BSUkafZlvAzZb3YAA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1250,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1625074664596?e=1746057600&v=beta&t=q7MYxt5D3BxX9fUJyR6zzdBt5_LJyyoedpkwmFW-PcM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 312
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFjiOdNd9ChkA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "hrish-de",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1653358669255?e=1746057600&v=beta&t=07b41nSi4_h559ZQqEStRF1ZYOEc0Mc2JuZhGp5jvug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1653358669255?e=1746057600&v=beta&t=3WrjsTR5HC8ee6OmINwDqaiG2eNocUVslCIMRU4XE1I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1653358669255?e=1746057600&v=beta&t=olmpO2rhVsfYNhk7oPAecfLUmhUysbww1V_SQy6w-N8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1653358669255?e=1746057600&v=beta&t=2j9baeh3EhtllkrYq4prna52QRz4fMsy8Q7cKqm8HRM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQGC8o80oEqWIQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2hh/H5WiS/eqiwg4H68dug=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1165583559,330280465)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACNGSsIBfbi0O_ZE5xQDu1Bz-jnVbuNGCh4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "In this repository, we have answered the following questions:\n\n• How Neural Network works and use Feed Forward, Back Propagation to implement Neural Network? • How to setup a Machine Learning experiment on real data? • How regularization plays a role in the bias-variance tradeoff? • How to use TensorFlow library to deploy deep neural networks and understand how having multiple hidden layers can improve the performance of the neural network? • How to use TensorFlow library to deploy convolutional neural networks and understand the benefit of convolutional neural network compared to fully connected neural network?",
+                "title": "Classification on Handwritten Digits and Celebrity Faces",
+                "url": "https://github.com/Hrishagni/ML_Algorithms_from_scratch_Part2"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,703216469)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1166795906,330278484)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "title": "Computer Vision - Rotational Matrix & Camera Calibration",
+                "url": "https://github.com/sanchari1403/Computer_Vision_RotationalMatrix_CameraCalibration"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,703216469)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,815263908,316711653)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "A company has been potentially hacked and we aim to find out the types of hackers that have caused the threat. We have valuable data about the hacks, including information like session time, locations, wpm typing speed, etc. The forensic department has also provided us with the meta-data of each session that the hackers used to connect to their servers. We have worked here with such attributes to find out the potential group of hackers.\nSkills used: PySpark, Databricks Notebook, K-Means Clustering Algorithm",
+                "title": "Clustering on Hackers",
+                "url": "https://github.com/sanchari1403/Clustering_on_Hackers"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,703216469)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,836128965,316722493)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "Classification of the Spam and Ham text messages\nSkills: NLP Tokenizer, TF-IDF, PySpark, Databricks Notebook",
+                "title": "Spam Ham Detection",
+                "url": "https://github.com/sanchari1403/Spam_Ham_Detection"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,703216469)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,815363994,316710803)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "I have tried detecting the age and gender of the person clicking the picture using the Caffe model in Python.",
+                "title": "Camera Detecting Age and Gender",
+                "url": "https://github.com/sanchari1403/Camera_Detecting_Age_Gender"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1171980925,204191090)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "The case study has dataset containing details of a loan application having attributes like date of birth of loan applicant, loan term, loan status, employment duration etc. The challenge is to provide a solution so that the loan department of the company does not end up in loss. ",
+                "title": "Gramener Case Study - Analysis of Loan Application",
+                "url": "https://github.com/sanchari1403/Data-Science/blob/master/Gramener%20Case%20Study.zip"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "SANCHARI",
+                            "lastName": "GAUTAM",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "occupation": "Software Development I Python | Machine Learning",
+                            "objectUrn": "urn:li:member:584582730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1626462170022?e=1746057600&v=beta&t=NzUo9qXkGMcQL2H-nD97XeKfqjtP7rJdVNPn-4jRZwA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 584,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626462170022?e=1746057600&v=beta&t=orE9FldI6QhvPtKI0NEtfjqdl57EpPqx38l1kgIfblo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 146
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG-4O9B3sBOGw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sgautam14",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1648839675565?e=1746057600&v=beta&t=-DAqae6Vayv3ISmW_-BV2seSqWXMFH9E96sODGJxZ-Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1648839675565?e=1746057600&v=beta&t=aBEsLqu49LWkCQpPs64X_jFJxABvdNXiUCaPE7wSFeQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1648839675565?e=1746057600&v=beta&t=feQKe0lwicuO5pFSixNZqF_hzS97SA5gg56X8TuPB5Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1648839675565?e=1746057600&v=beta&t=J9g4M8Yqpn3dU75YmKblZL_pXIAvFFN10HbsiBWtYVk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFXM70NckxC8A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+IU1RRsNQ5aRT0YwnbtYAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k,1171270109,204188940)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "The dataset of Uber contains several attributes viz. source, destination, time of booking, date of booking and status of cab (Canceled, Booked). But it is seen that the demand of cab by passengers and supply of cab by Uber has a huge difference due to the cancellation of cabs by drivers. The project is to give insight on what factors can influence this huge Supply-Demand Gap.",
+                "title": "Uber Dataset - Analysis of Demand-Supply Gap",
+                "url": "https://github.com/sanchari1403/Data-Science/commit/3a133f54df5d52ca015255ce42e5150dbb04ec33"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+                "standardizedSkill": {
+                    "name": "Python (Programming Language)",
+                    "entityUrn": "urn:li:fs_miniSkill:1346"
+                }
+            },
+            {
+                "name": "Microsoft Excel",
+                "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+                "standardizedSkill": {
+                    "name": "Microsoft Excel",
+                    "entityUrn": "urn:li:fs_miniSkill:163"
+                }
+            },
+            {
+                "name": "Microsoft Office",
+                "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+                "standardizedSkill": {
+                    "name": "Microsoft Office",
+                    "entityUrn": "urn:li:fs_miniSkill:366"
+                }
+            },
+            {
+                "name": "Data Structures"
+            }
+        ],
+        "urn_id": "ACoAACLYBkoBCqGRFZBYSWLVNGyLTWdUqNvS-7k"
+    }
+}

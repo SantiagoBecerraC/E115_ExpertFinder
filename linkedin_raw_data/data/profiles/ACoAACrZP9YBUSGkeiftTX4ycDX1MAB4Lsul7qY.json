@@ -1,0 +1,2375 @@
+{
+    "urn_id": "ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+    "fetch_timestamp": "2025-02-26T21:32:36.802975",
+    "profile_data": {
+        "summary": "Greetings!\n\n🎓I'm a master's graduate in Data Science from Columbia University, equipped with a strong foundation in the realms of Data Science, Machine Learning (ML), and Natural Language Processing (NLP)\n\n💡From unraveling the mysteries hidden in data to devising ingenious ML & NLP models, my passion for data-driven problem-solving has led me to make substantial contributions across diverse domains. As a versatile Data Scientist, I've delved into intricate projects spanning various industries, extracting actionable insights to fuel informed decision-making, drive innovation and optimize solutions\n\n👩‍💻Technical skills:\n-Programming skills: Python, SQL, R, C++\n-Data Technologies: AWS(S3, Glue, Redshift, SageMaker, EC2, Athena, DBT), GCP, Apache Spark\n\nTools, packages & other skills: \n-Pandas, Numpy, dplyr,  ggplot2, matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, NLTK, spaCy, Plotly, Tableau, MySQL, CI/CD, A/B Testing, Jupyter, RStudio,  Git, Jira, MS Excel\n\n🌍Let's connect and engage in Collaborative Learning Ventures!\n\nFeel free to reach out to me at: ps3312@columbia.edu\nGitHub: https://github.com/poojasrini",
+        "industryName": "Banking",
+        "lastName": "Srinivasan",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:41",
+        "firstName": "Pooja",
+        "entityUrn": "urn:li:fs_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102571732"
+        },
+        "geoLocationName": "New York, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+        "profile_id": "ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+        "member_urn": "urn:li:member:718880726",
+        "public_id": "poojasrinivasan11",
+        "experience": [
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,2409748879)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "American Express",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "Finance and Treasury, Anti-Money Laundering",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Manager - Data Science",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1277",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,2257595962)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "JPMorgan Chase & Co.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "Worked with JP Morgan Chase & Co's AI research team as an integral part of the Data Science Capstone project focused on Editing Large Language Models.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1068",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,2257597166)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "Columbia University Civil Engineering & Engineering Mechanics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "Worked at DitecT Lab, focusing on Large Language Models in Transportation. Conducted research on ontology generation for scenario-based testing in Autonomous Driving Systems and explored the integration of Knowledge Graphs (KG) in LLM and LLM with KG.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Civil Engineering"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:74486424",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF21XHm4E1wVQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,2287105985)",
+                "companyName": "BlocPower",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "• Pioneered the development of a two-tiered Stacked Large Language Model (LLM) Chatbot, utilizing AWS Bedrock for optimal performance. This innovative solution, featuring LLM1 and LLM2, enabled precise SQL command generation and human-readable data summaries.\n• Applied advanced fine-tuning techniques, like few-shot prompting and chain-of-thoughts approach, to enhance Stacked LLMs' accuracy. Evaluated models such as Jurassic 2 Ultra, Claude V2, Command V14.6, Llama 2 13b, and Code Llama 13b.\n• Spearheaded the development of a precise heuristic cost estimation model for Environment Conservation Measures (ECMs) in building upgrades, leveraging market research and innovative OOPs coding to replace a less effective ML clustering technique.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "companyUrn": "urn:li:fs_miniCompany:7803675",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFezUAXwuiYHA/company-logo_"
+            },
+            {
+                "locationName": "Brooklyn, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,2186196178)",
+                "geoLocationName": "Brooklyn, New York, United States",
+                "geoUrn": "urn:li:fs_geo:104361728",
+                "companyName": "BlocPower",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "• Leveraged AWS Redshift for ETL (Extract, Transform, Load) processes, handling 200M rows. Utilized AWS SageMaker for preprocessing & EDA. Generated data visualizations to unveil trends and identify crucial fields for data replacement\n• Established data mappings between multiple datasets designing Gradient Boosting and Random Forest Algorithm for seamless integration and scaling\n• Orchestrated data lake updates and improved user experience by collaborating with cross-functional teams, utilizing AWS services (EC2, S3, Glue), querying & executing CI/CD tasks with the Data build tool (dbt)\n• Conducted data wrangling in 311 data, 25 cities (2M rows each) & scripted complaint location identification improving performance by 30%; Optimized large language model (Llama 2) for keyword-based cost analysis, enhancing precision sales targeting by 50%",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:7803675",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFezUAXwuiYHA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,11699379)",
+                    "urn:li:fs_project:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1092731639)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,823330696)",
+                "school": {
+                    "objectUrn": "urn:li:school:18943",
+                    "entityUrn": "urn:li:fs_miniSchool:18943",
+                    "active": true,
+                    "schoolName": "Columbia University",
+                    "trackingId": "JVOoASSURqa9PuuAh1Igow==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Coursework:\n• Fall'22:\nAlgorithms for Data Science, Applied Machine Learning, Probability and Statistics for Data Science, Exploratory Data Analysis and Visualization\n\n• Spring'23:\nMachine Learning for Data Science, Natural Language Processing, Computer Systems for Data Science, Statistical Inference & Modeling\n\n• Fall'23:\nData Science Capstone and Ethics",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Columbia University in the City of New York",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18943"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,579038914)",
+                "school": {
+                    "objectUrn": "urn:li:school:234077",
+                    "entityUrn": "urn:li:fs_miniSchool:234077",
+                    "active": true,
+                    "schoolName": "SSN College of Engineering",
+                    "trackingId": "ssvTwBxVR3WRCFUY84vgkg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHjX1EVumFLhA/company-logo_"
+                },
+                "grade": "CGPA: 9.33 (First Class with Distinction)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "Activities and societies:\n• IEEE ComSoc Student Chapter (Chair-2021, Secretary-2020)\n• Gradient - SSN Design Club (Head)\n• Impulse, ECE Bi-Annual Newsletter (Head of Design)\n• SSN Model United Nations (General Administrator)\n• SyCon, SSN Youth Conference (Design Supervisor)\n• Designer - Invente, Instincts, AECE, Tech Club, SSN Design Club\n• Member - National Service Scheme, SSN Entrepreneurship Cell (Lakshya), IEEE",
+                "degreeName": "Bachelor Of Engineering - BE ",
+                "schoolName": "SSN College of Engineering",
+                "fieldOfStudy": "Electronics and communication",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,677663857)",
+                    "urn:li:fs_honor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,451591858)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:234077"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,651700483)",
+                "activities": "English Literary Club (Essay Writing, Public Speaking, Drama, Poetry), Interact Club (Sanfest, Blood Donation Camp), Heritage Club (Talent Test, Gandhi Exam, Symposium), Arts (Annual Day Performance, Painting, Sketching), Sports (Throwball, Basketball, Kho-Kho)",
+                "grade": "Class 10: 10CGPA, Class 12: 94%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "schoolName": "Sri Sankara Senior Secondary School",
+                "fieldOfStudy": "Mathematics, Physics, Chemistry and Computer Science",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1537043404)",
+                    "urn:li:fs_honor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1537480984)"
+                ]
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2023,
+                    "day": 9
+                },
+                "name": "PooRaa-Agri KG: An agricultural knowledge graph-based simplified multilingual query system",
+                "publisher": "Wiley, Expert Systems",
+                "url": "https://onlinelibrary.wiley.com/doi/10.1111/exsy.13434",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nethraa",
+                            "lastName": "Sivakumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "occupation": "ISB Co’25 | Ex Adobe | ISB YLP - Merit Scholar",
+                            "objectUrn": "urn:li:member:713092779",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1630212310744?e=1746057600&v=beta&t=UvQcSir_dua4eauofU-1Smd76xrlE9wIZhrjqaGHA5M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1630212310744?e=1746057600&v=beta&t=1itVw3Y90ZsqC0kw237eY96hDRiuFho1qJ0cI-lYouc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQH8RYCDpb-92g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nethraa-sivakumar-52399117a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1708328800627?e=1746057600&v=beta&t=bH1DcZS_bZX6bMdUILtFm0oD-SzZ4Pw_NMbSGQHJ-FE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1708328800627?e=1746057600&v=beta&t=SiTRbs0VVkRdB0nHS00IIYa_gjT-ySY8lRFNnq-z7Sw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1708328800627?e=1746057600&v=beta&t=dh5s7VCyrTbRZQr-mCHiO5RcBH1civb59Xf5_TsVPVM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 763,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1708328800627?e=1746057600&v=beta&t=qWk_NfyCU2JKNGJOiA4K-QoQz6DsL6r82f2Ctxsw6PI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 763
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHgcnb017jGxg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fbDfkfcKQ8iqw2p4lMggDA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Mrinalini",
+                            "lastName": "Kannan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB-5nEEBo12BvXv1xEIqvXwJosl9rhQWUYo",
+                            "occupation": "Project Officer at SSN Institutions, Chennai, India",
+                            "objectUrn": "urn:li:member:532257857",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB-5nEEBo12BvXv1xEIqvXwJosl9rhQWUYo",
+                            "publicIdentifier": "mrinalini-kannan-71530312a",
+                            "trackingId": "HtdnPdScQ96j6qu08zFjaw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB-5nEEBo12BvXv1xEIqvXwJosl9rhQWUYo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2022,
+                    "day": 13
+                },
+                "name": "Decision tree-based radio link failure prediction for 5G communication reliability",
+                "publisher": "ITU Journal on Future and Evolving Technologies, Volume 3 (2022), Issue 3 - AI and machine learning solutions in 5G and future networks",
+                "url": "https://www.itu.int/pub/S-JNL-VOL3.ISSUE2-2022-A13",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nethraa",
+                            "lastName": "Sivakumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "occupation": "ISB Co’25 | Ex Adobe | ISB YLP - Merit Scholar",
+                            "objectUrn": "urn:li:member:713092779",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1630212310744?e=1746057600&v=beta&t=UvQcSir_dua4eauofU-1Smd76xrlE9wIZhrjqaGHA5M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1630212310744?e=1746057600&v=beta&t=1itVw3Y90ZsqC0kw237eY96hDRiuFho1qJ0cI-lYouc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQH8RYCDpb-92g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nethraa-sivakumar-52399117a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1708328800627?e=1746057600&v=beta&t=bH1DcZS_bZX6bMdUILtFm0oD-SzZ4Pw_NMbSGQHJ-FE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1708328800627?e=1746057600&v=beta&t=SiTRbs0VVkRdB0nHS00IIYa_gjT-ySY8lRFNnq-z7Sw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1708328800627?e=1746057600&v=beta&t=dh5s7VCyrTbRZQr-mCHiO5RcBH1civb59Xf5_TsVPVM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 763,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1708328800627?e=1746057600&v=beta&t=qWk_NfyCU2JKNGJOiA4K-QoQz6DsL6r82f2Ctxsw6PI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 763
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHgcnb017jGxg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fbDfkfcKQ8iqw2p4lMggDA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nikhil Viswanath",
+                            "lastName": "Sivakumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADVt4FUBPxAxhybht-5AEdpA5jpXpncyrF4",
+                            "occupation": "Working in the fields of Signal Processing and Machine Learning, for Wireless Tech, Semiconductors, Speech Technology & Healthcare Applications",
+                            "objectUrn": "urn:li:member:896393301",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADVt4FUBPxAxhybht-5AEdpA5jpXpncyrF4",
+                            "publicIdentifier": "nikhil-viswanath",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708967987461?e=1741230000&v=beta&t=FTuH0emzeOGgMIU2gcPYaTqnVUMo166O9Q48Cb_BMPs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708967987461?e=1741230000&v=beta&t=IXV5K5CShFO49_W-93Q7G19zEvMhjIhHTZm6XYtcakc",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708967987461?e=1741230000&v=beta&t=qLtVHo_yZT4himfu8dL5z5wZL_wVDr_ICQtOWHd5HCQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708967987461?e=1741230000&v=beta&t=33wefouFu2Ux1G98Ctq8cqxeEClcZ-gFKuUqeIgJ8oc",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQErA4_l0437Ww/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jzNaonocSpCfotL6OBij3A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADVt4FUBPxAxhybht-5AEdpA5jpXpncyrF4"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2022,
+                    "day": 25
+                },
+                "name": "Graph Convolutional Networks for Predicting State-wise Pandemic Incidence in India",
+                "publisher": "IEEE Xplore, 2nd International Conference on Artificial Intelligence and Signal Processing (AISP), 2022",
+                "url": "https://ieeexplore.ieee.org/document/9760527",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nethraa",
+                            "lastName": "Sivakumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "occupation": "ISB Co’25 | Ex Adobe | ISB YLP - Merit Scholar",
+                            "objectUrn": "urn:li:member:713092779",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1630212310744?e=1746057600&v=beta&t=UvQcSir_dua4eauofU-1Smd76xrlE9wIZhrjqaGHA5M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1630212310744?e=1746057600&v=beta&t=1itVw3Y90ZsqC0kw237eY96hDRiuFho1qJ0cI-lYouc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQH8RYCDpb-92g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nethraa-sivakumar-52399117a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1708328800627?e=1746057600&v=beta&t=bH1DcZS_bZX6bMdUILtFm0oD-SzZ4Pw_NMbSGQHJ-FE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1708328800627?e=1746057600&v=beta&t=SiTRbs0VVkRdB0nHS00IIYa_gjT-ySY8lRFNnq-z7Sw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1708328800627?e=1746057600&v=beta&t=dh5s7VCyrTbRZQr-mCHiO5RcBH1civb59Xf5_TsVPVM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 763,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1708328800627?e=1746057600&v=beta&t=qWk_NfyCU2JKNGJOiA4K-QoQz6DsL6r82f2Ctxsw6PI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 763
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHgcnb017jGxg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fbDfkfcKQ8iqw2p4lMggDA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nikhil Viswanath",
+                            "lastName": "Sivakumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADVt4FUBPxAxhybht-5AEdpA5jpXpncyrF4",
+                            "occupation": "Working in the fields of Signal Processing and Machine Learning, for Wireless Tech, Semiconductors, Speech Technology & Healthcare Applications",
+                            "objectUrn": "urn:li:member:896393301",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADVt4FUBPxAxhybht-5AEdpA5jpXpncyrF4",
+                            "publicIdentifier": "nikhil-viswanath",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708967987461?e=1741230000&v=beta&t=FTuH0emzeOGgMIU2gcPYaTqnVUMo166O9Q48Cb_BMPs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708967987461?e=1741230000&v=beta&t=IXV5K5CShFO49_W-93Q7G19zEvMhjIhHTZm6XYtcakc",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708967987461?e=1741230000&v=beta&t=qLtVHo_yZT4himfu8dL5z5wZL_wVDr_ICQtOWHd5HCQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708967987461?e=1741230000&v=beta&t=33wefouFu2Ux1G98Ctq8cqxeEClcZ-gFKuUqeIgJ8oc",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQErA4_l0437Ww/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jzNaonocSpCfotL6OBij3A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADVt4FUBPxAxhybht-5AEdpA5jpXpncyrF4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Siddharth",
+                            "lastName": "Sriraman",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACqADDsBmDHMCyUOb37NoFJyx7wIo5UVQbg",
+                            "occupation": "MS CS @ Georgia Tech",
+                            "objectUrn": "urn:li:member:713034811",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACqADDsBmDHMCyUOb37NoFJyx7wIo5UVQbg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1690897227951?e=1746057600&v=beta&t=_NcojY-ZACO279I2N1Y4_Kj21RykjdjP26zhdRrx8mI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690897227952?e=1746057600&v=beta&t=y2pAFCZjXvvB7n9fmrEwHC7ejzBBUia-UwubJqrfnUI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEm4s6GhuHRDA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "siddharth-sriraman",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZRsRM7XHsAY-/0/1736983236916?e=1746057600&v=beta&t=_pcG7gpKObULoTCwpdxYV77QMOFJWkdSG3-G25hahEI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZRsRM7XHsAc-/0/1736983236916?e=1746057600&v=beta&t=ehgJ60KcipadTqX6bcysuPGEwdNGKWZFNXV9Dexegk8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZRsRM7XHsAg-/0/1736983236916?e=1746057600&v=beta&t=N3qMvrkGmeyzQsEnXSZuFHB1kNjamBdHKF3VfWgbrEA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZRsRM7XHsAU-/0/1736983236885?e=1746057600&v=beta&t=otuqGDOikh5oS29fn-t7DLg8QrgcZntNSDY2k3feXio",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH43DcYhc2nHg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "evRlG5uPQaGZpxT5/ySqNA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACqADDsBmDHMCyUOb37NoFJyx7wIo5UVQbg"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Manjunathan",
+                            "lastName": "R",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADKCjIsBxI9NUQpRpX0l6FZRQu-grqJ8cS0",
+                            "occupation": "Junior ML @ Mad Street | Ex- MLE @ Drishti | Winner, SIH Hardware '22 | Probably Binging an Andrej Karpathy Video.",
+                            "objectUrn": "urn:li:member:847416459",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADKCjIsBxI9NUQpRpX0l6FZRQu-grqJ8cS0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUjOXmUGsAU-/0/1740052727026?e=1746057600&v=beta&t=-Q3UohA04zZAd77fFtdfajgGdPXx7A8v52-SpwkZ9dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUjOXmUGsAY-/0/1740052727026?e=1746057600&v=beta&t=r-Bf3yyOvtQibg1eRHuqdQ4-cJi73f_U7XScg11LCYQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGk2s-E-FeXsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "manjunathan-r-06396b1b7",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1653364300350?e=1746057600&v=beta&t=zN6mEtAeubFcepzPaYFLieDDdaPESfCSMALBfG3H1J8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1653364300350?e=1746057600&v=beta&t=fgwagoQiSPMdwYXoqIfHab7sfQKxY2FjSq0ufPewgP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1653364300350?e=1746057600&v=beta&t=9J0LkfMU3bwWBZbHexr1XiHBFnH_xoFflD5I2hEzlXc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1653364300350?e=1746057600&v=beta&t=OvoyInOXp_p8hjTwSvd3J_0-YyVrye3xKGnYCGlLxTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQH0GAttHtrcJw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2GjBDWexTlq4t/iqT6NQcg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADKCjIsBxI9NUQpRpX0l6FZRQu-grqJ8cS0"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2022,
+                    "day": 9
+                },
+                "name": "Attribute based Double Bounded Rough Neutrosophic Sets in Facial Expression Detection",
+                "publisher": "Neutrosophic Sets and Systems, University of New Mexico, U.S.A",
+                "url": "https://digitalrepository.unm.edu/nss_journal/vol49/iss1/21/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nethraa",
+                            "lastName": "Sivakumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "occupation": "ISB Co’25 | Ex Adobe | ISB YLP - Merit Scholar",
+                            "objectUrn": "urn:li:member:713092779",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1630212310744?e=1746057600&v=beta&t=UvQcSir_dua4eauofU-1Smd76xrlE9wIZhrjqaGHA5M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1630212310744?e=1746057600&v=beta&t=1itVw3Y90ZsqC0kw237eY96hDRiuFho1qJ0cI-lYouc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQH8RYCDpb-92g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nethraa-sivakumar-52399117a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1708328800627?e=1746057600&v=beta&t=bH1DcZS_bZX6bMdUILtFm0oD-SzZ4Pw_NMbSGQHJ-FE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1708328800627?e=1746057600&v=beta&t=SiTRbs0VVkRdB0nHS00IIYa_gjT-ySY8lRFNnq-z7Sw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1708328800627?e=1746057600&v=beta&t=dh5s7VCyrTbRZQr-mCHiO5RcBH1civb59Xf5_TsVPVM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 763,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1708328800627?e=1746057600&v=beta&t=qWk_NfyCU2JKNGJOiA4K-QoQz6DsL6r82f2Ctxsw6PI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 763
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHgcnb017jGxg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fbDfkfcKQ8iqw2p4lMggDA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACqA7qsB2iGFRXJaMsCbatS2vLmWcfe90wg"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Data Science: Foundations using R Specialization (Johns Hopkins University)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "9856JXV5XT94",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "uNifnbSlT0etALy9+imYiA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/9856JXV5XT94"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Python for Data Science and AI (IBM)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UY9UU5BH8B2Q",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "UkBPcOKUR2iXHIPMKEa2SA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/UY9UU5BH8B2Q"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Machine Learning with Python (IBM)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "T5RDPLFPNJBV",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "TNKQyz61TXS7we1TNwHbNQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/T5RDPLFPNJBV"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Data Visualization with Python (IBM)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "S787RBEAVR7U",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "/BjwQJJoQ/2Vl1Pm1FF0hQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/S787RBEAVR7U"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Data Analysis with Python (IBM)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "GQG4BCVH4KR3",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "FRrysW2+SOyh4KRZOkCflw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/GQG4BCVH4KR3"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Databases and SQL for Data Science (IBM)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "TG9NTGK8VR2A",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "2Fw1+jiuQzeQnFInC+v5ag=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/TG9NTGK8VR2A"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Applied Data Science Capstone (IBM)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "DYDEG5PND5N5",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "BSrxybXsQOucG0CWVJ1iYA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/DYDEG5PND5N5"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Introduction to Data Science Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "F6QSXAR546KS",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "ryEC3Lm+QJ+QUMY2HL4gHg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/F6QSXAR546KS"
+            },
+            {
+                "authority": "Coursera",
+                "name": "IBM Data Science Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "3S62L4KW9YGK",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "/mSnqddsSnKGXqkHEOapRw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/3S62L4KW9YGK"
+            },
+            {
+                "authority": "Coursera",
+                "name": "R Programming (Johns Hopkins University)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "8BPRYBCYDQ8S",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "7J4pAdqPR6WM62RIS2XApQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/8BPRYBCYDQ8S"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Student Council Member",
+                "companyName": "Data Science Institute Student Council, Columbia University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:71632911",
+                        "entityUrn": "urn:li:fs_miniCompany:71632911",
+                        "name": "Data Science Institute Student Council, Columbia University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577273930/columbiadsisc_logo?e=1748476800&v=beta&t=FI6DeqsLGrxPCCv-AT-iiT08vK9iGG4B7-ZbULizXUQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577273930/columbiadsisc_logo?e=1748476800&v=beta&t=kqDYvEU-36th-NLo4QQl5tubJsocgpDiZdQwSdAke0o",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577273930/columbiadsisc_logo?e=1748476800&v=beta&t=lTRhf6jSlu6EcC5P3NtxhhGaTPgKqBbEL4bmvy8typw",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHLu2r4whAw2w/company-logo_"
+                            }
+                        },
+                        "universalName": "columbiadsisc",
+                        "dashCompanyUrn": "urn:li:fsd_company:71632911",
+                        "trackingId": "58/28jLZTH+xdLl5klqPqg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:71632911"
+            },
+            {
+                "role": "Chairperson",
+                "companyName": "IEEE Communications Society",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:222076",
+                        "entityUrn": "urn:li:fs_miniCompany:222076",
+                        "name": "IEEE Communications Society",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631376222375?e=1748476800&v=beta&t=_t22o4fXm8nzYMTlBn4nT8Wo2ohwdYp-nlFpaEySkI0",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631376222375?e=1748476800&v=beta&t=jEgopsdAEQVJ1smO_ilGLdHOfOqzZnXF7RkDnKe-Gj4",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631376222375?e=1748476800&v=beta&t=T6zxXLRMlfWpMDMLgOi6JnyHZtFCyPk_oQYDgemlqxs",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHJSkMaWjLlhA/company-logo_"
+                            }
+                        },
+                        "universalName": "ieee-communications-society",
+                        "dashCompanyUrn": "urn:li:fsd_company:222076",
+                        "trackingId": "SGFcZjqwSXa6/1VloqYZig=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:222076"
+            },
+            {
+                "role": "Treasurer",
+                "companyName": "IEEE Student Branch - SSN",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:75627351",
+                        "entityUrn": "urn:li:fs_miniCompany:75627351",
+                        "name": "IEEE Student Branch - SSN",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631283904338/ieee_student_branch_ssn_logo?e=1748476800&v=beta&t=9PKYeu5YDjoK0GSeNdJ-DmOqB2KWLFHO9aBAWeeOU4c",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631283904338/ieee_student_branch_ssn_logo?e=1748476800&v=beta&t=hTfPEwzcCBsXA59HtS7EduFK6iR1EKdvop-RenTej9k",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631283904338/ieee_student_branch_ssn_logo?e=1748476800&v=beta&t=tT0IE01-uyXXakfXHuP0FTIUg_yjZrepwt_Nw4JtKVc",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQF2TrjdU87hxA/company-logo_"
+                            }
+                        },
+                        "universalName": "ieee-student-branch-ssn",
+                        "dashCompanyUrn": "urn:li:fsd_company:75627351",
+                        "trackingId": "+isFzpstQCiRPhTC0vDU7g=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:75627351"
+            }
+        ],
+        "honors": [
+            {
+                "title": "Grace Hopper Celebration 2023 Scholar",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "issuer": "AnitaB.Org"
+            },
+            {
+                "description": "Won 3rd place for the problem statement 'Radio Link Failure Prediction' at ITU AI/ML in 5G Challenge, an international contest with over 100 teams. Identified solution to predict the occurrence of radio link failure, given the weather forecast conditions around the link station in any of next 5 days. The model proposed has F1 score for failure of 1 day as 40% and 44% of 5 days.",
+                "title": "ITU AI/ML in 5G Challenge 2021",
+                "issueDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "issuer": "AI for Good - ITU AI/ML in 5G Challenge"
+            },
+            {
+                "description": "Won the best paper award for the project titled \"Prediction of COVID-19 State-wise Incidence using semi-supervised learning with Graph Convolutional Networks\". In this project I trained GNNs to classify COVID-19 severity level by modelling states and borders in India as a graph. Combined semi-supervised learning with pre-pandemic census information such as foreign visitor count and health index of only 6 states to achieve 82% accuracy, a 15% improvement over non-graph-based models.",
+                "occupation": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,579038914)",
+                "title": "Zenith'21 - Best Paper Award",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "issuer": "ZENITH'21, Tech Club, SSN College of Engineering"
+            },
+            {
+                "description": "Received Silver Medal for securing second place in the Department of Electronics and Communication Engineering (5th semester)",
+                "title": "Silver Medalist",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "issuer": "SSN college of Engineering"
+            },
+            {
+                "description": "Selected for a fully funded research internship from Western University, Ontario, Canada under the supervision of Prof. Mohammad Reza Najafi for the project titled \"Probabilistic flood forecasting using teleconnection signals\" from May to August 2021. This research internship was successfully completed with the development of a flood forecasting model.",
+                "occupation": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1790502497)",
+                "title": "Mitacs Globalink Research Scholar 2021",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "issuer": "Mitacs, Canada"
+            },
+            {
+                "description": "Funding was granted for the research project titled \"Attribute based Double Bounded Rough Neutrosophic Sets in Facial Expression Detection\" in the department of Mathematics by SSN College of Engineering. This research was done under the guidance of Dr. B. Praba, Professor and Head, Department of Mathematics.",
+                "occupation": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,579038914)",
+                "title": "Internal Funding Project Grant 2019",
+                "issueDate": {
+                    "month": 11,
+                    "year": 2019
+                },
+                "issuer": "SSN College of Engineering"
+            },
+            {
+                "description": "Certificate of Merit for securing first place with 99% score in Mathematics, CBSE, 2017-2018 ",
+                "occupation": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,651700483)",
+                "title": "Certificate of Merit in Mathematics ",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2018,
+                    "day": 1
+                },
+                "issuer": "Sri Sankara Senior Secondary School"
+            },
+            {
+                "description": "Certificate of Merit to School Topper in CBSE, AISSE session 2015-2016 for securing 10 CGPA",
+                "occupation": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,651700483)",
+                "title": "Certificate of Merit ",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2016,
+                    "day": 1
+                },
+                "issuer": "Sri Sankara Senior Secondary School"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,823330696)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1092731639,428291610)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Studied rapid growth of the Asian American communities operating R and ggplot; Used D3 to build an interactive graphic, and implemented data analytics to identify relationships between social & health issues, well-being, challenges, and concerns",
+                "title": "Analysis of Asian American Quality of Life"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,823330696)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,11699379,405212536)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Developed recommendation pipeline to heighten profit margins, leveraging content-based and collaborative filtering suggesting top-n customer recommendations based on purchase histories. Additionally, employed K-means Clustering and Neural Networks for image similarity recommendations, yielding a significant 33% improvement and delivering valuable business market insights",
+                "title": "Customer fashion product recommender system"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1524104233,345429411)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "The research work makes use of novel Pre-processing (Upsampling, downsampling, date-time analysis, categorical encoding, closest weather station based on distance, normalizing) and Feature Engineering techniques (Correlation Based Approach, Backward Elimination and Recursive Feature Elimination), followed by a trained Decision Tree model to predict the occurrence of Radio Link Failure (RLF). The system is designed to predict RLF for not just the next day, but also any of the next 5 days. This prediction supports reliance and increasing demand for good internet connectivity. In order to achieve accurate RLF prediction, comprehensive data from ITU has been used. Macro-averaged F1 score and G-Mean score was used for evaluation. Decreased latency and increased communication reliability was achieved. Won 3rd place for the problem statement in ITU-AI/ML in 5G challenge 2021.",
+                "title": "Decision Tree-based Radio Link Failure Prediction for 5G Communication Reliability"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1523046736,345431083)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "'Pooraa Agri KG: An Agricultural Knowledge Graph-based Multilingual Query System' works in real-time to answer agriculture-based queries in a concise format (basic grammar & vocabulary) and in a widely spoken native language (accepts queries and answers in Hindi). Data corpus collected from India Linguistic Resource, TDIL consisting of 15k sentences. Performed Natural Language Processing (NLP) based complex sentence segmentation using dependency parsing, knowledge graph extraction using spacy & reconstruction of sentences using heuristic algorithm, machine translation to handle native language. A query system using cosine similarity and Euclidean distance was built.",
+                "title": "Pooraa Agri KG: An Agricultural Knowledge Graph Based Multilingual Query System"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1790502497)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1526900838,345429593)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "Worked on the research project titled: \"Improving probabilistic flood forecasting using teleconnection signals\". Quantified the contribution of teleconnection signals to floods in Canada. Processed and analyzed a large suit of global climate data sample (30 years (1980-2010) precipitation data in NetCDF format for entire Canada) using a python model. Further, Spatial and temporal analysis of wet and concurrent wet events were performed by time series analysis using\nstandardized precipitation index (SPI). The trend was obtained using Man-Kendall test and hence the prediction of the occurrence of floods.",
+                "title": "Improving probabilistic flood forecasting using teleconnection signals"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1527081308,345429608)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "Trained GNNs to classify COVID-19 severity level by modeling states and borders in India as a graph. Combined semi-supervised learning with pre-pandemic census information such as foreign visitor count and health index of only 6 states to achieve 82% accuracy, a 15% improvement over non-graph-based models; Won best paper at ZENITH’21, SSN Tech Club symposium.",
+                "title": "Graph Convolutional Networks for Predicting State-wise Pandemic Incidence in India"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Pooja",
+                            "lastName": "Srinivasan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "occupation": "Data Scientist @American Express | Columbia University | GHC'23 | NLP | Machine Learning",
+                            "objectUrn": "urn:li:member:718880726",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1708486337521?e=1746057600&v=beta&t=zwJuu6fxQh6iRTvtRHlENYbWJhwHZkGUT5spIw3HDSg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708486337521?e=1746057600&v=beta&t=02_y0vY_gAG_C5UCNKpGywUyI-zDmt4g-pILE22BaN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFqH2dUASiDCQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "poojasrinivasan11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1682176616292?e=1746057600&v=beta&t=wtnECw7IdpFX9Y2_w1I6wOkKVBRfg1vmZOrDkV4MN8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1682176616292?e=1746057600&v=beta&t=0-bBVFmci1PeAt3hQU3c1jWL1lRmk8v69eGBSGhwWJQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1682176616292?e=1746057600&v=beta&t=cfoWA0SUNzbK7KRTBmeGzwTh6YLQAbKG7E6devCTwtM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1682176616292?e=1746057600&v=beta&t=jv7W41dgEDPb1G4pwC3VM0Gpfr_rnv5StmX-clRM9BE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuowZzIofWfQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/Rd8bB02Qbe28UXRYNmkTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY,1191399477,279999036)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "‘Attribute Based Double Bounded Rough Neutrosophic sets (DBRNS) in Facial expression detection’ research paper deals with analyzing the values of Neutrosophic fuzzy set (membership, non-membership, indeterminacy) and attribute value for facial expression detection (happy, angry, sad and surprised). Python model was built to determine the same for given 7,000 images and their parameters at various pivotal points of the face/object using the concept of DBRNS. Detection with and without mask, differentiating fake and genuine smile, degree of closeness and depression were also obtained.",
+                "title": "Attribute based Double Bounded Rough Neutrosophic Sets (DBRNS) in Facial Expression Detection",
+                "url": "https://github.com/poojasrini/Facial-Expression-Detection-using-Double-Bounded-Rough-Neutrosophic-Sets"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python (Programming Language)"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "Supervised Learning Algorithm"
+            }
+        ],
+        "urn_id": "ACoAACrZP9YBUSGkeiftTX4ycDX1MAB4Lsul7qY"
+    }
+}

@@ -1,0 +1,620 @@
+{
+    "urn_id": "ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0",
+    "fetch_timestamp": "2025-02-26T21:44:59.354147",
+    "profile_data": {
+        "summary": "Self-motivated and tenacious software engineer/architect and data scientist with over seventeen years of experience across professional and academic work environments. Currently working as the technical lead for NV-Ingest, a service used for data extraction, transformation, and processing, targeting large-scale RAG applications.\n\nAble to function in both team and individual contributor roles. Comfortable with directing and mentoring other engineers and willing to take on architecture and leadership roles.\n\nStrong communication skills, with the ability to discuss software, products, and requirements at a customer, business, or engineering level, and translate between each.\n\nProfessional background in computer science and engineering, computational science, and data science, with an academic background in various areas of applied mathematics, including numerical methods, linear algebra, and finite field arithmetic. Able to come up to speed on most topics in a reasonable amount of time.\n\nPrimary Development Languages: C/C++, Python (+pybind11), Bash, some CUDA (comfortable learning and working in any programming language, as necessary).",
+        "industryName": "Computer Software",
+        "lastName": "Robison",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Devin",
+        "entityUrn": "urn:li:fs_profile:ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103250458"
+        },
+        "geoLocationName": "Salt Lake City, Utah",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior Data Scientist @ NVIDIA | MS, Computational Science & Data Science",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGwkxuO8RRnuw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1666110864940?e=1746057600&v=beta&t=e2DFFVBz8B6mIwsWPQZbtRRDTjPSYqWLezLKLbAnET8",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1666110864940?e=1746057600&v=beta&t=J_JCgPbfH7bLoMLOyVdM3RSvtjFyxPbF9wSw886PfNk",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1666110864940?e=1746057600&v=beta&t=bTxGEHtiJ8yKhR9po4KGs3AGKL1PF-Q94CVDrdjHaeU",
+        "img_648_648": "800_800/profile-displayphoto-shrink_800_800/0/1666110864940?e=1746057600&v=beta&t=OCMOx4ZnyG0-GXuCWGuUqkyojm6Ma0LK6I0g-u1pSAg",
+        "profile_id": "ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0",
+        "member_urn": "urn:li:member:127252287",
+        "public_id": "devination",
+        "experience": [
+            {
+                "locationName": "Park City, Utah, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,2424628644)",
+                "geoLocationName": "Park City, Utah, United States",
+                "geoUrn": "urn:li:fs_geo:100732856",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "RAPIDS - Data Ingestion\nCurrently working as the technical lead for NV-Ingest, a service used for data extraction, transformation, and processing, targeting large-scale RAG applications.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Technical Lead",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "Park City, Utah, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,1542647567)",
+                "geoLocationName": "Park City, Utah, United States",
+                "geoUrn": "urn:li:fs_geo:100732856",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "RAPIDS - AI/Cybersecurity/Engineering\nWorked as part of the core engineering team for the NVIDIA Morpheus SDK and Morpheus Runtime Core (MRC) library; responsible for architecture and implementation of integrated training and feedback mechanisms.\n----\nRAPIDS - Distributed Machine Learning\nWork focused on methods and application of distributed machine learning in the cloud: architecture, algorithms, and related concepts.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Senior Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "Greater Salt Lake City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,1194793229)",
+                "geoLocationName": "Greater Salt Lake City Area",
+                "geoUrn": "urn:li:fs_geo:90000716",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "Solutions Architecture - Pursuit Engineering\nWorked on aspects of distributed deep learning/machine learning, branching interests into data science, deep reinforcement learning, and natural language processing.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Senior Solutions Architect",
+                "region": "urn:li:fs_region:(us,716)",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "Greater Salt Lake City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,1094407053)",
+                "geoLocationName": "Greater Salt Lake City Area",
+                "geoUrn": "urn:li:fs_geo:90000716",
+                "companyName": "Oracle",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "description": "Oracle Public Cloud - Architecture Development Group.\n\nImplemented significant deployment framework improvements, to support automatic networking configuration and firewall rule definition for legacy services, which did not support service discovery.\n\nAdded deployment paths to support docker-compose and docker-swarm deployments, and tools for automatic conversion of existing proprietary JSON based cluster/service definitions to the appropriate docker-YAML specification.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Principal Member Of Technical Staff",
+                "region": "urn:li:fs_region:(us,716)",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_"
+            },
+            {
+                "locationName": "Greater Salt Lake City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,570941450)",
+                "geoLocationName": "Greater Salt Lake City Area",
+                "geoUrn": "urn:li:fs_geo:90000716",
+                "companyName": "Oracle",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2014
+                    }
+                },
+                "description": "Oracle Public Cloud - Architecture Development Group.\n\nRebuilt cloud deployment framework for internal developers, utilizing Python and Docker, significantly improving developer density and resource utilization.\n\nWorked on initial planning and research effort to define goals for improving storage density via erasure coding, and implementation schemes.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Member of Technical Staff",
+                "region": "urn:li:fs_region:(us,716)",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,602374495)",
+                "school": {
+                    "objectUrn": "urn:li:school:17939",
+                    "entityUrn": "urn:li:fs_miniSchool:17939",
+                    "active": true,
+                    "schoolName": "University of California, Berkeley",
+                    "trackingId": "5akzKbCFQxOFgHKH/qGtLg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                },
+                "grade": "3.92",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "MIDS Program, covering a variety of topics in data science, including core statistics, traditional machine learning, deep learning, visualization, and distributed applications.\n\nFor the capstone project I pitched the creation of a tool to allow for natural language retrieval + question and answer applied to audio and video data. The project gained enough votes to be accepted and we were able to put together a great team to execute the concept. Our team was subsequently nominated to move on to the semester showcase for our class' cohort.\n\nMy primary responsibilities on the capstone project consisted of back-end service architecture + implementation, and language model integration.",
+                "degreeName": "Master of Information & Data Science - MS",
+                "schoolName": "University of California, Berkeley",
+                "fieldOfStudy": "Information and Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:17939"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,546553510)",
+                "school": {
+                    "objectUrn": "urn:li:school:164070",
+                    "entityUrn": "urn:li:fs_miniSchool:164070",
+                    "active": true,
+                    "schoolName": "Udacity",
+                    "trackingId": "BGHl5FpuQxONnZ+BkQ2PDA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "Overview and implementation + projects based on a wide variety of RL concepts, including:\n\nSARSA, DQN, DDPG, PPO.",
+                "degreeName": "Nanodegree",
+                "schoolName": "Udacity",
+                "fieldOfStudy": "Deep Reinforcement Learning",
+                "schoolUrn": "urn:li:fs_miniSchool:164070"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0,443101906)",
+                "school": {
+                    "objectUrn": "urn:li:school:164070",
+                    "entityUrn": "urn:li:fs_miniSchool:164070",
+                    "active": true,
+                    "schoolName": "Udacity",
+                    "trackingId": "l64/7CCUR9mEh3KpbT1RnA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "description": "Lectures, coursework, and projects, as well as outside reading from relevant publications:\nSemester 1 (Search, planning, and constraint satisfaction)\nGames: mini-max, A*, constraint propagation\nSearching and planning: Simulated annealing, constraint satisfaction, logic and reasoning, graphPlan\nProbability: Bayes nets, Inference, and Hidden Markov Models\n\nSemester 2 (Deep learning and applications)\nDeep Neural Networks: CNNs, autoencoders, RNNs, LSTMs, GANs, DCGANs, and semi-supervised learning.",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Nanodegree",
+                "schoolName": "Udacity",
+                "fieldOfStudy": "Artificial Intelligence",
+                "schoolUrn": "urn:li:fs_miniSchool:164070"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Duolingo",
+                "name": "Duolingo German Fluency: Elementary (Estimated)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2973736",
+                    "entityUrn": "urn:li:fs_miniCompany:2973736",
+                    "name": "Duolingo",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1734710262711/duolingo_logo?e=1748476800&v=beta&t=3Q2dEk6IfDeamrhC0cD5B0gO-WTJCmU5J5mGULw8yY4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1734710262711/duolingo_logo?e=1748476800&v=beta&t=IAx2F4o9WO1NSMZaMUTAI4sa_7-FxrVbrAs4QYa2VTU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1734710262711/duolingo_logo?e=1748476800&v=beta&t=DIIQiRseuZ2ikvBqEq9gII39V5barHfLt3z3m3nrn84",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQENqZmR7pr2xA/company-logo_"
+                        }
+                    },
+                    "universalName": "duolingo",
+                    "dashCompanyUrn": "urn:li:fsd_company:2973736",
+                    "trackingId": "23cMIVuORXaisIJwhBRD9w=="
+                },
+                "displaySource": "duolingo.com",
+                "companyUrn": "urn:li:fs_miniCompany:2973736",
+                "url": "https://www.duolingo.com/drobison00"
+            },
+            {
+                "authority": "Duolingo",
+                "name": "Duolingo German Fluency: Intermediate (Estimated)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2973736",
+                    "entityUrn": "urn:li:fs_miniCompany:2973736",
+                    "name": "Duolingo",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1734710262711/duolingo_logo?e=1748476800&v=beta&t=3Q2dEk6IfDeamrhC0cD5B0gO-WTJCmU5J5mGULw8yY4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1734710262711/duolingo_logo?e=1748476800&v=beta&t=IAx2F4o9WO1NSMZaMUTAI4sa_7-FxrVbrAs4QYa2VTU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1734710262711/duolingo_logo?e=1748476800&v=beta&t=DIIQiRseuZ2ikvBqEq9gII39V5barHfLt3z3m3nrn84",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQENqZmR7pr2xA/company-logo_"
+                        }
+                    },
+                    "universalName": "duolingo",
+                    "dashCompanyUrn": "urn:li:fsd_company:2973736",
+                    "trackingId": "QyNwfgApRdSJ5e0aTVzh6w=="
+                },
+                "displaySource": "duolingo.com",
+                "companyUrn": "urn:li:fs_miniCompany:2973736",
+                "url": "https://www.duolingo.com/drobison00"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Linux Foundation Cert Prep: Network Security (Ubuntu)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "a7QJx4E0T/Oz9NNw9t/z6Q=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/b5348bade4a233320053e8fbc029135dbd59e83ae38e5f3cf2acfd9c163840bb?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "New Manager Foundations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "fLJS8dm7QRivoJ+BYMd0XQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/32fece5d5a8f5fc030f86eb057b9b27997f0011297e90bfca456c3737faf20fe?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning Kubernetes",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "BbCqgX9MQ92HYc4Z9VSiuQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/c8f720fb03d099d5784ae0f60ac303ac73bca12d30f828d22edf80a3a4342b2c?trk=backfilled_certificate"
+            },
+            {
+                "authority": "Triplebyte",
+                "name": "Triplebyte Certified Generalist Software Engineer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "PmRoGbO",
+                "company": {
+                    "objectUrn": "urn:li:company:6622522",
+                    "entityUrn": "urn:li:fs_miniCompany:6622522",
+                    "name": "Triplebyte",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630654179261/triplebyte_logo?e=1748476800&v=beta&t=Vh8ojrm7r-7c_z4olpt2dnpVUc98nlPUuj5BnMRCrB4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630654179261/triplebyte_logo?e=1748476800&v=beta&t=ucX0gvu2Zeui8nWrri1rHfVRIbo_iFgpAIplnB1hITc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630654179261/triplebyte_logo?e=1748476800&v=beta&t=KMB7BdDJgl_aEE-UOcDA635hfvVNGV6UkUvv9OqG7WE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFL5EsaT_03yA/company-logo_"
+                        }
+                    },
+                    "universalName": "triplebyte",
+                    "dashCompanyUrn": "urn:li:fsd_company:6622522",
+                    "trackingId": "9+V4cW5ZSX25YgzckE2QlQ=="
+                },
+                "displaySource": "triplebyte.com",
+                "companyUrn": "urn:li:fs_miniCompany:6622522",
+                "url": "https://triplebyte.com/tb/devin-robison-cor1sau/certificate/track/generalist"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Secure Coding in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "aoav63iMQe6lcbVp2S+wzw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/5470c209975cbed93703c07e4a33f8c30e1bd108d07d7c1cc962bf67d9b60d95?trk=backfilled_certificate"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Software Architecture"
+            },
+            {
+                "name": "NVIDIA Morpheus"
+            },
+            {
+                "name": "RxCpp"
+            },
+            {
+                "name": "Pybind11"
+            }
+        ],
+        "urn_id": "ACoAAAeVtz8BZPMA_e03IRfOtc3CP65jqDzPus0"
+    }
+}

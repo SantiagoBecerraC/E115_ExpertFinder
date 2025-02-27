@@ -1,0 +1,1221 @@
+{
+    "urn_id": "ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+    "fetch_timestamp": "2025-02-26T21:42:53.318364",
+    "profile_data": {
+        "summary": "I am a Machine Learning researcher and practitioner with a BSc in Computer Science and Engineering with a machine learning major. Previously worked as an Assistant Professor and lecturer in a University in Bangladesh and supervised more than 300 mobile application and web application developments.",
+        "industryName": "Research",
+        "lastName": "Dey",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "Arunavo",
+        "entityUrn": "urn:li:fs_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:107016741"
+        },
+        "geoLocationName": "San Marcos, Texas",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+        "img_684_684": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+        "profile_id": "ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+        "member_urn": "urn:li:member:508425067",
+        "public_id": "arunavo-dey",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,2517441464)",
+                "companyName": "Texas State University Computer Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "description": "Leveraging LLM for time series analysis and HPC job scheduling, RAG based fine tuned LLM for performance analysis, Multi-source contrastive learning based subspace generation",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:64933775",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHqg5-z0O-Z4g/company-logo_"
+            },
+            {
+                "locationName": "Texas, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,1832991600)",
+                "geoLocationName": "Texas, United States",
+                "geoUrn": "urn:li:fs_geo:102748797",
+                "companyName": "Texas State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "- Achieved 82% improvement over regular transfer learning approaches with proxy apps data with 1% few shot test samples\n- Designed Transfer learning models for performance prediction from scientific data with both homogeneous and heterogeneous features\n- Implemented Transfer learning models and techniques including linear probing, fine-tuning with custom-built models, Meta Agnostic Machine Learning models, ensemble-based models, stacked models\nand residual models in zero-shot and few-shot approaches in Tensorflow for regression problems with distribution shifts for both homogeneous and heterogeneous features.\n• Designed feature importance calculation in an unsupervised learning manner using SHAP and subspace-based method, two methods to measure distribution similarity across domains\n• Submitted 1 paper titled “Enabling Transfer Learning Across Heterogeneous Domains using Input Alignment” in ISPASS 2024",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:9054",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_"
+            },
+            {
+                "locationName": "California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,2177273463)",
+                "geoLocationName": "California, United States",
+                "geoUrn": "urn:li:fs_geo:102095887",
+                "companyName": "Lawrence Livermore National Laboratory",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "- Designed two novel methodologies for relative performance predic￾tion across a pair of platforms using synthetic data generation and\nchained neural networks\n- Investigated distribution of different application's data collected on CPU and GPU-based platforms, visual analysis with heatmap and other visualization tools\n- Applied 13 machine learning models which include Linear Regression, KKN Regressor, Decision Tree Regressor, Support Vector Regressor, XGBoost Regressor, Random Forrest Regressor, LightGBM Regressor, AdaBoost Regressor, Extra Trees Regressor, Bagging Regressor, Ridge CV, Lasso CV, Elastic Net CV, Bayesian Ridge and ARD regressor with hyperparameter tuning with grid search cv on this data for performance prediction\n• Submitted a paper titled \"Relative Performance Prediction using Semi-Supervised Learning\"",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Computing Scholar Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4994",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGZ1AGlF1C6EQ/company-logo_"
+            },
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,1978901024)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Brookhaven National Laboratory",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "- Achieved 93% accuracy in Anomaly detection in real-time streaming data\n - Designed a pluggable module including statistical models, machine learning models and tree-based models to integrate into the fully functioning system\n- Evaluated these models with 7 benchmark machine learning dataset for anomaly detection in streaming data\n- A paper on this work titled \"Signal Processing Based Method for Real-Time Anomaly Detection in High-Performance Computing\" was published in COMPSAC 2022",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Summer Research Intern",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:12743",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHZLzSeutWTSA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,2176646256)",
+                "companyName": "Brookhaven National Laboratory",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Summer Research Intern",
+                "companyUrn": "urn:li:fs_miniCompany:12743",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHZLzSeutWTSA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,744968335)",
+                "school": {
+                    "objectUrn": "urn:li:school:19504",
+                    "entityUrn": "urn:li:fs_miniSchool:19504",
+                    "active": true,
+                    "schoolName": "Texas State University",
+                    "trackingId": "4nYrwqVoQmS4U0MC69NOcQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Texas State University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:19504"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,617629552)",
+                "school": {
+                    "objectUrn": "urn:li:school:10297",
+                    "entityUrn": "urn:li:fs_miniSchool:10297",
+                    "active": true,
+                    "schoolName": "Bangladesh University of Engineering and Technology",
+                    "trackingId": "x1Pc49peS3aQ417Oh2A6cQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEFVLCx8aGuoA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "Bangladesh University of Engineering and Technology",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:10297"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,617627808)",
+                "school": {
+                    "objectUrn": "urn:li:school:3159044",
+                    "entityUrn": "urn:li:fs_miniSchool:3159044",
+                    "active": true,
+                    "schoolName": "Notre Dame College",
+                    "trackingId": "jptCJWV+RViiMgGbAtpa5Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQGUWBXhRNmUog/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "Higher Secondary Certificate",
+                "schoolName": "Notre Dame College",
+                "fieldOfStudy": "Science",
+                "schoolUrn": "urn:li:fs_miniSchool:3159044"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2023,
+                    "day": 26
+                },
+                "name": "Signal Processing Based Method for Real-Time Anomaly Detection in High-Performance Computing",
+                "publisher": "COMPSAC 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)",
+                "description": "Developed Fourier Based FFT and leveraged statistical model ARIMA and unsupervised model Random Robust Cut Forrest for anomaly detection in continuous streaming data using Keras, SKLearn, and Tensorflow.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Arunavo",
+                            "lastName": "Dey",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "occupation": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+                            "objectUrn": "urn:li:member:508425067",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1637695653025?e=1746057600&v=beta&t=khso2BfSVpS63AzsF6au3A3AovZ_tuMNlun8E1VvYdc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637695653025?e=1746057600&v=beta&t=eUc9EcADfyu4tEEdb-2xXuSMl10hRRmycbB88Qt74Zs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFPHkOenp1yOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arunavo-dey",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 684,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 684
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3gY00bvPQDunXi8M+dhqAQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Tanzima",
+                            "lastName": "Islam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAOGGjQB1iUS20uYz4P1IVxQTGoOEe0YIGw",
+                            "occupation": "Assistant Professor, Texas State University | Research in the intersection of Data Science and HPC | R&D 100 Award Winner | DOE Early Career Awardee | DOE SRP Fellow | Presidential Award Winner 2023-24",
+                            "objectUrn": "urn:li:member:59120180",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAOGGjQB1iUS20uYz4P1IVxQTGoOEe0YIGw",
+                            "publicIdentifier": "tanzima-islam-09897117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZRRLKifHoAk-/0/1736528669166?e=1746057600&v=beta&t=xpSYFvE8FkNEhNMit-Lo6Bac55KXMHE40yVVx7YevUY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZRRLKifHoAg-/0/1736528669166?e=1746057600&v=beta&t=Upqv2FrTHl3LI2NLqZ112AcUz52lI1zU4pJlOGsuhX0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZRRLKifHoAs-/0/1736528669166?e=1746057600&v=beta&t=8IAiU1ArOu_mfRFyfazGIGqB0omOqEfSQYx55cx3CV0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 768,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZRRLKifHoAo-/0/1736528669187?e=1746057600&v=beta&t=q1etsNfp96MkkTxBKnnl3Ea3ysp6l7BHGYwe0Tyg45w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 768
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFhnSuYM4BaMA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "HuMgrf7dTEqIO5CPKD5eLA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAOGGjQB1iUS20uYz4P1IVxQTGoOEe0YIGw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Chase",
+                            "lastName": "P.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAMllXQBlEhxLXhSWFOXX0wv6oS0hPLJuPo",
+                            "occupation": "Computer Science",
+                            "objectUrn": "urn:li:member:52794740",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAMllXQBlEhxLXhSWFOXX0wv6oS0hPLJuPo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 720,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1623603264389?e=1746057600&v=beta&t=tMsc7CBRfECEca4vMYhdxibwey4-sW4qVzeSLB0Kxf8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 180
+                                        },
+                                        {
+                                            "width": 720,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1623603264389?e=1746057600&v=beta&t=1nHp9S9gDUGTxNf5F9yiHo8dP-FckYhOmT0ecUzKx8o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 180
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGadUPbvenjyA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "chaseleif",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1608067237295?e=1746057600&v=beta&t=4sHnYQqXnhXC4sM69XPLhpxK922vAQEADRSBeF6A2Fs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1608067237295?e=1746057600&v=beta&t=N-1Yd8SZJVd4AUO4hEJhWZ4MTC1DTVArMyqtga8Dd-Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1608067237295?e=1746057600&v=beta&t=mrERkDOA_fZ5vk6aaGzdkJ9m7uBogV2PcVqD9blRi2w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1608067237295?e=1746057600&v=beta&t=TH65QjlquqwAO8sDt1ZFMXWt4FuzutIKpWyYa-VxLIM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF4N_-A5FK3MQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OmsmVAhzTN2hkjcws0C5bA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAMllXQBlEhxLXhSWFOXX0wv6oS0hPLJuPo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2021,
+                    "day": 17
+                },
+                "name": "Towards an Attention-Based Accurate Intrusion Detection Approach",
+                "publisher": "EAI QSHINE 2021 - 17th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness",
+                "description": "developed an attention-based neural network for anomaly detection\nused LSTM and 1D CNN layers coupled with the attention-based neural network for anomaly detection",
+                "url": "https://link.springer.com/chapter/10.1007%2F978-3-030-91424-0_16",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Arunavo",
+                            "lastName": "Dey",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "occupation": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+                            "objectUrn": "urn:li:member:508425067",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1637695653025?e=1746057600&v=beta&t=khso2BfSVpS63AzsF6au3A3AovZ_tuMNlun8E1VvYdc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637695653025?e=1746057600&v=beta&t=eUc9EcADfyu4tEEdb-2xXuSMl10hRRmycbB88Qt74Zs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFPHkOenp1yOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arunavo-dey",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 684,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 684
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3gY00bvPQDunXi8M+dhqAQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2021,
+                    "day": 16
+                },
+                "name": "Deep IDS : A deep learning approach for Intrusion detection based on IDS 2018",
+                "publisher": "2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI)",
+                "url": "https://ieeexplore.ieee.org/abstract/document/9350411",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Arunavo",
+                            "lastName": "Dey",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "occupation": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+                            "objectUrn": "urn:li:member:508425067",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1637695653025?e=1746057600&v=beta&t=khso2BfSVpS63AzsF6au3A3AovZ_tuMNlun8E1VvYdc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637695653025?e=1746057600&v=beta&t=eUc9EcADfyu4tEEdb-2xXuSMl10hRRmycbB88Qt74Zs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFPHkOenp1yOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arunavo-dey",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 684,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 684
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3gY00bvPQDunXi8M+dhqAQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2019,
+                    "day": 3
+                },
+                "name": "Designing an automatic workplace recommendation system for garment workers using fog computing",
+                "publisher": "International Conference on Advances in Science, Engineering and Robotics Technology ( ICASERT-2019)",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Arunavo",
+                            "lastName": "Dey",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "occupation": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+                            "objectUrn": "urn:li:member:508425067",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1637695653025?e=1746057600&v=beta&t=khso2BfSVpS63AzsF6au3A3AovZ_tuMNlun8E1VvYdc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637695653025?e=1746057600&v=beta&t=eUc9EcADfyu4tEEdb-2xXuSMl10hRRmycbB88Qt74Zs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFPHkOenp1yOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arunavo-dey",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 684,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 684
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3gY00bvPQDunXi8M+dhqAQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+                    }
+                ]
+            },
+            {
+                "name": "Attention Based LSTM CNN Framework for Sentiment Extraction from Bengali Texts",
+                "publisher": "2020 11th International Conference on Electrical and Computer Engineering (ICECE)",
+                "url": "https://ieeexplore.ieee.org/abstract/document/9393107",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Arunavo",
+                            "lastName": "Dey",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "occupation": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+                            "objectUrn": "urn:li:member:508425067",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1637695653025?e=1746057600&v=beta&t=khso2BfSVpS63AzsF6au3A3AovZ_tuMNlun8E1VvYdc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637695653025?e=1746057600&v=beta&t=eUc9EcADfyu4tEEdb-2xXuSMl10hRRmycbB88Qt74Zs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFPHkOenp1yOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arunavo-dey",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 684,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 684
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3gY00bvPQDunXi8M+dhqAQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Introduction to Cybersecurity Tools & Cyber Attacks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "HAY38PWS798D",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "itmrs5x5Qta2es241jsJ8Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/verify/HAY38PWS798D"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Introduction to the Internet of Things and Embedded Systems",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "QEC693G3BLZ8",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "vPlYGM64T1KMKJpfpnIehg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/QEC693G3BLZ8"
+            },
+            {
+                "authority": "Coursera",
+                "name": "    Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "G58NKSDGSTKU",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "KUG40qC1Q6+Bb81fx/ISJw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/G58NKSDGSTKU"
+            },
+            {
+                "authority": "Coursera",
+                "name": "    Natural Language Processing in TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "    3ZYEE3S834EY",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "j8iOeaWkSxqh0BDCFYuqgA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/3ZYEE3S834EY"
+            },
+            {
+                "authority": "Coursera",
+                "name": "    Python Data Structures",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "LJEKJMXL7WV8",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "gzF7rAtnTlC8oGh6nOZnng=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/LJEKJMXL7WV8"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "RN7E8SHB69WM",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "777LTGOtQXK8z2VJwOoRNg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/RN7E8SHB69WM"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Blockchain Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "EN38KQTTN358",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "fg40f0qMSHCZUD5vkggoZQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/EN38KQTTN358"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Fundamentals of Reinforcement Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "B7BJDWL98TY7",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "gXr02i+GQl6Gf8A3ZiI/SQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "http://www.coursera.org/account/accomplishments/certificate/B7BJDWL98TY7"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Arunavo",
+                            "lastName": "Dey",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "occupation": "Actively Looking for Opportunities | Summer 2023 Intern @ LLNL| Ms in CS at Texas State University Class of 2023 | Applied ML Researcher",
+                            "objectUrn": "urn:li:member:508425067",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1637695653025?e=1746057600&v=beta&t=khso2BfSVpS63AzsF6au3A3AovZ_tuMNlun8E1VvYdc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637695653025?e=1746057600&v=beta&t=eUc9EcADfyu4tEEdb-2xXuSMl10hRRmycbB88Qt74Zs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFPHkOenp1yOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arunavo-dey",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665685294402?e=1746057600&v=beta&t=Bl_34TRlC0DtCn9RNYquTL67vThq0cl3LuBhqqQc_1c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665685294402?e=1746057600&v=beta&t=HpKNRy9o0Tely-OihCWPPog3LA-IrP92CYnMYkr0xag",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665685294402?e=1746057600&v=beta&t=wbGO7FjG9ZmJn19gO4EqOHWhIKRwEcYYSMc9EVFF-7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 684,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665685294402?e=1746057600&v=beta&t=1Z7l-GIacOWrIQk2WHioP3SywEM0HSLo2qPDIH-ktP4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 684
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQF4OVfZvyiYpw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3gY00bvPQDunXi8M+dhqAQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg,1717094273,413021927)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+                    }
+                ],
+                "description": "- Leveraged a vanilla CNN for transfer learning using ImageNet and VGG16 and Siamese network for image Classification\n- Achieved 73% accuracy in emotion detection by Resnet\n- Git: https://github.com/ArunavoDey/Emotion-Anlyzer/blob/main/Facial_expression_by_res_net.ipynb",
+                "title": "Emotion Analyzer"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Large Language Models (LLM)"
+            },
+            {
+                "name": "Time Series Analysis"
+            },
+            {
+                "name": "Systems"
+            },
+            {
+                "name": "React.js"
+            }
+        ],
+        "urn_id": "ACoAAB5N82sBnVUgehdkVZAdNjbgoGKYbB2-xdg"
+    }
+}

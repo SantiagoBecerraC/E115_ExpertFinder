@@ -1,0 +1,652 @@
+{
+    "urn_id": "ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo",
+    "fetch_timestamp": "2025-02-26T21:48:03.860332",
+    "profile_data": {
+        "summary": "Extensive knowledge in MS/DL/AI within various domains such as reinforcement learning, natural language processing, and computer vision. Ability to develop and implement AI algorithms from scratch, with 4 years of experience. Completed my B.S. in computer science and currently pursuing a master's degree in Artificial Intelligence at John Hopkins University.\n\nI have successfully completed multiple projects within the realm of artificial intelligence such as working with large language models, building and using a variety of computer vision models, and developing curiosity-driven reinforcement learning models. Recently worked as a data scientist training large language models by providing high-quality data.\n\nMy goal is to be the best at Artificial Intelligence, therefore I am eager to extract more knowledge every day which makes me flexible to work on different areas of Artificial Intelligence.",
+        "industryName": "Computer Software",
+        "lastName": "Ramirez Jimenez",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Santiago",
+        "entityUrn": "urn:li:fs_profile:ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101284806"
+        },
+        "geoLocationName": "Morris Plains, New Jersey",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI Scientist",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG7MKuSId0ArA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1678580835758?e=1746057600&v=beta&t=FmXrVbyN0_luixH-8seE2zC9eE_urOgOUNA2aItTXDw",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1678580835758?e=1746057600&v=beta&t=j_UUYGhexQrEycs9Z-dIyQmp83cqZOcj_oXEINaPo-M",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1678580835758?e=1746057600&v=beta&t=4FZajLNroKMfqdzVhbQzGHOqZYX5AIMdmkBZG0RoEBE",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1678580835758?e=1746057600&v=beta&t=_lfOByz39O9IcKvFx_VUR6OSW-xSpC2i2lsEOYTAETM",
+        "profile_id": "ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo",
+        "member_urn": "urn:li:member:767146844",
+        "public_id": "santiago-ramirez-jimenez-878aba194",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo,2398033603)",
+                "companyName": "Outlier",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Science",
+                "companyUrn": "urn:li:fs_miniCompany:92583550",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHgroLObq3Vow/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo,960038349)",
+                "school": {
+                    "objectUrn": "urn:li:school:18560",
+                    "entityUrn": "urn:li:fs_miniSchool:18560",
+                    "active": true,
+                    "schoolName": "The Johns Hopkins University",
+                    "trackingId": "aN0dlwkuQJmkO+HWRBLj9Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFeLC87ehQOUQ/company-logo_"
+                },
+                "grade": "4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Master of Engineering - MEng",
+                "schoolName": "The Johns Hopkins University",
+                "fieldOfStudy": "Artificial Intelligence",
+                "degreeUrn": "urn:li:fs_degree:551",
+                "schoolUrn": "urn:li:fs_miniSchool:18560"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo,733325650)",
+                "school": {
+                    "objectUrn": "urn:li:school:18849",
+                    "entityUrn": "urn:li:fs_miniSchool:18849",
+                    "active": true,
+                    "schoolName": "Southern New Hampshire University",
+                    "trackingId": "7YqQRAS7SUm4rQM39ln1jQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFC82nfN06ozA/company-logo_"
+                },
+                "grade": "4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Southern New Hampshire University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:18849"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo,615834633)",
+                "school": {
+                    "objectUrn": "urn:li:school:3186947",
+                    "entityUrn": "urn:li:fs_miniSchool:3186947",
+                    "active": true,
+                    "schoolName": "high school for community leadership",
+                    "trackingId": "BxR551lOTv2rJbEE5PPDBA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHo_I4kvriDEQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "High School Diploma",
+                "schoolName": "high school for community leadership",
+                "degreeUrn": "urn:li:fs_degree:10",
+                "schoolUrn": "urn:li:fs_miniSchool:3186947"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Python Institute",
+                "name": "[PCAP-31-02] PCAP – Certified Associate in Python Programming",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:19180711",
+                    "entityUrn": "urn:li:fs_miniCompany:19180711",
+                    "name": "Python Developer",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687269732756/python_dev_logo?e=1748476800&v=beta&t=4WeaLcp1Yw6_CFBo8CGJfiwTEtNW_FabQa0EncvifoA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687269732756/python_dev_logo?e=1748476800&v=beta&t=MbIQdxF6fBWilxs0mhY0MYgrnDGQPlon7gFRX_WrqXc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687269732756/python_dev_logo?e=1748476800&v=beta&t=G8fFRmHg1nLeNfx7N2j_G-JxLR-mLx830fLmd0ORsVQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE2cylFXUf5Gw/company-logo_"
+                        }
+                    },
+                    "universalName": "python-dev",
+                    "dashCompanyUrn": "urn:li:fsd_company:19180711",
+                    "trackingId": "tSoyRL8PSRa1rnFITrrj7A=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:19180711",
+                "url": "https://www.youracclaim.com/badges/c6bb4c1e-86ed-4c8f-88dd-bd7401aa0812/linked_in_profile"
+            },
+            {
+                "authority": "Python Institute",
+                "name": "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:19180711",
+                    "entityUrn": "urn:li:fs_miniCompany:19180711",
+                    "name": "Python Developer",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687269732756/python_dev_logo?e=1748476800&v=beta&t=4WeaLcp1Yw6_CFBo8CGJfiwTEtNW_FabQa0EncvifoA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687269732756/python_dev_logo?e=1748476800&v=beta&t=MbIQdxF6fBWilxs0mhY0MYgrnDGQPlon7gFRX_WrqXc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687269732756/python_dev_logo?e=1748476800&v=beta&t=G8fFRmHg1nLeNfx7N2j_G-JxLR-mLx830fLmd0ORsVQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE2cylFXUf5Gw/company-logo_"
+                        }
+                    },
+                    "universalName": "python-dev",
+                    "dashCompanyUrn": "urn:li:fsd_company:19180711",
+                    "trackingId": "100ex5h2S8GihTA//HCwLQ=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:19180711",
+                "url": "https://www.youracclaim.com/badges/047e3c88-076e-43f0-8ce1-3536437022f4/linked_in_profile"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "E66TGJD8RTVF",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "DV40NDrERtqHbUVlh6DkgQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/records/E66TGJD8RTVF"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "RBVXJTMXB4SU",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "0s3YpwLfQ6KoczaXrqca7A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/records/RBVXJTMXB4SU"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Structuring Machine Learning Projects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "NC8VGVDLTUF6",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "zEXSJnr2SkuZCpZouEqe/A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/verify/NC8VGVDLTUF6"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Convolutional Neural Network",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "5SE5JHBAG3AR",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "WuuuBETeSsqP5aW84gdVXA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/verify/5SE5JHBAG3AR"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Advanced Reinforcement Learning in Python: cutting-edge DQNs",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "UC-a00f2a07-6637-4f1a-accc-b86f3349d88e",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "82WYCtsORW6FNaGAogYixw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-a00f2a07-6637-4f1a-accc-b86f3349d88e/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Advanced Reinforcement Learning: policy gradient methods",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "UC-7999264f-451a-4154-ac57-6af8e592a438",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "arQWo0BTSdOWBflJ6eWq2w=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-7999264f-451a-4154-ac57-6af8e592a438/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Advanced Reinforcement Learning in Python: from DQN to SAC",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "UC-70f457d9-91ae-47af-ad92-ae71c80f5e92",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "f3Xj/TZxQlmgnYqVn600Cg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-70f457d9-91ae-47af-ad92-ae71c80f5e92/"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Sequence Models",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "JSXSKBEGTYKE",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "fiWHHEFvQSmAsDB4DbS+Kw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/verify/JSXSKBEGTYKE"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Long Short-term Memory (LSTM)"
+            },
+            {
+                "name": "Gated Recurrent Units (GRU)"
+            },
+            {
+                "name": "Transformers"
+            },
+            {
+                "name": "Large Language Models (LLM)"
+            }
+        ],
+        "urn_id": "ACoAAC25u1wBrOfGzudwe5XqfclzRKlOJcVvAeo"
+    }
+}
