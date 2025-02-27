@@ -1,0 +1,477 @@
+{
+    "urn_id": "ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA",
+    "fetch_timestamp": "2025-02-26T21:50:13.098542",
+    "profile_data": {
+        "summary": "A Software Engineer passionate about Machine Learning, Computer Vision and Robotics. \nI have worked in areas of data science, machine learning, image processing, object detection, pose estimation, simultaneous localization and mapping (SLAM), natural language processing and audio signal processing. \n\nWith a strong foundation in ROS (Robot Operating System), OpenCV, and simulators like Gazebo and Unreal Engine, I have successfully applied my skills to real-world robotics challenges, contributing to both research and development. \n\nKey Expertise:\n- Machine Learning: CNN, RNNs, Transformers, Reinforcement Learning\n- Computer Vision: Image Processing, Object detection (YOLO, RCNN, Faster RCNN), Pose Estimation \n- Robotics: ROS, SLAM, RGB cameras, stereo vision, IMU, LiDAR\n- Data Science: Data visualization, preprocessing, Text analysis, Recommender system\n\n\nLanguages: Python, C++, Java, \nDatabase: MySQL, MSSQL, MongoDB\nSDLC Tools: Jupyter, VSCode, Eclipse, GitHub\nOS: Windows, Linux, Kali\nRobotics: RGB Camera, stereo vision, IMU, LiDAR, ROS, Gazebo, Unreal Engine, Unity\nFrameworks: Tensorflow, PyTorch, ONNX",
+        "industryName": "Information Technology & Services",
+        "lastName": "Maurya",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Shubhrika",
+        "entityUrn": "urn:li:fs_profile:ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102380872"
+        },
+        "geoLocationName": "Boston, Massachusetts",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Machine Learning | Computer Vision | Robotics",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHszmB6QrtmMA/profile-displayphoto-shrink_",
+        "img_800_800": "800_800/B56ZT2XeX2HsAc-/0/1739300137624?e=1746057600&v=beta&t=fywkluWp-KiTnEBbzTynQ-VdUgS8VG2i0a3Wysz-hpk",
+        "img_400_400": "400_400/B56ZT2XeX2HsAg-/0/1739300137624?e=1746057600&v=beta&t=GHZo3T1VGWflJ4kiYRREtNcMPbW6i4BiDw-9CzjbLys",
+        "img_100_100": "100_100/B56ZT2XeX2HsAU-/0/1739300137624?e=1746057600&v=beta&t=jZ0dJF2ou69WY2XmTGAd5Z5aXB2bqFRCBmoEamB9Fts",
+        "img_200_200": "200_200/B56ZT2XeX2HsAY-/0/1739300137664?e=1746057600&v=beta&t=P-NuBwMtJQpjIv5jty0F6G-Peool8UF0-fxr6daQNwQ",
+        "profile_id": "ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA",
+        "member_urn": "urn:li:member:484686144",
+        "public_id": "shubhrika-maurya",
+        "experience": [
+            {
+                "locationName": "Buffalo, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,2340837868)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "University at Buffalo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "ADAMS Lab\n- Developed a low-fidelty simulation in Unreal Engine to acquire synthetics datasets for Tether-Net based capture of target\n- Developed and trained a CNN based 6D Pose Estimation model to estimate position and orientation of target in space \n- Implemented and trained a vision informed reinforcement learning model to predict thrust vectors to maneuver the tether-net towards the target",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,2335355472)",
+                "companyName": "University at Buffalo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "description": "Graduate Student Assistant for course Mechanical and Aerospace Engineering (MAE) 376 - Applied Mathematics. Course includes linear algebra, sets of linear and nonlinear equations, ordinary differential equations, and matrix eigen values, topics in statistics (particularly with normal distributions) and engineering applications involving error analysis.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Student Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+            },
+            {
+                "locationName": "Buffalo, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,2335357297)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "The Research Foundation for SUNY",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "Worked on developing autonomous object-following capabilities, employing neural networks for waypoint navigation and trajectory generation through obstacle avoidance on Spot Boston Dynamics's robot",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1946444",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGG7rUPyIwl1g/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,2027145625)",
+                "companyName": "Ford Motor Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Senior Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1483",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZnQf3t8fKKg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,1430050598)",
+                "companyName": "Ford Motor Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1483",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZnQf3t8fKKg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,821305346)",
+                "school": {
+                    "objectUrn": "urn:li:school:19028",
+                    "entityUrn": "urn:li:fs_miniSchool:19028",
+                    "active": true,
+                    "schoolName": "University at Buffalo",
+                    "trackingId": "7I1mvLofSg6dhrRNt68tWQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+                },
+                "grade": "3.67/4.00",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Coursework: Machine Learning, Computer Vision and Image Processing, Robot Operating System (ROS), Robot Control Systems, Analysis of Algorithms, Reinforcement Learning, Deep Learning, Deep Learning for Robotic Applications, Learning for Autonomous Systems",
+                "degreeName": "Master's degree",
+                "schoolName": "University at Buffalo",
+                "fieldOfStudy": "Engineering Science with focus in Artificial Intelligence and Robotics (Thesis Track)",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:19028"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,330711501)",
+                "school": {
+                    "objectUrn": "urn:li:school:43557",
+                    "entityUrn": "urn:li:fs_miniSchool:43557",
+                    "active": true,
+                    "schoolName": "UPES",
+                    "trackingId": "fl/x4X6nSgqrlYrRjzy38A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGIsLgya7K1ZA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "University of Petroleum and Energy Studies",
+                "fieldOfStudy": "Computer Science Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:43557"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "BSI",
+                "name": "ISO/IEC 27001:2013 Lead Auditor",
+                "company": {
+                    "objectUrn": "urn:li:company:162813",
+                    "entityUrn": "urn:li:fs_miniCompany:162813",
+                    "name": "BSI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1709805775093/bsi_logo?e=1748476800&v=beta&t=9Akpc_drGUTpXajKM-JWXSV0MBI5WkjMkCQeZ1ctWrk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1709805775093/bsi_logo?e=1748476800&v=beta&t=0_CLoSI1PPbjRV72IvN6jtinD_BCNxMKreeeDZvBQqM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1709805775093/bsi_logo?e=1748476800&v=beta&t=dX6wh1FusEQ9Kdq-snzsRamZUiGsuqxew_IjjNyUdPU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHLVij8-jGwig/company-logo_"
+                        }
+                    },
+                    "universalName": "bsi",
+                    "dashCompanyUrn": "urn:li:fsd_company:162813",
+                    "trackingId": "hx8w+N4zQQisIaJfP1PZxQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:162813"
+            },
+            {
+                "authority": "EC-Council",
+                "name": "CEH",
+                "company": {
+                    "objectUrn": "urn:li:company:569038",
+                    "entityUrn": "urn:li:fs_miniCompany:569038",
+                    "name": "EC-Council",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631371916365?e=1748476800&v=beta&t=YgamJInrLU1N4Za7IRbMto326TASMySU_WveiFjkVrY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631371916365?e=1748476800&v=beta&t=yPkgK6O8Cgy-RtoYkbSPgkO8HkaEPUWH01soBXqjyjI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631371916365?e=1748476800&v=beta&t=RmliEA5zaTAYeXWJZI1klaZbyjPs4WjvQLEc6O94P0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHPon7g_XjJpA/company-logo_"
+                        }
+                    },
+                    "universalName": "ec-council",
+                    "dashCompanyUrn": "urn:li:fsd_company:569038",
+                    "trackingId": "WAKi3nY6S9+gPQgDyr6aFA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:569038"
+            },
+            {
+                "authority": "University of Michigan | Coursera",
+                "name": "Python for Everybody",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:72407286",
+                    "entityUrn": "urn:li:fs_miniCompany:72407286",
+                    "name": "University of Michigan | Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630559184554?e=1748476800&v=beta&t=yOYUO4Hp244XW2VwmBLw2XgAcpn8jsdBZZTdnezapsQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630559184554?e=1748476800&v=beta&t=zxVqDwCR2X0UGfRPs9ed0eqOdPAV7PxCbHieg2Ap9EI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630559184554?e=1748476800&v=beta&t=QiUsVnNuX9qEeAMPLQQKlF5xw-gjXuuhpw697BCdjyw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQH0kZDJTKP0cw/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-michigan-coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:72407286",
+                    "trackingId": "nKKbPCgFTjemAO057Y5YkQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:72407286",
+                "url": "https://coursera.org/share/7796e4cabecf17dd85be5f9b8e9af60f"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Teaching Volunteer",
+                "companyName": "Stand and Stride",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Teaching STEM subjects to children from underprivileged background"
+            }
+        ],
+        "honors": [
+            {
+                "title": "Finalist Smart India Hackathon 2017",
+                "issueDate": {
+                    "year": 2017
+                },
+                "issuer": "Ministry of Electronics and Information Technology(MeitY)"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shubhrika",
+                            "lastName": "Maurya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA",
+                            "occupation": "Machine Learning | Computer Vision | Robotics",
+                            "objectUrn": "urn:li:member:484686144",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1720207428632?e=1746057600&v=beta&t=GgcYt9KYTg0_krK7bbcMKcOn6jX-d-1HCoJ-k2E82eA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720207428632?e=1746057600&v=beta&t=_It6sshqLrQoG7oFwuPc60f-dLsrmJSxi28hoVGUkLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGzE9eFVZ7Erw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shubhrika-maurya",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZT2XeX2HsAc-/0/1739300137624?e=1746057600&v=beta&t=fywkluWp-KiTnEBbzTynQ-VdUgS8VG2i0a3Wysz-hpk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZT2XeX2HsAg-/0/1739300137624?e=1746057600&v=beta&t=GHZo3T1VGWflJ4kiYRREtNcMPbW6i4BiDw-9CzjbLys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZT2XeX2HsAU-/0/1739300137624?e=1746057600&v=beta&t=jZ0dJF2ou69WY2XmTGAd5Z5aXB2bqFRCBmoEamB9Fts",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZT2XeX2HsAY-/0/1739300137664?e=1746057600&v=beta&t=P-NuBwMtJQpjIv5jty0F6G-Peool8UF0-fxr6daQNwQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHszmB6QrtmMA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "igiGCVLTTcmo2Bqjla5UjQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA,2098059982,444571409)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA"
+                    }
+                ],
+                "description": "The increasing number of space debris in Low Earth Orbit poses significant risks to current satellite operations and future space missions. One of the solutions for space debris removal involves launching a tether-net from an autonomous spacecraft to capture the debris (particularly larger ones such as spent rocket boosters). An important step towards successful capture is robust estimation of the state of the debris relative to the approaching spacecraft. This perception step becomes even more critical and sophisticated when an active tether-net system including maneuverable units (MUs) is used, wherein continued estimation of the debris state relative to the net and the MUs is needed throughout the deployment process. This thesis develops a new framework for perception based on RGB camera and motion planning of the tether-net during the deployment phase, with the goal to increase the chances of debris capture success across various approach scenarios. The key contribution of this framework lies in the following developments: 1) A photo-realistic yet lightweight virtual environment augmented with synthetic (space background) data to model and assess the computer vision process of debris state estimation. 2) A deep learning-based pose estimation model trained in this virtual environment augmented, to determine the 6D pose of the target debris. 3) A reinforcement learning process that trains a policy informed by this debris pose estimation scheme to control the MUs of the tether-net, enabling successful capture at minimal fuel investment. Performance of this novel computational framework is evaluated over various approach scenarios and compared to baselines to provide insights into the potential of tether-net systems when supported by such learning-based perception/planning processes.",
+                "title": "Vision-Based Perception and Reinforcement Learning Framework for Deployment of Tether-Net to Capture Space Debris"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Convolutional Neural Networks (CNN)"
+            },
+            {
+                "name": "Computer Science"
+            },
+            {
+                "name": "Deep Learning"
+            },
+            {
+                "name": "Reinforcement Learning"
+            }
+        ],
+        "urn_id": "ACoAABzjuUABL5MotiEyjpGVorin71Biod-1NhA"
+    }
+}

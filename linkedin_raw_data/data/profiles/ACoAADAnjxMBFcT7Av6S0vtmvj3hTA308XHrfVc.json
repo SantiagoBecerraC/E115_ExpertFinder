@@ -1,0 +1,1043 @@
+{
+    "urn_id": "ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+    "fetch_timestamp": "2025-02-26T21:30:12.287170",
+    "profile_data": {
+        "summary": "I’m a Full Stack Engineer, specializing in Python-based module development, DevOps automation, and enterprise self-hosting. My work focuses on customizing Odoo with Python, XML, PostgreSQL, Git, and Odoo.sh CI/CD to optimize performance and deliver client value.\n\nWith six years of experience in Docker, Kubernetes, Linux (Ubuntu), and server automation, I’ve built an enterprise-grade home lab using Proxmox, containerized apps, and CrowdSec for security. I’m also an AWS Solutions Architect certified professional, showcasing my expertise in cloud and DevOps.\n\nKey achievements:\n\n- Received the President’s Award (North America) at Odoo for exceptional performance.\n- Achieved 92% KPIs by leading Python automation projects that increased productivity by 50%.\n- Developed end-to-end solutions across front-end, back-end, and infrastructure, using tools like Node.js and Angular (in progress).\n- Expertise in email and domain setup (SMTP, DKIM, DMARC, SPF) for seamless client communication.\n\nI’m passionate about solving complex problems, exploring new technologies, and advancing DevOps practices. Let’s connect to discuss full-stack development, cloud infrastructure, or the latest DevOps tools!",
+        "industryName": "Computer Software",
+        "lastName": "Meng",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 5,
+            "day": 1
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Fanyang",
+        "entityUrn": "urn:li:fs_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103676418"
+        },
+        "geoLocationName": "Buffalo, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+        "profile_id": "ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+        "member_urn": "urn:li:member:807898899",
+        "public_id": "fanyangmeng",
+        "experience": [
+            {
+                "locationName": "Buffalo, New York, United States",
+                "projects": [
+                    "urn:li:fs_project:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1711167715)",
+                    "urn:li:fs_project:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1894718603)"
+                ],
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "Odoo",
+                "description": "- Developed RAG-based documentation assistant processing 3 versions of Odoo technical documentation with LLM integration, reducing support team's workload by 30% and improving answer accuracy to 95%. \n- Awarded the President Award (Year-End 2023): Recognized as the sole recipient of this prestigious award across all North American offices for exemplary performance. This accolade underscores exceptional contributions to the company, demonstrating leadership, technical expertise, and a profound impact on business outcomes.\n- Surpassed Performance Benchmarks: Emerged as the top performer across the Buffalo technical services team in Q3 2023 by achieving the highest KPIs and surpassing target goals by 30%.\n- Enhanced Client Operations: Spearheaded the development of customized modules and interactive dashboards, which led to a marked improvement in sales and inventory management. Optimized website user interfaces and front-end experiences employing Python, PostgreSQL, and JavaScript.\n- Streamlined Integration Processes: Orchestrated the integration of EDI and SPS Commerce for various clients, delivering fast and bespoke module solutions that expedited business workflows significantly.\n- Advanced System Integration: Engineered and deployed RESTful APIs within the Odoo ecosystem, facilitating seamless integration with Azure Cloud services. This initiative notably streamlined warehouse operations for multiple clients.",
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:633558",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1281378777)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2097900118)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF91OMQCIi4dQ/company-logo_"
+            },
+            {
+                "locationName": "Rochester, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2026915399)",
+                "geoLocationName": "Rochester, New York, United States",
+                "geoUrn": "urn:li:fs_geo:106553046",
+                "companyName": "University of Rochester",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Computer Networks Teaching Assistant\nThis TA job will only be given to the one who was exceedingly outstanding in this course before.\n- Scheduling of lab sessions and workshops.\n- Help the instructor to answer students' questions.\n- Grading the projects and homeworks.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Teaching Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5023",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFsTTOcGySNMg/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1185734150)"
+                ],
+                "locationName": "Buffalo, New York, United States",
+                "projects": [
+                    "urn:li:fs_project:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,55981877)"
+                ],
+                "geoUrn": "urn:li:fs_geo:103676418",
+                "companyName": "Odoo",
+                "description": "- Dashboard Development: Engineered real-time, interactive performance dashboards for Direct Sales and Customer Success Teams utilizing Grafana and Node.js, integrating Google Sheets API for efficient, hourly metric updates.\n- Performance Analytics: Innovated dashboard features to visualize employee performance metrics, customer subscription trends, and revenue segmentation, providing strategic insights that supported business decisions.\n- Security Enhancement: Fortified dashboard security by implementing OAuth protocols and stringent permission controls, safeguarding sensitive company data. \n- Deployment and Integration: Successfully deployed dashboards via Nginx and seamlessly integrated into the Odoo Open ERP system, granting analytic capabilities to over 3000 employees company-wide.",
+                "title": "Full Stack Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:633558",
+                "entityUrn": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1977174196)",
+                "geoLocationName": "Buffalo, New York, United States",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF91OMQCIi4dQ/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,217406558)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,217461155)"
+                ],
+                "locationName": "Haidian District, Beijing, China",
+                "projects": [
+                    "urn:li:fs_project:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1571053421)"
+                ],
+                "geoUrn": "urn:li:fs_geo:107451115",
+                "companyName": "Tsinghua University",
+                "description": "- Academic Contribution: Co-authored the influential paper \"CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,\" which was featured at ACL 2020. The paper has accrued 128 citations, reflecting its impact in the field of sentiment analysis.\n- Dataset Development: Pioneered the creation of a nuanced Chinese sentiment analysis dataset, encompassing 2,281 video segments with both multimodal and unimodal sentiment annotations, facilitating comprehensive sentiment analysis research.\n- Data Processing Excellence: Executed meticulous data cleaning and augmentation processes, standardized emotional expression data, and benchmarked sentiment classification algorithms, demonstrating proficiency.\n- Algorithmic Achievement: Attained a 75% accuracy rate in emotion triple classification on the test set, showcasing the effectiveness of the developed algorithms and contributing to the advancement of sentiment analysis techniques.",
+                "title": "Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:14022",
+                "entityUrn": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1843934387)",
+                "geoLocationName": "Haidian District, Beijing, China",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(cn,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFJU3_2fIeNWw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,435836473)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,435859140)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,435877272)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,217422226)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,856942062)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,857038319)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,857058169)",
+                    "urn:li:fs_course:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2057904388)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,717994288)",
+                "school": {
+                    "objectUrn": "urn:li:school:19073",
+                    "entityUrn": "urn:li:fs_miniSchool:19073",
+                    "active": true,
+                    "schoolName": "University of Rochester",
+                    "trackingId": "g26cR74vRt6SwzEvN4kh0A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFsTTOcGySNMg/company-logo_"
+                },
+                "grade": "3.9/4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "• With 50% tuition fee scholarship in the Hajim School of Engineering & Applied Science.\n• Major Courses: Computer Networks, Data Mining, Artificial Intelligence, Machine Vision, Machine Learning, Algorithms.",
+                "degreeName": "Master's degree",
+                "schoolName": "University of Rochester",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:19073"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2020,
+                    "day": 1
+                },
+                "name": "CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality",
+                "publisher": "Association for Computational Linguistics (ACL)",
+                "description": "Previous studies in multimodal sentiment analysis have used limited datasets, which only contain unified multimodal annotations. However, the unified annotations do not always reflect the independent sentiment of single modalities and limit the model to capture the difference between modalities. In this paper, we introduce a Chinese single- and multi-modal sentiment analysis dataset, CH-SIMS, which contains 2,281 refined video segments in the wild with both multimodal and independent unimodal annotations. It allows researchers to study the interaction between modalities or use independent unimodal annotations for unimodal sentiment analysis.Furthermore, we propose a multi-task learning framework based on late fusion as the baseline. Extensive experiments on the CH-SIMS show that our methods achieve state-of-the-art performance and learn more distinctive unimodal representations. The full dataset and codes are available for use at https://github.com/thuiar/MMSA.",
+                "url": "https://aclanthology.org/2020.acl-main.343/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Wenmeng",
+                            "lastName": "Yu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADD5jI8BA0Gq1MPrgndDm0ojmNr3xDER698",
+                            "occupation": "Master",
+                            "objectUrn": "urn:li:member:821660815",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADD5jI8BA0Gq1MPrgndDm0ojmNr3xDER698",
+                            "publicIdentifier": "wenmeng-yu-1a720a1ab",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1590906877902?e=1746057600&v=beta&t=0-X9EOAfxQVxUvpO743NgNq2r-CZMlqa9Z99EgK6mzc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1590906877880?e=1746057600&v=beta&t=FfBftRHzRbgxGBicwr2Lj8vU4OoEpzZRWY8doM299kM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1590906877932?e=1746057600&v=beta&t=3sycWdeDbTbElItyorgABKbcJmfEDj4wY4aL4KAutmY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1590906877954?e=1746057600&v=beta&t=Cs8LlsRpR_zNrC7TtmT5w-kOZZ2f_aUForTrVnEy-FY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQH5RfjcNdSJpQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "NchtJS8jQ0aaMYo5QwfcfA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADD5jI8BA0Gq1MPrgndDm0ojmNr3xDER698"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "University of Rochester",
+                "name": "Master of Science Computer Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "2392-EZQH-FVGC",
+                "company": {
+                    "objectUrn": "urn:li:company:5023",
+                    "entityUrn": "urn:li:fs_miniCompany:5023",
+                    "name": "University of Rochester",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1645193196990/university_of_rochester_logo?e=1748476800&v=beta&t=qCTJ6hp7bjkgPfCVrzY47pbeWawhwO8zYqt6R5u_V3M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1645193196990/university_of_rochester_logo?e=1748476800&v=beta&t=T3rNbCJ6zfUmCvFaKi-xzZImsNDCgvrIFL_snGk0TIQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1645193196990/university_of_rochester_logo?e=1748476800&v=beta&t=qNrqT1OBz7Qs0JTTIZQ-ljZKobV15MsUmXvGVg0XFB0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFsTTOcGySNMg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-rochester",
+                    "dashCompanyUrn": "urn:li:fsd_company:5023",
+                    "trackingId": "GHKi7LZNSAG9Jzg+1Ct9Mw=="
+                },
+                "displaySource": "rochester.edu",
+                "companyUrn": "urn:li:fs_miniCompany:5023",
+                "url": "https://secure1.rochester.edu/registrar/forms/cecredential_validation.php"
+            },
+            {
+                "authority": "Amazon Web Services (AWS)",
+                "name": "AWS Certified Solutions Architect – Associate",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2027
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "ym3Z6wGWQIKyh+wgyIWj5g=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://www.credly.com/badges/d26cf444-f833-4d4e-ac7e-9ecc16a09f3f/linked_in_profile"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "On-call Volunteer",
+                "companyName": "The 58th Annual Meeting of the Association for Computational Linguistics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "The first ACL2020 virtual conference\n- RocketChat Tech Support\n- Zoom Tech Support\n- Google Helpdesk Support"
+            }
+        ],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2097900118)",
+                "title": "President Award of the Year 2023",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "issuer": "Odoo Inc."
+            },
+            {
+                "title": "Excellent undergraduate graduation design",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "issuer": "Beijing Municipal General Institutes of Higher Education"
+            },
+            {
+                "title": "Meritorious Winner",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "issuer": "Mathematical Contest in Modeling (MCM)"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2026919397,455729829)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "description": "A Model Context Protocol (MCP) server for interacting with Ghost CMS through LLM interfaces like Claude. This server provides secure and comprehensive access to your Ghost blog, leveraging JWT authentication and a rich set of MCP tools for managing posts, users, members, tiers, offers, and newsletters.\n\nFeatures\n- Secure JWT Authentication for Ghost Admin API requests\n- Comprehensive entity access including posts, users, members, tiers, offers, and newsletters\n- Advanced search functionality with both fuzzy and exact matching options\n- Detailed, human-readable output for Ghost entities\n- Robust error handling using custom GhostError exceptions\n- Integrated logging support via MCP context for enhanced troubleshooting",
+                "title": "Ghost MCP"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2097900118)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1894718603,453035769)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "description": "Developed an intelligent documentation bot for Odoo, leveraging Retrieval-Augmented Generation (RAG) and cutting-edge Natural Language Processing (NLP) techniques. This bot enhances the Odoo documentation experience by delivering precise, context-aware answers directly from the documentation, reducing support tickets and improving efficiency. It integrates seamlessly with Odoo’s Python backend and demonstrates the platform’s potential for AI integration.\n\nKey Features:\n\t•\tAdvanced search and retrieval capabilities for accurate documentation answers.\n\t•\tMarkdown preprocessing, chunking, and summarization of content.\n\t•\tEmbedding generation using OpenAI APIs for efficient knowledge retrieval.\n\t•\tScalable design with potential applications in internal training and client-specific support.",
+                "title": "RAG-Powered Odoo Documentation Bot"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,2097900118)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1711167715,410299628)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "Proxmox based comprehensive homelab environment\n\n- Virtualization Management: Configured and managed a miniPC-based homelab using Proxmox PVE. Specialized in setting up and maintaining multiple virtual machines primarily running Debian and Ubuntu, demonstrating deep proficiency in Linux systems, particularly Ubuntu.\n\n- Web Server Deployment: Established a robust web server environment using Nginx. Focused on enhancing security and accessibility by implementing Wireguard for network connections, allowing SSH access exclusively through VPN connections.\n\n- Single Sign-On Implementation: Developed and integrated Single Sign-On (SSO) functionality using Authentik for personal web services, showcasing expertise in SSO maintenance and user authentication protocols.\n\n- Automation and Scripting: Automated various tasks by writing and deploying Linux bash scripts, enhancing efficiency and reliability of homelab operations.\n\n- Service Hosting: Successfully self-hosted over 63 services, demonstrating skills in server management, application hosting, and network security.",
+                "title": "Personal Homelab Project - Proxmox-based Virtualization and Network Security"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,250432331,437292079)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Wordpress (PHP) based photographer website\n\n- Enhanced Functionality: Implemented custom features including an online booking system, gallery showcase, and blog posts, demonstrating ability to extend WordPress functionality through PHP development.\n\n- Performance Optimization: Integrated CDN services and implemented caching strategies, resulting in a 40% improvement in page load times across various devices and locations.\n\n- Custom PHP Add-ons: Created bespoke PHP-based add-ons, including a newsletter system, showcasing proficiency in extending WordPress core functionality.\n\n- Third-party Integrations: Successfully integrated Instagram API to display live Instagram feed on the website, demonstrating ability to work with external APIs and services.\n\n- Responsive Design: Optimized website performance and design for various devices, ensuring a seamless user experience across desktop, tablet, and mobile platforms.",
+                "title": "Photography Website"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1977174196)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,55981877,360087837)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kusal",
+                            "lastName": "Nagabhairava ",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACuZgF8B0gX7RM1jkrkvKmniSjYKd5jsYfM",
+                            "occupation": "Full Stack Engineering at Odoo | Graduate teaching assistant at UB | Computer Science and Engineering Student | University at Buffalo | Ex-Infosys",
+                            "objectUrn": "urn:li:member:731480159",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACuZgF8B0gX7RM1jkrkvKmniSjYKd5jsYfM",
+                            "publicIdentifier": "kusal-nagabhairava",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1637603744416?e=1746057600&v=beta&t=tis9O7T8w4N8dVSCBu2-CZF95Vh8TbNR2VJYXCB_q00",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1637603744416?e=1746057600&v=beta&t=kGELjFTj6rTFw-AtokMNQsad6heWTiorfo3U30L4u7Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1637603744416?e=1746057600&v=beta&t=wvTE6d4-n_w9-Rx6t-5-23ufmKqcHv5Ab0x_wdKA_Ow",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1637603744416?e=1746057600&v=beta&t=YSY60qusGC0FNL8s4l79SIpm3rG-IFAr3XeNo8tSpIo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHLa_CYDKiE7g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "QhTHfDb6Q5e3xlz8TAnkvA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,55981877,360090299)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACuZgF8B0gX7RM1jkrkvKmniSjYKd5jsYfM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "- Dashboard Development: Engineered real-time, interactive performance dashboards for Direct Sales and Customer Success Teams utilizing Grafana and Node.js, integrating Google Sheets API for efficient, hourly metric updates.\n\n- Performance Analytics: Innovated dashboard features to visualize employee performance metrics, customer subscription trends, and revenue segmentation, providing strategic insights that supported business decisions.\n\n- Security Enhancement: Fortified dashboard security by implementing OAuth protocols and stringent permission controls, safeguarding sensitive company data. \n\n- Deployment and Integration: Successfully deployed dashboards via Nginx and seamlessly integrated into the Odoo Open ERP system, granting analytic capabilities to over 3000 employees company-wide.",
+                "title": "Odoo Sales Dashboard"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1843934387)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Fanyang",
+                            "lastName": "Meng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "occupation": "Software Engineer | Certified AWS Solutions Architect | Master in Computer Science at University of Rochester",
+                            "objectUrn": "urn:li:member:807898899",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1739343137861?e=1746057600&v=beta&t=C-sX6NxszanHyjtVx_Zz3rixH6ul6oxjE1phTb03Nys",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739343137861?e=1746057600&v=beta&t=qNAw5E6hV6mgXZ_Jbnbyf2lz62cf5MzizWpcY1hTg_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG4GpBX45Z73A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "fanyangmeng",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1706055679308?e=1741230000&v=beta&t=MN0opgfUZZRDMi9h_JZcy1ko0xV7CtLIBOiOymuFOPA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1706055679308?e=1741230000&v=beta&t=iSmgNDpT1HK_htLU5RQILMrFfUTL1mOd2DiqJbPvcuM",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1706055679308?e=1741230000&v=beta&t=6_6xJznymmEK2CMI4WxZRVJtbar-rUlkicEoRyZ4xdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1706055679308?e=1741230000&v=beta&t=-WYNzTsePgPKWtiZHcmVql7bnXFiGhpUHcmWGdDRQxk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHQ4cXIkr7G0A/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "48b2yPcJQRWlQMZqCzammA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc,1571053421,328793933)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "- Tool Development: Initiated and developed EmoTag, a tool built on Python and Flask, leveraging an active learning paradigm to enhance the sentiment labeling process of video data, thereby increasing the productivity of data annotators.\n\n- Algorithm Implementation: Architected and deployed a Tensor-Fusion-Network-based classifier designed to automate emotion annotation in video content, resulting in significant gains in labeling precision and operational efficiency.\n\n- Performance Metrics: Fine-tuned the system to achieve a 65% accuracy rate on test datasets, which facilitated a 30% reduction in manual labeling workload, exemplifying the Browser/Server architecture's effectiveness in real-world applications.",
+                "title": "Multimodal Sentiment Data Labeling Optimization"
+            }
+        ],
+        "skills": [
+            {
+                "name": "REST APIs"
+            },
+            {
+                "name": "JSON Web Token (JWT)"
+            },
+            {
+                "name": "Model Context Protocol (MCP)"
+            },
+            {
+                "name": "Retrieval-Augmented Generation (RAG)"
+            }
+        ],
+        "urn_id": "ACoAADAnjxMBFcT7Av6S0vtmvj3hTA308XHrfVc"
+    }
+}

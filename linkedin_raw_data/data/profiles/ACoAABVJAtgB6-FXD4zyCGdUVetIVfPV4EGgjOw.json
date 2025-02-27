@@ -1,0 +1,1235 @@
+{
+    "urn_id": "ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+    "fetch_timestamp": "2025-02-26T21:51:10.657816",
+    "profile_data": {
+        "summary": "Data Scientist at Ebay supporting product and marketing analytics for the Advertisement based product and driving customer satisfaction and revenue opportunities.\n\nMaster’s student in Data Analytics from Pennsylvania State University skilled up with technical projects across Reinforcement Learning, Deep Learning and traditional Machine Learning Algorithms. Proficient in EDA and quantitative analysis to drive business insights.\n\nOver 3 years of experience working with a top-tier Digital Payments facilitator where I accumulated sufficient experience of financial data analysis, data visualization, client relationship and new business development. I have good command on data analysis tools, including SQL, Python, R Programming, Tableau and Excel.\n\nCONTACT ME: 484-321-1401 or email me at wahidkhan.abzal@gmail.com",
+        "industryName": "Computer Software",
+        "lastName": "Khan",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 1,
+            "day": 15
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Wahid",
+        "entityUrn": "urn:li:fs_profile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000070"
+        },
+        "geoLocationName": "New York City Metropolitan Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist | Ebay | Advertising Analytics | Seller Experience | CPC & CPA Charging Models | Improving UX Interfaces",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQERWnLxooaLMg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1695562534952?e=1746057600&v=beta&t=X4Ezy-ONdBsU-9KLF5e6RAmsa60-jId2jxX2Fvh_4xw",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1695562534952?e=1746057600&v=beta&t=NGRINKYVL1ZA-aBligXlV1ATEsLe_SV45sTxr1Kosps",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1695562534952?e=1746057600&v=beta&t=zR5AiUaYm3lKw8n_RpI-F0MYWer0RIJYmUzYe1yVB0c",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1695562534952?e=1746057600&v=beta&t=w-gA1doS7KeIaX9mth809PM3bAgVk1zxNJizmD44x5w",
+        "profile_id": "ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+        "member_urn": "urn:li:member:357106392",
+        "public_id": "wahidkhanabzal",
+        "experience": [
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,2098918988)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "eBay",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:1481",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_"
+            },
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1949790544)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "LatentView Analytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Consultant",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:91921",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFibshWQbg0cw/company-logo_"
+            },
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1745149093)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "LatentView Analytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Associate Consultant",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:91921",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFibshWQbg0cw/company-logo_"
+            },
+            {
+                "locationName": "Greater Philadelphia Area",
+                "geoUrn": "urn:li:fs_geo:90000077",
+                "companyName": "Penn State University",
+                "description": "•\tCollaborating on research and establishment of a Deep Reinforcement Learning with Double DQN and Actor-Critic Algorithms to build systems to tackle different real-time problems.\n•\tEstablished a Smart Kitchen application \"An Intelligent voice-based food recommendation system\" with LSTM and Neural Collaborative Filtering to provide a personalized list of top 10 recommendations based on similar user preferences and detect the user by their voice sample for easy optimization.\n•\tCurrent Finalists in Nittany AI Challenge hosted by Penn State to develop a Deep Learning Solution for end customers: \"Gene- & AI-based diagnosis and Medical Cost estimation\" incorporating genomic data to deliver 80% accurate prediction and provide users with streamlined estimated medical expenses for better future planning.\n•\tCredit Default Prediction: Transformed into a binary classification problem developing a walk-through with 12 Machine Learning Algorithms to compare operation and performance and a repository for future reference.\n•\tCustomer segments and sentiment analysis based on geographic demographics to understand customer preference and favorites in different location for food delicacies. ",
+                "title": "Data Scientist - Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:3657",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,814454151)",
+                    "urn:li:fs_honor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,814998557)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1542467773)",
+                "geoLocationName": "Greater Philadelphia Area",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,77)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEFv0lqpE-gsQ/company-logo_"
+            },
+            {
+                "locationName": "Chennai Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1104512407)",
+                "geoLocationName": "Chennai Area, India",
+                "geoUrn": "urn:li:fs_geo:90009647",
+                "companyName": "LatentView Analytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "description": "Post campaign measurements for PayPal – Digital Payment Product\n•\tSpearheaded the Off-Shore team to analyze the Marketing Campaigns targeted for 7M active customers for a weekly purchase activity synopsis to improve engagement/acquisition (identified a 200% hike in acquisition rate with concentrated targeting). \n•\tDeveloped Tableau and Excel dashboards to visualize Campaign Effectiveness across 12 marketing channels, weekly and monthly campaigns, post enrollments activity of customers, transaction density across channels and consumer segments.\n•\tCampaign Sizing: Generated the stratified sample (10% Holdout) with the underserved population, clustered the customers characterized by demographics, payment activity into segments for campaign targeting.\n•\tEarned Encore Award (Top 1% performers in Quarter) and Spirit of LatentView – Teamwork Award\n\nDefault Rate Prediction for US based REITs firm (Store Capital) \n•\tCollaborated with the New Business Development team to consolidate financial data for 3000 customer firms from balance sheets, financials statements, property finances and risk scores to predict the defaulters of rent (forth-coming quarters) and determine the KPIs influencing the decision. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Data Analyst",
+                "region": "urn:li:fs_region:(in,6891)",
+                "companyUrn": "urn:li:fs_miniCompany:91921",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFibshWQbg0cw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580610806)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580669066)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580704073)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580739654)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580794812)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580845455)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580879290)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,580975271)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,581014168)",
+                    "urn:li:fs_course:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,581048150)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,607585591)",
+                "school": {
+                    "objectUrn": "urn:li:school:19318",
+                    "entityUrn": "urn:li:fs_miniSchool:19318",
+                    "active": true,
+                    "schoolName": "Penn State University",
+                    "trackingId": "NI+034nAQO+bVLHLRNaVLA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEFv0lqpE-gsQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "Graduate Student",
+                "degreeName": "MPS in Data Analytics",
+                "schoolName": "Penn State University",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:19318"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,230324428)",
+                "activities": "~SEDS SASTRA- Students for Exploration and Development of Space\n~RCS @SASTRA- Robotics Club at SASTRA\n~Organised Robotics Expo at a Technical Fest At SASTRA University\n~Concluded Projects include - Home Automation, Remote Surveillance Bot, Bluetooth Controlled Bot\n~Published a paper on \"The Student Tracking Using RFID Technology\" in IJAER\n",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Learnt and worked on various mini projects",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100351",
+                "degreeName": "Bachelors",
+                "schoolName": "SASTRA UNIVERSITY",
+                "fieldOfStudy": "Electrical and Electronics Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1865175666)",
+                    "urn:li:fs_honor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1865278895)"
+                ]
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,397646714)",
+                "school": {
+                    "objectUrn": "urn:li:school:12251",
+                    "entityUrn": "urn:li:fs_miniSchool:12251",
+                    "active": true,
+                    "schoolName": "Universitat Autònoma de Barcelona",
+                    "trackingId": "ftJYXsxATsa0TTm5Nv5R5Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGdgdsEQmFAEw/company-logo_"
+                },
+                "activities": "Research Intern",
+                "grade": "Final semester",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "description": "Working on the build of Autonomous Vehicle as part of the project Elektra. I am responsible for the Vehicle electronics and Automation. The objective is to develop a perception-based self-driving system for urban scenarios.",
+                "degreeName": "FYP",
+                "schoolName": "Universitat Autònoma de Barcelona",
+                "fieldOfStudy": "Vehicle Electronics and Automation",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:12251"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            },
+            {
+                "name": "Hindi"
+            },
+            {
+                "name": "Sanskrit"
+            },
+            {
+                "name": "Telugu"
+            },
+            {
+                "name": "Urdu"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "name": "The Student Tracking Using RFID Technology",
+                "publisher": "International Journal of Applied Engineering Research (IJAER)",
+                "description": "Knowing the position of students inside a campus and keeping a record of what are the activities they are taking part in.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Wahid",
+                            "lastName": "Khan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "occupation": "Data Scientist | Ebay | Advertising Analytics | Seller Experience | CPC & CPA Charging Models | Improving UX Interfaces",
+                            "objectUrn": "urn:li:member:357106392",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516978797046?e=1746057600&v=beta&t=sMoF-vrPxJKlZvCxsuoRO4BcHIkJ1p6QA3H_JH8f4Ao",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516978797242?e=1746057600&v=beta&t=Z2Cua29nrSMPcLuFhuOj139OJC5XmXLpCHZCmuF55o8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEDEOaR7KQa_A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "wahidkhanabzal",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695562534952?e=1746057600&v=beta&t=X4Ezy-ONdBsU-9KLF5e6RAmsa60-jId2jxX2Fvh_4xw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695562534952?e=1746057600&v=beta&t=NGRINKYVL1ZA-aBligXlV1ATEsLe_SV45sTxr1Kosps",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695562534952?e=1746057600&v=beta&t=zR5AiUaYm3lKw8n_RpI-F0MYWer0RIJYmUzYe1yVB0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695562534952?e=1746057600&v=beta&t=w-gA1doS7KeIaX9mth809PM3bAgVk1zxNJizmD44x5w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQERWnLxooaLMg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TjM9/g80RjixFBORzruJ1Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw"
+                    },
+                    {
+                        "name": "phanindra raja chava"
+                    },
+                    {
+                        "name": "nikhil gudla"
+                    },
+                    {
+                        "name": "kalyan sai paladagu"
+                    },
+                    {
+                        "name": "phanindra raja chava"
+                    },
+                    {
+                        "name": "nikhil gudla"
+                    },
+                    {
+                        "name": "kalyan sai paladagu"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Petals n Sepals Trading Pvt. Ltd.",
+                "name": "Marketing & MAnagement Intern, Petals n Sepals Trading Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:0",
+                    "entityUrn": "urn:li:fs_miniCompany:0",
+                    "name": "United Latino Students Association",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630622575809?e=1748476800&v=beta&t=ptsVaI_rmQBkT__zHjtJ_GIew9saFZSwYu619dbZzUA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630622575809?e=1748476800&v=beta&t=OYgrIYf9PIB3Cw15qW1Miqgb8e3bBE9E6V_AlK2f49U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630622575809?e=1748476800&v=beta&t=XKTyURdkniEmDiSgeybi7pQy38QIG-7nNBH2PvIPi_8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHGhly_87bnSw/company-logo_"
+                        }
+                    },
+                    "universalName": "united-latino-students-association",
+                    "dashCompanyUrn": "urn:li:fsd_company:0",
+                    "trackingId": "2/2bu2h0SlyTRDSV9PI1DQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:0"
+            },
+            {
+                "authority": "edX",
+                "name": "Introduction to R for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2746406",
+                    "entityUrn": "urn:li:fs_miniCompany:2746406",
+                    "name": "edX",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688142646299/edx_logo?e=1748476800&v=beta&t=nJb0emwMdqL5jHc2Sn6j_DaEPFyKECo8-lW3MTAu8wU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688142646299/edx_logo?e=1748476800&v=beta&t=AFOArR_TwKho9WIG2IXx9CM2fcB3DIuz0iui_hXMdbs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1748476800&v=beta&t=b3huD6sXki-R8MgHvCgAdDvKREfXqnLkfBWTe2GUMkI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_"
+                        }
+                    },
+                    "universalName": "edx",
+                    "dashCompanyUrn": "urn:li:fsd_company:2746406",
+                    "trackingId": "oDKWeyiPQCOi265hp1P2ow=="
+                },
+                "displaySource": "mandrillapp.com",
+                "companyUrn": "urn:li:fs_miniCompany:2746406",
+                "url": "https://mandrillapp.com/track/click/30533619/www.datacamp.com?p=eyJzIjoiYVVUcFpGZWNtYWlCV2VKeWRfcHVGa19ja0RnIiwidiI6MSwicCI6IntcInVcIjozMDUzMzYxOSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5kYXRhY2FtcC5jb21cXFwvc3RhdGVtZW50LW9mLWFjY29tcGxpc2htZW50XFx"
+            },
+            {
+                "authority": "Penn State Nittany AI Alliance",
+                "name": "Nittany AI Challenge 2020 Finalist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:51728608",
+                    "entityUrn": "urn:li:fs_miniCompany:51728608",
+                    "name": "Penn State Nittany AI Alliance",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723821692494?e=1748476800&v=beta&t=IxCk2QaKMvRoZvTjdZaOzE-CwCW-fA6VusIgYOSMM3s",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723821692494?e=1748476800&v=beta&t=w0HamcMvgN-YjFPjq9aoTeA_NgXDkMYP1MtLEbYI1Qw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723821692494?e=1748476800&v=beta&t=nHfmkanhF8lLnIUn9vzeNXHrPH4De5ZFCjvd7yXSA7s",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFrsUDJqrpdSQ/company-logo_"
+                        }
+                    },
+                    "universalName": "psunittanyai",
+                    "dashCompanyUrn": "urn:li:fsd_company:51728608",
+                    "trackingId": "/7pEGGDvQSqcof9TZ4ZEiA=="
+                },
+                "displaySource": "badgr.io",
+                "companyUrn": "urn:li:fs_miniCompany:51728608",
+                "url": "https://api.badgr.io/public/assertions/Bzrxxq9JTAicpctB54rHpw?identity__email=wka5089%40psu.edu"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Took a session on how to build a manual Robot, line follower robot, etc",
+                "companyName": "Robotics Workshop at SASTRA University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:0",
+                        "entityUrn": "urn:li:fs_miniCompany:0",
+                        "name": "United Latino Students Association",
+                        "showcase": false,
+                        "active": false,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630622575809?e=1748476800&v=beta&t=ptsVaI_rmQBkT__zHjtJ_GIew9saFZSwYu619dbZzUA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630622575809?e=1748476800&v=beta&t=OYgrIYf9PIB3Cw15qW1Miqgb8e3bBE9E6V_AlK2f49U",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630622575809?e=1748476800&v=beta&t=XKTyURdkniEmDiSgeybi7pQy38QIG-7nNBH2PvIPi_8",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHGhly_87bnSw/company-logo_"
+                            }
+                        },
+                        "universalName": "united-latino-students-association",
+                        "dashCompanyUrn": "urn:li:fsd_company:0",
+                        "trackingId": "qmV2npiISA6o4+kigN88/A=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:0"
+            }
+        ],
+        "honors": [
+            {
+                "description": "This scholarship is designed to support students who are enrolled in master's degree program offered by the Penn State Great Valley Engineering or Management Divisions who are passionate about starting their own company, leading a start-up company, or taking a leadership position in a rapidly growing new or emerging firm. Scholarship recipients demonstrate innovative thinking and show promise of crafting new solutions to business and society's problems. Award decisions are based on academic merit, entrepreneurial experience, and commitment of the student in his or her chosen field.",
+                "occupation": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1542467773)",
+                "title": "Warren V. Musser Scholarship",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "issuer": "Pennsylvania State University"
+            },
+            {
+                "description": "The Chancellor’s Scholarship provides financial assistance to newly enrolling (entering) students at Penn\nState Great Valley who have demonstrated excellent academic performance in undergraduate and/or\ngraduate school and who show future academic promise, as based on information submitted in support of\ntheir admission application, including undergraduate and graduate transcripts, previous work experience,\nand standardized test scores (if applicable).",
+                "occupation": "urn:li:fs_position:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1542467773)",
+                "title": "Chancellor's Scholarship",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "issuer": "Pennsylvania State University"
+            },
+            {
+                "description": "Won the overall championship for SASTRA University at PRAGYAN, techniacal festival at NIT Trichy",
+                "title": "Overall Championship",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "issuer": "PRAGYAN, NIT Trichy"
+            },
+            {
+                "description": "Won the contest by designing a digital clock.",
+                "occupation": "urn:li:fs_education:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,230324428)",
+                "title": "Circuitrix (Circuit Design Contest)",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "issuer": "ASCIEE @ SASTRA University"
+            },
+            {
+                "description": "Won the Contest.",
+                "occupation": "urn:li:fs_education:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,230324428)",
+                "title": "Quiz Contest",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2014
+                },
+                "issuer": "COSMOS- Physics Association @ SASTRA University"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Wahid",
+                            "lastName": "Khan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "occupation": "Data Scientist | Ebay | Advertising Analytics | Seller Experience | CPC & CPA Charging Models | Improving UX Interfaces",
+                            "objectUrn": "urn:li:member:357106392",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516978797046?e=1746057600&v=beta&t=sMoF-vrPxJKlZvCxsuoRO4BcHIkJ1p6QA3H_JH8f4Ao",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516978797242?e=1746057600&v=beta&t=Z2Cua29nrSMPcLuFhuOj139OJC5XmXLpCHZCmuF55o8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEDEOaR7KQa_A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "wahidkhanabzal",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695562534952?e=1746057600&v=beta&t=X4Ezy-ONdBsU-9KLF5e6RAmsa60-jId2jxX2Fvh_4xw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695562534952?e=1746057600&v=beta&t=NGRINKYVL1ZA-aBligXlV1ATEsLe_SV45sTxr1Kosps",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695562534952?e=1746057600&v=beta&t=zR5AiUaYm3lKw8n_RpI-F0MYWer0RIJYmUzYe1yVB0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695562534952?e=1746057600&v=beta&t=w-gA1doS7KeIaX9mth809PM3bAgVk1zxNJizmD44x5w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQERWnLxooaLMg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TjM9/g80RjixFBORzruJ1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1863852854,1861984647)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nikhil",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY",
+                            "occupation": "Senior Product Manager || NITIE || Fidelity Investments || SASTRA University",
+                            "objectUrn": "urn:li:member:488181810",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY",
+                            "publicIdentifier": "nikhil-g-7565a8117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1574976045305?e=1746057600&v=beta&t=-gBAVZs56zhvWMQb-y6gNjy8Q0WYEzmXliL4nOrJByc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1574976045273?e=1746057600&v=beta&t=jENOgHivA0vr4RjoRFxqU0u2cYGQ44o7Ncr3nEJ0nPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1574976045341?e=1746057600&v=beta&t=pMNoMEgVxyQiYaRPgjjBmZt7F9nE9kOZbkq4TAp40hs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1574976045393?e=1746057600&v=beta&t=3yQb3JtIVUPWRAlRETucUgstOVg_83WzIsOBkytVbQs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQFQBRixvfiFDw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Xhju8Vj3Qxy0bEx3fOd7oA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1863852854,1863852855)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sai Kalyan",
+                            "lastName": "Paladugu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8",
+                            "occupation": "Product | Analytics | Ex-Swiggy | CFA L2 candidate",
+                            "objectUrn": "urn:li:member:413716271",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8",
+                            "publicIdentifier": "sai-kalyan-paladugu",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603460251680?e=1746057600&v=beta&t=IbbCkX5XlAcmvqNUHNLmn8auBHgupk6q1kVIVJR80ak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603460251680?e=1746057600&v=beta&t=s0cGTCSfgvR0hP-s5z7N9Xz0ta_NP1o6U1MF-cc65-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 234,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603460251680?e=1746057600&v=beta&t=KEgCPZWXFRiB3D9560FJr6okeXq_VAI805nhri9LIck",
+                                            "expiresAt": 1746057600000,
+                                            "height": 234
+                                        },
+                                        {
+                                            "width": 234,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603460251680?e=1746057600&v=beta&t=04QZfLq0rCtsoaopm0siHcDB80rLwtd41PAp0ZUSH1o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 234
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHsr4n0i60HfA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "FQ3znZRsQcKQkIy3dYN32g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1863852854,1863852856)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2015
+                    }
+                },
+                "description": "A surveillance robot which can be used for surveillance purpose in public places like Shopping malls, Airports etc. for security purposes. The bot was built using a Raspberry Pi board, the bot provides features such as live stream from the webcam attached over it, voice outputs for human interface, etc..",
+                "title": "Remote Surveillance Robot",
+                "url": "http://www.rcssastra.com/surveillance-robot-using-raspberrry-pi/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Wahid",
+                            "lastName": "Khan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "occupation": "Data Scientist | Ebay | Advertising Analytics | Seller Experience | CPC & CPA Charging Models | Improving UX Interfaces",
+                            "objectUrn": "urn:li:member:357106392",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516978797046?e=1746057600&v=beta&t=sMoF-vrPxJKlZvCxsuoRO4BcHIkJ1p6QA3H_JH8f4Ao",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516978797242?e=1746057600&v=beta&t=Z2Cua29nrSMPcLuFhuOj139OJC5XmXLpCHZCmuF55o8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEDEOaR7KQa_A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "wahidkhanabzal",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695562534952?e=1746057600&v=beta&t=X4Ezy-ONdBsU-9KLF5e6RAmsa60-jId2jxX2Fvh_4xw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695562534952?e=1746057600&v=beta&t=NGRINKYVL1ZA-aBligXlV1ATEsLe_SV45sTxr1Kosps",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695562534952?e=1746057600&v=beta&t=zR5AiUaYm3lKw8n_RpI-F0MYWer0RIJYmUzYe1yVB0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695562534952?e=1746057600&v=beta&t=w-gA1doS7KeIaX9mth809PM3bAgVk1zxNJizmD44x5w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQERWnLxooaLMg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TjM9/g80RjixFBORzruJ1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260954399,128039362)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nikhil",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY",
+                            "occupation": "Senior Product Manager || NITIE || Fidelity Investments || SASTRA University",
+                            "objectUrn": "urn:li:member:488181810",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY",
+                            "publicIdentifier": "nikhil-g-7565a8117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1574976045305?e=1746057600&v=beta&t=-gBAVZs56zhvWMQb-y6gNjy8Q0WYEzmXliL4nOrJByc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1574976045273?e=1746057600&v=beta&t=jENOgHivA0vr4RjoRFxqU0u2cYGQ44o7Ncr3nEJ0nPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1574976045341?e=1746057600&v=beta&t=pMNoMEgVxyQiYaRPgjjBmZt7F9nE9kOZbkq4TAp40hs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1574976045393?e=1746057600&v=beta&t=3yQb3JtIVUPWRAlRETucUgstOVg_83WzIsOBkytVbQs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQFQBRixvfiFDw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Xhju8Vj3Qxy0bEx3fOd7oA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260954399,128038581)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sai Kalyan",
+                            "lastName": "Paladugu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8",
+                            "occupation": "Product | Analytics | Ex-Swiggy | CFA L2 candidate",
+                            "objectUrn": "urn:li:member:413716271",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8",
+                            "publicIdentifier": "sai-kalyan-paladugu",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603460251680?e=1746057600&v=beta&t=IbbCkX5XlAcmvqNUHNLmn8auBHgupk6q1kVIVJR80ak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603460251680?e=1746057600&v=beta&t=s0cGTCSfgvR0hP-s5z7N9Xz0ta_NP1o6U1MF-cc65-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 234,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603460251680?e=1746057600&v=beta&t=KEgCPZWXFRiB3D9560FJr6okeXq_VAI805nhri9LIck",
+                                            "expiresAt": 1746057600000,
+                                            "height": 234
+                                        },
+                                        {
+                                            "width": 234,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603460251680?e=1746057600&v=beta&t=04QZfLq0rCtsoaopm0siHcDB80rLwtd41PAp0ZUSH1o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 234
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHsr4n0i60HfA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "FQ3znZRsQcKQkIy3dYN32g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260954399,128038582)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Raja Phanindra",
+                            "lastName": "Chava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABseEgcBBMHaVGVUwdlq3M2VjXDHSmSv1XU",
+                            "occupation": "Software Engineer at Microsoft | Masters in Computer Engineering at Virginia Tech | Want to make a difference",
+                            "objectUrn": "urn:li:member:454955527",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABseEgcBBMHaVGVUwdlq3M2VjXDHSmSv1XU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1703017008029?e=1746057600&v=beta&t=ullt5pENNnbovmUYkHBihbeOVPG6qdtNkzBgL9l0KXo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1056,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703017008029?e=1746057600&v=beta&t=tjyRFyzpr1KJQ5NYpzCPf6CItZ6toqN4S0WOUgAqC7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 264
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFFIqUg-iDoRw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "phanindraraja",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1725836828012?e=1746057600&v=beta&t=qAYL8b8kZ_iYF3jLCr-0Rr4MTVA_m03D7vQDLS8IkMY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1725836828012?e=1746057600&v=beta&t=ZgTJoNJ_TjaLBqgUmyFMwZZ9Us54IdbrTxW-0CxPsZE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1725836828012?e=1746057600&v=beta&t=nPopFyz9haEghQvJ7A3ubwTwptt6tH5qhDBs_FKUaQw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1725836828028?e=1746057600&v=beta&t=r5dACBA2sEsBdBSt82AKyz_LYCbJjzkvIC9JzURO4-8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQG5Fwu6ga1gNg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "9GSvlJMkTIC4v8ciciHaMA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260954399,128040267)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABseEgcBBMHaVGVUwdlq3M2VjXDHSmSv1XU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "description": "As a part of a robotics expo, we made a robot that moves on voice commands and movement of the eye using image processing over eyes and voice transmitted from a mobile phone's Bluetooth module.",
+                "title": "Eyeball and voice controlled robot"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Wahid",
+                            "lastName": "Khan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "occupation": "Data Scientist | Ebay | Advertising Analytics | Seller Experience | CPC & CPA Charging Models | Improving UX Interfaces",
+                            "objectUrn": "urn:li:member:357106392",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516978797046?e=1746057600&v=beta&t=sMoF-vrPxJKlZvCxsuoRO4BcHIkJ1p6QA3H_JH8f4Ao",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516978797242?e=1746057600&v=beta&t=Z2Cua29nrSMPcLuFhuOj139OJC5XmXLpCHZCmuF55o8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEDEOaR7KQa_A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "wahidkhanabzal",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695562534952?e=1746057600&v=beta&t=X4Ezy-ONdBsU-9KLF5e6RAmsa60-jId2jxX2Fvh_4xw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695562534952?e=1746057600&v=beta&t=NGRINKYVL1ZA-aBligXlV1ATEsLe_SV45sTxr1Kosps",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695562534952?e=1746057600&v=beta&t=zR5AiUaYm3lKw8n_RpI-F0MYWer0RIJYmUzYe1yVB0c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695562534952?e=1746057600&v=beta&t=w-gA1doS7KeIaX9mth809PM3bAgVk1zxNJizmD44x5w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQERWnLxooaLMg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TjM9/g80RjixFBORzruJ1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260779242,128040254)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Nikhil",
+                            "lastName": "G.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY",
+                            "occupation": "Senior Product Manager || NITIE || Fidelity Investments || SASTRA University",
+                            "objectUrn": "urn:li:member:488181810",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY",
+                            "publicIdentifier": "nikhil-g-7565a8117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1574976045305?e=1746057600&v=beta&t=-gBAVZs56zhvWMQb-y6gNjy8Q0WYEzmXliL4nOrJByc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1574976045273?e=1746057600&v=beta&t=jENOgHivA0vr4RjoRFxqU0u2cYGQ44o7Ncr3nEJ0nPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1574976045341?e=1746057600&v=beta&t=pMNoMEgVxyQiYaRPgjjBmZt7F9nE9kOZbkq4TAp40hs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1574976045393?e=1746057600&v=beta&t=3yQb3JtIVUPWRAlRETucUgstOVg_83WzIsOBkytVbQs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQFQBRixvfiFDw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Xhju8Vj3Qxy0bEx3fOd7oA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260779242,128039352)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0ZEDIBUmxfVEttIf-s0o14nlUYIFjGdaY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sai Kalyan",
+                            "lastName": "Paladugu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8",
+                            "occupation": "Product | Analytics | Ex-Swiggy | CFA L2 candidate",
+                            "objectUrn": "urn:li:member:413716271",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8",
+                            "publicIdentifier": "sai-kalyan-paladugu",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1603460251680?e=1746057600&v=beta&t=IbbCkX5XlAcmvqNUHNLmn8auBHgupk6q1kVIVJR80ak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1603460251680?e=1746057600&v=beta&t=s0cGTCSfgvR0hP-s5z7N9Xz0ta_NP1o6U1MF-cc65-0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 234,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1603460251680?e=1746057600&v=beta&t=KEgCPZWXFRiB3D9560FJr6okeXq_VAI805nhri9LIck",
+                                            "expiresAt": 1746057600000,
+                                            "height": 234
+                                        },
+                                        {
+                                            "width": 234,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1603460251680?e=1746057600&v=beta&t=04QZfLq0rCtsoaopm0siHcDB80rLwtd41PAp0ZUSH1o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 234
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHsr4n0i60HfA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "FQ3znZRsQcKQkIy3dYN32g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw,1260779242,128039353)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABiozy8Bw5IYPsAHuQywSu-0D3cLzKHinZ8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "description": "As part of this Project, we designed a system such that the electrical appliances in a particular room can be controlled over a smartphone over a local Wi-Fi network with the help Raspberry Pi and a few set of relay switches.",
+                "title": "Home Automation "
+            }
+        ],
+        "skills": [
+            {
+                "name": "Deep Learning"
+            },
+            {
+                "name": "Deep Reinforcement Learning"
+            },
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Microcontrollers"
+            }
+        ],
+        "urn_id": "ACoAABVJAtgB6-FXD4zyCGdUVetIVfPV4EGgjOw"
+    }
+}

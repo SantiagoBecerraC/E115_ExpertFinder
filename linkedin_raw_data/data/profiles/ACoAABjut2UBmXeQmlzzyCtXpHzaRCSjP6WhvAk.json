@@ -1,0 +1,609 @@
+{
+    "urn_id": "ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk",
+    "fetch_timestamp": "2025-02-26T21:36:22.646456",
+    "profile_data": {
+        "industryName": "Computer Software",
+        "lastName": "Kawasaki",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Amelia",
+        "entityUrn": "urn:li:fs_profile:ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104727230"
+        },
+        "geoLocationName": "Portland, Oregon",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI Researcher @ HiddenLayer, PhD Student @ OSU",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFO_VJT1PyyCw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1601489714210?e=1746057600&v=beta&t=SI-ypbM7Pp60Be6knpDbVBUfuZppFf6Adb8meELnwe0",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1601489714210?e=1746057600&v=beta&t=-08Vt1oVzoAcPqcmnqVBM6zKTWaTdgjfThiiyS6I4yU",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1601489714210?e=1746057600&v=beta&t=42tGQJX_6dbWuVZmkBSYafNWQn1INjelF662IIxKDbo",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1601489714210?e=1746057600&v=beta&t=B10Ccf2DRU9vYKKEsrik5jzDF7r4dsxByJMu2ovEB38",
+        "profile_id": "ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk",
+        "member_urn": "urn:li:member:418297701",
+        "public_id": "ameliakawasaki",
+        "experience": [
+            {
+                "locationName": "Portland, Oregon Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,2251814831)",
+                "geoLocationName": "Portland, Oregon Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000079",
+                "companyName": "HiddenLayer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "Adversarial AI research, specifically defense of LLMs\nSponsoring my PhD studies at Oregon State University",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer & Network Security"
+                    ]
+                },
+                "title": "Data Science Researcher",
+                "region": "urn:li:fs_region:(us,79)",
+                "companyUrn": "urn:li:fs_miniCompany:82336082",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF--TDGlnclMw/company-logo_"
+            },
+            {
+                "locationName": "Portland, Oregon Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,2197964850)",
+                "geoLocationName": "Portland, Oregon Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000079",
+                "companyName": "HiddenLayer",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer & Network Security"
+                    ]
+                },
+                "title": "Data Science Research Intern",
+                "region": "urn:li:fs_region:(us,79)",
+                "companyUrn": "urn:li:fs_miniCompany:82336082",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF--TDGlnclMw/company-logo_"
+            },
+            {
+                "locationName": "Corvallis, Oregon, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,2197965604)",
+                "geoLocationName": "Corvallis, Oregon, United States",
+                "geoUrn": "urn:li:fs_geo:104571827",
+                "companyName": "Oregon State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Teaching Assistant for CS 340 - Intro to Databases (eCampus)",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Teaching Assistant",
+                "region": "urn:li:fs_region:(us,189)",
+                "companyUrn": "urn:li:fs_miniCompany:165337",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEtLpPkfugtXg/company-logo_"
+            },
+            {
+                "locationName": "San Diego, California, United States",
+                "geoUrn": "urn:li:fs_geo:103918656",
+                "companyName": "UC San Diego",
+                "description": "Independent research under Professor Ery Arias-Castro working with manifold-based dimensionality reduction techniques.\nProject Title: Improving and Explaining Neighborhood Embedding Algorithms\nFunded through 2021 by Halıcıoğlu Data Science Undergraduate Scholarship Program and the UCSD Undergraduate Summer Research Award",
+                "title": "Student Researcher - Machine Learning Theory",
+                "companyUrn": "urn:li:fs_miniCompany:3382",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,390948240)",
+                    "urn:li:fs_honor:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,658301559)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,1678874017)",
+                "geoLocationName": "San Diego, California, United States",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_"
+            },
+            {
+                "locationName": "Portland, Oregon Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,1645010472)",
+                "geoLocationName": "Portland, Oregon Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000079",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "description": "Worked on the RAPIDS AI CLX team - GPU accelerated data science for cybersecurity.\nEngineered a data analysis pipeline to identify anomalous/malicious activity in Windows event streaming data. This included applying and analyzing clustering algorithms (DBSCAN, KMeans) to track user behavior and identify anomalies.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "region": "urn:li:fs_region:(us,79)",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,823397368)",
+                "school": {
+                    "objectUrn": "urn:li:school:19199",
+                    "entityUrn": "urn:li:fs_miniSchool:19199",
+                    "active": true,
+                    "schoolName": "Oregon State University",
+                    "trackingId": "qWKRxMokQ06BD2i+cuaqFw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEtLpPkfugtXg/company-logo_"
+                },
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "Oregon State University",
+                "fieldOfStudy": "Artificial Intelligence",
+                "schoolUrn": "urn:li:fs_miniSchool:19199"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,563071130)",
+                "school": {
+                    "objectUrn": "urn:li:school:17954",
+                    "entityUrn": "urn:li:fs_miniSchool:17954",
+                    "active": true,
+                    "schoolName": "UC San Diego",
+                    "trackingId": "HtrFrn9lQVmcw7RtuitUng==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_"
+                },
+                "activities": "Machine Learning Student Researcher, Data Science Student Representative, Academic Integrity Review Board Member",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "Minor in Math",
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "University of California San Diego",
+                "fieldOfStudy": "Data Science",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,1615262951)"
+                ],
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:17954"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Arabic",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2024,
+                    "day": 5
+                },
+                "name": "Defending Large Language Models Against Attacks With Residual Stream Activation Analysis",
+                "publisher": "Conference on Applied Machine Learning in Information Science",
+                "description": "Paper featured at CAMLIS 2024: https://www.youtube.com/watch?v=2zveQ0eS1Bo",
+                "url": "https://arxiv.org/abs/2406.03230",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Amelia",
+                            "lastName": "Kawasaki",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk",
+                            "occupation": "AI Researcher @ HiddenLayer, PhD Student @ OSU",
+                            "objectUrn": "urn:li:member:418297701",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735622552933?e=1746057600&v=beta&t=rjWCrxvdwmQJL-AHe970EH40XkxdNmlM9Bj406Iscv0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735622552933?e=1746057600&v=beta&t=8fhgvguboxrJQEOw2jGz5vaPysGEmHB0k8Hjdl2MiN4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQH-QPxTHwfU7w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ameliakawasaki",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1601489714210?e=1746057600&v=beta&t=SI-ypbM7Pp60Be6knpDbVBUfuZppFf6Adb8meELnwe0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1601489714210?e=1746057600&v=beta&t=-08Vt1oVzoAcPqcmnqVBM6zKTWaTdgjfThiiyS6I4yU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1601489714210?e=1746057600&v=beta&t=42tGQJX_6dbWuVZmkBSYafNWQn1INjelF662IIxKDbo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1601489714210?e=1746057600&v=beta&t=B10Ccf2DRU9vYKKEsrik5jzDF7r4dsxByJMu2ovEB38",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFO_VJT1PyyCw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DNfIHA4+Q6WjDAFHdZxTrg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Andrew",
+                            "lastName": "Davis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABNY8ikBV7A6r7ucJ23TVDNjIFMSJnyGSGs",
+                            "occupation": "Chief Data Scientist",
+                            "objectUrn": "urn:li:member:324596265",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABNY8ikBV7A6r7ucJ23TVDNjIFMSJnyGSGs",
+                            "publicIdentifier": "andrew-davis-08985990",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1534878810903?e=1746057600&v=beta&t=hJ5AZ1TIzA1kWC9YSpmcHZ9xTczSvxNit74Xidk622I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1534878810969?e=1746057600&v=beta&t=FQ2hHTnqpUJLCT2V2hEJ76wUF1EmyuuYcox1EUggrb8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 250,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1534878810949?e=1746057600&v=beta&t=OjskGJYJQIxhUKJkK1v_qjXqF4iffPQguaOurfXBQxE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 250
+                                        },
+                                        {
+                                            "width": 250,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1534878811034?e=1746057600&v=beta&t=UhfQNNVWEhM4aftfUEdAWCdznfv6LV5s6EOvYbFusGg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 250
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHr4XNg7rRRxw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "u/Kxt2JMT5qDRqP2i5cJ1Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABNY8ikBV7A6r7ucJ23TVDNjIFMSJnyGSGs"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Houssam",
+                            "lastName": "Abbas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAHfvY0BcuBYEJ3MojJ3978mFi3BwDr_u0E",
+                            "occupation": "Assistant Professor at Oregon State University",
+                            "objectUrn": "urn:li:member:31440269",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAHfvY0BcuBYEJ3MojJ3978mFi3BwDr_u0E",
+                            "publicIdentifier": "houssam-abbas-725642a",
+                            "trackingId": "d67Lj7E9QYullNuzz0gk/A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAHfvY0BcuBYEJ3MojJ3978mFi3BwDr_u0E"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Data Science Student Representative",
+                "companyName": "University of California San Diego",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Acting as lead representative on Peer Advising and Course Evaluation committees - responsible for training new representatives. Providing 1-on-1 and group academic, career, and wellness advising for current and prospective data science majors and minors. Coordinating and implementing various program events and initiatives for students and faculty.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3382",
+                        "entityUrn": "urn:li:fs_miniCompany:3382",
+                        "name": "UC San Diego",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1748476800&v=beta&t=HGpi4dfKvjUQ9SQuRnSEW9ZeJbGITva8DbJmSNQ1oMg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630633790917/university_of_california_at_san_diego_logo?e=1748476800&v=beta&t=G2QNeAi35zZLHMrE4nW_KliW14WEZjnIk9TDNRd_DyE",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630633790917/university_of_california_at_san_diego_logo?e=1748476800&v=beta&t=oNGqz4poJYEZadCAfdpQH0F4J3TLeIhIbAlfZwxiRWY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_"
+                            }
+                        },
+                        "universalName": "ucsandiego",
+                        "dashCompanyUrn": "urn:li:fsd_company:3382",
+                        "trackingId": "LfRE/QjGT+O38aN0ppRSzw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3382"
+            },
+            {
+                "role": "Academic Integrity Review Board Member",
+                "companyName": "UC San Diego",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "Serving as an undergraduate representative on the review board - appointed by the Warren College Dean of Student Affairs. Reviewing contested allegations of violations of the Academic Integrity Policy and deciding whether a student violated the Policy based on a preponderance of information.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3382",
+                        "entityUrn": "urn:li:fs_miniCompany:3382",
+                        "name": "UC San Diego",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1748476800&v=beta&t=HGpi4dfKvjUQ9SQuRnSEW9ZeJbGITva8DbJmSNQ1oMg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630633790917/university_of_california_at_san_diego_logo?e=1748476800&v=beta&t=G2QNeAi35zZLHMrE4nW_KliW14WEZjnIk9TDNRd_DyE",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630633790917/university_of_california_at_san_diego_logo?e=1748476800&v=beta&t=oNGqz4poJYEZadCAfdpQH0F4J3TLeIhIbAlfZwxiRWY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_"
+                            }
+                        },
+                        "universalName": "ucsandiego",
+                        "dashCompanyUrn": "urn:li:fsd_company:3382",
+                        "trackingId": "GX4tuBxxQNalgq2zNVXp3g=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3382"
+            },
+            {
+                "role": "Lead Student Organizer",
+                "companyName": "PDX Cyber Camp",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "I co-created the PDX Cyber Camp (fka Portland CyberPatriot Camp), worked with a student and professional management team to put on the camp, and lead student recruiting.  The camp is entering it's second year, doubling in size, and is hosting a \"girls only\" camp at one location."
+            }
+        ],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,1678874017)",
+                "title": "2021 Division of Physical Sciences Undergraduate Summer Research Award",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "issuer": "UC San Diego"
+            },
+            {
+                "description": "Scholarship supporting research project with Professor Arias-Castro\nProject Title: Improving and Explaining Neighborhood Embedding Algorithms",
+                "occupation": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,1678874017)",
+                "title": "2021 HDSI Undergraduate Scholarship Recipient",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "issuer": "Halıcıoğlu Data Science Institute"
+            },
+            {
+                "description": "Awarded Provost Honors 9 times",
+                "occupation": "urn:li:fs_education:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,563071130)",
+                "title": "Provost Honors",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "issuer": "University of California San Diego, Warren College"
+            },
+            {
+                "title": "National Merit Scholarship Finalist",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "issuer": "National Merit Scholarship Corporation"
+            },
+            {
+                "title": "CTF Competition National 4th Place Finisher ",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "issuer": "Mitre \"Capture the Flag\" National Competiton"
+            },
+            {
+                "description": "Award recipients are selected based on their aptitude and aspirations in technology and computing; leadership ability; academic history; and plans for post-secondary education.",
+                "title": "2016 Winner: Oregon & SW Washington - \"Aspirations in Computing\"",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "issuer": "National Center for Women & IT"
+            },
+            {
+                "description": "Placed first of high school teams in Oregon capture the flag competition, and 13th of 30th college teams overall with my cybersecurity team.",
+                "title": "CTF Competition 1st Place Finisher: High School Teams",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "issuer": "OregonCTF"
+            },
+            {
+                "description": "My team was \"SuperTuxKart\"\n\nhttps://www.youtube.com/watch?v=Q-SL8qPbFC0\n",
+                "occupation": "urn:li:fs_position:(ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk,693091304)",
+                "title": "CTF Competition National 4th Place Finisher",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2015
+                },
+                "issuer": "MITRE \"Capture the Flag\" National Competition"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Research Computing"
+            },
+            {
+                "name": "PyTorch"
+            },
+            {
+                "name": "Anomaly Detection"
+            },
+            {
+                "name": "Amazon Web Services (AWS)"
+            }
+        ],
+        "urn_id": "ACoAABjut2UBmXeQmlzzyCtXpHzaRCSjP6WhvAk"
+    }
+}

@@ -1,0 +1,892 @@
+{
+    "urn_id": "ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+    "fetch_timestamp": "2025-02-26T21:30:04.261846",
+    "profile_data": {
+        "industryName": "Computer Software",
+        "lastName": "Muralidharan",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Ashwini",
+        "entityUrn": "urn:li:fs_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106758460"
+        },
+        "geoLocationName": "Cupertino, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+        "profile_id": "ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+        "member_urn": "urn:li:member:854132734",
+        "public_id": "ashwini-muralidharan",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2545226901)",
+                "companyName": "UBS",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "● Developing an SQL co-pilot (text-to-SQL) chatbot by curating a custom SQL dataset, automating manual SQL tasks in Python, implementing entity extraction and Retrieval-Augmented Generation (RAG) techniques.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "AI Developer",
+                "companyUrn": "urn:li:fs_miniCompany:1214",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEshkSDzwMJ4g/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2427612661)",
+                "companyName": "North Carolina State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "● Engaged in engineering a Retrieval-Augmented Generation (RAG) system using large language models (LLMs) to perform semantic analysis of application resumes, accurately extracting and summarizing key achievements of applicants with the ECE department at NCSU.\n● Executing extensive data preprocessing and annotation pipelines, leveraging natural language processing techniques to prepare training datasets. Fine-tuning pre-trained LLMs to specialize in educational document analysis.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Natural Language Processing Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:4813",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGaD7AuaL571Q/company-logo_"
+            },
+            {
+                "locationName": "North Carolina, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2188437715)",
+                "geoLocationName": "North Carolina, United States",
+                "geoUrn": "urn:li:fs_geo:103255397",
+                "companyName": "North Carolina State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "description": "◦ Developed and integrated biomedical signal processing pipeline for cuff-less blood pressure estimation using ECG signals. Implemented filtering, segmentation, hand-crafted feature extraction, data augmentation on biomedical signals.\n◦ Developed Deep Learning algorithms using LSTMs and Transformer technologies to automate blood pressure estimation for deployment on mobile edge-devices to facilitate real-time prediction on low powered edge-devices.\n◦ Recipient of the Graduate Student Support Plan (GSSP), a highly competitive support package providing standard tuition coverage for one semester, in recognition of academic excellence",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Deep Learning Engineer - Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4813",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGaD7AuaL571Q/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2427609127)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Native Nibbles",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "◦ Conducted data extraction from various sources, performing comprehensive cleaning, transformation, and aggregation of customer and sales data for savories and snacks to ensure high-quality datasets for developing analytics models.\n◦ Implemented a clustering-based approach using DBSCAN to decompose the customer behavior prediction task, developing tailored models for each cluster that improved prediction accuracy and processing speed for large datasets.\n◦ Developed and optimized a COWRF (COA-optimized Weighted Random Forest) model, achieving a 39.17% increase in processing speed and a 97.2% accuracy rate, marking a 4.7% improvement over previous models to evaluate the impact of promotional activities for snacks and savories, enhancing marketing strategy effectiveness for the products.",
+                "title": "Data Science Intern - Predictive Analytics",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Chennai, Tamil Nadu, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2427609209)",
+                "geoLocationName": "Chennai, Tamil Nadu, India",
+                "geoUrn": "urn:li:fs_geo:114467055",
+                "companyName": "SSN College of Engineering",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "◦ Developed and deployed a neonatal seizure detection system utilizing a scalable machine learning architecture based on ProtoNN, achieving high sensitivity and compact model deployment optimized for ultra-edge devices.\n◦ Achieved a sensitivity of 87% and inference time of 243.92 milliseconds with a model size as small as 4.84 KB, ensuring rapid and accurate seizure detection on resource-constrained devices.\n◦ Presented the research outcomes titled ”Scalable Machine Learning Architecture for Neonatal Seizure Detection on Ultra-Edge Devices” at the Second International Conference on Artificial Intelligence and Signal Processing (AISP 2022), in collaboration with IEEE.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Machine Learning Engineer - Undergraduate Research Assistant",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13591182",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHjX1EVumFLhA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1332633396)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1332671116)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1332718614)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1638489672)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1638531918)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2060576985)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2060606999)",
+                    "urn:li:fs_course:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1224692847)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1333467361)",
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,867050469)",
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,876392278)",
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,876474989)",
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,876628122)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,820043061)",
+                "school": {
+                    "objectUrn": "urn:li:school:18786",
+                    "entityUrn": "urn:li:fs_miniSchool:18786",
+                    "active": true,
+                    "schoolName": "North Carolina State University",
+                    "trackingId": "O34v0rMtTMSsx+DNWVPVXQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGaD7AuaL571Q/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "North Carolina State University",
+                "fieldOfStudy": "Electrical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:18786"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1333169631)",
+                    "urn:li:fs_project:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2044989058)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,685005898)",
+                "school": {
+                    "objectUrn": "urn:li:school:234077",
+                    "entityUrn": "urn:li:fs_miniSchool:234077",
+                    "active": true,
+                    "schoolName": "SSN College of Engineering",
+                    "trackingId": "QGAfhh/4Tl6gHPIkwXLZxA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHjX1EVumFLhA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "SSN College of Engineering",
+                "fieldOfStudy": "Electrical and Electronics Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:234077"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,739894178)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "schoolName": "Chethana P U College - DCLY"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "name": "Global maximum power point tracking of PV systems using Gray wolf optimization technique",
+                "publisher": "Third International Conference on Power and Embedded Drive Control (ICPEDC 2021)",
+                "description": "Modeled a solar photovoltaic system integrated with a DC-DC boost converter with a novel global maximum power point tracking (MPPT) algorithm - Gray Wolf Optimizer (GWO) - for different irradiation. GWO was able to capture the global maximum power point under all conditions of irradiation (including partial shading) compared to conventional MPPT algorithms",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ]
+            },
+            {
+                "name": "Scalable Machine Learning Architecture for Neonatal Seizure Detection on Ultra-Edge Devices",
+                "publisher": "Second International Conference on Artificial Intelligence and Signal Processing (AISP 2022 in association with IEEE)",
+                "description": "Leveraged ProtoNN ML classifier to classify EEG signals into ictal or normal activity. Achieved low\n182ms detection latency with a 4.8kB model and a sensitivity of 87% making this suitable for low-power wearable devices.",
+                "url": "https://ieeexplore.ieee.org/document/9760524",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,820043061)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,876628122,420604866)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "- Built and deployed a production-ready AWS chatbot using SageMaker JumpStart to answer order status to\ncustomers, using the Flan-UL2 LLM Model.\n- Improved the accuracy and fluency of the generated text using RAG (Retrieval Augmented Generation).",
+                "title": "AWS Chatbot"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,820043061)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,876474989,420606844)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "- Employed transfer learning by updating the popular ResNet18 pre-trained model to predict the emotion conveyed\nfrom audio files.\n- Audio signal processing along with data augmentation was performed on the raw .wav files and relevant features\nwere extracted. The model exhibited a test accuracy of 93.84%.",
+                "title": "Emotion Detection from Audio"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,685005898)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1333169631,366970935)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "Optimized detection and classification of solar panel faults using Convolutional Neural Networks (CNN) on Infrared Solar Module dataset. A 11 layered CNN model was implemented on image data to yield better predictive performance (a training accuracy of 90%) than the existing state-of-the-art model implemented on the same dataset. An interactive web application developed with Flask Framework in Python was used to render the results.",
+                "title": "Fault Detection in solar panels using Image Data and CNN"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2045149049,435836311)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "Using the European Soccer Dataset from Kaggle, a few questions were statistically analyzed, namely - Does the traditional belief in the existence of an underlying advantage for European soccer teams playing at home have statistical significance? What formation has a better overall rate of victory, the 4–4–2 or the 4–3–3?",
+                "title": "Hpothesis testing"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2045559035,435837115)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "Pyramid blending refers to seamlessly blending an area/region from a source(foreground) image into a target (background) image. This project develops functions to implement Gaussian/Laplacian pyramid.",
+                "title": "Image Blending"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,1333523738,366974415)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "Developed an open-source Python Package Index Distribution that extracts features from raw EEG/ECG signals. It utilizes simple packages such as numba, scipy, scikit-learn, nolds etc., and extracts time-domain, entropy-domain and geometrical features from EEG and ECG signals. Contributed in creating the tool that extracts features from EEG signals.",
+                "title": "PySigPro",
+                "url": "https://github.com/Ashwiinii/pysigpro"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,820043061)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,876392278,420602917)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "- Developed a matrix factorization model for movie recommender systems in PySpark. The model achieved an RMSE of 0.85 on the MovieLens 100K dataset.\n- Implemented a distributed ALS algorithm for matrix factorization in PySpark. The algorithm was able to scale to large datasets and achieve good performance, with a hitrate of 80% on the MovieLens 1M dataset.",
+                "title": "PySpark Recommendation System"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,820043061)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,867050469,420604409)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "- Developed a real-time stress monitoring system for drivers using VGGNet architecture, that classifies ECG signals\ncollected real-time from a sensor. The signal processing, feature extraction, training and testing of the VGGNet\narchitecture were personally carried out by me, resulting in an 82.45% training accuracy achievement.\n- Implemented a system that integrates a real-time ECG sensor with a Jetson Nano for inference using the trained\nVGGNet architecture with the results being conveyed through a user-friendly Flask application in real-time.",
+                "title": "Real-time Stress Classification"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,685005898)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2044989058,435836300)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "- Developed and deployed a neonatal seizure detection system utilizing a scalable machine learning architecture based on ProtoNN, achieving high sensitivity and compact model deployment optimized for ultra-edge devices. \n- Achieved a sensitivity of 87% and inference time of 243.92 milliseconds with a model size as small as 4.84 KB, ensuring rapid and accurate seizure detection on resource-constrained devices.\n- Presented the research outcomes titled “Scalable Machine Learning Architecture for Neonatal Seizure Detection on Ultra-Edge Devices” at the Second International Conference on Artificial Intelligence and Signal Processing (AISP 2022), in collaboration with IEEE.",
+                "title": "Scalable Machine Learning Architecture for Neonatal Seizure Detection on Ultra-Edge Devices"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,820042151)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ashwini",
+                            "lastName": "Muralidharan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "occupation": "AI (NLP) Developer @ UBS | Seeking Full-time roles as NLP/ML Engineer",
+                            "objectUrn": "urn:li:member:854132734",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g",
+                            "publicIdentifier": "ashwini-muralidharan",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1685808507532?e=1741230000&v=beta&t=-0Zhxhir1RBMPzVn_ybSZgeh3yjocZ4onE25Z84lkAU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1685808507532?e=1741230000&v=beta&t=J0qv-JKiQr_fG4H6r6o5zdj4RY2-uz4eBs292JwXB_c",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1685808507532?e=1741230000&v=beta&t=hI9ubpfgAwA2fmEzOqvOke4_GagGt1dozmbdI6GFhaI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1685808507532?e=1741230000&v=beta&t=XdjKOhR5JYI0qettXNL0tq-qvPjBSDlapKH7kucHYQA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGBLSRI7uNTbA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "1zj9SEGJSBiPSwlDFWf3Fw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g,2044497197,435838002)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+                    }
+                ],
+                "description": "- Developed a self-supervised SimCLR model using PyTorch Lightning, employing a ResNet-18 encoder and a two-layer MLP projection head.\nImplemented advanced data augmentation and adjusted color jitter parameters to enhance training stability and speed on the STL10 dataset.\n- Achieved a 92.06% test accuracy by optimizing with cosine annealing, SGD, and InfoNCE loss. Implemented Logistic Regression on feature representations learned from SimCLR on the CIFAR10 dataset to demonstrate robust transferability of learned representations, with a 81% accuracy.",
+                "title": "Self-supervised Image Classification"
+            }
+        ],
+        "skills": [
+            {
+                "name": "LLaMA"
+            },
+            {
+                "name": "text to sql"
+            },
+            {
+                "name": "Retrieval-Augmented Generation (RAG)"
+            },
+            {
+                "name": "Image Blending"
+            }
+        ],
+        "urn_id": "ACoAADLpB_4Brqfcz-yG-BR-hXC6OjO7SFAQR8g"
+    }
+}

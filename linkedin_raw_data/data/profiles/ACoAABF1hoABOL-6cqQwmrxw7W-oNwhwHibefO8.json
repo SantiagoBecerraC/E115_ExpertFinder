@@ -1,0 +1,899 @@
+{
+    "urn_id": "ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8",
+    "fetch_timestamp": "2025-02-26T21:46:10.628186",
+    "profile_data": {
+        "summary": "Success oriented and results driven data analyst. Passionate about learning and growth. Excited for emerging technologies.",
+        "industryName": "Research",
+        "lastName": "Bailey",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "Bralen",
+        "entityUrn": "urn:li:fs_profile:ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101494361"
+        },
+        "geoLocationName": "Idaho Falls, Idaho",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Analyst | Python | SQL | Data Visualization | PowerBI | ML",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEyPzRhe-eu3w/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1573949405920?e=1746057600&v=beta&t=_LlaIgnGOtKYl4pAmdAFtRpLfHORMiHLK-NURez6qk0",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1573949405893?e=1746057600&v=beta&t=r9OWcuaFMz0fkfWoZtMj8-5drw39BL8ZBvZhIxUwk4E",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1573949405952?e=1746057600&v=beta&t=IcsgERplKZ9DaKZBraIRe_-T08zHCi17nQkkXUEZUqM",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1573949406040?e=1746057600&v=beta&t=YoaziZTJtLoAk26uUiXtfJIdeEfl6zxBxM4XUC6T4h4",
+        "profile_id": "ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8",
+        "member_urn": "urn:li:member:292914816",
+        "public_id": "bralen-bailey",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,2272873561)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Idaho National Laboratory",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Data Analyst",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:12293",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFG7ZHiGjMMvQ/company-logo_"
+            },
+            {
+                "locationName": "Idaho Falls, Idaho, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,2012909403)",
+                "geoLocationName": "Idaho Falls, Idaho, United States",
+                "geoUrn": "urn:li:fs_geo:101494361",
+                "companyName": "Idaho National Laboratory",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Procurement Specialist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:12293",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFG7ZHiGjMMvQ/company-logo_"
+            },
+            {
+                "locationName": "Idaho Falls, Idaho, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,1897526516)",
+                "geoLocationName": "Idaho Falls, Idaho, United States",
+                "geoUrn": "urn:li:fs_geo:101494361",
+                "companyName": "Melaleuca:The Wellness Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Cosmetics"
+                    ]
+                },
+                "title": "Supply Chain Analyst - Production Planner",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:351082",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGaclHylf0f9w/company-logo_"
+            },
+            {
+                "locationName": "Idaho Falls, Idaho, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,1750521803)",
+                "geoLocationName": "Idaho Falls, Idaho, United States",
+                "geoUrn": "urn:li:fs_geo:101494361",
+                "companyName": "Melaleuca:The Wellness Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Cosmetics"
+                    ]
+                },
+                "title": "Supply Chain Analyst - Allocator",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:351082",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGaclHylf0f9w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,1567740231)",
+                "companyName": "Melaleuca:The Wellness Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Cosmetics"
+                    ]
+                },
+                "title": "Real time analyst",
+                "companyUrn": "urn:li:fs_miniCompany:351082",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGaclHylf0f9w/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,1056781625)",
+                "school": {
+                    "objectUrn": "urn:li:school:42146",
+                    "entityUrn": "urn:li:fs_miniSchool:42146",
+                    "active": true,
+                    "schoolName": "Colorado State University Global",
+                    "trackingId": "9JvVUW62RjSC53gURQRiTQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFEn5_YBfWeTg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Colorado State University Global",
+                "fieldOfStudy": "Artificial Intelligence",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:42146"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,709489453)",
+                "school": {
+                    "objectUrn": "urn:li:school:19563",
+                    "entityUrn": "urn:li:fs_miniSchool:19563",
+                    "active": true,
+                    "schoolName": "Western Governors University",
+                    "trackingId": "OlQZ+onGQ9qLN9Q1mo/PCA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGgl0HAcLLeQw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100192",
+                "degreeName": "Data Management and Analytics",
+                "schoolName": "Western Governors University",
+                "fieldOfStudy": "Data Modeling/Warehousing and Database Administration",
+                "schoolUrn": "urn:li:fs_miniSchool:19563"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,10)",
+                    "urn:li:fs_course:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,11)",
+                    "urn:li:fs_course:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,30)",
+                    "urn:li:fs_course:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,31)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8,188156070)",
+                "school": {
+                    "objectUrn": "urn:li:school:20386",
+                    "entityUrn": "urn:li:fs_miniSchool:20386",
+                    "active": true,
+                    "schoolName": "Brigham Young University - Idaho",
+                    "trackingId": "L4qGQH4LQa2nEU/3IqQyYw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF_oufUviU5FA/company-logo_"
+                },
+                "activities": "Service Ushering, Activity Planning, Marketing Society Leadership.",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Majored in Business Management Marketing. Added a certificate in Data Analytics.",
+                "schoolName": "Brigham Young University - Idaho",
+                "fieldOfStudy": "Marketing and Data Analytics",
+                "schoolUrn": "urn:li:fs_miniSchool:20386"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Google",
+                "name": "Google analytics for beginners",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "SLqt6v9OTPiNK1FvNdle6w=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1441"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Excel Business Intelligence: Power Query",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "S7AvdIJNRRuTEHbBZj34XQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/a1a76c873d9e13e5f5a6c7c68e0ca72937751326cd0bc6aea5ff85e32da937f1?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Excel Business Intelligence: Data Modeling 101",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "SnKq2vBPS+a1aPIQht9Erg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/7d3a05527a99ccec8dc57e7c9d7919aed8079cfc3bfa6a4a96f5b49dda48f1ec?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Excel Business Intelligence: Power Pivot and DAX",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "LrE1PU3tTVeE02PrYMyxlQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/36e899d6f0f5e77fde7ba76e57d384fe1f8ce5a8026fac05851fda8e3321eaee?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Programming Foundations: Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "cFJLdvBCRyGaf/w9CsN73w=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/3f649a23fc51c6f898d176244e0a76c7edb64db4849cf93083a67887de68b734?trk=backfilled_certificate"
+            },
+            {
+                "authority": "Brigham Young University - Idaho",
+                "name": "Certificate in Data Analytics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13635",
+                    "entityUrn": "urn:li:fs_miniCompany:13635",
+                    "name": "Brigham Young University - Idaho",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1733247939985/byu_idaho_logo?e=1748476800&v=beta&t=wHJRmZeJxcpcrBH4e2bIN_bnEm8DA6iPMVa0ehXXm1c",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1733247939985/byu_idaho_logo?e=1748476800&v=beta&t=VeB9eOOCJya8_LQi935HdS7Ibq2Jm5Q4MhysC-Vw7-A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1733247939985/byu_idaho_logo?e=1748476800&v=beta&t=j-K29iwnFD11fJSbr-9NoHW0t9emeKAqeti9S2HYfxc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF_oufUviU5FA/company-logo_"
+                        }
+                    },
+                    "universalName": "byu-idaho",
+                    "dashCompanyUrn": "urn:li:fsd_company:13635",
+                    "trackingId": "v1hf7TIXTu6N22OPNhyNug=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13635"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Python Essential Training",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "CJMaA2HQREi7XsZ7TOEcZg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/ad5160ec311bf9af01baefd1c39b4fecd7654fcc2f9ba82e1980d3c0d700bbeb?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning VBA in Excel",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "581XNIlYRqyHxKEJlmlyvQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/d9d9a2c4f96c00eadb4e930bc236feb7370c639db1cd939cdee363785ea6deae?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "SQL Essential Training (2018)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "bYI7OW38SlOVViLWWyDAOA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/4ff53865beccd4d680b29957fed7de29bcba42e4c048470b1d459cb9afddad1b?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "The Data Science of Marketing",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "aOfP1i+JT6CV7tPKFVsfYQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/3122ad961a4c654b1ce97b275f407c2dfcb0ee49d52f3c277ba53b2a091d3212?trk=backfilled_certificate"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Door Usher",
+                "companyName": "BYU-Idaho",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "I welcome people to meetings that are held weekly",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:13635",
+                        "entityUrn": "urn:li:fs_miniCompany:13635",
+                        "name": "Brigham Young University - Idaho",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1733247939985/byu_idaho_logo?e=1748476800&v=beta&t=wHJRmZeJxcpcrBH4e2bIN_bnEm8DA6iPMVa0ehXXm1c",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1733247939985/byu_idaho_logo?e=1748476800&v=beta&t=VeB9eOOCJya8_LQi935HdS7Ibq2Jm5Q4MhysC-Vw7-A",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1733247939985/byu_idaho_logo?e=1748476800&v=beta&t=j-K29iwnFD11fJSbr-9NoHW0t9emeKAqeti9S2HYfxc",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF_oufUviU5FA/company-logo_"
+                            }
+                        },
+                        "universalName": "byu-idaho",
+                        "dashCompanyUrn": "urn:li:fsd_company:13635",
+                        "trackingId": "iurISgJVRA6iUVMwTHJZGw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13635"
+            },
+            {
+                "role": "Led Canned Food Drive",
+                "companyName": "Skyline High School",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2013
+                    }
+                },
+                "cause": "POVERTY_ALLEVIATION",
+                "description": "I was in charge of our high school's canned food drive for our local homeless shelters. We raised 100,996 cans of food for our community."
+            },
+            {
+                "role": "Missionary",
+                "companyName": "The Church of Jesus Christ of Latter-day Saints",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "cause": "POVERTY_ALLEVIATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:4711",
+                        "entityUrn": "urn:li:fs_miniCompany:4711",
+                        "name": "The Church of Jesus Christ of Latter-day Saints",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1735862355195/the_church_of_jesus_christ_of_latter_day_saints___logo?e=1748476800&v=beta&t=DltboeiYOas8guMg7kgEEYCa5MxnjeBRn1w5v6UZhTo",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1735862355195/the_church_of_jesus_christ_of_latter_day_saints___logo?e=1748476800&v=beta&t=1QT-9w4Uex2TtO9M4VQsX3JDNzZHbshmtlSrzTPRxMg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1735862355195/the_church_of_jesus_christ_of_latter_day_saints___logo?e=1748476800&v=beta&t=RTIYx0_8R2QXGJPK13qkC6NvMsJ7mUhYRj-5aAR1Oog",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGVCbMXKnAzvQ/company-logo_"
+                            }
+                        },
+                        "universalName": "the-church-of-jesus-christ-of-latter-day-saints--",
+                        "dashCompanyUrn": "urn:li:fsd_company:4711",
+                        "trackingId": "YZOTGeqFR0uHd3+zB+1l2g=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:4711"
+            }
+        ],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Microsoft Power Apps"
+            },
+            {
+                "name": "Data Science"
+            },
+            {
+                "name": "Data Analytics"
+            },
+            {
+                "name": "Exploratory Data Analysis"
+            }
+        ],
+        "urn_id": "ACoAABF1hoABOL-6cqQwmrxw7W-oNwhwHibefO8"
+    }
+}

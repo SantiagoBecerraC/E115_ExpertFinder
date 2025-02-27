@@ -1,0 +1,411 @@
+{
+    "urn_id": "ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw",
+    "fetch_timestamp": "2025-02-26T21:32:52.191158",
+    "profile_data": {
+        "summary": "ML engineer/scientist working in the field of computer vision and AI since a decade. I am passionate about applying AI techniques to solve real world problems, building Matrice AI (https://matrice.ai/) to make AI accessible to everyone so that they can build their own custom models for AI applications cost effectively.\n\nSome of my accomplishments that might be interesting to you:\n- I am leading the product development at Matrice AI and handle our tech engineering teams. Please visit our website to see our product: https://matrice.ai/ , we offer the most comprehensible AI development platform for computer vision.\n- While working at Target AI for three and half years as a Lead ML engineer, I researched and experimented with different approaches for model inference optimizations and built complete ML pipeline for vision application [US patent]. We collaborated with Intel Habana team, benchmarking, evaluating and providing continuous feedback to improve the Habana Processing Units (HPUs) and Synapse AI framework.\n- During my PhD at Northwestern, I pioneered the direct application of AI (deep learning) on materials composition vectors and crystal structure images from X-ray diffractions and Electron Back-Scatter Diffraction experiments in research collaborations with NIST, Argonne National Laboratory, and Materials Science Department of Carnegie Mellon University and Northwestern University.\n- I enjoy both machine learning engineering and research, and I have published in several top peer-reviewed journals and conferences as lead (first) author - Nature Communications, Scientific Reports and SIGKDD. My research has been cited around the world for 1300+ times - https://scholar.google.com/citations?user=diPVV1UAAAAJ . I actively participate in research article review for several scientific journals of Nature and others.\n- I have a strong background in Computer Systems -- both theoretical and research. I worked on Computer Networks - Wireless Networks, Internet Service Providers, Wired Networks, during first two years of my PhD.\n- My undergraduate degree was in Computer Science (Computer Engineering in Nepal) -- with full merit-based scholarship. I graduated with highest standing among 3000+ undergraduates engineering students in 2007 batch at Tribhuvan University.\n- I was born and raised in Nepal -- the land of Himalayas and Buddha.\n- Hobbies include running, working out, hiking and nature photography, currently working towards my Personal Fitness Training Certificate and learning Piano.",
+        "industryName": "Computer Software",
+        "lastName": "J.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Dipendra",
+        "entityUrn": "urn:li:fs_profile:ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000084"
+        },
+        "geoLocationName": "San Francisco Bay Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Making AI Accessible to Everyone  | Co-Founder @Matrice.ai | AI/ML PhD",
+        "profile_id": "ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw",
+        "member_urn": "urn:li:member:194620481",
+        "public_id": "dipendraj",
+        "experience": [
+            {
+                "locationName": "San Francisco, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,2246115479)",
+                "geoLocationName": "San Francisco, California, United States",
+                "geoUrn": "urn:li:fs_geo:102277331",
+                "companyName": "Matrice.ai",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "Transforming Pixels into Intelligence",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Co-Founder",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:83100514",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHBz0f-ecpEhg/company-logo_"
+            },
+            {
+                "locationName": "Sunnyvale, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,2131233474)",
+                "geoLocationName": "Sunnyvale, California, United States",
+                "geoUrn": "urn:li:fs_geo:104119503",
+                "companyName": "Target",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "- Led the cross-organization collaboration with Intel Habana Team to benchmark AI training performance of their Habana Processing Units (HPUs) against NVIDIA A100 for the enhancement of Target's ML infrastructure, this helped the top-level executives to make impactful decisions regarding the on-premise machine learning clusters.\n\n- During the Intel collaboration, we provided the Habana team with critical feedback and guidelines on how to enhance the usability of the Synapse AI framework to enable easy migration from NVIDIA GPU code base to HPUs for ML engineers.\n\n- Led the research project of an end-to-end efficient machine learning pipeline for empty shelf detection.  Our low-latency model achieved a mean average F1-score of 68.5%, and can process up to 67 images/s on a 40-core Intel Xeon Gold and up to 860 images/s on an A100 GPU (compared against existing solution taking 14 seconds per image on a 4-core CPU -- an improvement of around 94x) [published on arxiv.org].\n\n- Mitigated the data drift and concept drift for the empty shelf detection model, and enabled the use of the same model across multiple product aisles and placements in the Target stores (mean average F1-score improved from 31% to 65%).\n\n- In the efficient ML pipeline for on-shelf availability, we trained variants of efficient models to minimize the computational cost of running empty-shelf detection on in-store servers, providing a scalable solution to a challenging operation [patent under review].\n\n- Researched and demonstrated how to significantly cut-down latency and increase throughput of deep-learning models using pruning, quantization and existing inference optimizations with ONNX (2x), OpenVINO (2x) and multi-head architectures (~Xx for X heads) for vision tasks across ML team leaders at Target.\n\n- Currently working on a Virtual Try On project based on the latest developments in the Foundation models,  Generative Transformers and Diffusion models, leveraging internal images inside Target.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Lead Machine Learning Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1512",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGUjozudTh0yg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,1977630534)",
+                "companyName": "Chefling Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "description": "- Helped and guided the software engineers and data scientists on how to build computer vision models for detecting food items for real time image recognition for their product.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Machine Learning Advisor",
+                "companyUrn": "urn:li:fs_miniCompany:10893392",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGP6Kanfu4o_A/company-logo_"
+            },
+            {
+                "locationName": "Evanston, IL",
+                "entityUrn": "urn:li:fs_position:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,494478273)",
+                "geoLocationName": "Evanston, IL",
+                "companyName": "Northwestern University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2013
+                    }
+                },
+                "description": "- Pioneered the direct application of deep learning algorithms on raw materials data -- crystal structure images - electron back-scatter diffractions and warped X-ray diffractions, and tabular data - material composition and crystal structure vector, to build more accurate and robust predictive models for understanding materials structure-property relationships for novel materials design and discovery.\n\n- Developed and effectively led the interdisciplinary research collaborations with top materials scientists and physicists from National Institute of Standards and Technology (NIST), Argon National Laboratory, University of Chicago, Carnegie Mellon University and Northwestern University in a timely manner.\n\n- Successfully completed multiple interdisciplinary collaborative research projects with external collaborations and published them at top journals and conferences like Nature Communications, Scientific Reports and SIGKDD, as lead first author.\n\n- Learned how to concurrently work on several projects and publish them to top venues in a timely manner, while working in collaboration with multiple external scientists.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Ph.D. Candidate and Graduate Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:3196",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,1048713288)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH-sXOOSUF3aA/company-logo_"
+            },
+            {
+                "locationName": "Greater Seattle Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,1461830007)",
+                "geoLocationName": "Greater Seattle Area",
+                "geoUrn": "urn:li:fs_geo:90000091",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "description": "- Developed a predictive model for relevance between query-item pairs using a transformer-based neural attention model to segment existing customer sessions for enhancing product recommendations and ad quality.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Applied Scientist Intern",
+                "region": "urn:li:fs_region:(us,91)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,371168894)",
+                "school": {
+                    "objectUrn": "urn:li:school:18290",
+                    "entityUrn": "urn:li:fs_miniSchool:18290",
+                    "active": true,
+                    "schoolName": "Northwestern University",
+                    "trackingId": "l98tURjJQ566kTm98h85Cw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH-sXOOSUF3aA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Thesis: Deep Learning Methodologies for Scientific Knowledge Discovery.\nAdvisor: Prof. Alok Choudhary",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Doctor of Philosophy - Ph.D.",
+                "schoolName": "Northwestern University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:900",
+                "schoolUrn": "urn:li:fs_miniSchool:18290"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,201199311)",
+                "grade": "4.0 (Gold Medalist for highest standing in the undergraduate engineering)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2007
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+                "degreeName": "Bachelor of Engineering - BE (Summa Cum Laude)",
+                "schoolName": "Institute of Engineering, Tribhuvan University, Nepal",
+                "fieldOfStudy": "Computer Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,855720094)",
+                    "urn:li:fs_honor:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,855866746)"
+                ]
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Nepali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Turkish",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "X6S32WX38GLF",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "5/GjgpWSRiKNqxPcGVqbHg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/X6S32WX38GLF"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "SIGCOMM Volunteer",
+                "companyName": "Association for Computing Machinery",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2014
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "ACM SIGCOMM 2014",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:785681",
+                        "entityUrn": "urn:li:fs_miniCompany:785681",
+                        "name": "ACM, Association for Computing Machinery",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1672756106986/association_for_computing_machinery_logo?e=1748476800&v=beta&t=WmvJdenkbeVPZJQd46gQYDtthy7xmIjE2Neu6COMt3s",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1672756106986/association_for_computing_machinery_logo?e=1748476800&v=beta&t=bblFWozLEBh9M0l1ZTlpM03ye5JwTO7_cdEzOIuEbxA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1672756106986/association_for_computing_machinery_logo?e=1748476800&v=beta&t=GRRj3W69UVLXY66iG6P3Kg7ZgTL0aRkOMarc2amnsVQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHmhfTYf-PSPA/company-logo_"
+                            }
+                        },
+                        "universalName": "association-for-computing-machinery",
+                        "dashCompanyUrn": "urn:li:fsd_company:785681",
+                        "trackingId": "d3PAD7uiQ7qvX9BtSRFCYw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:785681"
+            }
+        ],
+        "honors": [
+            {
+                "description": "- Awarded to Ph.D. candidates demonstrating excellent research work.",
+                "occupation": "urn:li:fs_position:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,494478273)",
+                "title": "Dean's Commendation Fellowship",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "issuer": "Northwestern University"
+            },
+            {
+                "description": "- Awarded for excellent academic records in the undergraduate program.",
+                "title": "Royal E. Cabell Graduate Fellowship",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "issuer": "Northwestern University"
+            },
+            {
+                "description": "- Kul-Ratna Tuladhar Gold Medal for highest standing among 3000 undergraduate engineering students in Tribhuvan University, Nepal.",
+                "occupation": "urn:li:fs_education:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,201199311)",
+                "title": "Kul-Ratna Tuladhar Gold Medal",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2011
+                },
+                "issuer": "Institute of Engineering, Tribhuvan University"
+            },
+            {
+                "description": "- Four-year scholarship based on merit for undergraduate program in computer engineering.",
+                "occupation": "urn:li:fs_education:(ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw,201199311)",
+                "title": "Full Scholarship",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2007
+                },
+                "issuer": "Institute of Engineering, Tribhuvan University"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Deep Learning"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Artificial Intelligence"
+            },
+            {
+                "name": "Computer Vision"
+            }
+        ],
+        "urn_id": "ACoAAAuZrEEBfK2c_w3Loz9uKSrgtk8JNO_NAuw"
+    }
+}

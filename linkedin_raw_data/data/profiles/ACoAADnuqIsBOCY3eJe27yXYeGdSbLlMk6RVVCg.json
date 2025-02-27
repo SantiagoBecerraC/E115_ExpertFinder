@@ -1,0 +1,612 @@
+{
+    "urn_id": "ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+    "fetch_timestamp": "2025-02-26T21:49:27.028788",
+    "profile_data": {
+        "summary": "In general my research is developing efficient algorithms for computational problems using techniques from optimization, control, discrete mathematics and statistics, to analyze and to bring theoretical guarantees about these methods and their applications to control and machine learning.",
+        "industryName": "Research",
+        "lastName": "Rostami",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "M. Reza",
+        "entityUrn": "urn:li:fs_profile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103575230"
+        },
+        "geoLocationName": "Irvine, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "PhD candidate with focus on optimization and learning at UC Irvine",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHQ__KF-YVhLg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1671324114328?e=1746057600&v=beta&t=_wwS-qrtfQ67yKnCs3JLllMjeBGTx6XVktkx0qEJ7GE",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1671324114328?e=1746057600&v=beta&t=H6KqsgCF5dW3I5WibNaRE7roUhrdS_zPztQ4-YtwMNI",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1671324114328?e=1746057600&v=beta&t=m5syWyH9GxADmWW-ff0GaHTnTy-s87sbDrFiB2N10sk",
+        "img_792_792": "800_800/profile-displayphoto-shrink_800_800/0/1671324114328?e=1746057600&v=beta&t=bVV_8fGdWSmwxrFRpAZQdsm0oPjKnC4UK1fCdlzNzl0",
+        "profile_id": "ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+        "member_urn": "urn:li:member:971942027",
+        "public_id": "m-reza-rostami-54b602231",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,1943098453)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "UC Irvine",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "-Stochastic Optimization\n-Federated Learning \n-Convex Optimization \n-Time-Varying Optimization",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Researcher",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4418",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEuZlXAuo608Q/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,2068468989)",
+                "companyName": "UC Irvine",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "-Python Programming for Robot Motion Planning \n-Aircraft Performance\n-Dynamics \n-Discrete Time Signals and Systems\n-Robot Motion Planning\n-Mechanics of Structure",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Teaching Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:4418",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEuZlXAuo608Q/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,910853616)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,910927209)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,1904749468)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,1905788790)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,778064214)",
+                "school": {
+                    "objectUrn": "urn:li:school:17947",
+                    "entityUrn": "urn:li:fs_miniSchool:17947",
+                    "active": true,
+                    "schoolName": "UC Irvine",
+                    "trackingId": "1MuYs7AoSZuF8R//GPVq1w==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEuZlXAuo608Q/company-logo_"
+                },
+                "grade": "4/4",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Doctor of Philosophy - PhD in optimization and learning",
+                "schoolName": "UC Irvine",
+                "fieldOfStudy": "Mechanical and aerospace engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:17947"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,581481438)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,581523126)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,581643418)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,581689055)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,581707254)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,581727267)",
+                    "urn:li:fs_course:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,1716722032)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,845911627)",
+                "school": {
+                    "objectUrn": "urn:li:school:17947",
+                    "entityUrn": "urn:li:fs_miniSchool:17947",
+                    "active": true,
+                    "schoolName": "UC Irvine",
+                    "trackingId": "KuhRw2cBTn2TwieOXQ+88A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEuZlXAuo608Q/company-logo_"
+                },
+                "grade": "4/4",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master's degree in dynamics and control",
+                "schoolName": "UC Irvine",
+                "fieldOfStudy": "Mechanical and aerospace engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:17947"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg,789326958)",
+                "school": {
+                    "objectUrn": "urn:li:school:13801",
+                    "entityUrn": "urn:li:fs_miniSchool:13801",
+                    "active": true,
+                    "schoolName": "Sharif University of Technology",
+                    "trackingId": "vhD+82pLRrGvjAkSGJR8Og==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEYGbmjGIH89A/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100360",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Sharif University of Technology",
+                "fieldOfStudy": "Mechanical Engineering",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:13801"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2023,
+                    "day": 29
+                },
+                "name": "First-Order Dynamic Optimization for Streaming Convex Costs",
+                "publisher": "ACC 2024",
+                "description": "This paper proposes a set of novel optimization algorithms for solving a class of convex optimization problems with time-varying streaming cost function. We develop an approach to track the optimal solution with a bounded error. Unlike the existing results, our algorithm is executed only by using the first-order derivatives of the cost function which makes it computationally efficient for optimization with time-varying cost function. We compare our algorithms to the gradient descent algorithm and show why gradient descent is not an effective solution for optimization problems with time-varying cost. Several examples including solving a model predictive control problem cast as a convex optimization problem with a streaming time-varying cost function demonstrate our results.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "M. Reza",
+                            "lastName": "Rostami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "occupation": "PhD candidate with focus on optimization and learning at UC Irvine",
+                            "objectUrn": "urn:li:member:971942027",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "publicIdentifier": "m-reza-rostami-54b602231",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671324114328?e=1746057600&v=beta&t=_wwS-qrtfQ67yKnCs3JLllMjeBGTx6XVktkx0qEJ7GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671324114328?e=1746057600&v=beta&t=H6KqsgCF5dW3I5WibNaRE7roUhrdS_zPztQ4-YtwMNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671324114328?e=1746057600&v=beta&t=m5syWyH9GxADmWW-ff0GaHTnTy-s87sbDrFiB2N10sk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 792,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671324114328?e=1746057600&v=beta&t=bVV_8fGdWSmwxrFRpAZQdsm0oPjKnC4UK1fCdlzNzl0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 792
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHQ__KF-YVhLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uT94w+hnRnOyWeBzPJz/KQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2022,
+                    "day": 1
+                },
+                "name": "Federated Learning Using Variance Reduced Stochastic Gradient for Probabilistically Activated Agents",
+                "publisher": "ACC 2023",
+                "description": "In this paper we generated an algorithm for Federated Learning (FL) with a two-layer structure that achieves both variance reduction and a faster convergence rate to an optimal solution in the setting where each agent has an arbitrary probability of selection in each iteration. We leveraged the concept of variance reduction from stochastic optimization when the agents want to do their local update step to reduce the variance caused by stochastic gradient descent (SGD). We provided a novel convergence bound for our algorithm which improves the convergence rate by using a constant step-size.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "M. Reza",
+                            "lastName": "Rostami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "occupation": "PhD candidate with focus on optimization and learning at UC Irvine",
+                            "objectUrn": "urn:li:member:971942027",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "publicIdentifier": "m-reza-rostami-54b602231",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671324114328?e=1746057600&v=beta&t=_wwS-qrtfQ67yKnCs3JLllMjeBGTx6XVktkx0qEJ7GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671324114328?e=1746057600&v=beta&t=H6KqsgCF5dW3I5WibNaRE7roUhrdS_zPztQ4-YtwMNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671324114328?e=1746057600&v=beta&t=m5syWyH9GxADmWW-ff0GaHTnTy-s87sbDrFiB2N10sk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 792,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671324114328?e=1746057600&v=beta&t=bVV_8fGdWSmwxrFRpAZQdsm0oPjKnC4UK1fCdlzNzl0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 792
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHQ__KF-YVhLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uT94w+hnRnOyWeBzPJz/KQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg"
+                    }
+                ]
+            },
+            {
+                "name": "FedScalar: A Communication efficient Federated Learning",
+                "description": "Federated learning (FL) has gained considerable popularity for distributed machine learning due to its ability to preserve the privacy of participating agents by eliminating the need for data aggregation. Nevertheless, communication costs between agents and the central server in FL are substantial in large-scale problems and remain a limiting factor for this algorithm. This paper introduces an innovative algorithm, called \\emph{FedScalar}, within the federated learning framework aimed at improving communication efficiency. Unlike traditional FL methods that require agents to send high-dimensional vectors to the server, \\emph{FedScalar} enables agents to communicate updates using a single scalar. Each agent encodes its updated model parameters into a scalar through the inner product between its local update difference and a random vector, which is then transmitted to the server. The server decodes this information by projecting the averaged scalar values onto the random vector. Our method thereby significantly reduces communication overhead. Technically, we demonstrate that the proposed algorithm achieves a convergence rate of $O(1/\\sqrt{K})$ to a stationary point for smooth, non-convex loss functions. Additionally, our analysis shows that altering the underlying distribution of the random vector generated by the server can reduce the variance during the aggregation step of the algorithm. Finally, we validate the performance and communication efficiency of our algorithm with numerical simulations.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "M. Reza",
+                            "lastName": "Rostami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "occupation": "PhD candidate with focus on optimization and learning at UC Irvine",
+                            "objectUrn": "urn:li:member:971942027",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "publicIdentifier": "m-reza-rostami-54b602231",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671324114328?e=1746057600&v=beta&t=_wwS-qrtfQ67yKnCs3JLllMjeBGTx6XVktkx0qEJ7GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671324114328?e=1746057600&v=beta&t=H6KqsgCF5dW3I5WibNaRE7roUhrdS_zPztQ4-YtwMNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671324114328?e=1746057600&v=beta&t=m5syWyH9GxADmWW-ff0GaHTnTy-s87sbDrFiB2N10sk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 792,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671324114328?e=1746057600&v=beta&t=bVV_8fGdWSmwxrFRpAZQdsm0oPjKnC4UK1fCdlzNzl0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 792
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHQ__KF-YVhLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uT94w+hnRnOyWeBzPJz/KQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg"
+                    }
+                ]
+            },
+            {
+                "name": "Projected Forward Gradient-Guided Frank-Wolfe Algorithm via Variance Reduction",
+                "publisher": "LCSS 2024",
+                "description": "Training a deep neural network using gradient-based methods necessitates the calculation of gradients at each level. However, using backpropagation or reverse mode differentiation, to calculate the gradients necessities significant memory consumption, rendering backpropagation an inefficient method for computing gradients. This paper focuses on analyzing the performance of the well-known Frank-Wolfe algorithm, a.k.a. conditional gradient algorithm by having access to the forward mode of automatic differentiation to compute gradients. We provide in-depth technical details that show the proposed Algorithm  does converge to the optimal solution with a sub-linear rate of convergence by having access to the noisy estimate of the true gradient obtained in the forward mode of automated differentiation, referred to as the Projected Forward Gradient. In contrast, the standard Frank-Wolfe algorithm, when provided with access to the Projected Forward Gradient, fails to converge to the optimal solution. We demonstrate the convergence attributes of our proposed algorithms using a numerical example.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "M. Reza",
+                            "lastName": "Rostami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "occupation": "PhD candidate with focus on optimization and learning at UC Irvine",
+                            "objectUrn": "urn:li:member:971942027",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "publicIdentifier": "m-reza-rostami-54b602231",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671324114328?e=1746057600&v=beta&t=_wwS-qrtfQ67yKnCs3JLllMjeBGTx6XVktkx0qEJ7GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671324114328?e=1746057600&v=beta&t=H6KqsgCF5dW3I5WibNaRE7roUhrdS_zPztQ4-YtwMNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671324114328?e=1746057600&v=beta&t=m5syWyH9GxADmWW-ff0GaHTnTy-s87sbDrFiB2N10sk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 792,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671324114328?e=1746057600&v=beta&t=bVV_8fGdWSmwxrFRpAZQdsm0oPjKnC4UK1fCdlzNzl0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 792
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHQ__KF-YVhLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uT94w+hnRnOyWeBzPJz/KQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg"
+                    }
+                ]
+            },
+            {
+                "name": "Time-Varying Convex Optimization with O(n) Computational Complexity",
+                "publisher": "Automatica under revision",
+                "description": "In this article, we consider the problem of unconstrained time-varying convex optimization, where the cost function changes with time. We provide an in-depth technical analysis of the problem and argue why freezing the cost at each time step and taking finite steps toward the minimizer is not the best tracking solution for this problem. We propose a set of algorithms that by taking into account the temporal variation of the cost aim to reduce the tracking error of the time-varying minimizer of the problem. The main contribution of our work is that our proposed algorithms only require the first-order derivatives of the cost function with respect to the decision variable. This approach significantly reduces computational cost compared to the existing algorithms, which use the inverse of the Hessian of the cost. Specifically, the proposed algorithms reduce the computational cost from $O(n^3)$ to $O(n)$ per timestep, where $n$ is the size of the decision variable. Avoiding the inverse of the Hessian also makes our algorithms applicable to non-convex optimization problems. We refer to these algorithms as $O(n)$-algorithms. These $O(n)$-algorithms are designed to solve the problem for different scenarios based on the available temporal information about the cost. We illustrate our results through various examples, including the solution of a model predictive control problem framed as a convex optimization problem with a streaming time-varying cost function.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "M. Reza",
+                            "lastName": "Rostami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "occupation": "PhD candidate with focus on optimization and learning at UC Irvine",
+                            "objectUrn": "urn:li:member:971942027",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg",
+                            "publicIdentifier": "m-reza-rostami-54b602231",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671324114328?e=1746057600&v=beta&t=_wwS-qrtfQ67yKnCs3JLllMjeBGTx6XVktkx0qEJ7GE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671324114328?e=1746057600&v=beta&t=H6KqsgCF5dW3I5WibNaRE7roUhrdS_zPztQ4-YtwMNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671324114328?e=1746057600&v=beta&t=m5syWyH9GxADmWW-ff0GaHTnTy-s87sbDrFiB2N10sk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 792,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671324114328?e=1746057600&v=beta&t=bVV_8fGdWSmwxrFRpAZQdsm0oPjKnC4UK1fCdlzNzl0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 792
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHQ__KF-YVhLg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uT94w+hnRnOyWeBzPJz/KQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Algorithms Specialization ",
+                "licenseNumber": "YR6DSJK9LSBT",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "+566IKh2SQ2idAkYGzPDGQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/YR6DSJK9LSBT"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Convolutional Neural Networks and Sequence Models",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "47AVx2IeTJuo14JKlAfdww=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2453129"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Neural Networks and Deep Learning",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "r4FskcFySeG+YJbm38QmYA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2453129"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer Assistant",
+                "companyName": "American Control Conference 2023",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                }
+            }
+        ],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Optimization theory"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Control Theory"
+            },
+            {
+                "name": "Probability Theory"
+            }
+        ],
+        "urn_id": "ACoAADnuqIsBOCY3eJe27yXYeGdSbLlMk6RVVCg"
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "urn_id": "ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw",
+    "fetch_timestamp": "2025-02-26T21:34:47.700219",
+    "profile_data": {
+        "summary": "I am pursuing my Masters in Computational Data Science at Carnegie Mellon University graduating in May 2020.\n\nI hold a Bachelors of Technology degree from the Indian Institute of Technology (IIT) Hyderabad in Computer Science and Engineering.",
+        "industryName": "Computer Software",
+        "lastName": "Chandarana",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Yash",
+        "entityUrn": "urn:li:fs_profile:ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101351937"
+        },
+        "geoLocationName": "Pittsburgh, Pennsylvania",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Research Engineer at Bloomberg LP",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE12tZQVsGFkQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1669072346302?e=1746057600&v=beta&t=QKMk1ISpzlpQVQZNS2VD_asEXbDcAXhrQNgEwf1yJOo",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1669072346302?e=1746057600&v=beta&t=ZHVr2L4ZoPpm5cgyVbEn5fOtsoqRXeLIXMQInRQjQvs",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1669072346302?e=1746057600&v=beta&t=ELPJT0qhSgSPJ5S7qa8yNrg9s7-_3Kh3nV8d-yA4Pro",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1669072346302?e=1746057600&v=beta&t=-F48ZfDVANzXRsgTleXIhAWX8x79KiqS5T-FqykqTVI",
+        "profile_id": "ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw",
+        "member_urn": "urn:li:member:693364025",
+        "public_id": "yashchandarana",
+        "experience": [
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,1704234122)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "Bloomberg LP",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Research Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2494",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_"
+            },
+            {
+                "locationName": "Boston, Massachusetts",
+                "entityUrn": "urn:li:fs_position:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,1499977291)",
+                "geoLocationName": "Boston, Massachusetts",
+                "companyName": "PathAI",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Machine Learning Intern",
+                "companyUrn": "urn:li:fs_miniCompany:10804043",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF90WEuY8HxOA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,561616657)",
+                "school": {
+                    "objectUrn": "urn:li:school:19232",
+                    "entityUrn": "urn:li:fs_miniSchool:19232",
+                    "active": true,
+                    "schoolName": "Carnegie Mellon University",
+                    "trackingId": "uSf7hOxgS3aN9Mv0FbFyIQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "schoolName": "Carnegie Mellon University",
+                "schoolUrn": "urn:li:fs_miniSchool:19232"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,561616685)",
+                "school": {
+                    "objectUrn": "urn:li:school:38838",
+                    "entityUrn": "urn:li:fs_miniSchool:38838",
+                    "active": true,
+                    "schoolName": "Indian Institute of Technology Hyderabad",
+                    "trackingId": "VHEMiWorTCaGvXEfcHkSTw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF4UTIU_pr10A/company-logo_"
+                },
+                "grade": "9.04/10",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "description": "Topics in Deep Learning\nTopics in Vision and Learning\nSpecial Topics in Machine Learning\nDeep Learning for Computer Vision\nApplied Machine Learning\nOptimization Methods in Machine Learning\nCompilers\nCompiler Optimization\nOperating Systems\nData Structures and Algorithms\nParallel and Concurrent Programming\nPrinciples of Programming Languages\nTheory of Computation",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Indian Institute of Technology, Hyderabad",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,915310228)",
+                    "urn:li:fs_honor:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,915334629)"
+                ],
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:38838"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2017,
+                    "day": 3
+                },
+                "name": "Using Social Media for Word-of-Mouth Marketing",
+                "publisher": "International Conference on Big Data Analytics and Knowledge Discovery",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-319-64283-3_29",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Yash",
+                            "lastName": "Chandarana",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw",
+                            "occupation": "Research Engineer at Bloomberg LP",
+                            "objectUrn": "urn:li:member:693364025",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw",
+                            "publicIdentifier": "yashchandarana",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1669072346302?e=1746057600&v=beta&t=QKMk1ISpzlpQVQZNS2VD_asEXbDcAXhrQNgEwf1yJOo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1669072346302?e=1746057600&v=beta&t=ZHVr2L4ZoPpm5cgyVbEn5fOtsoqRXeLIXMQInRQjQvs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1669072346302?e=1746057600&v=beta&t=ELPJT0qhSgSPJ5S7qa8yNrg9s7-_3Kh3nV8d-yA4Pro",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1669072346302?e=1746057600&v=beta&t=-F48ZfDVANzXRsgTleXIhAWX8x79KiqS5T-FqykqTVI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE12tZQVsGFkQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "DNOfggotS0mSIKeELzfSXw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,561616685)",
+                "title": "Research Excellence Award",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "issuer": "Indian institute of Technology Hyderabad"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw,561616685)",
+                "title": "Academic Excellence Award",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2015
+                },
+                "issuer": "Indian institute of Technology Hyderabad"
+            }
+        ],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Deep Learning"
+            },
+            {
+                "name": "Reinforcement Learning"
+            },
+            {
+                "name": "Computer Vision"
+            }
+        ],
+        "urn_id": "ACoAAClT5TkBEpSQxPEMNpySOKNGRbUJdX1YPIw"
+    }
+}

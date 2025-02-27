@@ -1,0 +1,1249 @@
+{
+    "urn_id": "ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+    "fetch_timestamp": "2025-02-26T21:36:48.576385",
+    "profile_data": {
+        "industryName": "Publishing",
+        "lastName": "Marques",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 5,
+            "day": 14
+        },
+        "industryUrn": "urn:li:fs_industry:82",
+        "firstName": "Oge",
+        "entityUrn": "urn:li:fs_profile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Building Strategic Research Partnerships in AI",
+        "profile_id": "ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+        "member_urn": "urn:li:member:2009495",
+        "public_id": "ogemarques",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,2329922895)",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "Sr. Strategic Researcher Engagement Manager",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,2345323021)",
+                "companyName": "CRC Press",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Publishing"
+                    ]
+                },
+                "title": "Book Series Co-Editor - \"Computer Science and Engineering Recipes\"",
+                "companyUrn": "urn:li:fs_miniCompany:385046",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEYOvfjX1XjwQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,2010153298)",
+                "companyName": "Springer Nature Group",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2022
+                    }
+                },
+                "description": "The Springer Series in Applied Machine Learning focuses on monographs, textbooks, edited volumes, and reference books that provide suitable content and educate the reader on how the theoretical approaches, algorithms, and techniques of machine learning can be applied to address real-world problems in a principled way. \n\nMore details + book proposal form at: https://www.springer.com/series/15487",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Publishing"
+                    ]
+                },
+                "title": "Series Editor: \"Applied Machine Learning\"",
+                "companyUrn": "urn:li:fs_miniCompany:7051",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQESXdw_iIJXXA/company-logo_"
+            },
+            {
+                "locationName": "Boca Raton, Florida, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,1902675355)",
+                "geoLocationName": "Boca Raton, Florida, United States",
+                "geoUrn": "urn:li:fs_geo:103462227",
+                "companyName": "Florida Atlantic University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Professor of Biomedical Science (Secondary), Charles E. Schmidt College of Medicine",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:9077",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEgFpqOlW6qEA/company-logo_"
+            },
+            {
+                "locationName": "Boca Raton, FL",
+                "entityUrn": "urn:li:fs_position:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,566314182)",
+                "geoLocationName": "Boca Raton, FL",
+                "companyName": "Florida Atlantic University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2014
+                    }
+                },
+                "description": "Teach graduate and undergraduate courses in computer science, supervise graduate (MS and PhD) students, and carry out research in image processing, image retrieval, games with a purpose (GWAPs), and computer vision.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Professor",
+                "companyUrn": "urn:li:fs_miniCompany:9077",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEgFpqOlW6qEA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,11437242)",
+                "school": {
+                    "objectUrn": "urn:li:school:18088",
+                    "entityUrn": "urn:li:fs_miniSchool:18088",
+                    "active": true,
+                    "schoolName": "Florida Atlantic University",
+                    "trackingId": "XZZV69EVSmiv/mwdf8rblg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEgFpqOlW6qEA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2001
+                    },
+                    "startDate": {
+                        "year": 1997
+                    }
+                },
+                "degreeName": "PhD",
+                "schoolName": "Florida Atlantic University",
+                "fieldOfStudy": "Computer Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:18088"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,40305591)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 1989
+                    },
+                    "startDate": {
+                        "year": 1988
+                    }
+                },
+                "degreeName": "Master's              1989",
+                "schoolName": "Philips International Institute",
+                "fieldOfStudy": "Electronic Engineering"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk,30979966)",
+                "school": {
+                    "objectUrn": "urn:li:school:10729",
+                    "entityUrn": "urn:li:fs_miniSchool:10729",
+                    "active": true,
+                    "schoolName": "Federal University of Technology - Parana",
+                    "trackingId": "VLr2WdHIQuKTVP5ugs9TUQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHA9C46AJ26Ug/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 1986
+                    },
+                    "startDate": {
+                        "year": 1981
+                    }
+                },
+                "degreeName": "BS",
+                "schoolName": "Federal University of Technology - Parana",
+                "fieldOfStudy": "Electrical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:10729"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French"
+            },
+            {
+                "name": "Portuguese"
+            },
+            {
+                "name": "Spanish"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2014
+                },
+                "name": "Driver Drowsiness Detection Systems and Solutions",
+                "publisher": "Springer",
+                "description": "This book presents an overview of driver drowsiness detection systems and associated technologies and available solutions,",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Oge",
+                            "lastName": "Marques",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "occupation": "Building Strategic Research Partnerships in AI",
+                            "objectUrn": "urn:li:member:2009495",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706304676859?e=1746057600&v=beta&t=xEKu2JG5aDqLume0QckfuYk0LPpTyBwzPwZc5-vFZTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706304676859?e=1746057600&v=beta&t=WchFKD7RwwO58JAMfAkxGp2s2Ibt9mcOaFO2k7fmHes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEXjvjbu6NvQg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ogemarques",
+                            "trackingId": "EcBmRjalTkiz2HUxOJdIMQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Aleksandar",
+                            "lastName": "Čolić",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAryoskBA_SHsK4aZnHDMGUxMCH2_-gha0E",
+                            "occupation": "Senior Software Engineer at Graphic Security Systems Corporation",
+                            "objectUrn": "urn:li:member:183673545",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAryoskBA_SHsK4aZnHDMGUxMCH2_-gha0E",
+                            "publicIdentifier": "aleksandar-čolić-68961851",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1721650315650?e=1746057600&v=beta&t=XZxGirC7Yn7uoj0SsP_tqclBELjvKyK2wATcEra8vbE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1721650315650?e=1746057600&v=beta&t=CLOM4tjUwFsbNOG7Bd6eyV4w4eRBJXfprcoEcbaLPNk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1721650315650?e=1746057600&v=beta&t=EGJRCr7cAke0HXs9PCMCtcYFDfHvFDHfyhBESMH0Stk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1721650315670?e=1746057600&v=beta&t=0_o6Z22Vjiu2L_t5VyKTDCC2XDZceMsbuL57OQuaOxA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHGQ5-1H1cfdg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "zUAU+u7dQrK1Tr5vnD5A+A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAryoskBA_SHsK4aZnHDMGUxMCH2_-gha0E"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Borko",
+                            "lastName": "Furht",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAABqFn0BmThhMsBY6UMf5WDynaDSdJ2QZ5Y",
+                            "occupation": "Professor at Florida Atlantic University",
+                            "objectUrn": "urn:li:member:6952573",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAABqFn0BmThhMsBY6UMf5WDynaDSdJ2QZ5Y",
+                            "publicIdentifier": "borko-furht-5913b32",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516262997143?e=1746057600&v=beta&t=8VhRshj6eR5-R-9NGn4eJ6lF_PT4glvocXr-meWUZR0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516262997109?e=1746057600&v=beta&t=_S5jGiB3IcxE8vSJfa1avBl9tsJuabQ0KW2Z7Q8FKyU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516262997099?e=1746057600&v=beta&t=rm0DljfvYvX43sk2RNtnCu3zH8vlaf9ZsNGzEKDvT7c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516262997051?e=1746057600&v=beta&t=aoruSOtRo3f56Px99QNPNTj-8BWkGOh9lE9INfkIh5A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQGiEYQjvzigNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lbuZmYcLQmqCFADQd0cbOw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAABqFn0BmThhMsBY6UMf5WDynaDSdJ2QZ5Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2014
+                },
+                "name": "Design and Implementation of a Driver Drowsiness Detection System: A practical Approach",
+                "publisher": "International Conference on Signal Processing and Multimedia Applications (SIGMAP 2014)",
+                "description": "This paper describes the steps involved in designing and implementing a driver drowsiness detection system based on visual input (driver's face and head). It combines off-the-shelf software components for face detection, human skin color detection, and eye state (open vs. closed) classification in a novel way. Preliminary results show that the system is reliable and tolerant to many real-world constraints.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Oge",
+                            "lastName": "Marques",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "occupation": "Building Strategic Research Partnerships in AI",
+                            "objectUrn": "urn:li:member:2009495",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706304676859?e=1746057600&v=beta&t=xEKu2JG5aDqLume0QckfuYk0LPpTyBwzPwZc5-vFZTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706304676859?e=1746057600&v=beta&t=WchFKD7RwwO58JAMfAkxGp2s2Ibt9mcOaFO2k7fmHes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEXjvjbu6NvQg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ogemarques",
+                            "trackingId": "EcBmRjalTkiz2HUxOJdIMQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Aleksandar",
+                            "lastName": "Čolić",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAryoskBA_SHsK4aZnHDMGUxMCH2_-gha0E",
+                            "occupation": "Senior Software Engineer at Graphic Security Systems Corporation",
+                            "objectUrn": "urn:li:member:183673545",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAryoskBA_SHsK4aZnHDMGUxMCH2_-gha0E",
+                            "publicIdentifier": "aleksandar-čolić-68961851",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1721650315650?e=1746057600&v=beta&t=XZxGirC7Yn7uoj0SsP_tqclBELjvKyK2wATcEra8vbE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1721650315650?e=1746057600&v=beta&t=CLOM4tjUwFsbNOG7Bd6eyV4w4eRBJXfprcoEcbaLPNk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1721650315650?e=1746057600&v=beta&t=EGJRCr7cAke0HXs9PCMCtcYFDfHvFDHfyhBESMH0Stk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1721650315670?e=1746057600&v=beta&t=0_o6Z22Vjiu2L_t5VyKTDCC2XDZceMsbuL57OQuaOxA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHGQ5-1H1cfdg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "zUAU+u7dQrK1Tr5vnD5A+A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAryoskBA_SHsK4aZnHDMGUxMCH2_-gha0E"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Borko",
+                            "lastName": "Furht",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAABqFn0BmThhMsBY6UMf5WDynaDSdJ2QZ5Y",
+                            "occupation": "Professor at Florida Atlantic University",
+                            "objectUrn": "urn:li:member:6952573",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAABqFn0BmThhMsBY6UMf5WDynaDSdJ2QZ5Y",
+                            "publicIdentifier": "borko-furht-5913b32",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516262997143?e=1746057600&v=beta&t=8VhRshj6eR5-R-9NGn4eJ6lF_PT4glvocXr-meWUZR0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516262997109?e=1746057600&v=beta&t=_S5jGiB3IcxE8vSJfa1avBl9tsJuabQ0KW2Z7Q8FKyU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516262997099?e=1746057600&v=beta&t=rm0DljfvYvX43sk2RNtnCu3zH8vlaf9ZsNGzEKDvT7c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516262997051?e=1746057600&v=beta&t=aoruSOtRo3f56Px99QNPNTj-8BWkGOh9lE9INfkIh5A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQGiEYQjvzigNQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lbuZmYcLQmqCFADQd0cbOw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAABqFn0BmThhMsBY6UMf5WDynaDSdJ2QZ5Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "name": "Sparse Regularization of TV-L1 Optical Flow",
+                "publisher": "Image and Signal Processing, LNCS 8509, ICISP 2014 / Springer",
+                "url": "http://www.springer.com/gp/book/9783319079974",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Oge",
+                            "lastName": "Marques",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "occupation": "Building Strategic Research Partnerships in AI",
+                            "objectUrn": "urn:li:member:2009495",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706304676859?e=1746057600&v=beta&t=xEKu2JG5aDqLume0QckfuYk0LPpTyBwzPwZc5-vFZTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706304676859?e=1746057600&v=beta&t=WchFKD7RwwO58JAMfAkxGp2s2Ibt9mcOaFO2k7fmHes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEXjvjbu6NvQg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ogemarques",
+                            "trackingId": "EcBmRjalTkiz2HUxOJdIMQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Joel",
+                            "lastName": "Gibson",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAK9FWABGJISwHp61Enqsr5BY5fRV5joHls",
+                            "occupation": "Senior Principal Engineer at Blackmagic Design",
+                            "objectUrn": "urn:li:member:45946208",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAK9FWABGJISwHp61Enqsr5BY5fRV5joHls",
+                            "publicIdentifier": "joelgibson",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516502610101?e=1746057600&v=beta&t=szLdpK-fgs4LLKcNNzvM8nalluvYxx_Utho_pLTSxB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516502610168?e=1746057600&v=beta&t=m4KOi8BFkvkHjhL2qQ9ufI1CKEH7BexNlORN89YUrgw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516502610077?e=1746057600&v=beta&t=hpBJ7z7hO4XN2GdPqN90Lfzwd4QV3CAn7kYtUi6UjNQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516502610390?e=1746057600&v=beta&t=RoQQl2lP6pz70cg4Q11Zjze-yYF65tgXHTIkKGT5n3U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFrEegtd9kujg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OLoOWsjhTDWWrS4AeqUfGA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAK9FWABGJISwHp61Enqsr5BY5fRV5joHls"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2011,
+                    "day": 18
+                },
+                "name": "A Web-based Video Library and Annotation Framework for Marine Biology Surveys",
+                "publisher": "IMSA,HCI 2011",
+                "description": "The goal of the project reported in this paper is to design and deploy a fully-functional web-based video browsing, annotation, and retrieval solution targeted at marine biology researchers. The solution must comply with marine biology surveys’ procedures and protocols and must handle a significant amount of raw video footage. It has been designed to leverage the best practices in web development, particularly the use of HTML5, jQuery, and CSS to provide a rich and accessible front-end for researchers to navigate through survey results in search of objects and frames of interest. Its modular architecture should allow for further improvements and customizations.",
+                "url": "http://www.actapress.com/PaperInfo.aspx?paperId=451903",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Oge",
+                            "lastName": "Marques",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "occupation": "Building Strategic Research Partnerships in AI",
+                            "objectUrn": "urn:li:member:2009495",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706304676859?e=1746057600&v=beta&t=xEKu2JG5aDqLume0QckfuYk0LPpTyBwzPwZc5-vFZTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706304676859?e=1746057600&v=beta&t=WchFKD7RwwO58JAMfAkxGp2s2Ibt9mcOaFO2k7fmHes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEXjvjbu6NvQg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ogemarques",
+                            "trackingId": "EcBmRjalTkiz2HUxOJdIMQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Asif",
+                            "lastName": "R.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAC_9k4BHZAdNIHfMqJ7vLKF5r4UB_6upo4",
+                            "occupation": "Sr. Staff UI Engineer @ SailPoint",
+                            "objectUrn": "urn:li:member:12580430",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAC_9k4BHZAdNIHfMqJ7vLKF5r4UB_6upo4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1711325987743?e=1746057600&v=beta&t=B53DKxBztoxw8WwWVUkKXoENBGVhet9_d6y1I1SgB5U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1290,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711325987743?e=1746057600&v=beta&t=qXIAz8ARao723_1YI7wL8g7YQOo4ZZo44r_DMiEJsl8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 323
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGfCLFxJyXEDw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "asif-rahman-fl",
+                            "trackingId": "4wsDaF+8Q9OaRyRzuNFSlQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAC_9k4BHZAdNIHfMqJ7vLKF5r4UB_6upo4"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2008
+                },
+                "name": "Stereo Depth with a Unified Architecture GPU",
+                "publisher": "Computer Vision and Pattern Recognition Workshops 2008 / IEEE",
+                "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4563092",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Oge",
+                            "lastName": "Marques",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "occupation": "Building Strategic Research Partnerships in AI",
+                            "objectUrn": "urn:li:member:2009495",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706304676859?e=1746057600&v=beta&t=xEKu2JG5aDqLume0QckfuYk0LPpTyBwzPwZc5-vFZTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706304676859?e=1746057600&v=beta&t=WchFKD7RwwO58JAMfAkxGp2s2Ibt9mcOaFO2k7fmHes",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEXjvjbu6NvQg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ogemarques",
+                            "trackingId": "EcBmRjalTkiz2HUxOJdIMQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Joel",
+                            "lastName": "Gibson",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAK9FWABGJISwHp61Enqsr5BY5fRV5joHls",
+                            "occupation": "Senior Principal Engineer at Blackmagic Design",
+                            "objectUrn": "urn:li:member:45946208",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAK9FWABGJISwHp61Enqsr5BY5fRV5joHls",
+                            "publicIdentifier": "joelgibson",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516502610101?e=1746057600&v=beta&t=szLdpK-fgs4LLKcNNzvM8nalluvYxx_Utho_pLTSxB4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516502610168?e=1746057600&v=beta&t=m4KOi8BFkvkHjhL2qQ9ufI1CKEH7BexNlORN89YUrgw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516502610077?e=1746057600&v=beta&t=hpBJ7z7hO4XN2GdPqN90Lfzwd4QV3CAn7kYtUi6UjNQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516502610390?e=1746057600&v=beta&t=RoQQl2lP6pz70cg4Q11Zjze-yYF65tgXHTIkKGT5n3U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFrEegtd9kujg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OLoOWsjhTDWWrS4AeqUfGA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAK9FWABGJISwHp61Enqsr5BY5fRV5joHls"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "MathWorks",
+                "name": "Machine Learning with MATLAB",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1194036",
+                    "entityUrn": "urn:li:fs_miniCompany:1194036",
+                    "name": "MathWorks",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631312468202?e=1748476800&v=beta&t=K882t1XBwNHfx_TWhGcb_TVR5PuPx244K18ycmOOk88",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631312468202?e=1748476800&v=beta&t=GhqY7X38sysoMUnhUXyH33r6B_a8F1USiERgrZlnj7U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631312468202?e=1748476800&v=beta&t=iv6wUdUqGyyTQDO40CbYArs4i1nP8x1ONAzFQw8nXaw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFSs_qwxqsJBg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mathworks_2",
+                    "dashCompanyUrn": "urn:li:fsd_company:1194036",
+                    "trackingId": "n968EOeFSA2ZgwECJWrflA=="
+                },
+                "displaySource": "mathworks.com",
+                "companyUrn": "urn:li:fs_miniCompany:1194036",
+                "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=91370419-43cc-4262-b410-21179b6a79cc"
+            },
+            {
+                "authority": "MathWorks",
+                "name": "MATLAB Onramp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1194036",
+                    "entityUrn": "urn:li:fs_miniCompany:1194036",
+                    "name": "MathWorks",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631312468202?e=1748476800&v=beta&t=K882t1XBwNHfx_TWhGcb_TVR5PuPx244K18ycmOOk88",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631312468202?e=1748476800&v=beta&t=GhqY7X38sysoMUnhUXyH33r6B_a8F1USiERgrZlnj7U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631312468202?e=1748476800&v=beta&t=iv6wUdUqGyyTQDO40CbYArs4i1nP8x1ONAzFQw8nXaw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFSs_qwxqsJBg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mathworks_2",
+                    "dashCompanyUrn": "urn:li:fsd_company:1194036",
+                    "trackingId": "3YnShFaATYuOIvjDD3lvQw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1194036"
+            },
+            {
+                "authority": "MathWorks",
+                "name": "Deep Learning Onramp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1194036",
+                    "entityUrn": "urn:li:fs_miniCompany:1194036",
+                    "name": "MathWorks",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631312468202?e=1748476800&v=beta&t=K882t1XBwNHfx_TWhGcb_TVR5PuPx244K18ycmOOk88",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631312468202?e=1748476800&v=beta&t=GhqY7X38sysoMUnhUXyH33r6B_a8F1USiERgrZlnj7U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631312468202?e=1748476800&v=beta&t=iv6wUdUqGyyTQDO40CbYArs4i1nP8x1ONAzFQw8nXaw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFSs_qwxqsJBg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mathworks_2",
+                    "dashCompanyUrn": "urn:li:fsd_company:1194036",
+                    "trackingId": "82l1Uid+Slah2i52pHdmdw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1194036"
+            },
+            {
+                "authority": "Lynda.com",
+                "name": "AI Accountability Essential Training",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:39939",
+                    "entityUrn": "urn:li:fs_miniCompany:39939",
+                    "name": "Lynda.com",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631320875045?e=1748476800&v=beta&t=vmMlKQd5-ag5mZCg2sYPGPbz1vCFnzOw-9wDDzwk7_I",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631320875045?e=1748476800&v=beta&t=YlvesEK1yBzliDwx96x3pnm6U4XMfPEGu5IupUizARc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631320875045?e=1748476800&v=beta&t=jKseisHurRF-dYQR0etfT3Z8KGKC_W9Tnf0njYPsGPE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFfDMello2Gtg/company-logo_"
+                        }
+                    },
+                    "universalName": "lynda-com",
+                    "dashCompanyUrn": "urn:li:fsd_company:39939",
+                    "trackingId": "Ga2Eqo+mQpCul+9eexQdyA=="
+                },
+                "displaySource": "lynda.com",
+                "companyUrn": "urn:li:fs_miniCompany:39939",
+                "url": "http://www.lynda.com/IT-Infrastructure-tutorials/AI-Accountability-Essential-Training/765326-2.html"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Statistical Thinking in Python (Part 1)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "iDvqSLozQJe6jiaBtx5ycw=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/6cfc12fbfc2059733a36671a34d72caae3eab08e"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Statistical Thinking in Python (Part 2)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "rTK+5hceQ++ZPOcudAmKNg=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/6676ae943ea754c17e9329064756f1074f0048f9"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Image Processing in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "wJ5n9xQTSge0uJaKLFLTfQ=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/1453e87c51d88eb991e15f176db77927497b5b99"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "AI Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "SPir38X7RP2OH6y8Y83pKQ=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/d1895477f71c76660ac40d69a7252113735369c3"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Introduction to Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "/3eRU1aYQfSuQ0UgoN2hVQ=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/0dcacbf7e913dbbf68092eb6fe1b545587e5fb69"
+            },
+            {
+                "authority": "Coursera",
+                "name": "AI for Everyone",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "NQVyf3+lSqu+pFkF/mR5Ig=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/LRA5B6FBYAH8"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Personal Development"
+            },
+            {
+                "name": "Goal Setting"
+            },
+            {
+                "name": "Task Management"
+            },
+            {
+                "name": "Strategic Planning"
+            }
+        ],
+        "urn_id": "ACoAAAAeqZcBf-3DPmeCQNYLCtdM8eRmVZpIdQk"
+    }
+}

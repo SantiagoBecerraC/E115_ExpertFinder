@@ -1,0 +1,1196 @@
+{
+    "urn_id": "ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+    "fetch_timestamp": "2025-02-26T21:27:50.512633",
+    "profile_data": {
+        "summary": "With over 5 years of experience in designing and optimizing data pipelines and  software engineering, I specialize in delivering scalable, high-performance solutions. My expertise spans end-to-end data pipeline production, from data ingestion and transformation to API integration, enabling real-time data access and insights for key stakeholders.\n\nHaving worked with cloud platforms like GCP and AWS, I bring a strong technical foundation in Python, SQL, Apache Airflow, and BigQuery, with a focus on automation, data quality, and optimization. I have led teams, mentored engineers, and consistently driven results.\n\nPassionate about leveraging data to drive business impact, I’m always excited to tackle new challenges in the fields of data engineering and/or software development",
+        "industryName": "Computer Software",
+        "lastName": "Srivastava",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Vishakha",
+        "entityUrn": "urn:li:fs_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102068169"
+        },
+        "geoLocationName": "Milpitas, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior Data Engineer @CVS Health",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+        "profile_id": "ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+        "member_urn": "urn:li:member:487381730",
+        "public_id": "vishakha-srivastava-742281117",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,2152181427)",
+                "companyName": "CVS Health",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Senior Data Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:4680",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEhOw_KVli-CQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1818016212)",
+                "companyName": "CVS Health",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Data Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:4680",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEhOw_KVli-CQ/company-logo_"
+            },
+            {
+                "locationName": "Foster City, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1615373083)",
+                "geoLocationName": "Foster City, California, United States",
+                "geoUrn": "urn:li:fs_geo:102837821",
+                "companyName": "Gilead Sciences",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Biotechnology"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:163993",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH_fkhAYJM1Uw/company-logo_"
+            },
+            {
+                "locationName": "Pittsburgh, Pennsylvania, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1636526476)",
+                "geoLocationName": "Pittsburgh, Pennsylvania, United States",
+                "geoUrn": "urn:li:fs_geo:101351937",
+                "companyName": "Carnegie Mellon University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Data Engineer Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3147",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_"
+            },
+            {
+                "locationName": "Santa Clara, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1858219144)",
+                "geoLocationName": "Santa Clara, California, United States",
+                "geoUrn": "urn:li:fs_geo:100075706",
+                "companyName": "Santa Clara University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Student Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:165847",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEiJuZw0yQVmQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834549460)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834585757)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834703413)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834729032)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,932222225)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,932287458)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,2113205980)",
+                    "urn:li:fs_project:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,2113278806)",
+                    "urn:li:fs_project:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,300533952)",
+                    "urn:li:fs_project:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,300646052)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,630820071)",
+                "school": {
+                    "objectUrn": "urn:li:school:17914",
+                    "entityUrn": "urn:li:fs_miniSchool:17914",
+                    "active": true,
+                    "schoolName": "Santa Clara University",
+                    "trackingId": "zbJnjsLrRDiHCWSXA8VmvQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEiJuZw0yQVmQ/company-logo_"
+                },
+                "grade": "3.7/4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Santa Clara University",
+                "fieldOfStudy": "Information Systems",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:17914"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834612825)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834638113)",
+                    "urn:li:fs_course:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834665265)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1833322849)",
+                    "urn:li:fs_project:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834504814)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,333504816)",
+                "school": {
+                    "objectUrn": "urn:li:school:21103",
+                    "entityUrn": "urn:li:fs_miniSchool:21103",
+                    "active": true,
+                    "schoolName": "Manipal Institute of Technology",
+                    "trackingId": "+5sAFAQNQmKbLd+uE0jTHg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQH66KkTTZFJ2A/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Manipal Institute of Technology",
+                "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:21103"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,656540075)",
+                "school": {
+                    "objectUrn": "urn:li:school:3154307",
+                    "entityUrn": "urn:li:fs_miniSchool:3154307",
+                    "active": true,
+                    "schoolName": "Delhi Public School, Ranchi",
+                    "trackingId": "bR7uW5MSS5yQM/lTfC7vvA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG6jLyDZx6vbA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2000
+                    }
+                },
+                "schoolName": "Delhi Public School, Ranchi",
+                "schoolUrn": "urn:li:fs_miniSchool:3154307"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2021,
+                    "day": 18
+                },
+                "name": "An Open Repository of Real-Time COVID-19 Indicators",
+                "publisher": "Proceedings of the National Academy of Sciences of the United States of America",
+                "description": "The COVID-19 pandemic presented enormous data challenges in the United States. Policy makers, epidemiological modelers, and health researchers all require up-to-date data on the pandemic and relevant public behavior, ideally at fine spatial and temporal resolution. The COVIDcast API is our attempt to fill this need: operational since April 2020, it provides open access to both traditional public health surveillance signals (cases, deaths, and hospitalizations) and many auxiliary indicators of COVID19 activity, such as signals extracted from de-identified medical claims data, massive online surveys, cell phone mobility data, and internet search trends. This paper describes the data sources and signals, and provides examples demonstrating that the auxiliary signals in the COVIDcast API present information relevant to tracking COVID activity, augmenting traditional public health reporting and empowering research and decision-making.",
+                "url": "https://www.pnas.org/doi/full/10.1073/pnas.2111452118",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "Taming Big Data with Apache Spark 3 and Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "nIiPgQ97RmCjHMZMZuObpg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/share/1013wsA0oZcFhUQHg=/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python for Data Science and Machine Learning Bootcamp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "Wgo76ykyTfakBMyWwOOv2A=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": " Getting Started With Apache Cassandra",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "GAv9MNFxRfSGxvL7Yp7+lA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Tableau Software",
+                "name": "Tableau Desktop Specialist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:206993",
+                    "entityUrn": "urn:li:fs_miniCompany:206993",
+                    "name": "Tableau",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630636446931/tableau_software_logo?e=1748476800&v=beta&t=2dW_CzyimprMCGYJko1N7H9EsMfRbrt_lWdGOdxzVAY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630636446931/tableau_software_logo?e=1748476800&v=beta&t=mQyizXlKjKXBDv5CypFdZ0x88CcfJZrc5t0PXcSL-JQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630636446931/tableau_software_logo?e=1748476800&v=beta&t=2HXo7DyuWLBNpB2DyDbx9nspFUzGT1geGHguK3hTgAY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGbNutqXFCq8g/company-logo_"
+                        }
+                    },
+                    "universalName": "tableau-software",
+                    "dashCompanyUrn": "urn:li:fsd_company:206993",
+                    "trackingId": "enThzcFART2uV04XnP1CzQ=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:206993",
+                "url": "https://www.credly.com/badges/e2335c70-ab4d-4da6-9f1a-cd5fc4e19efd?source=linked_in_profile"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Event Organizer",
+                "companyName": "Revels, MIT Manipal",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2014
+                    }
+                },
+                "cause": "EDUCATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:31053409",
+                        "entityUrn": "urn:li:fs_miniCompany:31053409",
+                        "name": "Revels, MIT Manipal",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1673572826965?e=1748476800&v=beta&t=aaHKeFHy09lb9m4AsR78XpwcOAbPQh30VkJQxCcM7FE",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1673572826965?e=1748476800&v=beta&t=tp7PsHN8QDMZhAeA8FFPZddGoJd0GaRctW8-49iyN1Y",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1673572826965?e=1748476800&v=beta&t=m-OeKQqKVSG2xP0ey5-iWG0w86Mlol-0nkW5dyiAAJw",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEj4bkuF2H5EQ/company-logo_"
+                            }
+                        },
+                        "universalName": "revels",
+                        "dashCompanyUrn": "urn:li:fsd_company:31053409",
+                        "trackingId": "GjL2On3MTKiGOmlqC6DgKA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:31053409"
+            },
+            {
+                "role": "Volunteer",
+                "companyName": "Lions Clubs International",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2014
+                    }
+                },
+                "cause": "ENVIRONMENT",
+                "description": "Contributed in Community and Environment Program in activities like afforestation, recycling and increasing awareness among people about environment protection and climate change.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:33854",
+                        "entityUrn": "urn:li:fs_miniCompany:33854",
+                        "name": "Lions Clubs International",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631376341910?e=1748476800&v=beta&t=73zuH5QuJEIZL-V2Xw3xw-_AiSi7KSLkLB7QKztCaXI",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631376341910?e=1748476800&v=beta&t=BB6FuA_cUDa-DlXfMhGhGthJPyy2plQ3kwXdUQg9chQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631376341910?e=1748476800&v=beta&t=fuT3wSj5XxILWbqgNiSaFKKa5c_CW5KJ3B4QCeCbYjw",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF7kypc5epXow/company-logo_"
+                            }
+                        },
+                        "universalName": "lions-clubs-international",
+                        "dashCompanyUrn": "urn:li:fsd_company:33854",
+                        "trackingId": "vYjOlRkLQSCPbVoMNdKSqg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:33854"
+            },
+            {
+                "role": "Event Organizer",
+                "companyName": "TechTatva, MIT Manipal",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2014
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:69150381",
+                        "entityUrn": "urn:li:fs_miniCompany:69150381",
+                        "name": "TechTatva, MIT Manipal",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1726488296624/mittechtatva_logo?e=1748476800&v=beta&t=ApUxDyb39CiS7_YKP35Q8OIkbo-xjd7MS1RI6_L5mSg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1726488296624/mittechtatva_logo?e=1748476800&v=beta&t=vIKGg2OXuLR3NcXcj_nVsGmtED6RLr_XugDY1sPHqXU",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1726488296624/mittechtatva_logo?e=1748476800&v=beta&t=qBy05A38SzuYgzwQmpmD3Qhv6cMDUjLvy0NemiDYrjA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFQbHItzcCTPA/company-logo_"
+                            }
+                        },
+                        "universalName": "mittechtatva",
+                        "dashCompanyUrn": "urn:li:fsd_company:69150381",
+                        "trackingId": "PMeGbifmRZa5QdYgijO4ZA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:69150381"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,630820071)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,300533952,273748656)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "•\tPerformed Sentiment Analysis on user comments using Natural Language Processing (NLP) libraries: TextBlob and Vader.\n•\tPredicted NYT’s best pick comment using Logistic Regression coupled with Latent Semantic Analysis (LSA) and uses NB-Logistic Regression model.\n•\tCompared the two classifiers by plotting the ROC and Precision-Recall curve.\n",
+                "title": "Exploration New York Times articles and comments"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,630820071)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,300646052,273750596)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "description": "•\tPerformed RFM (Recency Frequency Monetary) Analysis on the dataset to determine the customer value based on the purchase history.\n•\tAnalyzed purchase patterns over the year by day/week/month to predict potential customers.\n",
+                "title": "Customer Segmentation"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,630820071)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,2113205980,250717184)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "• Vehicle number & date is passed using HTML forms; location of the vehicle is retrieved from Cassandra database using Java DataStax\ndriver.\n• Created 3 virtual machines using VMware Fusion with 2 data centers by configuring Snitch type.\n• Used nodetool to monitor status of nodes, decommission nodes, repair nodes for the keyspace with replication factor of 2.",
+                "title": "Vehicle Tracking System"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,630820071)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,2113278806,250717188)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "Performed Item based collaborative filtering on movie pairs based on user ratings.\nCreated RDD object using SparkContext to load dataset containing 100k records; implemented caching to reuse RDD objects to perform\nactions and transformations.",
+                "title": "Movie Recommendation System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1833653907,250053693)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "•\tDesigned a case study on application of data warehousing in allocation of jobs in a company.\n•\tPresented star schema and snowflake schema using and compared the two approaches.\n•\tReduced query execution time in both models by 20 millisecond by utilizing indexing techniques.\nMovie Recommender System\n",
+                "title": "Workforce Allocation System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1833586863,250053689)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "description": "•\tPre-processed stock information of 6 banks using DataReader library in Pandas.\n•\tCreated Pairplot using Matplotlib to plot stock returns and standard deviation and measure the riskiest stock in business. \n•\tImplemented clustering of the correlation between stock close prices by using Heatmap.\n\n",
+                "title": "Stock Analysis of Banks during Financial Crisis of 2007-08"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,333504816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1833322849,250054702)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2016
+                    }
+                },
+                "description": "•\tImplemented supervised Machine Learning techniques using R to create rainfall predictions. \n•\tDeveloped 3 models: Linear Support Vector Machine, Support Vector Regression Model & Tuned SVR; plotted using them ggplot2. \n•\tIncreased efficiency by achieving prediction accuracy of 98.21% on test set using Tuned SVR model.\n",
+                "title": "Rainfall Prediction Using Support Vector Machine"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,333504816)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Vishakha",
+                            "lastName": "Srivastava",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "occupation": "Senior Data Engineer @CVS Health",
+                            "objectUrn": "urn:li:member:487381730",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo",
+                            "publicIdentifier": "vishakha-srivastava-742281117",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1664510984975?e=1746057600&v=beta&t=RmRjRuRH4rx-5barOfqCgqD56GtZdi0Vxf8EMQhqo2U",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1664510984975?e=1746057600&v=beta&t=DM6vL05uSoa1rKsF48XX94fSDOgkneiSHkgEkEJFfP0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1664510984975?e=1746057600&v=beta&t=yFj_vKjRSYOkEbCSUO_030VXyEz3keB3k5_dFl2ubQI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1664510984975?e=1746057600&v=beta&t=1WozxoOjJqig200bvVw-6PeeMjMPED0tJtWh-D9vS5k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3nID2aDc6jg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Q851OLDJRFOoF3NYf1Hw1Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo,1834504814,250055639)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2015
+                    }
+                },
+                "description": "Designed an RFID based Home Automation System using Embedded C to secure houses\nthrough Smart Cards; when correct card is scanned on the RFID, door gets unlocked, fan starts rotating and the room lights up; if\nwrong card is scanned, system gets locked and an alarm is invoked suggesting an unusual activity has happened.",
+                "title": "Home Automation System"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Google Cloud Platform (GCP)"
+            },
+            {
+                "name": "Databases"
+            },
+            {
+                "name": "Data Structures"
+            }
+        ],
+        "urn_id": "ACoAAB0M2uIBXY2xgzepEUOZQlSkM96xOByA1Yo"
+    }
+}

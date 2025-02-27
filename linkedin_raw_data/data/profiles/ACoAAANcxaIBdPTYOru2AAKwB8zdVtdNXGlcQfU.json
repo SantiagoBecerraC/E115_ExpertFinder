@@ -1,0 +1,1373 @@
+{
+    "urn_id": "ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+    "fetch_timestamp": "2025-02-26T21:19:33.700990",
+    "profile_data": {
+        "summary": "I'm a Materials Engineer with 6+ years of experience in research and development in both academic and Silicon Valley companies, primarily focused on nanotechnology and novel nanomaterials synthesis for different applications.  I've developed strong analytical and problem solving skill, plus an intuition in data throughout my research journey.  I'm passionate about machine learning, using AI for prediction and facilitating data analysis, love challenges and am a fast learner.  I have successfully developed a novel nanopatterning method for a desired pitch length within a year utilizing electroplating, a technique that is completely new to me when I joined the company.\n\nBesides my engineering background, I also have an MBA and have been working in Business development field for a few years.  My duty included explore and develop new business opportunities, strategic planning, and potential business analysis, etc.",
+        "industryName": "Automotive",
+        "lastName": "Lam",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:53",
+        "firstName": "Freda",
+        "entityUrn": "urn:li:fs_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106233382"
+        },
+        "geoLocationName": "San Jose, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+        "img_569_569": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+        "profile_id": "ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+        "member_urn": "urn:li:member:56411554",
+        "public_id": "freda-lam",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,2513880645)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Lucid Motors",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Sr. Data Science Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1684122",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH7XEcX6E4M7w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,1910556203)",
+                "companyName": "Lucid Motors",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "• Design DOE and develop a semi-empirical SOH model using cell test data and validate with cell and fleet data.\n• Build a computer vision model for features classification with YOLOv4.\n• Develop and manage data processing pipeline, visualization and analytical tools to support cell development in cross-functional teams. \n• Provide data science support of multiple projects.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Data Science Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1684122",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH7XEcX6E4M7w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,1831814731)",
+                "companyName": "Lucid Motors",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Battery Cell Engineering Intern",
+                "companyUrn": "urn:li:fs_miniCompany:1684122",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH7XEcX6E4M7w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,1667767083)",
+                "companyName": "San Jose State University - Department of Applied Data Science",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "description": "• Teaching assistant for Python, Database Systems, and Big Data class.\n• Database systems class focuses on SQL and Big Query.\n• Big Data class focuses on Google Cloud Service and build a ETL pipeline.\n• Hold weekly office hours tutoring students, grade assignments and exams.",
+                "title": "Graduate Teaching Assistant"
+            },
+            {
+                "locationName": "Macau",
+                "entityUrn": "urn:li:fs_position:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,1048633806)",
+                "geoLocationName": "Macau",
+                "companyName": "Epicurean Taste Company Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "description": "•\tSetup the company from scratch and implement data driven culture for sales analysis and present KPI to board quarterly.\n•\tResponsible for designing the security system, access control, setting up email domain, cloud based POS and inventory system, utilize IoT for remote control.\n•\tSourcing of suppliers for all products, marketing and promotional campaign.\n•\tAttending business fairs and seminars to explore business opportunities.\n",
+                "title": "Business Development and Operations Manager"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,304561406)",
+                "school": {
+                    "objectUrn": "urn:li:school:17950",
+                    "entityUrn": "urn:li:fs_miniSchool:17950",
+                    "active": true,
+                    "schoolName": "UCLA",
+                    "trackingId": "sy1sRyXuR+auuzNvy7l6nQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "PhD student",
+                "schoolName": "University of California, Los Angeles",
+                "fieldOfStudy": "Materials Science and Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:17950"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,550929081)",
+                    "urn:li:fs_project:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551034014)",
+                    "urn:li:fs_project:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551484010)",
+                    "urn:li:fs_project:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551596688)",
+                    "urn:li:fs_project:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,552036680)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,689686916)",
+                "school": {
+                    "objectUrn": "urn:li:school:17911",
+                    "entityUrn": "urn:li:fs_miniSchool:17911",
+                    "active": true,
+                    "schoolName": "San José State University",
+                    "trackingId": "dv0M9FYvRm2QtjO+LE475A==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "San Jose State University",
+                "fieldOfStudy": "Data Analytics",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:17911"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,129313755)",
+                "school": {
+                    "objectUrn": "urn:li:school:17911",
+                    "entityUrn": "urn:li:fs_miniSchool:17911",
+                    "active": true,
+                    "schoolName": "San José State University",
+                    "trackingId": "slv5hEkbTb+r4IKuOu7kRA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "description": "Master project: \"Growth Mechanism of Carbon Nanotube on Metal Substrate by Water Assisted CVD Method\"",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "San Jose State University",
+                "fieldOfStudy": "Materials Engineering",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:17911"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Essential Google Cloud Infrastructure: Foundation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "F6PVW3AWJ6FE",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "aOfQlOAvQRur9j8iDXt0FQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/F6PVW3AWJ6FE"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Google Cloud Platform Fundamentals: Core Infrastructure",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "X8EH6FCC5VXL",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "K3ucJKBbQEWftp+UV9ThwA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/X8EH6FCC5VXL"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Essential Google Cloud Infrastructure: Core Services",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "NCV8DAGCUZZK",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "p4Es5TzuST2f2Bq7HCKm6Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/NCV8DAGCUZZK"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Elastic Google Cloud Infrastructure: Scaling and Automation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "JFX342BBHNL2",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "2smv1t1HQI+4F8QpBc91xw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/JFX342BBHNL2"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Reliable Google Cloud Infrastructure: Design and Process",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "Y67BLRVTYRP4",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "XF/Zf/NkRlOKyUH+3rBbhA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/Y67BLRVTYRP4"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Architecting with Google Compute Engine Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "SC2TJP4JXUV9",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "3WJFh0NxRc240agvtAZ64w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/SC2TJP4JXUV9"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Preparing for the Google Cloud Associate Cloud Engineer Exam",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "LH6F5EZT3M2E",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "1i7nlCMySp+EC4TtFuv28w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/LH6F5EZT3M2E"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "2008-2009 CME department outstanding Junior",
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,39172151)",
+                "title": "Chemical & Materials Engineering Department Outstanding Junior"
+            },
+            {
+                "description": "2009-2010 CME department outstanding Senior",
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,39172151)",
+                "title": "Chemical & Materials Engineering Department Outstanding Senior"
+            },
+            {
+                "description": "Academic year 2008 and 2009",
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,39172151)",
+                "title": "Dean's Scholar"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,689686916)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Freda",
+                            "lastName": "Lam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "occupation": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+                            "objectUrn": "urn:li:member:56411554",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "publicIdentifier": "freda-lam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 569,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 569
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XIJEyjSeRdmTiB5zDnBAyg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551596688,335965743)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Emma",
+                            "lastName": "Hendry",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABdMmDEBCBLO-aeFIFh4Y82FLtclhPgR5f0",
+                            "occupation": "Product Analytics at Adobe",
+                            "objectUrn": "urn:li:member:390895665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABdMmDEBCBLO-aeFIFh4Y82FLtclhPgR5f0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1603438451186?e=1746057600&v=beta&t=_0qnQN84xdzLGDJnlZn9Zb0PkOS-psNGvbIJUCJYU1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1603438451186?e=1746057600&v=beta&t=0-1dIuIKAaaUA6inmGUBg42SnsBpaLOC691Q09GJ5Ns",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFD6nz-F7_iIA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "emmamachendry",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1636516256689?e=1746057600&v=beta&t=iVshTQAxulH0l2UuIOdrOrbS5HyThzUHAz9XbLmeMEg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1636516256689?e=1746057600&v=beta&t=r5b0L9kDbe_QxvvJCOuA7GT9JMPPJ-InGXXqu1ea-v8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1636516256689?e=1746057600&v=beta&t=u8XZofrPiJk6vlAWb2-6rnlwb1AOr5CYozDpPIn0LOs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1636516256689?e=1746057600&v=beta&t=xjvbPI489LhTLh_bIFwa5bImGN13AB4lQjobNTvBlfo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 798
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEFAWhslr4Q-Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "6k5Wc/DIRU+ZXoR5IgvGKA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551596688,335972087)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABdMmDEBCBLO-aeFIFh4Y82FLtclhPgR5f0"
+                    },
+                    {
+                        "name": "Yu Zhou",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551596688,335967624)"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Huang",
+                            "lastName": "Peng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "occupation": "Software Engineer @ Palo Alto Networks",
+                            "objectUrn": "urn:li:member:420999882",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "publicIdentifier": "huang-peng-236baab8",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1602019388753?e=1746057600&v=beta&t=DXQ-QLd29PxjSKjQpJF7lN1_uK7YqU7FdE_YvEdOq64",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1602019388753?e=1746057600&v=beta&t=u2a_No2KHoYwpUCCiv6iAU_vPokW2Bdqfy7bAblQB88",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1602019388753?e=1746057600&v=beta&t=M4YIHVcCqKVeSR8XVVBbLvctZyyHOAcjJAjnAn2wJb4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1602019388753?e=1746057600&v=beta&t=XfKmwTzBLN2HvqqR-Ai6ZhUF35M3a90crTavnFpgG3w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHYrHtCyeFGnw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SQn/U3wuQIu36Kqt8zMbMg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551596688,335966653)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "Utilize remote sensing imagery to build an ensemble deep learning model (Faster RCNN + YOLO, Mobilenet, YOLO v4 + DeepSORT) to detect objects and changes, counts of livestock/animals, daytime/nighttime tracking and send alert when anomalies are detected.  Satellites images are self-annotated with LabelImg.",
+                "title": "Smart Farmland Surveillance – Auto-detection of Objects and Their Changes From Remote Sensing Imagery"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,689686916)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Freda",
+                            "lastName": "Lam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "occupation": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+                            "objectUrn": "urn:li:member:56411554",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "publicIdentifier": "freda-lam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 569,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 569
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XIJEyjSeRdmTiB5zDnBAyg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551484010,335970333)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Michelle",
+                            "lastName": "Lou",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA8miSsB_8i7R1hcwZzZH_b1WxOAjMBrvFg",
+                            "occupation": "Product @ Varo",
+                            "objectUrn": "urn:li:member:254183723",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA8miSsB_8i7R1hcwZzZH_b1WxOAjMBrvFg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1689902445880?e=1746057600&v=beta&t=t5U21siOrPl-yfjjUXpOOHQsZHHlzYCshLFjzY2CnfA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689902445880?e=1746057600&v=beta&t=tPyNbeEr09uY60J2Kd_s7F27048kXgd6Zeg1mBGr5jY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFvdGfZSeCIKw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mich3113lou",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1619597028922?e=1746057600&v=beta&t=yggL9xItF3SSRTZZtagvmxdb1i4T6C9CwtNvSP_zDWA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1619597028922?e=1746057600&v=beta&t=hNt_phoI1Dsl_Gc8WCW4Sdvvu4WXMmz3MqqyEtqLNg4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1619597028922?e=1746057600&v=beta&t=HjYRuq6cmJ7pDHNMc5dibYKpeqpazDmdKVtD00c83kw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1619597028922?e=1746057600&v=beta&t=hvvany-a4JJiGibHjgGdzwna1Nr8dnCRyPDF71IrsvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHj-mbJ3dTZiw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "VYYaMdHCSgWqJwxzde3j6g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551484010,335970334)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA8miSsB_8i7R1hcwZzZH_b1WxOAjMBrvFg"
+                    },
+                    {
+                        "name": "Li-Chia Chen",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551484010,335967625)"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Huang",
+                            "lastName": "Peng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "occupation": "Software Engineer @ Palo Alto Networks",
+                            "objectUrn": "urn:li:member:420999882",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "publicIdentifier": "huang-peng-236baab8",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1602019388753?e=1746057600&v=beta&t=DXQ-QLd29PxjSKjQpJF7lN1_uK7YqU7FdE_YvEdOq64",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1602019388753?e=1746057600&v=beta&t=u2a_No2KHoYwpUCCiv6iAU_vPokW2Bdqfy7bAblQB88",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1602019388753?e=1746057600&v=beta&t=M4YIHVcCqKVeSR8XVVBbLvctZyyHOAcjJAjnAn2wJb4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1602019388753?e=1746057600&v=beta&t=XfKmwTzBLN2HvqqR-Ai6ZhUF35M3a90crTavnFpgG3w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHYrHtCyeFGnw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SQn/U3wuQIu36Kqt8zMbMg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551484010,335969442)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "DeepFake image classification with CNN and MobileNetV2 using TensorFlow Keras on the Kaggle dataset consisting of 10,000 images for both fake and real faces.  The dataset is split at 0.8/0.1/0.1 (train/test/valid ratio) and the CNN with 3 convolution layers model achieved an accuracy of 90% while the MobileNetV2 achieved an accuracy of only 50% due to overfitting.",
+                "title": "DeepFake Detection"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,689686916)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Freda",
+                            "lastName": "Lam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "occupation": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+                            "objectUrn": "urn:li:member:56411554",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "publicIdentifier": "freda-lam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 569,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 569
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XIJEyjSeRdmTiB5zDnBAyg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,552036680,312159134)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "A research report on the online battery estimation using Deep Convolution Neural Network (DCNN).  With DCNN, the online estimation of the state of charge of the lithium ion battery can be estimated using the measurements of the charge capacity, current, and voltage during a partial charge cycle. This model is also capable to approximate the state of health of the battery cells. Furthermore, this can extend to the SOC and SOH of the battery for electric vehicle.",
+                "title": "A Deep Learning Approach for Battery Lifetime Online Estimation"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,689686916)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Freda",
+                            "lastName": "Lam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "occupation": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+                            "objectUrn": "urn:li:member:56411554",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "publicIdentifier": "freda-lam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 569,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 569
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XIJEyjSeRdmTiB5zDnBAyg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551034014,335972089)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+                    },
+                    {
+                        "name": "Ananta Ramesh",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551034014,335967626)"
+                    },
+                    {
+                        "name": "Indira Neela",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551034014,335968412)"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Huang",
+                            "lastName": "Peng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "occupation": "Software Engineer @ Palo Alto Networks",
+                            "objectUrn": "urn:li:member:420999882",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "publicIdentifier": "huang-peng-236baab8",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1602019388753?e=1746057600&v=beta&t=DXQ-QLd29PxjSKjQpJF7lN1_uK7YqU7FdE_YvEdOq64",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1602019388753?e=1746057600&v=beta&t=u2a_No2KHoYwpUCCiv6iAU_vPokW2Bdqfy7bAblQB88",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1602019388753?e=1746057600&v=beta&t=M4YIHVcCqKVeSR8XVVBbLvctZyyHOAcjJAjnAn2wJb4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1602019388753?e=1746057600&v=beta&t=XfKmwTzBLN2HvqqR-Ai6ZhUF35M3a90crTavnFpgG3w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHYrHtCyeFGnw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SQn/U3wuQIu36Kqt8zMbMg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551034014,335970336)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Creating a visual story map with ArcGIS and talked about the top 5 earthquakes for the\npast 100 years",
+                "title": "Earthquakes in the World (Data Visualization with ArcGIS)",
+                "url": "https://arcg.is/18j11O"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Freda",
+                            "lastName": "Lam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "occupation": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+                            "objectUrn": "urn:li:member:56411554",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "publicIdentifier": "freda-lam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 569,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 569
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XIJEyjSeRdmTiB5zDnBAyg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551343571,312159117)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+                    },
+                    {
+                        "name": "Indira Neela",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551343571,312159118)"
+                    },
+                    {
+                        "name": "Sahana Halady",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551343571,312156675)"
+                    },
+                    {
+                        "name": "Aamir Sayani",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,551343571,312156676)"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "Using the million songs datasets, extract the 19 most important features from over 50 features and use classification models from scikit-learn like KNN, Logistic Regression, Decision Tree, and Random Forest to build a song popularity prediction model.  Model performance evaluates by confusion matrix, ROC and AUC curve.",
+                "title": "Song Popularity Prediction (Machine Learning)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,689686916)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Freda",
+                            "lastName": "Lam",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "occupation": "Sr. Data Science Engineer, Battery Cell Engineering @Lucid Motors | Materials Engineer | GoogleCloudReady Facilitator",
+                            "objectUrn": "urn:li:member:56411554",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU",
+                            "publicIdentifier": "freda-lam",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1599018842470?e=1746057600&v=beta&t=PFLYH8txzAxQm-P8GmtOjHuSA2EQ1vWOXM_26dKe6eY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1599018842470?e=1746057600&v=beta&t=E8I8H1teGjSUOcfYiuIBcWBWIDh_jwUn2txq2xgKo40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1599018842470?e=1746057600&v=beta&t=TRRbHlSMZeG3fLYu6-woi70nvbAT2cbSVg8HJUyiyL8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 569,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1599018842470?e=1746057600&v=beta&t=yycyW3Qb9T46sj1e_gvzkDIN7djzJWZngIaXbuI9rCA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 569
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEgd8CbEbCDDA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XIJEyjSeRdmTiB5zDnBAyg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,550929081,335968415)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+                    },
+                    {
+                        "name": "Max Ng",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,550929081,335972091)"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Huang",
+                            "lastName": "Peng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "occupation": "Software Engineer @ Palo Alto Networks",
+                            "objectUrn": "urn:li:member:420999882",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0",
+                            "publicIdentifier": "huang-peng-236baab8",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1602019388753?e=1746057600&v=beta&t=DXQ-QLd29PxjSKjQpJF7lN1_uK7YqU7FdE_YvEdOq64",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1602019388753?e=1746057600&v=beta&t=u2a_No2KHoYwpUCCiv6iAU_vPokW2Bdqfy7bAblQB88",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1602019388753?e=1746057600&v=beta&t=M4YIHVcCqKVeSR8XVVBbLvctZyyHOAcjJAjnAn2wJb4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1602019388753?e=1746057600&v=beta&t=XfKmwTzBLN2HvqqR-Ai6ZhUF35M3a90crTavnFpgG3w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHYrHtCyeFGnw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SQn/U3wuQIu36Kqt8zMbMg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,550929081,335967628)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABkX8soBGE7QOY2kYfsZuVFW8osIV5b08m0"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meng",
+                            "lastName": "Yuan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADUbMIwBQAaBlYEAVrxOTz6IsVBMsVUMgjc",
+                            "occupation": "Software Engineering | Data Engineering ｜Ex-Intern @ AMD",
+                            "objectUrn": "urn:li:member:890974348",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADUbMIwBQAaBlYEAVrxOTz6IsVBMsVUMgjc",
+                            "publicIdentifier": "meng-yuan-1a447620a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUGZ7gEHoAY-/0/1739569215914?e=1741230000&v=beta&t=_irMNzPqBkbb8v1cz3XqFs3yyHJdxtUsw1V1IzP588U",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUGZ7gEHoAk-/0/1739569215914?e=1741230000&v=beta&t=47bloE0A6ON72G8BDIAAK5QfTgTfZR-Zbe8g5edEb-w",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 750,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUGZ7gEHoAg-/0/1739569215914?e=1741230000&v=beta&t=m3oTOkjBjuvbWVEMjSZhDxbNUthOspdTaTwLVH6jsdI",
+                                            "expiresAt": 1741230000000,
+                                            "height": 750
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUGZ7gEHoAc-/0/1739569215882?e=1741230000&v=beta&t=tl4ewdMsiz2iyC9yWuOT_CdZVdmTHJVvN03va1YC-vA",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQEqqHnvhZTFtw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "f/NpZgg0T8KQPuQiEsh4jg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU,550929081,335972092)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADUbMIwBQAaBlYEAVrxOTz6IsVBMsVUMgjc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "Analyze the global suicide data from Kaggle, extracting useful insights from the data and\npresenting in a dashboard with Tableau",
+                "title": "Global Suicide Analysis (Data Visualization with Tableau)",
+                "url": "https://public.tableau.com/profile/freda.lam#!/vizhome/Finalversiondashboard_SuicideRate/WorldSuicideAnalysis?publish=yes"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Materials Science"
+            },
+            {
+                "name": "Data Analytics"
+            },
+            {
+                "name": "Nanotechnology"
+            },
+            {
+                "name": "Analytical Skills"
+            }
+        ],
+        "urn_id": "ACoAAANcxaIBdPTYOru2AAKwB8zdVtdNXGlcQfU"
+    }
+}

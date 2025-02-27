@@ -1,0 +1,1167 @@
+{
+    "urn_id": "ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+    "fetch_timestamp": "2025-02-26T21:49:36.925792",
+    "profile_data": {
+        "summary": "Data Scientist with strong skills in statistics, data manipulation, and natural language processing. Supported by four years of practical experience utilizing data to solve complex criminal fraud cases at the State and Federal level.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Lucin",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Cristina",
+        "entityUrn": "urn:li:fs_profile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105517665"
+        },
+        "geoLocationName": "Tampa, Florida",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist | Investigator | Veteran ",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHE8_X2lzZ0YA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1665181075941?e=1746057600&v=beta&t=zTn2vf1IU4xLTmyt4XWESGh7bhu2iDAe3bGoltbWWfQ",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1665181075941?e=1746057600&v=beta&t=KmCdvzFUXYl-P9GHQCAKEdfXofgP0bmbFNAf_Yqq-dg",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1665181075941?e=1746057600&v=beta&t=DK12jqeUSCoRuE6OE9Vg8ugqLhOVGyFr-pqJ0A_NEak",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1665181075941?e=1746057600&v=beta&t=CFO_8Klq5-Rsx4b01evqkuqggwY62s4WS5oLd9aKVPk",
+        "profile_id": "ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+        "member_urn": "urn:li:member:421455996",
+        "public_id": "cristina-lucin",
+        "experience": [
+            {
+                "locationName": "Tampa, Florida, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,2339973173)",
+                "geoLocationName": "Tampa, Florida, United States",
+                "geoUrn": "urn:li:fs_geo:105517665",
+                "companyName": "Clarity",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5360847",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE2Meu5b_NIEw/company-logo_"
+            },
+            {
+                "locationName": "Tampa, Florida, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,2122298508)",
+                "geoLocationName": "Tampa, Florida, United States",
+                "geoUrn": "urn:li:fs_geo:105517665",
+                "companyName": "General Dynamics Information Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1905",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQH2IdlDSaf4fA/company-logo_"
+            },
+            {
+                "locationName": "Boston, Massachusetts, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,667792709)",
+                "geoLocationName": "Boston, Massachusetts, United States",
+                "geoUrn": "urn:li:fs_geo:102380872",
+                "companyName": "Massachusetts State Police",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2011
+                    }
+                },
+                "description": "Trooper, First Class with assignments in Field Services, Office of the Superintendent, and the Fraud Identification Unit. Four years assignment to the Document and Benefit Fraud Task Force under the direction of Homeland Security Investigations (HSI). Experience with patrol, case investigation, drafting and executing search warrants, and court testimony.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Law Enforcement"
+                    ]
+                },
+                "title": "Law Enforcement",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6322619",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE3qRP88JCzWw/company-logo_"
+            },
+            {
+                "locationName": "Framingham, MA",
+                "entityUrn": "urn:li:fs_position:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,959546202)",
+                "geoLocationName": "Framingham, MA",
+                "companyName": "Massachusetts Department of State Police",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "description": "Served as Chief of Staff for the Deputy Superintendent, with a focus on project management, project visualization, and strategic communications.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Law Enforcement"
+                    ]
+                },
+                "title": "Deputy Chief of Staff, Office of the Superintendent",
+                "companyUrn": "urn:li:fs_miniCompany:6322619",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE3qRP88JCzWw/company-logo_"
+            },
+            {
+                "locationName": "Boston, Massachusetts, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,736304859)",
+                "geoLocationName": "Boston, Massachusetts, United States",
+                "geoUrn": "urn:li:fs_geo:102380872",
+                "companyName": "U.S. Coast Guard",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2005
+                    }
+                },
+                "description": "Communications expert and mission planning specialist  within the Massachusetts maritime environment.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Military"
+                    ]
+                },
+                "title": "Operations Specialist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4425",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEcUJR2YoOg1g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1922039496)",
+                    "urn:li:fs_project:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1274766423)",
+                    "urn:li:fs_project:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1355402010)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,844163541)",
+                "school": {
+                    "objectUrn": "urn:li:school:189149",
+                    "entityUrn": "urn:li:fs_miniSchool:189149",
+                    "active": false,
+                    "schoolName": "Codeup",
+                    "trackingId": "UiYD6yYEQACFa76D7NmLIQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH1PkX-95ShdQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Fully-immersive, project-based 22-week career accelerator that provides 670+ hours of instruction in applied data science. Students develop expertise across the full data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and become comfortable working with data to deliver actionable insights to diverse stakeholders.\n\nPython - SQL - Tableau - Matplotlib - MySQL - pandas - NumPy - Git - Applied Statistics - Machine Learning - Natural Language Processing - Data Storytelling",
+                "degreeName": "Certificate",
+                "schoolName": "Codeup",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:189149"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,838774168)",
+                "school": {
+                    "objectUrn": "urn:li:school:19971",
+                    "entityUrn": "urn:li:fs_miniSchool:19971",
+                    "active": true,
+                    "schoolName": "Merrimack College",
+                    "trackingId": "hHva0Z8ZQGKpbmZvv3IHPQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHd5FlX3b36yA/company-logo_"
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Merrimack College",
+                "fieldOfStudy": "Criminology/Sociology",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:19971"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,471510894)",
+                "school": {
+                    "objectUrn": "urn:li:school:20170",
+                    "entityUrn": "urn:li:fs_miniSchool:20170",
+                    "active": true,
+                    "schoolName": "Bunker Hill CC",
+                    "trackingId": "w9+oDQ9gSj+bFyOgeyaLOQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGw5Kho8SnS-Q/company-logo_"
+                },
+                "grade": "3.9",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "Networking\nNetworking Security\nBasic and Advanced Computer Forensics\nBatch File Processing\nEthical Hacking",
+                "degreeName": "Associate of Science - AS",
+                "schoolName": "Bunker Hill CC",
+                "fieldOfStudy": "Cybersecurity",
+                "degreeUrn": "urn:li:fs_degree:112",
+                "schoolUrn": "urn:li:fs_miniSchool:20170"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "CompTIA",
+                "name": "CompTIA A+",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:16529",
+                    "entityUrn": "urn:li:fs_miniCompany:16529",
+                    "name": "CompTIA",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1728580001287/comptia_logo?e=1748476800&v=beta&t=OBXeBU0v4xZ58Y5T1wTCdf4z9dNy1apSg96XfkwLvNA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1728580001287/comptia_logo?e=1748476800&v=beta&t=zuqRIFrqW0K5XEZSEGJaNNGbmefAnnueL15ZG6oOR40",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1728580001287/comptia_logo?e=1748476800&v=beta&t=hfbdPLdMMO9id78JJNCt4FecWrmXE7M1t6baFN22paA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFgU-Mnk-gZnA/company-logo_"
+                        }
+                    },
+                    "universalName": "comptia",
+                    "dashCompanyUrn": "urn:li:fsd_company:16529",
+                    "trackingId": "kAvg9arKR/6DabDAZr+BRA=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:16529",
+                "url": "https://www.youracclaim.com/badges/2485a747-c7d2-453d-afa4-4f430aed6b78/linked_in_profile"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Sentiment Analysis with Deep Learning using BERT",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "Y2JLGZB8U6PA",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "qjev9clwQICTS2PWrtJjlg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/Y2JLGZB8U6PA"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Fine Tune BERT with Text Classification from TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "GLEFAZ4ZG75W",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "2/0FR+7FSFiLt2/sVBQxgg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/GLEFAZ4ZG75W"
+            },
+            {
+                "authority": "Google",
+                "name": "Google Cloud Leader",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "AvE3jSqzREq9fN90UBuFhQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1441"
+            },
+            {
+                "authority": "University of Colorado Boulder",
+                "name": "Probability Theory: Foundation for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "2VG9WKQTFM78",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/records/2VG9WKQTFM78"
+            },
+            {
+                "authority": "University of Colorado Boulder",
+                "name": "Statistical Inference for Estimation in Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "ZG8B6VCR9P9T",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/records/ZG8B6VCR9P9T"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,844163541)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Cristina",
+                            "lastName": "Lucin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "occupation": "Data Scientist | Investigator | Veteran",
+                            "objectUrn": "urn:li:member:421455996",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1707787182668?e=1746057600&v=beta&t=fybm4hgaPAi1MdI6X3WfVY6HPf6BjbvsoMMg2VgM7j0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707787182668?e=1746057600&v=beta&t=mN565Pqp_zm8kMDnHwGW7aDfONc1f5lME8YS8g2axtY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQF3jcz-Z1vr8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "cristina-lucin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665181075941?e=1746057600&v=beta&t=zTn2vf1IU4xLTmyt4XWESGh7bhu2iDAe3bGoltbWWfQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665181075941?e=1746057600&v=beta&t=KmCdvzFUXYl-P9GHQCAKEdfXofgP0bmbFNAf_Yqq-dg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665181075941?e=1746057600&v=beta&t=DK12jqeUSCoRuE6OE9Vg8ugqLhOVGyFr-pqJ0A_NEak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665181075941?e=1746057600&v=beta&t=CFO_8Klq5-Rsx4b01evqkuqggwY62s4WS5oLd9aKVPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHE8_X2lzZ0YA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OiXGBFPmSB6eA9zc8vu/8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1355402010,395643080)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Yuvia",
+                            "lastName": "Cardenas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB76aGMBzLaA5OXF-bHowh4-W_xGuVZ-Yck",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:519727203",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB76aGMBzLaA5OXF-bHowh4-W_xGuVZ-Yck",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 757,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698110219100?e=1746057600&v=beta&t=lzRAJi1YlNlMtLuriP4UoWTK7JMwovRzm0P2ilD3WJI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 189
+                                        },
+                                        {
+                                            "width": 757,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698110219100?e=1746057600&v=beta&t=Uxuz97kFLMNuHDXrsgzaiC8kNluM9bMhAtedVh3Pjuo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 189
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFNvVt5_Iwd-A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yuvia-cardenas-083080126",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1697936223914?e=1746057600&v=beta&t=gdUCX2wHdIIJz8Vj__kGhneEO5pFOmob8hIt-wUtkoU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1697936223914?e=1746057600&v=beta&t=Xd3T3jwTfK6PSVWpL8BuZD_FWazKo9wXovx2jzCRKos",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1697936223914?e=1746057600&v=beta&t=vTrzJwdo8iIMSuKF7T66ScRJVP8VzNapYrb5gL_KW64",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1697936223914?e=1746057600&v=beta&t=c5XE8qGWBcdQ_kU8Ms8bqZDGjpAH2-ztrVdmrsqMj54",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGqD-nxU84QxQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xiH4twiLTDS7Jt85BLRAig=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1355402010,395637232)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB76aGMBzLaA5OXF-bHowh4-W_xGuVZ-Yck"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Woodrow",
+                            "lastName": "Miller-Sims",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABPPj2ABwBsGkOvcl-vDiCnxOIjUqh6Ny2o",
+                            "occupation": "Software Developer, Data Scientist, Snake Charmer",
+                            "objectUrn": "urn:li:member:332369760",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABPPj2ABwBsGkOvcl-vDiCnxOIjUqh6Ny2o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 704,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1675808129941?e=1746057600&v=beta&t=M7l0jzazsrQ-SW1PpPElGaMYVXY3w0oak3ZfNBeqC0w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 176
+                                        },
+                                        {
+                                            "width": 704,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675808129941?e=1746057600&v=beta&t=em6NsCd9nYxHRNrmQDwfBc6N8huIYI3Zk1mHy-YyaOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 176
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQH2rcvj27d7dw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "woodrow-sims",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1683229405781?e=1746057600&v=beta&t=PnbkBdazKZGO2F7KLWOTUXlK1d1GTx3K4CC1AfPjjhM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1683229405781?e=1746057600&v=beta&t=265RJdY4NrYmdn-IYNYB_YiIBahnmGUIpBaMjR9cUvo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1683229405781?e=1746057600&v=beta&t=yO4kj7VnTey7QKp__f_B4i3AvRB476sDKcg0-1MLaCU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1683229405781?e=1746057600&v=beta&t=j7RwdAxCuGLHfS0Bx3EzNXLHlPk4zxq3Ju5O9JOyo3g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7K7AYEKH-uA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "9nENo8NeTQeD6ySr1QNqOA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1355402010,395639186)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABPPj2ABwBsGkOvcl-vDiCnxOIjUqh6Ny2o"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Justin",
+                            "lastName": "Evans",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA1aAGQBpdTazcAa5B2nHhqYTU2coSfXo64",
+                            "occupation": "Senior Logistics Manager | Data Scientist | Retired Veteran (CW4) - \"Affecting change on my environment\"",
+                            "objectUrn": "urn:li:member:224002148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA1aAGQBpdTazcAa5B2nHhqYTU2coSfXo64",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 692,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1670950239423?e=1746057600&v=beta&t=yCqlVSmi4KxqGdKyV3w10qPa3RSayaX0uisUtoLgReE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 692,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670950239423?e=1746057600&v=beta&t=NZl1hF4z_Qqh-PoyqOHKO4eEjLeXdCo78yaWteOJtGE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQH8SobZWQ4S5Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "qmcbt",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1698237168171?e=1746057600&v=beta&t=HTz1vYS8kyzIWI6xp4BKXwIzwpE7v8Hrb-lh9uNLvmo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1698237168171?e=1746057600&v=beta&t=eU8WWLSZHevx-SlN_9iccmIdyBUc22hQfv1zE8rNpF8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1698237168171?e=1746057600&v=beta&t=qArYp4bZEK70-3A3dNR5KvspDFJT9ZlYewVI_wk4d40",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1698237168171?e=1746057600&v=beta&t=FmI8WYKopymuTIfQM-J2kf-ne5t96H1PgQpa6nZD-Uc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEsAfdCejqRKA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "9aJ7DED+ROOwlpSAnStJeQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1355402010,395640141)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA1aAGQBpdTazcAa5B2nHhqYTU2coSfXo64"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "Codeup Capstone Team Project utilizing Natural Language Processing (NLP) to predict Michelin star ratings of Michelin awardee restaurants using Michelin Guide review text. Michelin Guide review text was obtained utilizing BeautifulSoup, and our best model was run with TF-IDF/Logistic Regression.",
+                "title": "Predicting Michelin Star Ratings utilizing Michelin Guide text and NLP techniques"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,844163541)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Cristina",
+                            "lastName": "Lucin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "occupation": "Data Scientist | Investigator | Veteran",
+                            "objectUrn": "urn:li:member:421455996",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1707787182668?e=1746057600&v=beta&t=fybm4hgaPAi1MdI6X3WfVY6HPf6BjbvsoMMg2VgM7j0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707787182668?e=1746057600&v=beta&t=mN565Pqp_zm8kMDnHwGW7aDfONc1f5lME8YS8g2axtY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQF3jcz-Z1vr8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "cristina-lucin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665181075941?e=1746057600&v=beta&t=zTn2vf1IU4xLTmyt4XWESGh7bhu2iDAe3bGoltbWWfQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665181075941?e=1746057600&v=beta&t=KmCdvzFUXYl-P9GHQCAKEdfXofgP0bmbFNAf_Yqq-dg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665181075941?e=1746057600&v=beta&t=DK12jqeUSCoRuE6OE9Vg8ugqLhOVGyFr-pqJ0A_NEak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665181075941?e=1746057600&v=beta&t=CFO_8Klq5-Rsx4b01evqkuqggwY62s4WS5oLd9aKVPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHE8_X2lzZ0YA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OiXGBFPmSB6eA9zc8vu/8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1274766423,377230634)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2022
+                    }
+                },
+                "description": "This project was created to examine crime data from the City of Boston. Specifically, this project focuses on examining crime data collected by the City of Boston and examining trends in fraud crime occurrences at several periods. The onset of the COVID pandemic and it's impact is seen through the visualization of this data, which leads to further questions about crime data forecasting before and after the pandemic, both within Fraud crimes and crime rates in general",
+                "title": "Boston Crime: Utilizing data for a time-series analysis of Fraud Crimes from 2015-Present",
+                "url": "https://github.com/cristinalucin/boston-crime-data-project/blob/main/Final%20Project%20Notebook.ipynb"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,844163541)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Cristina",
+                            "lastName": "Lucin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "occupation": "Data Scientist | Investigator | Veteran",
+                            "objectUrn": "urn:li:member:421455996",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1707787182668?e=1746057600&v=beta&t=fybm4hgaPAi1MdI6X3WfVY6HPf6BjbvsoMMg2VgM7j0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707787182668?e=1746057600&v=beta&t=mN565Pqp_zm8kMDnHwGW7aDfONc1f5lME8YS8g2axtY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQF3jcz-Z1vr8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "cristina-lucin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665181075941?e=1746057600&v=beta&t=zTn2vf1IU4xLTmyt4XWESGh7bhu2iDAe3bGoltbWWfQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665181075941?e=1746057600&v=beta&t=KmCdvzFUXYl-P9GHQCAKEdfXofgP0bmbFNAf_Yqq-dg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665181075941?e=1746057600&v=beta&t=DK12jqeUSCoRuE6OE9Vg8ugqLhOVGyFr-pqJ0A_NEak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665181075941?e=1746057600&v=beta&t=CFO_8Klq5-Rsx4b01evqkuqggwY62s4WS5oLd9aKVPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHE8_X2lzZ0YA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OiXGBFPmSB6eA9zc8vu/8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1922039496,372549325)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Burton",
+                            "lastName": "Barnes",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADAvzhYBfYiT7r07yQXpO6Zwp99Ke6Tr_Vw",
+                            "occupation": "Data Scientist",
+                            "objectUrn": "urn:li:member:808439318",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADAvzhYBfYiT7r07yQXpO6Zwp99Ke6Tr_Vw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1676489240774?e=1746057600&v=beta&t=oiKHhUqjCqRizzigC9pSGg_eWHKV1ZBAihk2v0bInPI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 150
+                                        },
+                                        {
+                                            "width": 600,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676489240774?e=1746057600&v=beta&t=jnNtA1OiwiQT_0sNBwhXWcMScS98SkbPtn7HD5b3hnM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 150
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFkXwR93cq_8g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "burton-barnes",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642127497812?e=1746057600&v=beta&t=TaaFv-1ZfhP9cUrXDh_aRuVwj8_w05jX4lTT_CPQc7M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642127497812?e=1746057600&v=beta&t=HR3QrMwlz6tg4vIw2_rIePamRPRY6RSPbTADJ_pHyWY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642127497812?e=1746057600&v=beta&t=6jFgUoqUbrleDbGREb3abc-blr43u7LT2JNXAVt9gvY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 530,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642127497812?e=1746057600&v=beta&t=VAUVSvgGMy_e2wvX_WY_H1NB4b8_AWVvTIB7LFJpu4o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 530
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFXFriFC5w1cg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qvPEYNK/R3esoF6mqxzGGg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,1922039496,372547480)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADAvzhYBfYiT7r07yQXpO6Zwp99Ke6Tr_Vw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "description": "K-Means Clustering: Examining Zillow 'Zestimate' Log Error using clustering techniques. This project utilized clustering techniques to explore data and identify significant clusters to use in modeling.",
+                "title": "Unsupervised Machine Learning: Zillow \"Zestimate\" Clustering Project",
+                "url": "https://github.com/burton-barnes-cristina-lucin/zillow-clustering-project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Cristina",
+                            "lastName": "Lucin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "occupation": "Data Scientist | Investigator | Veteran",
+                            "objectUrn": "urn:li:member:421455996",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1707787182668?e=1746057600&v=beta&t=fybm4hgaPAi1MdI6X3WfVY6HPf6BjbvsoMMg2VgM7j0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707787182668?e=1746057600&v=beta&t=mN565Pqp_zm8kMDnHwGW7aDfONc1f5lME8YS8g2axtY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQF3jcz-Z1vr8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "cristina-lucin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665181075941?e=1746057600&v=beta&t=zTn2vf1IU4xLTmyt4XWESGh7bhu2iDAe3bGoltbWWfQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665181075941?e=1746057600&v=beta&t=KmCdvzFUXYl-P9GHQCAKEdfXofgP0bmbFNAf_Yqq-dg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665181075941?e=1746057600&v=beta&t=DK12jqeUSCoRuE6OE9Vg8ugqLhOVGyFr-pqJ0A_NEak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665181075941?e=1746057600&v=beta&t=CFO_8Klq5-Rsx4b01evqkuqggwY62s4WS5oLd9aKVPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHE8_X2lzZ0YA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OiXGBFPmSB6eA9zc8vu/8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,470237612,370917672)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "description": "This project created several supervised machine learning models to predict single-family home value from a Zillow dataset. In this project, I obtained and cleaned Zillow data before exploring the data and constructing visualizations of features that can predict a property's home price. After exploration, I utilized scaling to model several regression algorithms and evaluate their performance on training data. Finally, I selected my best model and evaluated its performance on testing data. Included in this project are several python files (Wrangle, Explore Model) which contain functions used to complete the project.",
+                "title": "Supervised Machine Learning: Utilizing Zillow Data and Regression Modeling to predict Single-Family Home Prices",
+                "url": "https://github.com/cristinalucin/regression-project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Cristina",
+                            "lastName": "Lucin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "occupation": "Data Scientist | Investigator | Veteran",
+                            "objectUrn": "urn:li:member:421455996",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1707787182668?e=1746057600&v=beta&t=fybm4hgaPAi1MdI6X3WfVY6HPf6BjbvsoMMg2VgM7j0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707787182668?e=1746057600&v=beta&t=mN565Pqp_zm8kMDnHwGW7aDfONc1f5lME8YS8g2axtY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQF3jcz-Z1vr8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "cristina-lucin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1665181075941?e=1746057600&v=beta&t=zTn2vf1IU4xLTmyt4XWESGh7bhu2iDAe3bGoltbWWfQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1665181075941?e=1746057600&v=beta&t=KmCdvzFUXYl-P9GHQCAKEdfXofgP0bmbFNAf_Yqq-dg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1665181075941?e=1746057600&v=beta&t=DK12jqeUSCoRuE6OE9Vg8ugqLhOVGyFr-pqJ0A_NEak",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1665181075941?e=1746057600&v=beta&t=CFO_8Klq5-Rsx4b01evqkuqggwY62s4WS5oLd9aKVPk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHE8_X2lzZ0YA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OiXGBFPmSB6eA9zc8vu/8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI,470786258,370916807)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "In this project, I utilized data from a telecommunications company to develop a supervised machine-learning model to predict customer \"churn.\" Predicting Churn, when a customer leaves a company, is an important part of business data analytics. This project involved wrangling the data, preparing for exploration and modeling (including constructing visualizations), and developing several algorithms to predict customer churn. The best model was selected and run on test data--it's performance on that data is reflected in a predicts .CSV file within this repository.",
+                "title": "Supervised Machine Learning- Utilizing Classification to Predict Customer Churn from a Telecommunications Company",
+                "url": "https://github.com/cristinalucin/classification_project"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Google Cloud Platform (GCP)"
+            },
+            {
+                "name": "TensorFlow"
+            },
+            {
+                "name": "Deep Learning"
+            },
+            {
+                "name": "Text Classification"
+            }
+        ],
+        "urn_id": "ACoAABke6HwBfM1v7_KOOQFLcUvZXTiVenBXzjI"
+    }
+}

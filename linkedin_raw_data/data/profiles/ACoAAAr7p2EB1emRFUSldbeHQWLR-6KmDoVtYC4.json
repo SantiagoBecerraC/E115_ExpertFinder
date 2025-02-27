@@ -1,0 +1,553 @@
+{
+    "urn_id": "ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4",
+    "fetch_timestamp": "2025-02-26T21:51:27.881755",
+    "profile_data": {
+        "summary": "Systems engineer with knowledge and ability of computer programming to design, develop and modify stand-alone and web-based applications. 3 years of experience with object-oriented and back-end programming in Java and Spring framework; familiarity working within an agile scrum team; and a continuous learning of cloud computing, technologies and methodologies in order to strength application development and problem-solving skills.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Quimbay",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Carlos",
+        "entityUrn": "urn:li:fs_profile:ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101570870"
+        },
+        "geoLocationName": "Cicero, Illinois",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Application Development at Accenture",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEBiW7RK3ftEA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1560914909537?e=1746057600&v=beta&t=4GTDbvHLH_pe-Og2jDiCYykhY6A3LX1XDsaZ_OCkpys",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1560914909601?e=1746057600&v=beta&t=CSmPLyPjZ0lKNdI77G27OSK5oGelo_LG1cuSppIXwRM",
+        "img_307_307": "800_800/profile-displayphoto-shrink_800_800/0/1560914909571?e=1746057600&v=beta&t=sNM3pOWPee3lyMYOL6M2ErPLavf_H8HrLLCws2Try0E",
+        "profile_id": "ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4",
+        "member_urn": "urn:li:member:184264545",
+        "public_id": "carlosequimbay",
+        "experience": [
+            {
+                "locationName": "Chicago, IL, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,1515103269)",
+                "geoLocationName": "Chicago, IL, United States",
+                "companyName": "Accenture",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "Java/J2EE/Spring developer applying OOP code/design skills in Eclipse IDE.\nCode version control and debugging issues in existing code to fix defects.\nTranslation of business requirements or customizations into low-level technical designs and code.\nPerform Unit, Assembly, and Integration testing development.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Application Development Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_"
+            },
+            {
+                "locationName": "Northbrook, IL",
+                "entityUrn": "urn:li:fs_position:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,283253097)",
+                "geoLocationName": "Northbrook, IL",
+                "companyName": "Walgreens",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2012
+                    }
+                },
+                "description": "Identified and resolved computer equipment failures by replacing defective and malfunctioning internal electronic components. \nProcured parts, maintained inventory and related documentation of completed repairs. \nPerformed preventative maintenance of point-of-sale electronic equipment. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Retail"
+                    ]
+                },
+                "title": "Technical Support",
+                "companyUrn": "urn:li:fs_miniCompany:3589",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH8n2Lex6z-hw/company-logo_"
+            },
+            {
+                "locationName": "Elgin, IL",
+                "entityUrn": "urn:li:fs_position:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,283255437)",
+                "geoLocationName": "Elgin, IL",
+                "companyName": "Randstad Technologies US",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2010
+                    }
+                },
+                "description": "Panasonic\nServiced and repaired malfunctioning electronic components of LCD and Plasma television appliances. \nCollaborated with senior technicians on diagnosing and defining defective electronic components. \nUpgraded, assembled and tested serviced parts prior shipment to repair centers. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Repair Technician",
+                "companyUrn": "urn:li:fs_miniCompany:157324",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGPQwVLNSXa8A/company-logo_"
+            },
+            {
+                "locationName": "Hanau, Hessen, Germany",
+                "entityUrn": "urn:li:fs_position:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,1211105671)",
+                "geoLocationName": "Hanau, Hessen, Germany",
+                "companyName": "US Army",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2005
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2001
+                    }
+                },
+                "description": "Performed Chem-Bio-Nuclear decontamination operations for personnel and equipment.\nTrained military and civilian personnel on Chem-Bio-Nuclear response operations with detection and decontamination equipment.\nParticipated in Operation Iraq Freedom Apr 2003 – Jul 2004.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Military"
+                    ]
+                },
+                "title": "Chemical Operations Specialist",
+                "companyUrn": "urn:li:fs_miniCompany:1223",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,946994184)",
+                "school": {
+                    "objectUrn": "urn:li:school:19518",
+                    "entityUrn": "urn:li:fs_miniSchool:19518",
+                    "active": true,
+                    "schoolName": "The University of Texas at Austin",
+                    "trackingId": "JJEodLN3Qx6m3+JSw4I3Bg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_"
+                },
+                "grade": "Post Graduate",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "description": "Post Graduate Program in Artificial Intelligence and Machine Learning from Texas McCombs\nhttps://vrfy.digital/slKDw",
+                "degreeName": "Post Graduate Program in Artificial Intelligence and Machine Learning",
+                "schoolName": "The University of Texas at Austin",
+                "fieldOfStudy": "Artificial Intelligence and Machine Learning",
+                "schoolUrn": "urn:li:fs_miniSchool:19518"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,210205382)",
+                "school": {
+                    "objectUrn": "urn:li:school:11555",
+                    "entityUrn": "urn:li:fs_miniSchool:11555",
+                    "active": true,
+                    "schoolName": "Pontificia Universidad Javeriana",
+                    "trackingId": "jHbFYAOQSUui6XHOdGHtMw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHruh_quC7qNw/company-logo_"
+                },
+                "activities": "ACIS, IEEE Computer Society",
+                "grade": "3.71",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100367",
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "Pontificia Universidad Javeriana",
+                "fieldOfStudy": "Computer and Systems Engineering",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:11555"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4,110819012)",
+                "school": {
+                    "objectUrn": "urn:li:school:21203",
+                    "entityUrn": "urn:li:fs_miniSchool:21203",
+                    "active": true,
+                    "schoolName": "DeVry University",
+                    "trackingId": "Btt3KFl0Rum9bEdITZE3Lg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGRQkegWyBEsg/company-logo_"
+                },
+                "activities": "Presidente of Tau Alpha Pi Chapter, May 2008 thru October 2008",
+                "grade": "3.7",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2005
+                    }
+                },
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "DeVry University-Illinois",
+                "fieldOfStudy": "Electronics Engineering Techonlogy",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:21203"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            },
+            {
+                "name": "Spanish"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Scrum Alliance",
+                "name": "Scrum Master Certified (SMC)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "1105636",
+                "company": {
+                    "objectUrn": "urn:li:company:871226",
+                    "entityUrn": "urn:li:fs_miniCompany:871226",
+                    "name": "Scrum Alliance",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719257814838/scrum_alliance_logo?e=1748476800&v=beta&t=cPyUxs7Yjr_VicU06hNiOdK2rgJdDqY1vH8s-CROWN8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719256430021/scrum_alliance_logo?e=1748476800&v=beta&t=nl3FpeFOwNlswLszGeGaACbvncjrZU7WHc1UDrrIeUI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1748476800&v=beta&t=r31bBbBVZtLImfiBYprSkZk-_ESnS2OQ0aOA2R1puGo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_"
+                        }
+                    },
+                    "universalName": "scrum-alliance",
+                    "dashCompanyUrn": "urn:li:fsd_company:871226",
+                    "trackingId": "VTpdBIZ6R4e+u7CIuluqNw=="
+                },
+                "displaySource": "bcert.me",
+                "companyUrn": "urn:li:fs_miniCompany:871226",
+                "url": "http://bcert.me/sgizbnkwj"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Spring & Hibernate for Beginners (includes Spring Boot)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-CV81FALB",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "gPqAKs5XRLqeicMJv+nmoA=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-CV81FALB/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "The Complete Web Developer Course 2.0",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-O392KAYY",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "fUqE5cIBTCO/9M+lhmVLBw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-O392KAYY/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "The Complete SQL Bootcamp 2022: Go from Zero to Hero",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-35f4b9b9-badc-47d3-94c8-934f1f8eedec",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "BqTFiR+GREOvriTlCF114g=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-35f4b9b9-badc-47d3-94c8-934f1f8eedec/"
+            },
+            {
+                "authority": "Amazon Web Services (AWS)",
+                "name": "AWS Certified Developer – Associate",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "6h+IqwZsRRaidle4HGJViQ=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://www.credly.com/badges/7bc42245-1d94-4268-81c0-e14530cc5a2d/linked_in_profile"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Education Volunteer",
+                "companyName": "Code Nation",
+                "description": "Support students to gain the skills, experience, connections, and confidence needed to access careers in technology.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:5296132",
+                        "entityUrn": "urn:li:fs_miniCompany:5296132",
+                        "name": "Code Nation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1689093361544/its_code_nation_logo?e=1748476800&v=beta&t=H5PQaUGN78V0bP8fDILHCqPtX3esIGoYc5CuztAKoJ4",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1689093361544/its_code_nation_logo?e=1748476800&v=beta&t=UfZoJaoAnF338JJ8TXkP2BJKTww82XiBo2RU21br0LE",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1689093361544/its_code_nation_logo?e=1748476800&v=beta&t=2AfR0GbVhyrt77gqb75S2PGigAU6XhvWUu9os8enqLE",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQH5gfkiuTd98A/company-logo_"
+                            }
+                        },
+                        "universalName": "its-code-nation",
+                        "dashCompanyUrn": "urn:li:fsd_company:5296132",
+                        "trackingId": "MF53VQN0SCupx7T0cLbV8Q=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:5296132"
+            }
+        ],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Applied Machine Learning"
+            },
+            {
+                "name": "Natural Language Processing (NLP)"
+            },
+            {
+                "name": "Unsupervised Learning"
+            }
+        ],
+        "urn_id": "ACoAAAr7p2EB1emRFUSldbeHQWLR-6KmDoVtYC4"
+    }
+}

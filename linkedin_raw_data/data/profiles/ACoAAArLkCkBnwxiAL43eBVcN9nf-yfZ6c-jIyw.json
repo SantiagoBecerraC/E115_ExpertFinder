@@ -1,0 +1,628 @@
+{
+    "urn_id": "ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+    "fetch_timestamp": "2025-02-26T21:32:45.170204",
+    "profile_data": {
+        "summary": "As a kid, I spent hours lying on the ground outside studying ants. I had many questions: How do they follow the other ants? Why do they walk in straight lines? How do they find food? My determined curiosity and laser focus led to hours of examination. I perceived patterns, intuited theories, and performed experiments to verify my ideas. And I have been wondering about the world ever since.\n\nCurrently, I am a data scientist providing analytic support for Minecraft at Microsoft.  Prior to being a data scientist, I researched Earth’s climate by analyzing simulations on the most powerful supercomputer in the world at the time - Titan at ORNL. I have 10 years of experience in computational science and scientific data analysis through research during my graduate school and postdoctoral work. My tenacious curiosity and technical skills make me an excellent data detective.\n\nBesides my quantitative skills, I also love the challenge of communicating complicated ideas. I like to synthesize the story behind the data. I've presented 12 conference posters, given 8 technical lectures, and published 5 peer-reviewed articles.\n\nI still wonder about the world.\n\nSpecialties: \nData analysis, numerical methods, statistics, programming, Python, NCL, Unix/Linux, Git, computational science, spatial data, climate modeling, gardening, gaming\n\nEmail: abigail.gaddis@gmail.com \nGoogle scholar: http://scholar.google.com/citations?user=YuPHaLYAAAAJ\nCode Repository:  https://bitbucket.org/agaddis2/",
+        "industryName": "Computer Software",
+        "lastName": "Gaddis",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Abigail",
+        "entityUrn": "urn:li:fs_profile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000091"
+        },
+        "geoLocationName": "Greater Seattle Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Sr Data Science Manager at Microsoft - Minecraft",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5103AQHmn57PYwFluw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1516458163254?e=1746057600&v=beta&t=ynDrWtBK-C2d_fSsd07w3e7ARWZHfSQ12BfYSu3Lw0Y",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1516458162922?e=1746057600&v=beta&t=EmOecLMgaJkqaRZxv5UySjbZJ76p6S_2EgVNpHK1Vqs",
+        "img_285_285": "800_800/profile-displayphoto-shrink_800_800/0/1516458162959?e=1746057600&v=beta&t=4hGlF2VOscvkU2AyId3XwPa_Xep84nWVe_xLGtnQS1A",
+        "profile_id": "ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+        "member_urn": "urn:li:member:181112873",
+        "public_id": "abigailgaddis",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1582682898)",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior Data & Applied Scientist Manager",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "locationName": "Redmond, Washington",
+                "entityUrn": "urn:li:fs_position:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1342030886)",
+                "geoLocationName": "Redmond, Washington",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data & Applied Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "locationName": "Greater Seattle Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,853356534)",
+                "geoLocationName": "Greater Seattle Area",
+                "companyName": "NSI, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2016
+                    }
+                },
+                "description": "Drove data insights with core Minecraft gameplay team\n•\tSynthesized game design team ideas into overarching analysis plans\n•\tLed end-to-end telemetry process from stakeholder questions to bug fixes to reporting\n•\tDelivered same-day release reports using streaming data\n\nSegmented Minecraft players based on their gameplay telemetry\n•\tReduced data dimensionality and clustered players using machine learning techniques in R\n•\tImplemented automated Hive scripts to query gameplay data\n•\tEvangelized results to game design, software development, and business teams\n\n Updated data pipeline and visualizations for Minecraft: Education Edition\n•\tDocumented existing data sources and communicated pipeline needs to business team\n•\tRefactored and optimized existing Scope queries to access disparate Cosmos data \n•\tCreated PowerBI dashboards to answer business questions about retention and trials\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Senior Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:475259",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEeaJ7JHFA8Gw/company-logo_"
+            },
+            {
+                "locationName": "Oak Ridge, TN",
+                "entityUrn": "urn:li:fs_position:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,438417204)",
+                "geoLocationName": "Oak Ridge, TN",
+                "companyName": "Oak Ridge National Laboratory",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "description": "•\tDeveloped and implemented statistical atmospheric jet diagnostics in Python and NCL in a Unix environment \n•\tConfigured, managed, and reported global climate model simulation progress on Titan supercomputer\n•\tCollaborated to optimize climate model performance on Titan through parallelizing ensembles of simulations\n•\tGenerated Bash scripts to organize output of large ensembles of simulations producing terabytes of NetCDF data\n•\tDiscovered errors in model code through pursuit of statistical anomalies in data\n•\tSubmitted code to GitHub repository for ACME multisite project \n•\tOrganized institute-wide journal article discussion group\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Postdoctoral Research Associate",
+                "companyUrn": "urn:li:fs_miniCompany:7999",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE2OA9rCvWvzw/company-logo_"
+            },
+            {
+                "locationName": "Knoxville, Tennessee Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,278088800)",
+                "geoLocationName": "Knoxville, Tennessee Area",
+                "geoUrn": "urn:li:fs_geo:90000384",
+                "companyName": "University of Tennessee",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2009
+                    }
+                },
+                "description": "•\tPerformed high-resolution climate simulations on Jaguar supercomputer \n•\tValidated computational results using observational data in NetCDF and GRIB formats\n•\tQuantified effect of model resolution on volcanic forcing response using empirical orthogonal functions and Welch’s t-test\n•\tProgrammed analysis and visualization scripts using NCL, NCO, and Bash scripting\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,384)",
+                "companyUrn": "urn:li:fs_miniCompany:166679",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHc-544PxhFpw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641873)",
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641874)",
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641875)",
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641876)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,108509851)",
+                "school": {
+                    "objectUrn": "urn:li:school:19442",
+                    "entityUrn": "urn:li:fs_miniSchool:19442",
+                    "active": true,
+                    "schoolName": "University of Tennessee, Knoxville",
+                    "trackingId": "LbxhlewBT8qKG0S35jH83Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQESeda5mxwlRA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "description": "Ph.D. in Civil Engineering\nConcentration in Environmental Engineering\nInterdisciplinary Graduate Minor in Computational Science",
+                "degreeName": "Doctor of Philosophy (Ph.D.)",
+                "schoolName": "University of Tennessee-Knoxville",
+                "fieldOfStudy": "Civil and Environmental Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:19442"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641880)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,108497199)",
+                "school": {
+                    "objectUrn": "urn:li:school:19442",
+                    "entityUrn": "urn:li:fs_miniSchool:19442",
+                    "active": true,
+                    "schoolName": "University of Tennessee, Knoxville",
+                    "trackingId": "36F1RfcYRB6wo2bslYb9vg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQESeda5mxwlRA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2007
+                    }
+                },
+                "description": "Concentration in Condensed Matter and Surface Physics",
+                "degreeName": "Master of Science (M.S.)",
+                "schoolName": "University of Tennessee-Knoxville",
+                "fieldOfStudy": "Physics",
+                "schoolUrn": "urn:li:fs_miniSchool:19442"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641877)",
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641878)",
+                    "urn:li:fs_course:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,1274641879)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw,108509026)",
+                "school": {
+                    "objectUrn": "urn:li:school:19370",
+                    "entityUrn": "urn:li:fs_miniSchool:19370",
+                    "active": true,
+                    "schoolName": "Furman University",
+                    "trackingId": "1mF1rCQdQYiylnzAlWlQaQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEcSDUxOnLVoA/company-logo_"
+                },
+                "activities": "Society of Physics Students (President of Furman Chapter, 2006)\nSigma Pi Sigma (Physics Honors Society)\nEquestrian Team club member",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2007
+                    },
+                    "startDate": {
+                        "year": 2003
+                    }
+                },
+                "description": "Cum Laude (with honors)",
+                "degreeName": "Bachelor’s Degree",
+                "schoolName": "Furman University",
+                "fieldOfStudy": "Physics",
+                "schoolUrn": "urn:li:fs_miniSchool:19370"
+            }
+        ],
+        "languages": [
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "year": 2015
+                },
+                "name": "Climate Science Performance, Data and Productivity on Titan",
+                "publisher": "Cray User Group Conference",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Benjamin",
+                            "lastName": "Mayer",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAHZz4MBiA-X8UUVFeYfv6CGPLM5u_xhsag",
+                            "occupation": "Senior Research & Development, Cybersecurity at Sandia National Laboratories",
+                            "objectUrn": "urn:li:member:31051651",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAHZz4MBiA-X8UUVFeYfv6CGPLM5u_xhsag",
+                            "publicIdentifier": "benjaminmayer1",
+                            "trackingId": "jnW3xGepSDqLTTg4nKc1Dw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAHZz4MBiA-X8UUVFeYfv6CGPLM5u_xhsag"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Patrick",
+                            "lastName": "Worley",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADnwhwBZQtc_rTdeDwyJbf84vICGvUpHbw",
+                            "occupation": "Formerly High Performance Computing Researcher and Computer Performance Engineer",
+                            "objectUrn": "urn:li:member:15188508",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADnwhwBZQtc_rTdeDwyJbf84vICGvUpHbw",
+                            "publicIdentifier": "patrick-worley-7901055",
+                            "trackingId": "BGoUkFdFQrGDfucrjUMK3A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADnwhwBZQtc_rTdeDwyJbf84vICGvUpHbw"
+                    },
+                    {
+                        "name": "Rafael Ferreira da Silva"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Abigail",
+                            "lastName": "Gaddis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "occupation": "Sr Data Science Manager at Microsoft - Minecraft",
+                            "objectUrn": "urn:li:member:181112873",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "publicIdentifier": "abigailgaddis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516458163254?e=1746057600&v=beta&t=ynDrWtBK-C2d_fSsd07w3e7ARWZHfSQ12BfYSu3Lw0Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516458162922?e=1746057600&v=beta&t=EmOecLMgaJkqaRZxv5UySjbZJ76p6S_2EgVNpHK1Vqs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516458163046?e=1746057600&v=beta&t=4YLlXn9ayV2ShVt46h8OM2Sq9qN84NbC0BIq7Rv48TE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516458162959?e=1746057600&v=beta&t=4hGlF2VOscvkU2AyId3XwPa_Xep84nWVe_xLGtnQS1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQHmn57PYwFluw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lCehic+JTE2plePBf6JDXQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2010
+                },
+                "name": "Free-Standing Optical Gold Bowtie Nanoantenna with Variable Gap Size for Enhanced Raman Spectroscopy",
+                "publisher": "Nano Letters",
+                "description": "DOI: 10.1021/nl102963g",
+                "authors": [
+                    {
+                        "name": "Nahla A. Hatab"
+                    },
+                    {
+                        "name": "Chun-Hway Hsueh"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Abigail",
+                            "lastName": "Gaddis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "occupation": "Sr Data Science Manager at Microsoft - Minecraft",
+                            "objectUrn": "urn:li:member:181112873",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "publicIdentifier": "abigailgaddis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516458163254?e=1746057600&v=beta&t=ynDrWtBK-C2d_fSsd07w3e7ARWZHfSQ12BfYSu3Lw0Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516458162922?e=1746057600&v=beta&t=EmOecLMgaJkqaRZxv5UySjbZJ76p6S_2EgVNpHK1Vqs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516458163046?e=1746057600&v=beta&t=4YLlXn9ayV2ShVt46h8OM2Sq9qN84NbC0BIq7Rv48TE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516458162959?e=1746057600&v=beta&t=4hGlF2VOscvkU2AyId3XwPa_Xep84nWVe_xLGtnQS1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQHmn57PYwFluw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lCehic+JTE2plePBf6JDXQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw"
+                    },
+                    {
+                        "name": "Scott T. Retterer"
+                    },
+                    {
+                        "name": "Jia-Han Li"
+                    },
+                    {
+                        "name": "Gyula Eres"
+                    },
+                    {
+                        "name": "Zhenyu Zhang"
+                    },
+                    {
+                        "name": "Baohua Gu"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2010
+                },
+                "name": "The Importance of Advancing Technology to America's Energy Goals",
+                "publisher": "Energy Policy",
+                "authors": [
+                    {
+                        "name": "DL Greene"
+                    },
+                    {
+                        "name": "PR Boudreaux"
+                    },
+                    {
+                        "name": "DJ Dean"
+                    },
+                    {
+                        "name": "W Fulkerson"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Abigail",
+                            "lastName": "Gaddis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "occupation": "Sr Data Science Manager at Microsoft - Minecraft",
+                            "objectUrn": "urn:li:member:181112873",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "publicIdentifier": "abigailgaddis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516458163254?e=1746057600&v=beta&t=ynDrWtBK-C2d_fSsd07w3e7ARWZHfSQ12BfYSu3Lw0Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516458162922?e=1746057600&v=beta&t=EmOecLMgaJkqaRZxv5UySjbZJ76p6S_2EgVNpHK1Vqs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516458163046?e=1746057600&v=beta&t=4YLlXn9ayV2ShVt46h8OM2Sq9qN84NbC0BIq7Rv48TE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516458162959?e=1746057600&v=beta&t=4hGlF2VOscvkU2AyId3XwPa_Xep84nWVe_xLGtnQS1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQHmn57PYwFluw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lCehic+JTE2plePBf6JDXQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw"
+                    },
+                    {
+                        "name": "RL Graham"
+                    },
+                    {
+                        "name": "RL Graves"
+                    },
+                    {
+                        "name": "JL Hopson"
+                    },
+                    {
+                        "name": "P Hughes"
+                    },
+                    {
+                        "name": "MV Lapsa"
+                    },
+                    {
+                        "name": "TE Mason"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2007,
+                    "day": 1
+                },
+                "name": "Single Neutron Transfer Experiments Close to the r-process Path",
+                "publisher": "Acta Physica Polonica B",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Kate",
+                            "lastName": "Grzywacz-Jones",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWpFwsBYwzsuaxGWjTn8wPc9kgLQ6-6GIU",
+                            "occupation": "Divisional Dean for Natural Sciences and Mathematics",
+                            "objectUrn": "urn:li:member:363403019",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWpFwsBYwzsuaxGWjTn8wPc9kgLQ6-6GIU",
+                            "publicIdentifier": "kate-grzywacz-jones-80b852a1",
+                            "trackingId": "8cZ68uK/SLe8agxVyuW3Aw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWpFwsBYwzsuaxGWjTn8wPc9kgLQ6-6GIU"
+                    },
+                    {
+                        "name": "AS Adekola"
+                    },
+                    {
+                        "name": "Dan Bardayan"
+                    },
+                    {
+                        "name": "JC Blackmon"
+                    },
+                    {
+                        "name": "KY Chae"
+                    },
+                    {
+                        "name": "Kelly Chipps"
+                    },
+                    {
+                        "name": "JA Cizewski"
+                    },
+                    {
+                        "name": "DJ Dean"
+                    },
+                    {
+                        "name": "L Erikson"
+                    },
+                    {
+                        "name": "RP Fitzgerald"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Abigail",
+                            "lastName": "Gaddis",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "occupation": "Sr Data Science Manager at Microsoft - Minecraft",
+                            "objectUrn": "urn:li:member:181112873",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw",
+                            "publicIdentifier": "abigailgaddis",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516458163254?e=1746057600&v=beta&t=ynDrWtBK-C2d_fSsd07w3e7ARWZHfSQ12BfYSu3Lw0Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516458162922?e=1746057600&v=beta&t=EmOecLMgaJkqaRZxv5UySjbZJ76p6S_2EgVNpHK1Vqs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516458163046?e=1746057600&v=beta&t=4YLlXn9ayV2ShVt46h8OM2Sq9qN84NbC0BIq7Rv48TE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        },
+                                        {
+                                            "width": 285,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516458162959?e=1746057600&v=beta&t=4hGlF2VOscvkU2AyId3XwPa_Xep84nWVe_xLGtnQS1A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 285
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQHmn57PYwFluw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lCehic+JTE2plePBf6JDXQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Statistics"
+            },
+            {
+                "name": "Hive"
+            },
+            {
+                "name": "Machine Learning"
+            }
+        ],
+        "urn_id": "ACoAAArLkCkBnwxiAL43eBVcN9nf-yfZ6c-jIyw"
+    }
+}

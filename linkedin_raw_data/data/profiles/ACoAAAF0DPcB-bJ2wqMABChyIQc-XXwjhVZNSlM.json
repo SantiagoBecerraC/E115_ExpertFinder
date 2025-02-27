@@ -1,0 +1,272 @@
+{
+    "urn_id": "ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM",
+    "fetch_timestamp": "2025-02-26T21:21:35.328109",
+    "profile_data": {
+        "industryName": "Computer Software",
+        "lastName": "Zhang",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Raymond(Haimin)",
+        "entityUrn": "urn:li:fs_profile:ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Staff Machine Learning Engineer at Facebook",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQGF58JIJEuBWQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1516351520616?e=1746057600&v=beta&t=oITANEUcW7TKvIR_wNbXFhYHrY5yL4xTT-GDG4ctDaE",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1516351521103?e=1746057600&v=beta&t=ftOmjmAgYM3BGPa-IOgiO4sz4m4gFsSwwodWPuQwjzw",
+        "img_209_209": "800_800/profile-displayphoto-shrink_800_800/0/1516351520891?e=1746057600&v=beta&t=5jqYOL2sDVec7V09qCjqgFTIT2s8vItHt9NcMnwBs-M",
+        "profile_id": "ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM",
+        "member_urn": "urn:li:member:24382711",
+        "public_id": "raymond-haimin-zhang-4471ba8",
+        "experience": [
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,1649154172)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Facebook",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "Instagram Recommendation Reels Ranking",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Staff Machine Learning Engineer",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:76987811",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,885821911)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Bloomberg LP",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "description": "Research and develop NLP applications related to conversation, NER/NED, text summarization, keyphrase extraction, social media mining etc.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Research Scientist",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:2494",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,621284681)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Goldman Sachs",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Vice President",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:1382",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_"
+            },
+            {
+                "locationName": "Greater New York City Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,157067952)",
+                "geoLocationName": "Greater New York City Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Goldman Sachs",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2010
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Senior Technology Analyst",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:1382",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_"
+            },
+            {
+                "locationName": "Greater Boston Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,96839721)",
+                "geoLocationName": "Greater Boston Area",
+                "geoUrn": "urn:li:fs_geo:90000007",
+                "companyName": "Zoom Information",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2009
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,7)",
+                "companyUrn": "urn:li:fs_miniCompany:16272",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGzMUtsP63GKw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,83941271)",
+                "school": {
+                    "objectUrn": "urn:li:school:19233",
+                    "entityUrn": "urn:li:fs_miniSchool:19233",
+                    "active": true,
+                    "schoolName": "Carnegie Mellon University - Tepper School of Business",
+                    "trackingId": "ee4X5lEyTneLoy2BKRMgCQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFkkNkl-Je41Q/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "Master",
+                "schoolName": "Carnegie Mellon University - Tepper School of Business",
+                "fieldOfStudy": "Computational Finance",
+                "schoolUrn": "urn:li:fs_miniSchool:19233"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,20962663)",
+                "school": {
+                    "objectUrn": "urn:li:school:18031",
+                    "entityUrn": "urn:li:fs_miniSchool:18031",
+                    "active": true,
+                    "schoolName": "University of Connecticut",
+                    "trackingId": "LmkNfuT/ShiwvA130iwbLw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2007
+                    },
+                    "startDate": {
+                        "year": 2004
+                    }
+                },
+                "degreeName": "Master",
+                "schoolName": "University of Connecticut",
+                "fieldOfStudy": "Statistics",
+                "schoolUrn": "urn:li:fs_miniSchool:18031"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM,20962376)",
+                "school": {
+                    "objectUrn": "urn:li:school:18031",
+                    "entityUrn": "urn:li:fs_miniSchool:18031",
+                    "active": true,
+                    "schoolName": "University of Connecticut",
+                    "trackingId": "V6t5pye1Td+e6VnuO97LjA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2004
+                    },
+                    "startDate": {
+                        "year": 2002
+                    }
+                },
+                "degreeName": "Master",
+                "schoolName": "University of Connecticut",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18031"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Perl"
+            },
+            {
+                "name": "C++"
+            },
+            {
+                "name": "Agile Methodologies"
+            },
+            {
+                "name": "Java"
+            }
+        ],
+        "urn_id": "ACoAAAF0DPcB-bJ2wqMABChyIQc-XXwjhVZNSlM"
+    }
+}

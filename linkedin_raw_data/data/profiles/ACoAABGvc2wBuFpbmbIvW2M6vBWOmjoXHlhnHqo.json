@@ -1,0 +1,2235 @@
+{
+    "urn_id": "ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+    "fetch_timestamp": "2025-02-26T21:37:45.238935",
+    "profile_data": {
+        "summary": "► My expertise lies in the design, prototyping, and testing of Power Electronics circuits; among my specialities are:\n•\tHigh Power/Frequency Converters – AC/DC, DC/AC, DC/DC, Resonant, and Multilevel Power Supply Design\n•\tMagnetics Design – Modelling/Predicting/Measuring of Magnetic Components' Core and Winding Losses\n•\tWireless Power Transfer (WPT) and Inductive Power Transfer (IPT) for Electric Vehicles (EVs)\n•\tElectrical Characterization and Modelling of Power Semiconductor Devices\n•\tFinite Element Analysis (FEA) and Thermal Analysis – ANSYS Maxwell/Q3D/Icepak/Simplorer\n•\tEngineering Software: MATLAB Coding/Simulink, PLECS, LTSpice, SaberRD, Altium Designer, KiCad, Proteus, AutoCAD",
+        "industryName": "Electrical & Electronic Manufacturing",
+        "lastName": "Rasekh, Ph.D.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 12,
+            "day": 21
+        },
+        "industryUrn": "urn:li:fs_industry:112",
+        "firstName": "Navid",
+        "entityUrn": "urn:li:fs_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104116203"
+        },
+        "geoLocationName": "Seattle, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Power Electronics Engineer at Amazon Web Services (AWS)",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+        "img_500_500": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+        "profile_id": "ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+        "member_urn": "urn:li:member:296711020",
+        "public_id": "navid-rasekh",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,2568609362)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Amazon Web Services (AWS)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Power Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+            },
+            {
+                "locationName": "Cardiff, Wales, United Kingdom",
+                "entityUrn": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,2125425148)",
+                "geoLocationName": "Cardiff, Wales, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:103349733",
+                "companyName": "Compound Semiconductor Applications (CSA) Catapult",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "•\tDesigning of power electronics converters (AC-DC, DC-AC, DC-DC, and PWM/resonant/multilevel converters).\n•\tWorking on Creepage and Clearance (C&C) requirements of Silicon Carbide (SiC) power module for developing the BMW electric vehicle (EV) power converter.\n•\tInvestigating the performance of different power devices, such as SiC MOSFET and SiC JFET, in the boost converter, which includes designing the control system and high-power test rig for 750V DC output voltage and 3.3 kW power for over 98% efficiency.\n•\tMagnetics designing, including measuring and characterizing the high-frequency transformers and inductors' core loss and winding loss using IWATSU B-H Analyzer SY-8218 and impedance analyzer.\n•\tDesigning and simulating five/two-level neutral point clamped (NPC) dual active bridge (DAB) DC-DC converter (1.2 kV, 100 kW, 50 kHz), with optimizing the capacitor voltage balancing and zero voltage switching conditions.\n•\tDesigning, simulating, and optimizing resonant LLC and four-switch buck-boost DC-DC converters.\n•\tConducting a double pulse test (DPT) to characterize the semiconductor devices' switching losses and the parasitic parameters.\n•\tElectrical characterizing of power MOSFETs using Keysight B1505A power device analyzer.\n•\tConducting electromagnetic simulations in ANSYS Q3D to optimize parasitic elements, current distribution, and characterizing the power module.\n•\tPerforming electric circuit simulation in LTSpice and experimental validation to evaluate the integrated Rogowski coil into the half-bridge PCB for the peak current protection with the analogue control design.\n•\tDesigning, simulating, and testing the high/low/band pass filter, integrator circuit, and delta-sigma ADC for the analogue control design of the power converters for peak current protection.\n•\tSimulating and testing the sensitivity of current transformers (CTs) with different core laminations, number/type of turns, and burden resistors for current detection of the power converters.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Power Electronics Engineer",
+                "region": "urn:li:fs_region:(gb,0)",
+                "companyUrn": "urn:li:fs_miniCompany:20043517",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHa1wmrWT6S_A/company-logo_"
+            },
+            {
+                "locationName": "Bristol, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:90009475",
+                "companyName": "University of Bristol",
+                "description": "▪ Department of Electronic and Electrical Engineering\n▪ The Electrical Energy Management Group (EEMG) undertake research into low-carbon electrical systems that are enabled by advanced, compact and highly efficient electrical machines and power electronic conversion. The group is a core member of the UK Centre for Power Electronics. The research investigates new technologies for the next generation of power electronics, using emerging wide-bandgap power semiconductor devices. (http://www.bristol.ac.uk/engineering/research/em/)\n\n► Projects:\n•\tProposing new User-Friendly Loss Maps (Component-based) for standardized magnetic components.\n•\tProposing Artificial Neural Network Aided Loss Maps (NNALM) for inductors and HF transformers.\n•\tAnalyzing the core loss of high-frequency transformers under different load conditions using Ansys Maxwell.\n•\tDesigning a new in-situ measurement method of high-frequency winding loss in cored inductors.\n•\tDesigning a new in-situ measurement method of winding loss in cored high-frequency Transformers.\n•\tDesigning a new method for offline compensation of phase discrepancy in measuring the core/winding loss.\n•\tWorking on an analytical method for fast calculation of inductor operating space for high-frequency core loss estimation in two-level and three-level PWM converters.\n•\tWorking on a Triple pulse test (TPT) for characterizing power loss in magnetic components in analogous to a double pulse test (DPT) for power electronics devices.",
+                "title": "Research Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:8094",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1491673579)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1520078307)",
+                "geoLocationName": "Bristol, United Kingdom",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(gb,4552)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHpcDl5zEb2Og/company-logo_"
+            },
+            {
+                "locationName": "Bristol, England, United Kingdom",
+                "entityUrn": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1971830390)",
+                "geoLocationName": "Bristol, England, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:105982022",
+                "companyName": "University of Bristol",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "► Contributing to the delivery of the teaching programme by providing support in the form of lectures or examples to accompany the main teaching content. Providing pro-active support to students, answering questions, solving problems, and helping them to understand. Examining practicals as required or marking worksheets in class or outside with the help of academics.\n\n▪ Teacher Assistant of Control II - 2019\n▪ Teacher Assistant of Power Electronics, Machines & Drive Technologies – 2020, 2021, and 2022\n▪ Teacher Assistant of Electro-Mechanical System Design – 2021 and 2022\n▪ Teacher Assistant of Electro-Mechanical Energy Conversion – 2022\n▪ Teacher Assistant of Projects (Developing practical laboratory skills in analogue and digital instrumentation systems) – 2022",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Teaching Assistant",
+                "region": "urn:li:fs_region:(gb,0)",
+                "companyUrn": "urn:li:fs_miniCompany:8094",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHpcDl5zEb2Og/company-logo_"
+            },
+            {
+                "locationName": "University of Bristol",
+                "entityUrn": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,2124895278)",
+                "geoLocationName": "University of Bristol",
+                "companyName": "Würth Elektronik Group",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "Comparing the winding loss and core loss results of commercial inductors predicted by RedExpert, an online tool from Würth, with the empirical measurements obtained from the Triple Pulse Test (TPT) and in-situ large-signal winding loss methods in collaboration with the Würth Elektronik, Frenetic, and University of Bristol.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Electrical/Electronic Manufacturing"
+                    ]
+                },
+                "title": "Lead Power Electronics Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:5147181",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQH55BOiI2TUNg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1990759692)"
+                ],
+                "description": "► Thesis Topic: Prediction and Measurement of High-Frequency Power Losses in Magnetic Components under Power Electronics Excitation.\n► Related to this research, 8 journal papers and 3 conference papers have been published.\n► Advisers: Prof. Xibo Yuan and Dr. Jun Wang\n\n•\tWorking on the magnetic components' precise high-frequency core loss and winding loss measurements.",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1282972908)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:12689",
+                "entityUrn": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,615736015)",
+                "school": {
+                    "objectUrn": "urn:li:school:12689",
+                    "entityUrn": "urn:li:fs_miniSchool:12689",
+                    "active": true,
+                    "schoolName": "University of Bristol",
+                    "trackingId": "mqQO1QmvTOiwK1pIs+DG6g==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHpcDl5zEb2Og/company-logo_"
+                },
+                "activities": "Teaching Support Assistant and Research Assistant at the Electrical Energy Management Group (EEMG), Department of Electrical and Electronic Engineering (https://www.bristol.ac.uk/engineering/research/em/)",
+                "grade": "Not Graded",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "schoolName": "University of Bristol",
+                "fieldOfStudy": "Electrical and Electronic Engineering",
+                "degreeUrn": "urn:li:fs_degree:900"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669688527)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669729406)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669795133)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669822990)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669848760)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669870662)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,669897618)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,411021721)"
+                ],
+                "description": "► Thesis Topic: Design and Prototyping of a Wireless Power Transfer for Electric Vehicles\n► Related to this research, 4 journal papers and 5 conference papers have been published, and 2 patents have been taken out on this project.\n► Adviser: Prof. Mojtaba Mirsalim\n\n•\tHead of Wireless Power Transfer (WPT) and Inductive Power Transfer (IPT) EMTRL research group.\n•\tMagnetic design, optimization and prototyping of the Wireless Power Transfer (WPT) for charging electric vehicles with the new integration methods.\n•\tDesigning and prototyping efficient high-frequency full-bridge resonant inverter and full-bridge rectifier.\n•\tFEA Optimization of wireless charging system using Ansys Maxwell-based electromagnetic FEA analysis, Simplorer-based circuit simulation and MATLAB-based lumped system analysis.\n•\tPerforming electro-thermal analysis of the WPTs' magnetic structures utilizing ANSYS/Maxwell/Fluent/Workbench",
+                "degreeName": "Master of Science (MSc)",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1770158093)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:13712",
+                "entityUrn": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,317171499)",
+                "school": {
+                    "objectUrn": "urn:li:school:13712",
+                    "entityUrn": "urn:li:fs_miniSchool:13712",
+                    "active": true,
+                    "schoolName": "Amirkabir University of Technology - Tehran Polytechnic",
+                    "trackingId": "eUWenAXzSl2JlDA70oJEoA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGrlmqIRZgzCQ/company-logo_"
+                },
+                "activities": "Research Assistant in Electrical Machine and Transformer Research Laboratory (EMTRL) (https://emtrl.aut.ac.ir/)",
+                "grade": "87%",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "schoolName": "Amirkabir University of Technology - Tehran Polytechnic",
+                "fieldOfStudy": "Electrical Engineering ",
+                "degreeUrn": "urn:li:fs_degree:626"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674401812)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674440069)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674459851)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674478163)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674511648)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674539108)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674554259)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674589255)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,674625192)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1621466400)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1621489141)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1621509148)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1878905442)",
+                    "urn:li:fs_course:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,161171279)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,191610550)",
+                "school": {
+                    "objectUrn": "urn:li:school:4156013",
+                    "entityUrn": "urn:li:fs_miniSchool:4156013",
+                    "active": true,
+                    "schoolName": "Kermanshah University of Technology",
+                    "trackingId": "/zqXok2gQrSWUlnrJrE8MA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEvaxF0aGcJCA/company-logo_"
+                },
+                "activities": "Teaching Support Assistant and Research Assistant in Industrial Electronics Laboratory.",
+                "grade": "75%",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2011
+                    }
+                },
+                "description": "► Thesis Topic: Designing and Manufacturing of static var compensator (SVC) for Reactive Power and Voltage Control\n► Advisers: Dr. Mehdi Ahmadi and Dr. Reza Hemmati",
+                "degreeName": "Bachelor’s Degree",
+                "schoolName": "Kermanshah University of Technology (KUT)",
+                "fieldOfStudy": "Electrical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:4156013"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Persian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2024,
+                    "day": 30
+                },
+                "name": "MagNet Challenge for Data-Driven Power Magnetics Modeling",
+                "publisher": "IEEE Open Journal of Power Electronics",
+                "url": "https://doi.org/10.1109/OJPEL.2024.3469916",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2024,
+                    "day": 6
+                },
+                "name": "MagLearn – Data-driven Machine Learning Framework with Transfer and Few-shot Training for Modeling Magnetic Core Loss",
+                "publisher": "2024 26th European Conference on Power Electronics and Applications (EPE'24 ECCE Europe)",
+                "url": "https://doi.org/10.1109/ECCEEurope62508.2024.10751860",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2024,
+                    "day": 28
+                },
+                "name": "Towards Standardized Magnetic Components Under Power Electronics Excitation With User-Friendly Loss Maps",
+                "publisher": "IEEE Open Journal of Power Electronics",
+                "url": "https://doi.org/10.1109/OJPEL.2024.3406198",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2023,
+                    "day": 3
+                },
+                "name": "Prediction and Measurement of High-Frequency Power Losses in Magnetic Components Under Power Electronics Excitation",
+                "publisher": "University of Bristol",
+                "url": "https://research-information.bris.ac.uk/en/studentTheses/prediction-and-measurement-of-high-frequency-power-losses-in-magn",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2023,
+                    "day": 14
+                },
+                "name": "Variation of Core Loss in High-Frequency Transformers Under Different Load Conditions",
+                "publisher": "IEEE Open Journal of the Industrial Electronics Society",
+                "url": "https://doi.org/10.1109/OJIES.2023.3304814",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2022,
+                    "day": 23
+                },
+                "name": "Artificial Neural Network Aided Loss Maps for Inductors and Transformers",
+                "publisher": "IEEE Open Journal of Power Electronics",
+                "url": "https://doi.org/10.1109/OJPEL.2022.3223936",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2022,
+                    "day": 17
+                },
+                "name": "The Variation of Core Loss in High-Frequency Transformers Under Different Load Conditions",
+                "publisher": "2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe)",
+                "url": "https://ieeexplore.ieee.org/abstract/document/9907539",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2022,
+                    "day": 25
+                },
+                "name": "In-Situ Measurement and Investigation of Winding Loss in High-Frequency Cored Transformers Under Large-Signal Condition",
+                "publisher": "IEEE Open Journal of Industry Applications",
+                "url": "https://doi.org/10.1109/OJIA.2022.3193584",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2022,
+                    "day": 29
+                },
+                "name": "A Novel Efficient Hybrid Compensation Topology for Wireless Power Transfer",
+                "publisher": "IEEE Transactions on Industrial Electronics",
+                "url": "https://doi.org/10.1109/TIE.2022.3169840",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2021,
+                    "day": 19
+                },
+                "name": "A Novel In-Situ Measurement Method of High-Frequency Winding Loss in Cored Inductors With Immunity Against Phase Discrepancy Error",
+                "publisher": "IEEE Open Journal of the Industrial Electronics Society",
+                "url": "https://doi.org/10.1109/OJIES.2021.3121088",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "IEEE",
+                "name": "Improving Academic Writing Skills - IEEE Industrial Electronics Society",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:7034",
+                    "entityUrn": "urn:li:fs_miniCompany:7034",
+                    "name": "IEEE",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631326760285?e=1748476800&v=beta&t=yXPJmpt0pmP5mrpkxd0Zbq_LYFp5RQS5d9MBg_7x8fk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631326760285?e=1748476800&v=beta&t=TXVmCHN3P1Xh7-WHluT-wjcx4FHvl-r0GLEnyvxU81Y",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631326760285?e=1748476800&v=beta&t=aBoRNyQSYIuqWUpathx2ugPFa56tGIJSB30xOWSGb3Y",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGoRdJYxmIDhQ/company-logo_"
+                        }
+                    },
+                    "universalName": "ieee",
+                    "dashCompanyUrn": "urn:li:fsd_company:7034",
+                    "trackingId": "6kHJeBOoQTSqpFzLHfD9pA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7034"
+            },
+            {
+                "authority": "Teledyne LeCroy",
+                "name": "Probing in Power Electronics - High Voltage Probe Real-World Examples and Comparisons",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10007",
+                    "entityUrn": "urn:li:fs_miniCompany:10007",
+                    "name": "Teledyne LeCroy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=JBSOSDx9zcpAkLlH3qQ2oT8ljim9MrDtZrXqI8GnTbY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=eq0T_pEw5QmQCd2pRXDmgyrB4DM3oadpYGInEfgIyDs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=3eMQlJeup9rV32oRZO0FTCKWykxsxU8ybo9LakQYbR8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE0Av7FQN6d4A/company-logo_"
+                        }
+                    },
+                    "universalName": "teledyne-lecroy",
+                    "dashCompanyUrn": "urn:li:fsd_company:10007",
+                    "trackingId": "ZT88jMCZQ/GPqg0jGwdtSA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10007"
+            },
+            {
+                "authority": "Teledyne LeCroy",
+                "name": "EMC / ESD Pulse Measurements Using Oscilloscopes",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10007",
+                    "entityUrn": "urn:li:fs_miniCompany:10007",
+                    "name": "Teledyne LeCroy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=JBSOSDx9zcpAkLlH3qQ2oT8ljim9MrDtZrXqI8GnTbY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=eq0T_pEw5QmQCd2pRXDmgyrB4DM3oadpYGInEfgIyDs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=3eMQlJeup9rV32oRZO0FTCKWykxsxU8ybo9LakQYbR8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE0Av7FQN6d4A/company-logo_"
+                        }
+                    },
+                    "universalName": "teledyne-lecroy",
+                    "dashCompanyUrn": "urn:li:fsd_company:10007",
+                    "trackingId": "ZhdUVVt2QAmWQ7PKNGy7Wg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10007"
+            },
+            {
+                "authority": "Teledyne LeCroy",
+                "name": "Four Tips for High Bandwidth Connector Crosstalk Characterization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10007",
+                    "entityUrn": "urn:li:fs_miniCompany:10007",
+                    "name": "Teledyne LeCroy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=JBSOSDx9zcpAkLlH3qQ2oT8ljim9MrDtZrXqI8GnTbY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=eq0T_pEw5QmQCd2pRXDmgyrB4DM3oadpYGInEfgIyDs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=3eMQlJeup9rV32oRZO0FTCKWykxsxU8ybo9LakQYbR8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE0Av7FQN6d4A/company-logo_"
+                        }
+                    },
+                    "universalName": "teledyne-lecroy",
+                    "dashCompanyUrn": "urn:li:fsd_company:10007",
+                    "trackingId": "E0IB/+IASPG1W/wVWZbJPQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10007"
+            },
+            {
+                "authority": "Teledyne LeCroy",
+                "name": "Probing in Power Electronics - What to Use and Why",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10007",
+                    "entityUrn": "urn:li:fs_miniCompany:10007",
+                    "name": "Teledyne LeCroy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=JBSOSDx9zcpAkLlH3qQ2oT8ljim9MrDtZrXqI8GnTbY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=eq0T_pEw5QmQCd2pRXDmgyrB4DM3oadpYGInEfgIyDs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=3eMQlJeup9rV32oRZO0FTCKWykxsxU8ybo9LakQYbR8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE0Av7FQN6d4A/company-logo_"
+                        }
+                    },
+                    "universalName": "teledyne-lecroy",
+                    "dashCompanyUrn": "urn:li:fsd_company:10007",
+                    "trackingId": "0gzdRTfTSYyj70OyRzosoQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10007"
+            },
+            {
+                "authority": "Teledyne LeCroy",
+                "name": "How to Perform Double Pulse Testing (DPT) on GaN and SiC Devices",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10007",
+                    "entityUrn": "urn:li:fs_miniCompany:10007",
+                    "name": "Teledyne LeCroy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=JBSOSDx9zcpAkLlH3qQ2oT8ljim9MrDtZrXqI8GnTbY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=eq0T_pEw5QmQCd2pRXDmgyrB4DM3oadpYGInEfgIyDs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630565437106/teledyne_lecroy_logo?e=1748476800&v=beta&t=3eMQlJeup9rV32oRZO0FTCKWykxsxU8ybo9LakQYbR8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE0Av7FQN6d4A/company-logo_"
+                        }
+                    },
+                    "universalName": "teledyne-lecroy",
+                    "dashCompanyUrn": "urn:li:fsd_company:10007",
+                    "trackingId": "/mPfQIgzRFWIHIokZbPvhA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10007"
+            },
+            {
+                "authority": "Ansys",
+                "name": "Ansys Electronics Desktop 3D Modeler",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:6536",
+                    "entityUrn": "urn:li:fs_miniCompany:6536",
+                    "name": "Ansys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=_uWzmOcl9eDGXS-kS9CCrgc2v6r8FVilsdWiI3fYeIk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=L0hqNyu1igLZ5hbdX_gXf6rKzatbgKlYahSBvUCxrSc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=dbuy5QTgBxBFV_W-yWb3ljoS2WVxiSlEJtyq_th4YIs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEqczYRTk3m-g/company-logo_"
+                        }
+                    },
+                    "universalName": "ansys-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:6536",
+                    "trackingId": "aY/A3BJoQWWz16TJ8eudWw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6536"
+            },
+            {
+                "authority": "Ansys",
+                "name": "Electrothermal Management (ETM) Using Ansys Maxwell and Icepak",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:6536",
+                    "entityUrn": "urn:li:fs_miniCompany:6536",
+                    "name": "Ansys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=_uWzmOcl9eDGXS-kS9CCrgc2v6r8FVilsdWiI3fYeIk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=L0hqNyu1igLZ5hbdX_gXf6rKzatbgKlYahSBvUCxrSc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=dbuy5QTgBxBFV_W-yWb3ljoS2WVxiSlEJtyq_th4YIs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEqczYRTk3m-g/company-logo_"
+                        }
+                    },
+                    "universalName": "ansys-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:6536",
+                    "trackingId": "Lm0MLcztSWyBr0HKPn3/3w=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6536"
+            },
+            {
+                "authority": "Ansys",
+                "name": "Ansys Maxwell: FEM and Workflow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:6536",
+                    "entityUrn": "urn:li:fs_miniCompany:6536",
+                    "name": "Ansys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=_uWzmOcl9eDGXS-kS9CCrgc2v6r8FVilsdWiI3fYeIk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=L0hqNyu1igLZ5hbdX_gXf6rKzatbgKlYahSBvUCxrSc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=dbuy5QTgBxBFV_W-yWb3ljoS2WVxiSlEJtyq_th4YIs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEqczYRTk3m-g/company-logo_"
+                        }
+                    },
+                    "universalName": "ansys-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:6536",
+                    "trackingId": "5pupmnvPT+WnQ2Xa/5nZ2Q=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6536"
+            },
+            {
+                "authority": "Ansys",
+                "name": "Ansys Maxwell: Magnetostatic Solver",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:6536",
+                    "entityUrn": "urn:li:fs_miniCompany:6536",
+                    "name": "Ansys",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=_uWzmOcl9eDGXS-kS9CCrgc2v6r8FVilsdWiI3fYeIk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=L0hqNyu1igLZ5hbdX_gXf6rKzatbgKlYahSBvUCxrSc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630536768939/ansys_inc_logo?e=1748476800&v=beta&t=dbuy5QTgBxBFV_W-yWb3ljoS2WVxiSlEJtyq_th4YIs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEqczYRTk3m-g/company-logo_"
+                        }
+                    },
+                    "universalName": "ansys-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:6536",
+                    "trackingId": "9puYfMwmSs2YGi5gWQ1xeQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6536"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Reviewer",
+                "companyName": "IEEE",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Peer reviewing articles for possible publications in IEEE.\n▪ Serving as a peer-reviewer for the journal of IEEE Transactions on Power Electronics.\n▪ Serving as a peer-reviewer for the journal of IEEE Transactions on Transportation Electrification\n▪ Serving as a peer-reviewer for the journal of IEEE Transactions Industry Applications.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:7034",
+                        "entityUrn": "urn:li:fs_miniCompany:7034",
+                        "name": "IEEE",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631326760285?e=1748476800&v=beta&t=yXPJmpt0pmP5mrpkxd0Zbq_LYFp5RQS5d9MBg_7x8fk",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631326760285?e=1748476800&v=beta&t=TXVmCHN3P1Xh7-WHluT-wjcx4FHvl-r0GLEnyvxU81Y",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631326760285?e=1748476800&v=beta&t=aBoRNyQSYIuqWUpathx2ugPFa56tGIJSB30xOWSGb3Y",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGoRdJYxmIDhQ/company-logo_"
+                            }
+                        },
+                        "universalName": "ieee",
+                        "dashCompanyUrn": "urn:li:fsd_company:7034",
+                        "trackingId": "dMJcok1aSK2IL1hhwFhTfQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7034"
+            },
+            {
+                "role": "Reviewer",
+                "companyName": "Institution of Engineering and Technology (IET)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Peer reviewing articles for possible publications in IET.\n▪ Serving as a peer-reviewer for the journal of IET Power Electronics.\n▪ Serving as a peer-reviewer for the journal of IET Electric Power Applications.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:9270",
+                        "entityUrn": "urn:li:fs_miniCompany:9270",
+                        "name": "Institution of Engineering and Technology (IET)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688139447709/iet_logo?e=1748476800&v=beta&t=lnHjdGaXNvi04vrPuV8k3gN3FsrMQsfIZQHzmN_3DZU",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688139447709/iet_logo?e=1748476800&v=beta&t=wp0pRNdANnI2Gw7MLdIrZYOjSYYIhYu1ijkKULG2luQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688139447709/iet_logo?e=1748476800&v=beta&t=02UKDRixmbhtyULZB3Tl7NfKUcIgGhA4r1Pq4arjScA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF9byVKF49djg/company-logo_"
+                            }
+                        },
+                        "universalName": "iet",
+                        "dashCompanyUrn": "urn:li:fsd_company:9270",
+                        "trackingId": "ZGKYKixTThq5dI0Sj+QZnw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:9270"
+            },
+            {
+                "role": "Reviewer",
+                "companyName": "Springer Publishing Company",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Peer reviewing articles for possible publications in Springer.\n▪ Serving as a peer-reviewer for the journal of Springer Transactions of Electrical Engineering, Iranian Journal of Science and Technology.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:71374",
+                        "entityUrn": "urn:li:fs_miniCompany:71374",
+                        "name": "Springer Publishing",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630458332755/springer_publishing_company_logo?e=1748476800&v=beta&t=VtjvWi0PqDuNCuieg3WCp4_FykmAyLSvfvdKRIhC0IY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630458332755/springer_publishing_company_logo?e=1748476800&v=beta&t=pOAI0xBGICDJhxk1kh9AnTIxrf3TV-HfuCB3yLDFIZM",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630458332755/springer_publishing_company_logo?e=1748476800&v=beta&t=5oL7HmtoenkrcTTfZfv4DJR_-CVUzwcA4Q2iEEgsXuk",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQE4JyvcLdbIEw/company-logo_"
+                            }
+                        },
+                        "universalName": "springerpub",
+                        "dashCompanyUrn": "urn:li:fsd_company:71374",
+                        "trackingId": "8ShHpWiPS2qnqCpcSA4cBw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:71374"
+            }
+        ],
+        "honors": [
+            {
+                "description": "• Our Team from the University of Bristol won the 3rd Place Outstanding Performance Award in the MagNet Challenge 2023, organized by Princeton University and Dartmouth College, and sponsored by Google, Enphase Energy and IEEE Power Electronics Society.\n• We used an LSTM-based machine learning framework with transfer learning and data augmentation techniques to address the challenge of modelling magnetic core loss under power electronics waveforms to replace the classic Steinmetz Equation.\n• MagNet Challenge 2023: https://github.com/minjiechen/magnetchallenge",
+                "occupation": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1520078307)",
+                "title": "IEEE International Challenge in Design Methods for Power Electronics - MagNet Challenge 2023",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "issuer": "IEEE Power Electronics Society"
+            },
+            {
+                "description": "► This scholarship covers full tuition fees for the duration of the PhD studies and provides an annual stipend. Also, the award includes the cost of a standard overseas student health cover (OSHC) policy, which covers the candidate and dependents, and relocation allowance between Australian cities or travels from overseas for the duration of the studies in Australia.",
+                "title": "GU International Postgraduate Research Scholarship and GU Postgraduate Research Scholarship",
+                "issueDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "issuer": "Griffith University, School of Engineering and Built Environment"
+            },
+            {
+                "description": "► This scholarship covers full tuition fees for the duration of the PhD studies, and provides an annual stipend at the standard RCUK rate. This scholarship is only awarded to one person in the engineering department each year.",
+                "occupation": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,615736015)",
+                "title": "University of Bristol International Postgraduate Research Scholarship in Electrical and Electronic Engineering",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "issuer": "Engineering and Physical Sciences Research Council (EPSRC)"
+            },
+            {
+                "description": "▪ Technical University of Denmark (DTU) – Denmark\n▪ Aalto University – Finland\n\n► These scholarships cover full tuition fees for the duration of the PhD studies and provide an annual stipend.",
+                "title": "Doctoral Candidate",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "issuer": "PhD scholarship in the field of Wireless Power Transfer (WPT)"
+            },
+            {
+                "description": "► This studentship provides an opportunity for a UK/EU national and international candidate to join a 3-year study program in UCL’s Department of Mechanical Engineering; which covers full tuition fees for the duration of the PhD studies, and provides an annual stipend at the standard RCUK (UK/EU) rate.",
+                "title": "PhD Studentship: Highly-Efficient, Dimensionally-Compact Wireless Power Transfer Unit",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "issuer": "University College London (UCL)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,317171499)",
+                "title": "Ranked 1st, and top Master project grade (20/20) among the Electrical Power Engineering students at  Amirkabir University of Technology, Tehran (Iran)",
+                "issueDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Ranked 1st with Fars Karate team in Shotokan Karate students national competitions, Urmia, Iran",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2008
+                }
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,615736015)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1990759692,351582194)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Xibo",
+                            "lastName": "Yuan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWrcFEBgJNsbw-ujrw20CZ3ZechKx_HG80",
+                            "occupation": "Professor and Royal Academy of Engineering/Safran Chair at The University of Bristol",
+                            "objectUrn": "urn:li:member:95121489",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAWrcFEBgJNsbw-ujrw20CZ3ZechKx_HG80",
+                            "publicIdentifier": "xibo-yuan-1a9a3327",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517473608956?e=1746057600&v=beta&t=3waCgKkzBkTAWhbV5aeh9IvvC2QGHTz_XxdZoHJtNYw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517473609121?e=1746057600&v=beta&t=43dPqrnDfeeiJZUyG4E4vmcPmshmWst18FM8Dd3jasQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 301,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517473608956?e=1746057600&v=beta&t=kOCYMTPlqIzdrtGWhhnVz3N7PzbldEjU9OnQ6vIEudQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 301
+                                        },
+                                        {
+                                            "width": 301,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517473608804?e=1746057600&v=beta&t=hoaAgffLG9gLPyoSD6RzPYPv6sMROoTAZ2S3SveL4QA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 301
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHSViGiffUJkQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OiIRBcPDRqaKjx9rQv3ieQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1990759692,351580591)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAWrcFEBgJNsbw-ujrw20CZ3ZechKx_HG80"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Jun",
+                            "lastName": "Wang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABxLKTgB2GZ7H2FfuxvyszK7fb_X6soxm5w",
+                            "occupation": "Senior Lecturer and Chartered Engineer in Power Electronics",
+                            "objectUrn": "urn:li:member:474687800",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABxLKTgB2GZ7H2FfuxvyszK7fb_X6soxm5w",
+                            "publicIdentifier": "jun-wang-708b7b112",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1605111034402?e=1746057600&v=beta&t=WB7sBGRIofR119t1zEH9ETT7yuC1Fldgc2fKQx_gfCI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1605111034402?e=1746057600&v=beta&t=LMgoPx_yca3W7JaikeZXuzJY0V6EqdexaORTyarugBY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1605111034402?e=1746057600&v=beta&t=LvoIKZf_0dxtWGWRxLLNELd3RzpuIcyXJkHbmw3ki0A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1605111034402?e=1746057600&v=beta&t=_O_tahLGLSpnyG6DHQP20VkcF2rsoven4G0SRuXEcaI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHYOxnXRFUXBA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qYFXn9i2Qg6IoJxXVMhiVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1990759692,351578776)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABxLKTgB2GZ7H2FfuxvyszK7fb_X6soxm5w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "The purpose of this work is to propose accurate approaches for measuring and predicting the core and winding losses of high-frequency transformers and inductors in power electronics applications. The large-signal procedures and practical efforts for precisely characterizing the magnetic component losses with the square wave excitation are elaborated. The ultimate objective is to improve loss measurement methods and predictions to enable a quick and accurate estimation, which is beneficial for both commercial magnetic component manufacturers and end-users.",
+                "title": "Prediction and Measurement of High-Frequency Power Losses in Magnetic Components under Power Electronics Excitation"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,317171499)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,411021721,183438650)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Mojtaba",
+                            "lastName": "Mirsalim",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAACjWWcBO7fKO5uTQBwVM4HCEN2HmZAepM0",
+                            "occupation": "Editor at Iranian Journal of Science and Technology",
+                            "objectUrn": "urn:li:member:10705255",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAACjWWcBO7fKO5uTQBwVM4HCEN2HmZAepM0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1516316890908?e=1746057600&v=beta&t=on4rTSwCyMKCXALghAfAyKD1w5szPJdGOoKehjQgupw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516316891271?e=1746057600&v=beta&t=DDBYkHt3hN6dzKBazB3eddrNQLSVS5jA6CwRXQ30S04",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEyw00AosSnDA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mojtaba-mirsalim-2077033",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516316891498?e=1746057600&v=beta&t=V06bk7F8eoAiAbN1JNk0uhyjg_cj8rpmwKeLpFmUK28",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516316891599?e=1746057600&v=beta&t=QwzBltsFZ-XfFxYiTcjLlvN5ehUK1vakZBVT0Kmk6Wo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516316895027?e=1746057600&v=beta&t=xpwEImSAiJtsetWAwB-nbElkMGpaVDUTNmmYxoqsbeg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516316891525?e=1746057600&v=beta&t=FLOKsReAX2p7sMwAxfzTcGlV04gtYo-p2oJtd8wwGWE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHVq1Io9C_Wyg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "kB7CGFT0QUGtJfDpb7Ji5g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,411021721,183435681)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAACjWWcBO7fKO5uTQBwVM4HCEN2HmZAepM0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "description": "Designed and prototyped the Wireless Power Transfer (WPT) for charging electric vehicles with the new integration of magnetic structure windings. Designed and prototyped efficient high-frequency power converters. Performed thermal analysis of the WPTs' magnetic structures utilizing electromagnetic finite element equations.",
+                "title": "Design and Prototyping of a Wireless Power Transfer for Electric Vehicles"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,1333568958)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Navid",
+                            "lastName": "Rasekh, Ph.D.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "occupation": "Power Electronics Engineer at Amazon Web Services (AWS)",
+                            "objectUrn": "urn:li:member:296711020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1645291723772?e=1746057600&v=beta&t=92LXcoz--CP46uyp5slbeA_pHY9gEJRJQaiOnRE9bXg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        },
+                                        {
+                                            "width": 594,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645291723772?e=1746057600&v=beta&t=WZA3Ldc56YHnrMjyXsbhzwutf_T36UzeTEygApR4y6o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 148
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGDhrFXk4Ln7Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "navid-rasekh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1570224236246?e=1746057600&v=beta&t=-isPmeC5sBm3XO30D-OTHdt9zwsDENRgW1sUq-A8eJE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1570224236220?e=1746057600&v=beta&t=1eyJaO7vcmdl_iJSpRKFOqJy8lQJee0eFIhcxcehNGo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1570224236281?e=1746057600&v=beta&t=OCYDWJVGCnlSKuUL92WRd4GBm1iRy-zLt3nFuBee0i4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1570224236317?e=1746057600&v=beta&t=YLB3uqXb7Hvq-bQ7k3yQ7lIHAm22Egpety6Gvv_3LmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEMr5RX8N5-Xw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "P3np7rdiTnSVcfYoTO/ucQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,411853690,388725483)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "mehdi",
+                            "lastName": "ahmadi jirdehi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACT0sYABugPdWqjtqP85SsUd6stsL25MboA",
+                            "occupation": "Associate Professor at Kermanshah University of Technology",
+                            "objectUrn": "urn:li:member:620016000",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACT0sYABugPdWqjtqP85SsUd6stsL25MboA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1682577589312?e=1746057600&v=beta&t=6Sq7DnRKa660UYxJx2gENKCB_V-wFE2neW1OEBbdRbM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682577589312?e=1746057600&v=beta&t=lOLjks1TZz2XyzNWWgVh3gzFCllrHpqSTEZeUpQ4NqU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQHjRp4Vn0yAPA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mehdi-ahmadi-jirdehi-680785153",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1679605528800?e=1746057600&v=beta&t=UEipu_VAro3otYY_HA5eOG27g7IcLR3PUHR6Nb25koo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1679605528800?e=1746057600&v=beta&t=t4axyKCkfSH_-G9mEl_m_db4iVQVCtt8Jdwx3ntWCoI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1679605528800?e=1746057600&v=beta&t=be734J1PSCUU4x6rN_U9YF1L7vA-Xd_wonFS5LwIx9o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1679605528800?e=1746057600&v=beta&t=fLz2eISCD8qt5LElq-Z7SVhdvU0i3XenB2NYLIH2xt0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFuM4mxEmzb6w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SR1xK5cIQo+eombaVQfY0g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo,411853690,388727262)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACT0sYABugPdWqjtqP85SsUd6stsL25MboA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "1. Prototyped the Lab-Scale Static VAR Compensator (SVC).\n2. Worked on Controlling the Reactive Power and Voltage of the Load by Utilization of the AVR Microcontroller.",
+                "title": "Designing and Manufacturing of static var compensator (SVC) for Reactive Power and Voltage Control"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Electrical Engineering",
+                "standardizedSkillUrn": "urn:li:fs_miniSkill:1066",
+                "standardizedSkill": {
+                    "name": "Electrical Engineering",
+                    "entityUrn": "urn:li:fs_miniSkill:1066"
+                }
+            },
+            {
+                "name": "Power Electronics"
+            }
+        ],
+        "urn_id": "ACoAABGvc2wBuFpbmbIvW2M6vBWOmjoXHlhnHqo"
+    }
+}

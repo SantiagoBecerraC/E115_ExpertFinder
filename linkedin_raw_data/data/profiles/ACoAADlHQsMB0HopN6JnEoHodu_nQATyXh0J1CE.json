@@ -1,0 +1,776 @@
+{
+    "urn_id": "ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE",
+    "fetch_timestamp": "2025-02-26T21:44:14.217691",
+    "profile_data": {
+        "summary": "Hi! I am a fourth year undergrad student at UCLA, pursuing double B.S. degrees in Computer Science and Applied Mathematics on a Regents Scholarship. I am passionate about novel AI/ML technologies as well as scalable software systems in application to solve practical problems that help people and communities!",
+        "industryName": "Computer Software",
+        "lastName": "Lu",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Samuel",
+        "entityUrn": "urn:li:fs_profile:ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102448103"
+        },
+        "geoLocationName": "Los Angeles, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "SWE Intern @ SpaceX | CS & Applied Math @ UCLA",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGo1NIKODTcmA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1689348907419?e=1746057600&v=beta&t=cYSn2ycyTNDG-euwggWjRlJnk1brwtrm6MAudju2gNI",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1689348907419?e=1746057600&v=beta&t=Hw3dQm8a8rk4VThlY9BR3yEXNlqZNbOmC8GW9TStqek",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1689348907419?e=1746057600&v=beta&t=hyFIBtM5KItSEmla3wrFuZq29WNH51ebpkBQWzjL5Iw",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1689348907419?e=1746057600&v=beta&t=jjOJoX9vD_NyIbfTfYAl3O-2QCrCJ52ozMRIEs3KSFw",
+        "profile_id": "ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE",
+        "member_urn": "urn:li:member:960971459",
+        "public_id": "samuel-s-lu",
+        "experience": [
+            {
+                "locationName": "Sunnyvale, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,2377503601)",
+                "geoLocationName": "Sunnyvale, California, United States",
+                "geoUrn": "urn:li:fs_geo:104119503",
+                "companyName": "SpaceX",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "Starlink consumer platform billing - Angular and .NET full stack development.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Aviation & Aerospace"
+                    ]
+                },
+                "title": "Software Engineer Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:30846",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,2361363692)",
+                "companyName": "Doowii, Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "description": "- Created a Python framework to easily switch between LLMs and automatically fallback via configs on Firestore.\n- Wrote multi-threaded Google Cloud Functions to evaluate and optimize the performance of each backend component’s LLM call (up to 42% improvement), using Firestore and BigQuery to read datasets & store metrics.\n- Made dashboards for each component evaluator using Google Looker Studio, utilizing live metrics from BigQuery.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Software Engineer Intern",
+                "companyUrn": "urn:li:fs_miniCompany:89995241",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFNzZFcsK6Uqg/company-logo_"
+            },
+            {
+                "locationName": "Sacramento, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,2300870914)",
+                "geoLocationName": "Sacramento, California, United States",
+                "geoUrn": "urn:li:fs_geo:101857797",
+                "companyName": "Caltrans",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2023
+                    }
+                },
+                "description": "- Built a state-wide database app for fiber optics management with MySQL as relational database and Streamlit as frontend for users to upload into and view the database.\n- Prototyped a chatbot using LangChain and RAG to provide internal assistance with domain specific knowledge.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Software Engineer Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2651",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEPDb0btC1I-A/company-logo_"
+            },
+            {
+                "locationName": "UCLA",
+                "entityUrn": "urn:li:fs_position:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,2206596858)",
+                "geoLocationName": "UCLA",
+                "companyName": "Scalable Analytics Institute",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "Advised by Professor Wei Wang\n- Built an end-to-end computer vision pipeline that incorporates contrastive learning and transfer learning with ResNet and Vision Transformer backbone for the USDA using PyTorch.\n- Trained a deep neural network that achieves 1.472% validation error on yield prediction by leveraging multi-modal data collected through RGB, depth, LiDAR, and multispectral cameras.",
+                "title": "Machine Learning Researcher"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,2215269157)",
+                "companyName": "KAUST (King Abdullah University of Science and Technology)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "description": "Advised by Professor Peter Wonka\n- Improved a language-vision pipeline for zero-shot 3D semantic segmentation by ~10% mIoU by incorporating state-of-the-art models such as ChatGPT-4, SAM, and DINO.\n- Explored the augmentation of 2D rendered views with Stable Diffusion (ControlNet) to improve 2D detection/segmentation accuracy before aggregating labeled masks to 3D mesh.\n- Enhanced image generation dramatically by prompt engineering and writing automated training and evaluation scripts in Bash/Python to perform hyperparameter search (executed via Slurm).",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "AI Research Intern",
+                "companyUrn": "urn:li:fs_miniCompany:276978",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQE6wmDzlM7YKw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,868396673)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,868438517)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,868488636)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,870624461)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,1035888732)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,605964925)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,606009045)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,606032268)",
+                    "urn:li:fs_course:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,606143289)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,48008297)"
+                ],
+                "degreeName": "Bachelor of Science - BS",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,868678741)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:17950",
+                "entityUrn": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,768062829)",
+                "school": {
+                    "objectUrn": "urn:li:school:17950",
+                    "entityUrn": "urn:li:fs_miniSchool:17950",
+                    "active": true,
+                    "schoolName": "UCLA",
+                    "trackingId": "2gr9sEFgRxiWc306hkS0Dw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_"
+                },
+                "activities": "UPE (CS Honors Society), Regents Scholar Society (E-Board Officer), ACM, UCLA ACA Lion Dance (Coordinator), UCLA Badminton (Captain), Enigma Club",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "schoolName": "University of California, Los Angeles",
+                "fieldOfStudy": "Computer Science, Applied Mathematics",
+                "degreeUrn": "urn:li:fs_degree:400"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,785069807)",
+                "school": {
+                    "objectUrn": "urn:li:school:3204691",
+                    "entityUrn": "urn:li:fs_miniSchool:3204691",
+                    "active": true,
+                    "schoolName": "Castro Valley High School",
+                    "trackingId": "/vrBMlChQl2Ifht4S9m8Uw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHQ0wD17pJxKQ/company-logo_"
+                },
+                "activities": "Science Olympiad, Marching Band (Drum Captain), Jazz Band (Piano), Varsity Badminton (Captain), Bay Area Music Initiative (Director)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "schoolName": "Castro Valley High School",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,869162371)",
+                    "urn:li:fs_honor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,869344847)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:3204691"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,785074221)",
+                "school": {
+                    "objectUrn": "urn:li:school:32113",
+                    "entityUrn": "urn:li:fs_miniSchool:32113",
+                    "active": true,
+                    "schoolName": "College of Alameda",
+                    "trackingId": "LG6aLNvQQ3SPWpE1OYOwGg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQE7c4VFT0FsDA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "description": "Dual enrollment during high school",
+                "schoolName": "College of Alameda",
+                "schoolUrn": "urn:li:fs_miniSchool:32113"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese (Cantonese)",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Chinese (Mandarin)",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Coordinator",
+                "companyName": "ACA Lion Dance at UCLA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "cause": "ARTS_AND_CULTURE",
+                "description": "- Organize twice/week practices and regular socials for the team (45 members).\n- Handle client communication and lead dozens of lion dance performances across LA to promote Chinese traditions and culture.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:97868341",
+                        "entityUrn": "urn:li:fs_miniCompany:97868341",
+                        "name": "ACA Lion Dance at UCLA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1690310072487?e=1748476800&v=beta&t=qqcafx7Mdf1bnFZE37M20s8dhk0yeZL7b0Tj8NmgTFg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1690310072487?e=1748476800&v=beta&t=V0pyrPu-4UtcO_EFFdJ8XK1Ub8DMP8GV1hpyLVmBwuQ",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1690310072487?e=1748476800&v=beta&t=bFWxr5wE1lGnXrPI5Ngrb64v4enxyHMv-iox9myUygU",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEfObw6ZiHndQ/company-logo_"
+                            }
+                        },
+                        "universalName": "aca-lion-dance",
+                        "dashCompanyUrn": "urn:li:fsd_company:97868341",
+                        "trackingId": "9S4XOXa8SKW1RG7T7EzWQA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:97868341"
+            },
+            {
+                "role": "Director",
+                "companyName": "Bay Area Music Initiative (BAMI)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "- Founded BAMI and organized monthly virtual music concerts for senior homes around the Bay during the COVID-19 pandemic\n- Performed numerous piano pieces"
+            }
+        ],
+        "honors": [
+            {
+                "description": "Co-author on a main conference paper accepted for ECCV 2024",
+                "occupation": "urn:li:fs_position:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,2089699836)",
+                "title": "ECCV 2024 Main Conference Paper",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "issuer": "European Conference on Computer Vision"
+            },
+            {
+                "description": "The Regents Scholarship Program was established by the Regents of the University of California in 1962, and represents one of the highest honors awarded to a student at the University. Regents Scholarship recipients are selected on the basis of demonstrated academic excellence, leadership and exceptional promise. UCLA awards up to 40 Regents scholarships each year to entering freshmen and transfer students and currently has a total of 300 Regents Scholars enrolled at UCLA.",
+                "occupation": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,768062829)",
+                "title": "UCLA Regents Scholarship",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "issuer": "UCLA"
+            },
+            {
+                "description": "3 department awards for excellence in AP Computer Science A, AP Economics, and Honors Wind Ensemble",
+                "occupation": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,785069807)",
+                "title": "CVHS Department Awards",
+                "issueDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "issuer": "Castro Valley High School"
+            },
+            {
+                "description": "Earned with a score of 5 on AP Calculus AB/BC, AP Computer Science A, AP Physics 1, AP Statistics, AP Microeconomics, AP Macroeconomics, AP English Language and Composition, AP U.S. History, AP Psychology, AP Chinese Language and Culture.",
+                "occupation": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,785069807)",
+                "title": "AP Scholar with Distinction",
+                "issueDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "issuer": "College Board"
+            },
+            {
+                "description": "Passed with honors and a score of 5+. Invited to the MTAC State Convention.",
+                "title": "Certificate of Merit for Piano - Advanced Level",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "issuer": "Music Teachers' Association of California (MTAC)"
+            },
+            {
+                "title": "Second Place in Men's Singles at James Logan Badminton Tournament",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "issuer": "James Logan High School"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,768062829)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Samuel",
+                            "lastName": "Lu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE",
+                            "occupation": "SWE Intern @ SpaceX | CS & Applied Math @ UCLA",
+                            "objectUrn": "urn:li:member:960971459",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 798,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1648720283497?e=1746057600&v=beta&t=zrK0UecLWEx_ztEtS643MqjTps5ZaK1vgL44X3Z4DNc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1170,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648720283497?e=1746057600&v=beta&t=jqgUqylBL6KoVe7Y59vgVjkniX7KOnUwQ4gGEqAQgh8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQHhcTbx_kJUQg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "samuel-s-lu",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1689348907419?e=1746057600&v=beta&t=cYSn2ycyTNDG-euwggWjRlJnk1brwtrm6MAudju2gNI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1689348907419?e=1746057600&v=beta&t=Hw3dQm8a8rk4VThlY9BR3yEXNlqZNbOmC8GW9TStqek",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1689348907419?e=1746057600&v=beta&t=hyFIBtM5KItSEmla3wrFuZq29WNH51ebpkBQWzjL5Iw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1689348907419?e=1746057600&v=beta&t=jjOJoX9vD_NyIbfTfYAl3O-2QCrCJ52ozMRIEs3KSFw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGo1NIKODTcmA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OQ49cv8EQuma5+hjOUEd3A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,48008297,351876741)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Megan",
+                            "lastName": "Go",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC9uggkBy1zL11DZ4lCEPXD-dNpTh0W8NCI",
+                            "occupation": "CS @ UCLA '25",
+                            "objectUrn": "urn:li:member:795771401",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC9uggkBy1zL11DZ4lCEPXD-dNpTh0W8NCI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1695849075152?e=1746057600&v=beta&t=vQ_YEkISH8as6CCik2u7FOm79afcWbjKkfgJY6CDheQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695849075152?e=1746057600&v=beta&t=Q65nD1QyDh-gl1ns52xOhwR6P8nqjKdT2cD7DoZStl8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHlDehkGcE15g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "megango",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1695844226359?e=1746057600&v=beta&t=kxp2nmj6GkBRTEsnsKR0AZYohVXFqBfSCDGM-dxLsfk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1695844226359?e=1746057600&v=beta&t=niP-gYLLXZYzhCfhhaIyISBNaa91daKO52DILcq9Pbs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1695844226359?e=1746057600&v=beta&t=reWoD2VKiHsBhUzUIw_mnLLJwr5E5xDz6mi1GElF2WE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1695844226359?e=1746057600&v=beta&t=uEck72Mlf6Tq0t7Y-qTpgRmcVUbOGVKFARntv3_S4tI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFkj1zGqxLeFA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hg5xEOmISO6j3yGIhBilTg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,48008297,351881007)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC9uggkBy1zL11DZ4lCEPXD-dNpTh0W8NCI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Edward",
+                            "lastName": "Ng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADgDHwQBdjU6KE9GXWxDCZGnm9REto6mo_U",
+                            "occupation": "Software Engineer and UI/UX Designer | CS @ UCLA",
+                            "objectUrn": "urn:li:member:939728644",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADgDHwQBdjU6KE9GXWxDCZGnm9REto6mo_U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1667278505881?e=1746057600&v=beta&t=wf_4gdFClG5OocHA7XQ-p2AGhmWbm5aW129geo0Gggg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1667278505881?e=1746057600&v=beta&t=zKWv8aNkQfmg8zZ-DKxcmRB-RMX2MtZucKByP15pj34",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG5w9Xi83Ez8Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "edward-n",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1667278338866?e=1746057600&v=beta&t=1_9TSaO0CJ3BcNZQxx252_ogEZOV5yT9n7zm8S5ovfY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1667278338866?e=1746057600&v=beta&t=bySGiOVxzh6OM2aFlRLDD9hk9zdVofj9AxMqWbDRVAc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1667278338866?e=1746057600&v=beta&t=Te7_pNAhzKiyQhFIzQqux1JFzfUti_i4I_RNPDATaWk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1667278338866?e=1746057600&v=beta&t=QLMYVZfZZwa0_t1JG4qUKNRXZkLwKUOU9C9QhRpJ-D0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE_lWb3RCR8wg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "vKSYk2GeS+S4pu9SUoxADw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,48008297,351878651)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADgDHwQBdjU6KE9GXWxDCZGnm9REto6mo_U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Yu-Chen",
+                            "lastName": "Lung",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADsngl0B7ye-YIAXrBKIIEzSFqrrwzOsdk8",
+                            "occupation": "Incoming SWE @ Palantir, CS @ UCLA",
+                            "objectUrn": "urn:li:member:992445021",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADsngl0B7ye-YIAXrBKIIEzSFqrrwzOsdk8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1694912351938?e=1746057600&v=beta&t=qfYxKsnicEXnh0kI8-lodTLSdA1bjva92y0zrtwC3zo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694912351938?e=1746057600&v=beta&t=dIBK-FxhS0WPX5nnZfRGiPQPjx8_RilJQe6F755cplI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQF1A_LGj7BPyA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yu-chen-lung",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1667857595300?e=1746057600&v=beta&t=b8HAWIQ4a55YK_gRRIT1W3cnHnc7W7JL6jJ47SPr3x8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1667857595300?e=1746057600&v=beta&t=V1rNeT3RmyXbIhHudnqydkVFBhuh4ka8fyziOWEWHrg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1667857595300?e=1746057600&v=beta&t=xxrC1OYq3m8oYYHsaaA4gkw8le-DPlK2z4zzH4-aEw4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1667857595300?e=1746057600&v=beta&t=O5lq49YbymJYLgueTudEwEAaLvESlHJRDNYpkjLSGiY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFvFvX9_zfqSg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "FUukCYMbQ+apOkSYH/TLdw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,48008297,351877690)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADsngl0B7ye-YIAXrBKIIEzSFqrrwzOsdk8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Alan",
+                            "lastName": "Yu",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZzvhwB_3Ob2wVXCiqz2gmy0LGUa9xwnJw",
+                            "occupation": "CS @ UCLA",
+                            "objectUrn": "urn:li:member:913554972",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZzvhwB_3Ob2wVXCiqz2gmy0LGUa9xwnJw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 799,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1737338790335?e=1746057600&v=beta&t=4q9__05fCjtF885UUXz7tIrDxVyOdi_PjCiI61LzwTo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1399,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737338790335?e=1746057600&v=beta&t=xldbs076szXzXaFJ1hKH4Y2GROYChwl8nnKxtA96gRY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGiwtFo8Ks-gA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "alan-hai-yu",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1669855053768?e=1746057600&v=beta&t=edM4SlLn5jVenVY-Fvy6jWuF8TAkwyKfRujw4yq0kGQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1669855053768?e=1746057600&v=beta&t=sTsGMTL8hHzIJGKcKpNaK08LArYc0p2Mwa4raCgFhpY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1669855053768?e=1746057600&v=beta&t=ZzwiqE8zPQv8IEANp2AZEhAhNasESqVVbRkUi6g5L_Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 421,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1669855053768?e=1746057600&v=beta&t=x1ReN1CQCmIoTjqVw_k0VgPbK7r-q1QvLISYmZkPoC8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 421
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGQaEnLXWZk0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "BqGUbel5SBWlbsgNSSIswg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE,48008297,351878652)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZzvhwB_3Ob2wVXCiqz2gmy0LGUa9xwnJw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "description": "- Used React.js to build a full-stack web application that connects individuals and volunteers to non-profit organizations that need volunteers.\n- Implemented an “Events” page with Google Maps API, autocomplete search bar, and dynamic event cards.\n- Used Firebase to store and query persistent data, such as user and event information.",
+                "title": "ChipIn",
+                "url": "https://github.com/megang33/chipin"
+            }
+        ],
+        "skills": [
+            {
+                "name": "PostgreSQL"
+            },
+            {
+                "name": "ASP.NET Web API"
+            },
+            {
+                "name": "Google Cloud Platform (GCP)"
+            },
+            {
+                "name": "C#"
+            }
+        ],
+        "urn_id": "ACoAADlHQsMB0HopN6JnEoHodu_nQATyXh0J1CE"
+    }
+}

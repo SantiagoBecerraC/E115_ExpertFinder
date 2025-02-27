@@ -1,0 +1,1062 @@
+{
+    "urn_id": "ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+    "fetch_timestamp": "2025-02-26T21:36:58.633480",
+    "profile_data": {
+        "summary": "I am currently in an Applied Scientist at Amazon.  \n\nI have work and research experience in the fields of NLP, Conversational AI (language generation and understanding), Reinforcement Learning and Representation Learning from companies like Amazon, JP Morgan Chase, Flipkart and research labs at UMass Amherst, IIT Patna and Bar Ilan University.\n\nAs a Student Researcher at the IESL Lab under Prof Andrew McCallum, I worked on training LMs using contrastive learning to guide the training and inference of RL agents for playing text-based science games. As an Applied Scientist intern at Amazon in the Summer of 2022, I worked on probing Product representations from vision, text, and multi-modal models for identifying products which have similar export-eligibility.\n\nFor two years at Flipkart (Walmart), I worked on problems in Conversational AI: intent detection, entity extraction, sentence segmentation and rescoring ASR beams. Challenges included handling multilinguality, class imbalance, miscalibration, augmentation and robustness. The voice assistants we developed are used by millions of Indians for E-commerce shopping every day. I also participated in hackathons on unsupervised reverse image search and question answering.\n\nI did my B.Tech. in Computer Science and Engineering from Indian Institute of Technology (IIT) Patna, India. I was guided by Dr. Asif Ekbal and Prof. Pushpak Bhattacharyya for my B.Tech Thesis and during my Junior Research Fellowship. My research endeavours were on Style transfer for dialog response generation, Natural Language Understanding for agents, Suggestion Mining, Coreference Resolution, and Question answering.\n\nI also did a short research internship at Bar Ilan University under Prof. Ido Dagan after my Junior Year on Proposition Coreference Resolution for generating Natural Language Knowledge graphs.\n\nI am forever grateful for all the amazing Professors, researchers, and enthusiasts who make ML lectures/theory/code accessible to everyone across the world. I aspire to make the world a better place with ML in my arsenal (one day!)\n\nWebsite: https://hitzkrieg.github.io/website/",
+        "industryName": "Computer Software",
+        "lastName": "Golchha",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Hitesh",
+        "entityUrn": "urn:li:fs_profile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104876347"
+        },
+        "geoLocationName": "Amherst, Massachusetts",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Applied Scientist at Amazon",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEmHgNR8g1LuQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1684794149858?e=1746057600&v=beta&t=jhbgpYGvby_GqQ2ajkwusMAOHBxhv8j5-np76iHooFM",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1684794149858?e=1746057600&v=beta&t=X2ymttN4YJncKjP9xzzacc5GzGoEWnPdiUZIKMkq-aM",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1684794149858?e=1746057600&v=beta&t=avd0U_GOsDsfE-HUul_izU6-k3M0ZJ8OQtD3G5wEIrU",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1684794149858?e=1746057600&v=beta&t=tcMLAz-29Uo2TiABCxR2OQu4iriPI-OTIs9-KlV78UU",
+        "profile_id": "ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+        "member_urn": "urn:li:member:463533998",
+        "public_id": "hgol",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,2319832498)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Applied Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            },
+            {
+                "locationName": "Jersey City, New Jersey, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,2215675138)",
+                "geoLocationName": "Jersey City, New Jersey, United States",
+                "geoUrn": "urn:li:fs_geo:102340689",
+                "companyName": "JPMorgan Chase & Co.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Senior Associate - Data Science Models, MRGR",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1068",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,2046117641)",
+                "companyName": "University of Massachusetts Amherst",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "Pursuing research in playing Text based games using Reinforcement Learning and Contrastive Learning with researchers from IESL (under Prof. Andrew McCallum) and IBM Research",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Student Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:4508",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+            },
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1971469686)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "Product Similarity:\nDesigned probe tasks and compared product embeddings from text and vision based models for export eligibility related tasks relevant to Amazon Global Store. Designed supervised contrastive framework to train export eligibility centric embeddings. Was involved end-to-end from inception, ideation, large-scale data querying, literature survey, implementation, experiments, and presentation to leadership.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Applied Scientist Intern ",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka",
+                "entityUrn": "urn:li:fs_position:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1450174570)",
+                "geoLocationName": "Bengaluru, Karnataka",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Flipkart",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "description": "• Research in NLP + MLOPs for E-Commerce Voice assistants used by millions of users on Flipkart app. \n• I worked on entity extraction, intent detection, multi-intent sentence segmentation, and re-scoring ASR beams. Challenges included handling multi-linguality, class imbalance, calibration, distribution shift, and robustness. \n• I also participated in hackathons with our teams working on reverse image search and question answering.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Development Engineer (ML)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:321062",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEb2s2nxdNpXQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,741805381)",
+                "school": {
+                    "objectUrn": "urn:li:school:18526",
+                    "entityUrn": "urn:li:fs_miniSchool:18526",
+                    "active": true,
+                    "schoolName": "University of Massachusetts Amherst",
+                    "trackingId": "Cd0Ef5yWTZaYNz+R1/LJNw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "description": "Machine Learning (689), Neural Networks - Visual Recognition (682), Reinforcement Learning(687), Probabilistic Graphical Models(688), Advanced NLP(685), Independent Study(696), Algorithms for Data Science (514), Applied Statistics (501), Distributed Operating systems (677)",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University of Massachusetts Amherst",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18526"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,314092771)",
+                "school": {
+                    "objectUrn": "urn:li:school:38840",
+                    "entityUrn": "urn:li:fs_miniSchool:38840",
+                    "active": true,
+                    "schoolName": "Indian Institute of Technology, Patna",
+                    "trackingId": "oFHvjHAyR7qQd31YSbOk8w==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGH4kZC3mionA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "Bachelor of Technology (BTech)",
+                "schoolName": "Indian Institute of Technology, Patna",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:38840"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,317218360)",
+                "school": {
+                    "objectUrn": "urn:li:school:3232322",
+                    "entityUrn": "urn:li:fs_miniSchool:3232322",
+                    "active": true,
+                    "schoolName": "Don Bosco School Guwahati",
+                    "trackingId": "B7/NI5lqSViGoweGnNLnuA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH0j3Yn4ncE3w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2005
+                    }
+                },
+                "schoolName": "Don Bosco School Guwahati",
+                "schoolUrn": "urn:li:fs_miniSchool:3232322"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2024,
+                    "day": 5
+                },
+                "name": "Language Guided Exploration for RL Agents in Text Environments",
+                "publisher": "NAACL 2024",
+                "description": "Real-world sequential decision making is characterized by sparse rewards and large decision spaces, posing significant difficulty for experiential learning systems like tabula rasa reinforcement learning (RL) agents. Large Language Models (LLMs), with a wealth of world knowledge, can help RL agents learn quickly and adapt to distribution shifts. In this work, we introduce Language Guided Exploration (LGE) framework, which uses a pre-trained language model (called GUIDE ) to provide decision-level guidance to an RL agent (called EXPLORER). We observe that on ScienceWorld (Wang et al.,2022), a challenging text environment, LGE outperforms vanilla RL agents significantly and also outperforms other sophisticated methods like Behaviour Cloning and Text Decision Transformer.",
+                "url": "https://arxiv.org/abs/2403.03141",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Hitesh",
+                            "lastName": "Golchha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "occupation": "Applied Scientist at Amazon",
+                            "objectUrn": "urn:li:member:463533998",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1651445210550?e=1746057600&v=beta&t=ZwqsX8sHWgzTKViAP604-IuDpogIGWrRrXrRf0PbyGY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651445210550?e=1746057600&v=beta&t=2jhBdJEmTh1gru9FazsbXbbmZgkAeeTyVl9xJTpGMOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGSbpEplrBv8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "hgol",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1684794149858?e=1746057600&v=beta&t=jhbgpYGvby_GqQ2ajkwusMAOHBxhv8j5-np76iHooFM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1684794149858?e=1746057600&v=beta&t=X2ymttN4YJncKjP9xzzacc5GzGoEWnPdiUZIKMkq-aM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1684794149858?e=1746057600&v=beta&t=avd0U_GOsDsfE-HUul_izU6-k3M0ZJ8OQtD3G5wEIrU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1684794149858?e=1746057600&v=beta&t=tcMLAz-29Uo2TiABCxR2OQu4iriPI-OTIs9-KlV78UU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEmHgNR8g1LuQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dsNWiPTJQ+OgsIcFKuiF2Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sahil",
+                            "lastName": "Yerawar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABnW2PkByVU7YNg047RTnBDRiWDGEOQ8Qdo",
+                            "occupation": "Actively Looking for SDE/MLE/DS roles starting May '24| MS Computer Science Student at UMass Amherst | Ex-Yahoo | Ex-Software Engineer @ Honeywell| GSoC 2018 @ Polly Labs |CSE Alumnus @ IIT Hyderabad",
+                            "objectUrn": "urn:li:member:433510649",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABnW2PkByVU7YNg047RTnBDRiWDGEOQ8Qdo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1713403724055?e=1746057600&v=beta&t=ECWjgpPrXMPeRY0gkt_T6kI7d5oXVzWO5KRHSoeept0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713403724055?e=1746057600&v=beta&t=FY9ZtVkbkuor7rhPVtV0i52FIR1IZRoj1cYiFaic2iE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D16AQE0nc2VrMKSnA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sahil-yerawar-275222101",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1694463156174?e=1741230000&v=beta&t=YPxHiDkzWbl1K8fkf0HegfdsuzqRdBtg0U8YoH0iUg4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1694463156174?e=1741230000&v=beta&t=a9n78xveglS2Let3a8IZMQgB9UaPeAW2KceqNcAVtxo",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1694463156174?e=1741230000&v=beta&t=Uocn9r06X45z2CEEl7BMwIHUmsE_vnGVh27OLBncjXQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1694463156174?e=1741230000&v=beta&t=4umq8aTvVCb_zYqVWel5e2hDg64bXjj-8zWROGeRi4Q",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHjdj3f41hBcA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xN3l1ifLSEWvVyoi0S7IgQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABnW2PkByVU7YNg047RTnBDRiWDGEOQ8Qdo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dhruvesh",
+                            "lastName": "Patel",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAuAtysBdGbufbESZ9K0dgXVwnFayA_ZODY",
+                            "occupation": "Ph.D. Student @ UMass CS | NLP and Machine Learning | Find more at dhruveshp.com",
+                            "objectUrn": "urn:li:member:192984875",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAuAtysBdGbufbESZ9K0dgXVwnFayA_ZODY",
+                            "publicIdentifier": "dhruveshp",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1567319277520?e=1746057600&v=beta&t=2DoQK4HrWnNcxUxaLCV7hJYPu-v6BrXz0K9uUHEbECY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1567319277486?e=1746057600&v=beta&t=pY0BDn4b5N5Xv1g6hO5-poOrC8pR2B5vha4Lgj1YzZI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1567319277555?e=1746057600&v=beta&t=R9lZtd5G8CfrXxPANTe8u__O4oipva-LYQxrspDb_XI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1567319277606?e=1746057600&v=beta&t=_0znUIW9jL1e3-hbenxu7XiO3XlTMxJcDWb3DShMPck",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5103AQEcEKKBvRW7fA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ZDQr3BsiQLGdP7jWG7Dx7A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAuAtysBdGbufbESZ9K0dgXVwnFayA_ZODY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Soham",
+                            "lastName": "Dan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWTXegB_DgS_WXMZGWuuzIWjRmqVc2a-88",
+                            "occupation": "Senior Research Scientist",
+                            "objectUrn": "urn:li:member:361979368",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWTXegB_DgS_WXMZGWuuzIWjRmqVc2a-88",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517035078619?e=1746057600&v=beta&t=sJRH9EE7rCML3SlTVK4mqBaBkDPgR-Ko3E1dCv1-8g0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517035078379?e=1746057600&v=beta&t=z2FglKqtwWXQXL021ZFqRiDwQgWbeDwLju9VFisX_GY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 300
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFJssPF2xVwWg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "soham-dan-974286a1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671156769153?e=1746057600&v=beta&t=UFYA5Q8prFo0UEhY8C7ARwlOGDXFWbvBakilFwjTIGk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671156769153?e=1746057600&v=beta&t=Cw0L4OCItz0z_NWmhHZlsDkkRyVlQkc3O_Mdo0cxhlk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671156769153?e=1746057600&v=beta&t=xRQh_8KmtPAsfqiEMnBwQzZFAq0cz5x80CConh6Q23Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671156769153?e=1746057600&v=beta&t=zjlpazkH2B1YYvt5CSb8ObSSOP4jboMZsL1i9Mn0ivg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFr3kHJV9QEqA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "BW2hmYtFQuq9mYF/BTXPLQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWTXegB_DgS_WXMZGWuuzIWjRmqVc2a-88"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Keerthiram",
+                            "lastName": "Murugesan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADpHIgB7Xs9SNRI8gXxU-ywGRFmO914FWs",
+                            "occupation": "Research Scientist at IBM Thomas J. Watson Research Center",
+                            "objectUrn": "urn:li:member:15277192",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADpHIgB7Xs9SNRI8gXxU-ywGRFmO914FWs",
+                            "publicIdentifier": "keerthiram",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517729077279?e=1746057600&v=beta&t=Bt2p0JoTMZAexKUVAlMMaBo8yUjGOeobauPTlVPWeXo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517729077287?e=1746057600&v=beta&t=6cCMb5TBWtKxBPKTsIBpj-B19reHH6iNfTh-PUhMR7s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517729077189?e=1746057600&v=beta&t=qvbQ4wGgCJ5iQgPum9LVEFv6S-ynHxMX2ZtFcDtAe0A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 450,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517729077327?e=1746057600&v=beta&t=JIj50JK_fDOGra70Vmi4re91khJb8LDLfV0Ot6SAPOg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 450
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGyftua7Y4Wng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "jwAqAFokSnCVUZyoJTQDWQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADpHIgB7Xs9SNRI8gXxU-ywGRFmO914FWs"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2019,
+                    "day": 2
+                },
+                "name": "Courteously Yours: Inducing courteous behavior in Customer Care responses using Reinforced Pointer Generator Network",
+                "publisher": "NAACL-HLT 2019 : The 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies ",
+                "description": "In this paper, we propose an effective deep learning framework for inducing courteous behavior in customer care responses. The interaction between a customer and the customer care representative contributes substantially to the overall customer experience. Thus it is imperative for customer care agents and chatbots engaging with humans to be personal, cordial and emphatic to ensure customer satisfaction and retention. Our system aims at automatically transforming neutral customer care responses into courteous replies. Along with stylistic transfer (of courtesy), our system ensures that responses are coherent with the conversation history, and generates courteous expressions consistent with the emotional state of the customer. Our technique is based on a reinforced pointer-generator model for the sequence to sequence task. The model is also conditioned on a hierarchically encoded and emotionally aware conversational context. We use real interactions on Twitter between customer care professionals and aggrieved customers to create a large conversational dataset having both forms of agent responses: ‘generic’ and ‘courteous’. We perform quantitative and qualitative analyses on established and task-specific metrics, both automatic and human evaluation based. Our evaluation shows that the proposed models can generate emotionally-appropriate courteous expressions while preserving the content. Experimental results also prove that our proposed approach performs better than the baseline models.",
+                "url": "https://www.aclweb.org/anthology/papers/N/N19/N19-1091/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Hitesh",
+                            "lastName": "Golchha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "occupation": "Applied Scientist at Amazon",
+                            "objectUrn": "urn:li:member:463533998",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1651445210550?e=1746057600&v=beta&t=ZwqsX8sHWgzTKViAP604-IuDpogIGWrRrXrRf0PbyGY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651445210550?e=1746057600&v=beta&t=2jhBdJEmTh1gru9FazsbXbbmZgkAeeTyVl9xJTpGMOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGSbpEplrBv8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "hgol",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1684794149858?e=1746057600&v=beta&t=jhbgpYGvby_GqQ2ajkwusMAOHBxhv8j5-np76iHooFM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1684794149858?e=1746057600&v=beta&t=X2ymttN4YJncKjP9xzzacc5GzGoEWnPdiUZIKMkq-aM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1684794149858?e=1746057600&v=beta&t=avd0U_GOsDsfE-HUul_izU6-k3M0ZJ8OQtD3G5wEIrU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1684794149858?e=1746057600&v=beta&t=tcMLAz-29Uo2TiABCxR2OQu4iriPI-OTIs9-KlV78UU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEmHgNR8g1LuQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dsNWiPTJQ+OgsIcFKuiF2Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY"
+                    },
+                    {
+                        "name": "Mauajama Firdaus"
+                    },
+                    {
+                        "name": "Dr. Asif Ekbal"
+                    },
+                    {
+                        "name": "Prof. Pushpak Bhattacharyya"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2018,
+                    "day": 17
+                },
+                "name": "Helping each Other: A Framework for Customer-to-Customer Suggestion Mining using a Semi-supervised Deep Neural Network",
+                "publisher": "ICON 2018 : 15th International Conference on Natural Language Processing",
+                "description": "Suggestion mining is increasingly becoming an important task along with sentiment analysis. In today's cyberspace world, people not only express their sentiments and dispositions towards some entities or services, but they also spend considerable time sharing their experiences and advice to fellow customers and the product/service providers with two-fold agenda: helping fellow customers who are likely to share a similar experience, and motivating the producer to bring specific changes in their offerings which would be more appreciated by the customers. In our current work, we propose a hybrid deep learning model to identify whether a review text contains any suggestion. The model employs semi-supervised learning to leverage the useful information from the large amount of unlabeled data. We evaluate the performance of our proposed model on a benchmark customer review dataset, comprising of the reviews of Hotel and Electronics domains. Our proposed approach shows the F-scores of 65.6% and 65.5% for the Hotel and Electronics review datasets, respectively. These performances are significantly better compared to the existing state-of-the-art system.",
+                "url": "https://arxiv.org/abs/1811.00379",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Hitesh",
+                            "lastName": "Golchha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "occupation": "Applied Scientist at Amazon",
+                            "objectUrn": "urn:li:member:463533998",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1651445210550?e=1746057600&v=beta&t=ZwqsX8sHWgzTKViAP604-IuDpogIGWrRrXrRf0PbyGY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651445210550?e=1746057600&v=beta&t=2jhBdJEmTh1gru9FazsbXbbmZgkAeeTyVl9xJTpGMOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGSbpEplrBv8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "hgol",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1684794149858?e=1746057600&v=beta&t=jhbgpYGvby_GqQ2ajkwusMAOHBxhv8j5-np76iHooFM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1684794149858?e=1746057600&v=beta&t=X2ymttN4YJncKjP9xzzacc5GzGoEWnPdiUZIKMkq-aM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1684794149858?e=1746057600&v=beta&t=avd0U_GOsDsfE-HUul_izU6-k3M0ZJ8OQtD3G5wEIrU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1684794149858?e=1746057600&v=beta&t=tcMLAz-29Uo2TiABCxR2OQu4iriPI-OTIs9-KlV78UU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEmHgNR8g1LuQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dsNWiPTJQ+OgsIcFKuiF2Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY"
+                    },
+                    {
+                        "name": "Deepak Gupta"
+                    },
+                    {
+                        "name": "Dr. Asif Ekbal"
+                    },
+                    {
+                        "name": "Prof. Pushpak Bhattacharyya"
+                    }
+                ]
+            },
+            {
+                "name": "A Deep Multi-task Model for Dialogue Act Classification, Intent Detection and Slot Filling",
+                "publisher": "Cognitive Computation",
+                "description": "An essential component of any dialogue system is understanding the language which is known as spoken language understanding (SLU). Dialogue act classification (DAC), intent detection (ID) and slot filling (SF) are significant aspects of every dialogue system. In this paper, we propose a deep learning-based multi-task model that can perform DAC, ID and SF tasks together. We use a deep bi-directional recurrent neural network (RNN) with long short-term memory (LSTM) and gated recurrent unit (GRU) as the frameworks in our multi-task model. We use attention on the LSTM/GRU output for DAC and ID. The attention outputs are fed to individual task-specific dense layers for DAC and ID. The output of LSTM/GRU is fed to softmax layer for slot filling as well. Experiments on three datasets, i.e. ATIS, TRAINS and FRAMES, show that our proposed multi-task model performs better than the individual models as well as all the pipeline models. The experimental results prove that our attention-based multi-task model outperforms the state-of-the-art approaches for the SLU tasks. For DAC, in relation to the individual model, we achieve an improvement of more than 2% for all the datasets. Similarly, for ID, we get an improvement of 1% on the ATIS dataset, while for TRAINS and FRAMES dataset, there is a significant improvement of more than 3% compared to individual models. We also get a 0.8% enhancement for ATIS and a 4% enhancement for TRAINS and FRAMES dataset for SF with respect to individual models. Results obtained clearly show that our approach is better than existing methods. The validation of the obtained results is also demonstrated using statistical significance t tests.",
+                "url": "https://link.springer.com/article/10.1007/s12559-020-09718-4",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Hitesh",
+                            "lastName": "Golchha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "occupation": "Applied Scientist at Amazon",
+                            "objectUrn": "urn:li:member:463533998",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1651445210550?e=1746057600&v=beta&t=ZwqsX8sHWgzTKViAP604-IuDpogIGWrRrXrRf0PbyGY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651445210550?e=1746057600&v=beta&t=2jhBdJEmTh1gru9FazsbXbbmZgkAeeTyVl9xJTpGMOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGSbpEplrBv8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "hgol",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1684794149858?e=1746057600&v=beta&t=jhbgpYGvby_GqQ2ajkwusMAOHBxhv8j5-np76iHooFM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1684794149858?e=1746057600&v=beta&t=X2ymttN4YJncKjP9xzzacc5GzGoEWnPdiUZIKMkq-aM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1684794149858?e=1746057600&v=beta&t=avd0U_GOsDsfE-HUul_izU6-k3M0ZJ8OQtD3G5wEIrU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1684794149858?e=1746057600&v=beta&t=tcMLAz-29Uo2TiABCxR2OQu4iriPI-OTIs9-KlV78UU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEmHgNR8g1LuQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dsNWiPTJQ+OgsIcFKuiF2Q=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY"
+                    },
+                    {
+                        "name": "Mauajama Firdaus"
+                    },
+                    {
+                        "name": "Asif Ekbal"
+                    },
+                    {
+                        "name": "Pushpak Bhattacharyya"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Hitesh",
+                            "lastName": "Golchha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "occupation": "Applied Scientist at Amazon",
+                            "objectUrn": "urn:li:member:463533998",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1651445210550?e=1746057600&v=beta&t=ZwqsX8sHWgzTKViAP604-IuDpogIGWrRrXrRf0PbyGY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651445210550?e=1746057600&v=beta&t=2jhBdJEmTh1gru9FazsbXbbmZgkAeeTyVl9xJTpGMOI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGSbpEplrBv8w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "hgol",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1684794149858?e=1746057600&v=beta&t=jhbgpYGvby_GqQ2ajkwusMAOHBxhv8j5-np76iHooFM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1684794149858?e=1746057600&v=beta&t=X2ymttN4YJncKjP9xzzacc5GzGoEWnPdiUZIKMkq-aM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1684794149858?e=1746057600&v=beta&t=avd0U_GOsDsfE-HUul_izU6-k3M0ZJ8OQtD3G5wEIrU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1684794149858?e=1746057600&v=beta&t=tcMLAz-29Uo2TiABCxR2OQu4iriPI-OTIs9-KlV78UU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEmHgNR8g1LuQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dsNWiPTJQ+OgsIcFKuiF2Q=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1564701111,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dnyaneshwar",
+                            "lastName": "Shendurwadkar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABduI8UBcHI60mMH0T09wt-wYnERNbWMrTs",
+                            "occupation": "Senior Software Development Engineer at Amazon",
+                            "objectUrn": "urn:li:member:393094085",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABduI8UBcHI60mMH0T09wt-wYnERNbWMrTs",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1517584515868?e=1746057600&v=beta&t=xHTQOoSmIZCQXqkkYI9Cd_j4KeXr7IMuQT6FL08q-Uw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517584515866?e=1746057600&v=beta&t=yg0HpGj-pftkjqNReGVY81aes4ymnxBniBc0DM3ydf8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5116AQHW27D3p_EUfQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "dnysdk",
+                            "trackingId": "bdkCSGr/TN+OgYdxgCO6Tg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1564701111,2)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABduI8UBcHI60mMH0T09wt-wYnERNbWMrTs"
+                    },
+                    {
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1564701111,3)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABliv9EBH-PiH1t9ec8NWCnszPIYyO432yQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anupam",
+                            "lastName": "Das",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABG7VbIBx_GvSyBcabL4QTgQmDwXwElBT40",
+                            "occupation": "Senior Software Engineer @ Google DeepMind | Google Gemini",
+                            "objectUrn": "urn:li:member:297489842",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABG7VbIBx_GvSyBcabL4QTgQmDwXwElBT40",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1586526700446?e=1746057600&v=beta&t=Ym5gOD9a2ldsvlqB95kh3oS_Nc0TsiIu9yr7k1D--Q8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1586526700500?e=1746057600&v=beta&t=EuBGb6K2jt55dN61xLPr_wPpVE6s6MItyV22DRbkKAM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5116AQHtAmjJwhvyiA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "opticod",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1690045510549?e=1746057600&v=beta&t=QL3ODLOBGI6YEihXOXkKmpK77k49JuuOhWlPsHdWHy8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1690045510549?e=1746057600&v=beta&t=X5OtT9n59mGzicWcUNUGl44T5drFexS2qAQhOaj4UUM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1690045510549?e=1746057600&v=beta&t=3I4mVBSDF8BSVj7TNBh3YQ_Q143Vg0ItrGo4TdySpy0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1690045510549?e=1746057600&v=beta&t=iwIEsgs8JvDfkXpwtvDUi1oCKWhv4vuIjuc15Y42WzE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEEI5QtLrq1bA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "czLfs9x6QxaQA1Bxvp0ekw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1564701111,4)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABG7VbIBx_GvSyBcabL4QTgQmDwXwElBT40"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Jitendra",
+                            "lastName": "Kumar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABscECYBmEMt7kLWdM1daEE4k9_cn24iaSg",
+                            "occupation": "Software Engineer II at Uber | Computer Science, IIT Patna",
+                            "objectUrn": "urn:li:member:454823974",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABscECYBmEMt7kLWdM1daEE4k9_cn24iaSg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1699073600282?e=1746057600&v=beta&t=xXljAmVjgi8w7JLtiCOs7DinKQLKxtxi1uT4r0u6YNk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 860,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699073600282?e=1746057600&v=beta&t=gUIq9MBdFuw6xCBCNlrTdhAe8QLGuaMq-LB74ywK3bc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 215
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEmHyJqR3keCw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jitendrakr88",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZPTpb8IGQAU-/0/1734422677354?e=1746057600&v=beta&t=4_Y0BC1qZPoiBr-VzPYhBrrJ1RjtyOJlGYyGTfLa7_Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZPTpb8IGQAc-/0/1734422677354?e=1746057600&v=beta&t=yubOtLuHswgI637M-b8oTrx7OvpqMLEWHT6Gy2NlLlk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZPTpb8IGQAY-/0/1734422677354?e=1746057600&v=beta&t=hbUabIJh6MK7N0FuSlXgvFL6LtAoT0jVo6wQVItTEjU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZPTpb8IGQAg-/0/1734422677345?e=1746057600&v=beta&t=Q73Fq4sMK68riwiTt93HD2XOgsqs9KzzXdOI2tLcXiI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEvK06QIJ07_A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "mmtfhY04So2S463c+utMYA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY,1564701111,5)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABscECYBmEMt7kLWdM1daEE4k9_cn24iaSg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "description": "•EduBee is an E-learning platform where anyone can design  and teach his/ her own course- with a lot of flexibility, adding their online coding assignments with evaluation, video tutorials and quizzes.\nUsers can learn from open online courses and find collaborators online for their projects.\n• I was the project Manager and my tasks included implementing the search of the website, and co-ordinating weekly discussion sessions and project planning.\n•It was 4 month team project. We used PHP for back end development and HTML,CSS,JavaScript for front end along with MySQL database.Edubee was successfully completed in April 2016.",
+                "title": "EDUBEE"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Contrastive Learning"
+            },
+            {
+                "name": "Natural Language Processing"
+            },
+            {
+                "name": "Text based Games"
+            },
+            {
+                "name": "Language Modeling"
+            }
+        ],
+        "urn_id": "ACoAABug964BXbB3rXPowgcgByNi1vMB3sz4zKY"
+    }
+}

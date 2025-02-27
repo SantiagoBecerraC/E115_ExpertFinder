@@ -1,0 +1,195 @@
+{
+    "urn_id": "ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk",
+    "fetch_timestamp": "2025-02-26T21:36:40.476246",
+    "profile_data": {
+        "summary": "Around 8+ years of professional IT experience, specializing in Machine Learning algorithms such as Ensemble Methods (Random Forests), Data Analytics, Predictive Modeling, Natural Language Processing (NLP), Deep Learning algorithms, and various forms of Regression (Linear, Polynomial, Logistic).\nProficient in Support Vector Machines (SVM), Deep Neural Networks, Extreme Gradient Boosting, Decision Trees, K-Means, K-NN, Gaussian Mixture Models, Naive Bayes, and Convolutional Neural Networks (CNN), including LSTM models. Expertise in implementing Time Series Models using RNNs, LSTMs, MMM, ARIMA, and SARIMA.\nData Scientist with a strong grasp of the Data Science lifecycle, OOP principles, Python , Streamlit, Fastapi,expertise, and solid mathematics and statistics foundation.\nSkilled in managing the entire data science project lifecycle: Data Cleaning, Exploratory Data Analysis (EDA), Data Extraction, Data Pre-Processing, Feature Engineering, Dimensionality Reduction, Algorithm Implementation, Back Testing, and Validation.\nCompetent in handling Structured and Unstructured data, Time Series data, and statistical methodologies like Hypothesis Testing, ANOVA, multivariate statistics, modeling, decision theory, time-series analysis, and Descriptive statistics. Utilized Azure Cognitive Services for advanced text analytics.\nLeveraged JavaScript and Django for developing dynamic, data-driven web applications, integrating advanced analytics and interactive features with a focus on scalable, efficient solutions.\nUtilized GCP tools like BigQuery and Pub/Sub for managing large-scale data analysis and real-time processing, optimizing data workflows and deploying scalable machine learning models.\nProficient in implementing Retrieval-Augmented Generation (RAG) to enhance natural language processing models by integrating real-time retrieval mechanisms, improving the accuracy and contextual relevance of generative AI outputs. Experienced with tools and frameworks like Hugging Face Transformers, ElasticSearch, Faiss, and OpenAI’s API for implementing RAG workflows.\nSkilled in working with Large Language Models (LLMs) for tasks such as text generation, summarization, and translation, utilizing models like GPT, BERT, T5, and others within GCP’s Vertex AI, Azure OpenAI Service, and Hugging Face's model hub. Proficient in using TensorFlow, PyTorch, and Transformers library for fine-tuning and deploying these models at scale.",
+        "industryName": "Electrical & Electronic Manufacturing",
+        "lastName": "V",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:112",
+        "firstName": "Devika",
+        "entityUrn": "urn:li:fs_profile:ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior AI/ML Engineer| Data Scientist at JP Morgan",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQHQhtHDqjoyqw/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1738683364917?e=1741230000&v=beta&t=YRYRl_Z6sik1z0VtirxZzsOBzrOy6uNaMtcE9U23c7g",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1738683364917?e=1741230000&v=beta&t=RF2uHsI3I-VIf9feLwDeDhJANLfnySW_t7TGv13oUfg",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1738683364917?e=1741230000&v=beta&t=lR_TiuG3sbliZ22aZjCJZ3JxstfYsIcPsnsJlYOs7dU",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1738683364849?e=1741230000&v=beta&t=RHuYZpUNeBBv-zwwcvUZS3ZesCDKzaXDUVa5SySeym0",
+        "profile_id": "ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk",
+        "member_urn": "urn:li:member:528593069",
+        "public_id": "devika-v-925036129",
+        "experience": [
+            {
+                "locationName": "NYC",
+                "entityUrn": "urn:li:fs_position:(ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk,1552849084)",
+                "geoLocationName": "NYC",
+                "companyName": "JPMorganChase",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Senior AI/ML Engineer/ Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:1068",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_"
+            },
+            {
+                "locationName": "New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk,2454748395)",
+                "geoLocationName": "New York, United States",
+                "geoUrn": "urn:li:fs_geo:105080838",
+                "companyName": "TATA AIG General Insurance Company Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Insurance"
+                    ]
+                },
+                "title": "Senior AI/ML Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:8207",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFcK2D_Hy3bxQ/company-logo_"
+            },
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk,2454747471)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Hewlett Packard Enterprise",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Machine Learning Engineer/Data Scientist",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:1025",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH6qdm7VJ5BPA/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk,1552846372)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Accenture",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Data Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk,1006991733)",
+                "school": {
+                    "objectUrn": "urn:li:school:5102013",
+                    "entityUrn": "urn:li:fs_miniSchool:5102013",
+                    "active": true,
+                    "schoolName": "Vignan's Foundation for Science, Technology & Research",
+                    "trackingId": "GH9Wt6jkRGCNpt5DKZA5Bw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQFpDbDWacx_fA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2010
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Vignan's Foundation for Science, Technology & Research",
+                "fieldOfStudy": "ECE",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:5102013"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Microsoft Excel"
+            },
+            {
+                "name": "Microsoft PowerPoint"
+            },
+            {
+                "name": "Microsoft Word"
+            }
+        ],
+        "urn_id": "ACoAAB-BsK0Bn5RvncKfdLVs4Iq3fdxB5FaGZDk"
+    }
+}

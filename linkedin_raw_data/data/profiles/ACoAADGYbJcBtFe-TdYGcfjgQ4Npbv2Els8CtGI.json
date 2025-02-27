@@ -1,0 +1,923 @@
+{
+    "urn_id": "ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+    "fetch_timestamp": "2025-02-26T21:20:47.099744",
+    "profile_data": {
+        "summary": "I am pursuing Masters in Computer Science at Arizona State University. I graduated from the Birla Institute of Technology and Science, Pilani, Dubai Campus with a Bachelor of Engineering degree in Computer Science. My research interests include Deep Learning and Artificial Intelligence. I am looking to explore new opportunities in these areas; please contact me at aagar115@asu.edu.",
+        "industryName": "Computer Software",
+        "lastName": "Agarwal",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Ayushi",
+        "entityUrn": "urn:li:fs_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102448103"
+        },
+        "geoLocationName": "Los Angeles, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Software Engineer @ Google | Ex-Tesla",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+        "profile_id": "ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+        "member_urn": "urn:li:member:832072855",
+        "public_id": "ayushi-agarwal08",
+        "experience": [
+            {
+                "locationName": "Los Angeles, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,2536342826)",
+                "geoLocationName": "Los Angeles, California, United States",
+                "geoUrn": "urn:li:fs_geo:102448103",
+                "companyName": "Google",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "locationName": "Austin, Texas, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,2415960260)",
+                "geoLocationName": "Austin, Texas, United States",
+                "geoUrn": "urn:li:fs_geo:104472865",
+                "companyName": "Denim Health",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:95073825",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEppYbw4d10yg/company-logo_"
+            },
+            {
+                "locationName": "Austin, Texas, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,2324621430)",
+                "geoLocationName": "Austin, Texas, United States",
+                "geoUrn": "urn:li:fs_geo:104472865",
+                "companyName": "Tesla",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Software Engineer Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:15564",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,2227898242)",
+                "companyName": "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "description": "- Preparing and evaluating weekly assignments for CSE 551: Foundations of Algorithms, fostering student understanding of key algorithmic concepts.\n- Crafting comprehensive exams and quizzes, ensuring rigorous assessment of students' algorithmic problem-solving skills.\n- Offering dedicated support to students through proactive engagement during office hours, addressing questions, and clarifying complex algorithmic principles for enhanced learning outcomes.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Teaching Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:15140834",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHGiYb0DHKo8g/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,2233617727)",
+                "companyName": "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "description": "- Responsible for designing and assessing weekly assignments aimed at solidifying students' grasp of fundamental concepts within the course CSE 205: Object-Oriented Programming and Data Structures.\n- Actively engage with students during office hours, promptly addressing inquiries related to course content, assignments, and coding complexities.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Instructional Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:15140834",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHGiYb0DHKo8g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1378659990)"
+                ],
+                "description": "Grade: 4.0/4.0",
+                "degreeName": "Master's degree",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1621863762)",
+                    "urn:li:fs_honor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1519228379)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:17769",
+                "entityUrn": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,819147403)",
+                "school": {
+                    "objectUrn": "urn:li:school:17769",
+                    "entityUrn": "urn:li:fs_miniSchool:17769",
+                    "active": true,
+                    "schoolName": "Arizona State University",
+                    "trackingId": "ou74r9kmSN+e1o1s3tm3XQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "schoolName": "Arizona State University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:500"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1384684104)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,666718578)",
+                "school": {
+                    "objectUrn": "urn:li:school:161222",
+                    "entityUrn": "urn:li:fs_miniSchool:161222",
+                    "active": true,
+                    "schoolName": "Birla Institute Of Technology and Science, Pilani Dubai",
+                    "trackingId": "TZo9lsHMTf+oBwzKIRuIhg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHc3-OR3dAtZQ/company-logo_"
+                },
+                "activities": "-Captain of Chess Team [2020-2022]\n-President of Shades, the Art Club [2021-2022]\n-Campus Ambassador for BITS Sports Festival, the largest inter-university sports festival in the UAE [2019]",
+                "grade": "9.62/10",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Birla Institute Of Technology and Science, Pilani Dubai",
+                "fieldOfStudy": "Computer Science",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,503436462)",
+                    "urn:li:fs_honor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1578904008)",
+                    "urn:li:fs_honor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1518383391)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:161222"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "name": "Can NLP Models ‘Identify’, ‘Distinguish’, and ‘Justify’ Questions that Don't have a Definitive Answer?",
+                "publisher": "TrustNLP @ ACL 2023",
+                "url": "https://arxiv.org/abs/2309.04635",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            },
+            {
+                "name": "Constraint-Based Multi-organ Identification in CT Images using Unsupervised Learning",
+                "publisher": "2022 IEEE Nuclear Science Symposium, Medical Imaging Conference and RTSD Conference",
+                "url": "https://ieeexplore.ieee.org/document/10398918",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            },
+            {
+                "name": "Genetic Learning and Ensemble Learning Aided Text Classification using Support Vector Machines",
+                "publisher": "International Journal of Advanced Computer Science and Application (IJACSA)",
+                "description": "Text classification is one of the areas where machine learning algorithms are used. The size of the dataset and the methods used for converting the textual words into vectors play a major role in classifying them. This paper proposes a heuristic-based approach to classify the documents using Genetic Algorithm aided Support Vector Machines (SVM) and an Ensemble Learning approach. The real-valued representation of the textual data into vectors is done by applying Term Frequency–Inverse Document Frequency (TF-IDF) and Bi-Normal Separation (BNS). However, in this paper, the common data misclassification issue in SVM is overcome by introducing two algorithms that add weightage to accurate classification. The first algorithm applied BNS and TF-IDF along with ensemble learning and constructs a voting classifier for classifying the textual documents. The results produced justify that TF-IDF produces good results with voting classifier than BNS for classification. Henceforth TF-IDF is applied in the subsequent approach for vector generation. Secondly, a genetic algorithm is applied along with OneVsRest strategy in SVM to overcome the drawback of multiclass multilabel classification. The results show that the Genetic algorithm improves the accuracy of classification even with a very small labeled dataset, as the genetic algorithm applies the process of Mutation and Cross over across many generations to understand the pattern of the right classification.",
+                "url": "https://thesai.org/Downloads/Volume12No8/Paper_30-Genetic_Algorithm_and_Ensemble_Learning_Aided.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            },
+            {
+                "name": "LPRNet: A Novel Approach for Novelty Detection in Networking Packets",
+                "publisher": "International Journal of Advanced Computer Science and Application (IJACSA)",
+                "description": "Novelty Detection is a task of recognition of abnormal data points within a given system. Recently, this task has been performed using Deep Learning Autoencoders, but they face several drawbacks which include the problem of identity mapping, adversarial perturbations and optimization algorithms. In this paper, we have proposed a novel approach LPRNet, a Denoising Autoencoder which uses algorithms such as Least Trimmed Square, Projected Gradient Descent and Robust Principal Component Analysis, to solve the above-mentioned problems. LRPNet is then trained and tested on NSL-KDD dataset, and experiments have been performed using Accuracy as performance metric for comparing the existing models with the proposed model. The results show that LRPNet has the maximum accuracy of 95.9% and performed better than all the previous state-of-the-art algorithms.",
+                "url": "https://thesai.org/Publications/ViewPaper?Volume=13&Issue=2&Code=IJACSA&SerialNo=13",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            },
+            {
+                "name": "Machine Learning Driven Biomarker Selection for Medical Diagnosis",
+                "url": "https://arxiv.org/abs/2405.10345",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            },
+            {
+                "name": "Performance Analysis of Machine Learning Algorithms and Feature Extraction Methods for Sentiment Analysis",
+                "publisher": "International Conference on Innovative Computing, Intelligent Communication and Smart Electrical systems (ICSES-2021)",
+                "description": "Sentiment Analysis is the process of evaluating the document or sentence and assigning it a polarity. It has been a key area of research for the past few years. With the evolution of the World Wide Web, many platforms such as Twitter, Facebook, etc. came up where people can express their emotions related to an object, movie, or any political party. These reviews are read by many people before taking some decision, and hence it is very important for the Sentiment Analysis models to assign polarity to the reviews properly. In this paper, we will be analyzing different existing Machine Learning algorithms such as Linear Regression, Support Vector Machine, Decision Trees, Random Forest, and Maximum Entropy Model used for Sentiment Analysis, along with 2 most used methods of feature extraction, Bag-of-Words(BOW) and Term Frequency- Inverse Document Frequency (TF-IDF). The results showed that BOW used with Linear Regression models shows the best results achieving an accuracy score of 34.83% and takes minimum time for training.",
+                "url": "https://ieeexplore.ieee.org/document/9633882",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            },
+            {
+                "name": "Review of Symmetric Cryptographic Ciphers",
+                "publisher": "International Journal of Science and Research",
+                "description": "Cryptography is a field of computer science that deals with the integrity and confidentiality of the data sent across the internet. It converts the data into a meaningless form, from which the attacker will not be able to infer any useful information. One of the most used types of cryptography for data hiding is symmetric key cryptography. In this paper, we have given a summarized form of all the reviews done on symmetric key cryptographic algorithms along with their advantages and disadvantages. We have also proposed a solution that helps us to overcome the disadvantage of the AES cryptographic algorithm.",
+                "url": "https://www.ijsr.net/archive/v10i8/SR21820135356.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "The Complete Tableau Bootcamp for Data Visualization",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "L1e8qWbwT/+SkvJIyZebsQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": "SQL - MySQL for Data Analytics and Business Intelligence",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "2JWDORlISEmnW9VgyEcVvw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,666718578)",
+                "title": "Best Chess Player of the Batch 2018-2022"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,666718578)",
+                "title": "Director’s All Round Achievement Medal "
+            },
+            {
+                "description": "Received Graduate College Q1 Travel Award for ACL 2023 from ASU.",
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,819147403)",
+                "title": "Graduate College Q1 Travel Award"
+            },
+            {
+                "description": "Received a scholarship at BITS Pilani Dubai Campus for maintaining an exceptional CGPA throughout my undergraduate studies.",
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,666718578)",
+                "title": "Merit-Based Scholarship"
+            },
+            {
+                "description": "Got merit-based scholarship (NAmU) on admission to Arizona State University for MS in Computer Science.",
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,819147403)",
+                "title": "New American University Scholarship"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1954327480,396921368)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "Massive Large Language Models such as GPT2, GPT3, PaLM, and Llama are rated highly on the task of text generation, however when we explore story generation - the task of generating synthetic coherent and fluent story, then these models often suffer from the problems such as inconsistency, adding new facts such as characters and plot out of nowhere, and moving away from the storyline. To overcome these facts, we are proposing a framework called Visual Story Telling, which comprises a text generation model and a Stable Diffusion Model. Text Generation model is fine-tuned on a custom-created dataset for the task of content-conditioned story generation which is inspired by Plan based/ Hierarchical Story Generation methodology. We proposed a dataset called Plot Summary Dataset which contains information such as Title, Plot, Characters, Inter-Character Relations, and Genre, which are used to condition the output of DistilGPT and T5. This generated story is then utilized by Stable Diffusion models for the task of visual conversion in a sentence-by-sentence format.",
+                "title": "Visual Story Telling"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,819147403)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1378659990,398220439)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Accurate flight delay prediction is crucial to establish a more efficient airline and airport operation. Flight delays have a negative impact on passengers, who in order to ensure timely arrival plan to travel earlier then their appointments as well as airlines, which suffer due to fines, penalties, additional operational costs and even affecting their reputation. Not only this, delays may even cause environmental damage due to increased fuel consumption and gas emissions. If the flight delays are forecasted in a timely fashion, necessary measures to reduce the economic and credit losses can be adopted. Therefore, it is very important to predict flight delays accurately in real time. In this paper, I have proposed a novel high precision model for forecasting US flight delays which uses algorithms such as a TabTransformer, Z-score normalization and Synthetic Minority Oversampling technique. The model is trained and tested on an open dataset collected by the Bureau of Transportation Statistics of United State Department of Transportation, and experiments have been performed using area under the Receiver Operating Characteristic curve (AUC) as the performance metric for comparing the performance of the proposed model against the existing Machine Learning models. The results show that the proposed model has the maximum AUC of 0.71 and performed better than all the existing Machine Learning algorithms.",
+                "title": "Flight Delay Prediction using Transformers"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,666718578)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ayushi",
+                            "lastName": "Agarwal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "occupation": "Software Engineer @ Google | Ex-Tesla",
+                            "objectUrn": "urn:li:member:832072855",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI",
+                            "publicIdentifier": "ayushi-agarwal08",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1703660636781?e=1746057600&v=beta&t=ij--Sx1m6xn9tHnmn4vF6o4rfFWEbZ0yJ49apeY89rk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1703660636781?e=1746057600&v=beta&t=gnA4NcNdrWJAk0xR0Yc7Yq-bMZDrfP0KNlXn1UMmt4w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1703660636781?e=1746057600&v=beta&t=btTFDuNTkFIp8hE6HoYyAe3sXXH9qBDpfoAghER_2DU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1703660636781?e=1746057600&v=beta&t=-YnSNpqVxkiropVfd6F7x1ylOdTlPU3sGyaAhtLG4dQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEBpM1A-NM46g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2fXUDH39Sym1RQCgQmdOJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI,1384684104,376838521)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "description": "In medical records, it has been said that earlier detection of melanoma can be very helpful and lifesaving as the patient can get proper treatment on time. Recent studies have shown that Convolutional Neural Networks can be used to detect skin cancer from images which can help dermatologists in their diagnosis. In this paper, we applied data augmentation and resampling for adjusting the size of dataset and then compared GoogleInceptionV3 and EfficientB7 models using transfer learning on basis of accuracy. The results show that Transformation is a better algorithm to deal with the problem of data insufficiency, but Resampling being a method where we have very few images has also shown comparable results.",
+                "title": "Is Transformation better than Resampling for Lesion Segmentation using Deep Learning in Dermatology?",
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015031"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Chess"
+            },
+            {
+                "name": "Teamwork"
+            },
+            {
+                "name": "Research Skills"
+            },
+            {
+                "name": "Leadership"
+            }
+        ],
+        "urn_id": "ACoAADGYbJcBtFe-TdYGcfjgQ4Npbv2Els8CtGI"
+    }
+}

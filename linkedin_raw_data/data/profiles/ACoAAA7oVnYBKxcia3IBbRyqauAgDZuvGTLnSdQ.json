@@ -1,0 +1,578 @@
+{
+    "urn_id": "ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+    "fetch_timestamp": "2025-02-26T21:50:39.433389",
+    "profile_data": {
+        "summary": "Experienced Data Scientist Manager with over 11 years of expertise in leveraging advanced AI technologies to drive transformative solutions. Passionate about leveraging cutting-edge technologies, including Generative AI, finetuning LLMs, and RAG, to solve complex data challenges and drive innovation. Open to exploring opportunities in AI, Machine Learning, and Data Science to create impactful solutions for today's dynamic world.\n\nSpecializing in:\nComputer Vision: Deep learning architectures for Image Recognition, Object Detection, Object Tracking, Semantic Segmentation. Expertise in applications across diverse domains including biomedical imaging.\n\nNatural Language Processing (NLP): Transformer-based models, BERT, GPT, Text Classification, Named Entity Recognition (NER), Question Answering systems. Skilled in deploying solutions for Text-to-Queries (SQL/CQL), Voice-to-Text, and Conversational AI. Experienced in fine-tuning Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) for enhanced performance in text generation tasks.\n\nDeep Learning: Advanced techniques including Generative Adversarial Networks (GANs), Reinforcement Learning, and attention mechanisms in LSTMs and Transformers. Applied to complex datasets in IoT, healthcare, and finance.\n\nGenerative AI: Experience in creating and deploying generative models for text, images, and audio. Proficient in state-of-the-art frameworks and techniques such as OpenAI's GPT, StyleGAN, and Variational Autoencoders (VAEs).\n\nMachine Learning: Ensemble methods, XGBoost, AutoML, Explainable AI, and model interpretability techniques. Experience in scalable solutions using cloud-based services like AWS SageMaker, Azure ML, and Google Cloud AI Platform.\n\nCloud/Big Data Technologies: Proficient in Apache Kafka, Kubernetes, Docker for containerized deployments. Hands-on experience with Big Data frameworks like Apache Spark, Hadoop ecosystem, and streaming analytics with Apache Flink.\n\nData Visualization: Expertise in interactive visualizations using Python libraries (Plotly, Dash) and JavaScript frameworks (D3.js). Skilled in building intuitive dashboards with Power BI, Tableau, and custom web-based tools.",
+        "industryName": "Computer & Network Security",
+        "lastName": "Singhal",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 2,
+            "day": 27
+        },
+        "industryUrn": "urn:li:fs_industry:118",
+        "firstName": "Shrashti",
+        "entityUrn": "urn:li:fs_profile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103729483"
+        },
+        "geoLocationName": "Santa Fe, New Mexico",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Principal Data Scientist at Culinda Inc.| Cybersecurity | Healthcare| Gen AI| GeoPolitics",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGjArI6XtB7Sg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1653055989640?e=1746057600&v=beta&t=UfQk_zhXHQNNFx3l-XErElXoC8hJXQMmFJ1DqUi6XTI",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1653055989640?e=1746057600&v=beta&t=f7NFaW6elZpJJoiNJxEw5vubl25MYYlywzF6uMZLGmk",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1653055989640?e=1746057600&v=beta&t=S0pij0md6l4IL35Dy8Hh0QQsxBlGidme5x-aMz5V1PU",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1653055989640?e=1746057600&v=beta&t=noIhn5CUbZ4_UI3Xpuuaw_qZ4-UtzpuFI_an-AhSZSs",
+        "profile_id": "ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+        "member_urn": "urn:li:member:250107510",
+        "public_id": "shrashti-singhal-1869166b",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1791398048)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Culinda Inc.,",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "Pursuing excellence in Cybersecurity with Data Science.\nExpert in Time Series Analysis and Natural Language Processing (NLP).\nSkilled in handling and training terabyte-scale data.\nProficient in parallel computing over CPU and GPU architectures.\nExtensive experience in large language model (LLM) training, fine-tuning, and Retrieval-Augmented Generation (RAG).",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer & Network Security"
+                    ]
+                },
+                "title": "Principal Data Scientist ",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:34218480",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGFC5BzbBmvrQ/company-logo_"
+            },
+            {
+                "locationName": "Delhi, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1663033801)",
+                "geoLocationName": "Delhi, India",
+                "geoUrn": "urn:li:fs_geo:106187582",
+                "companyName": "NeedyData",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "AI based startup to democratize Data Science. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Founder & Data Scientist",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:71893465",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEPOCHA6n1-Hw/company-logo_"
+            },
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1663926663)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Towards Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "description": "I write as a part-time author in an online publication, Towards Data Science. My articles cover various topics related to data science, such as machine learning, AI, programming, Python, PyTorch, NumPy, Pandas, Matplotlib, SciKit-Learn, Jupyter Notebooks, Google Colab, Kaggle, and more.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Technical Writer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:24779358",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQG1yEbzvWYiXw/company-logo_"
+            },
+            {
+                "locationName": "Bangalore, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1318057831)",
+                "geoLocationName": "Bangalore, Karnataka, India",
+                "companyName": "L&T Technology Services Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2017
+                    }
+                },
+                "description": "Project 1: Telecommunication error data classification and mailing to specific error handling team\n•Data Ingestion (Python & AWS)\nDesigned data ingestion pipeline to consolidate data coming from different rest APIs(Telecommunication Devices) into AWS storage\n•Data Wrangling (Python, SQL, draw.io, Open Refine)\nDesigned Database Schema, Wrangled Data and developed the Database\n•Data Classification (Python, Tensor Flow, decision Tree)\nDeveloped a model to classify the data with 97% accuracy. Implemented the model on the Client's cloud.\n•Mailing (Microsoft Outlook VBA, Python on Cloud)\nDeveloped a code to mail each identified data to a specific team to analyze the respective issue.\n•Impact: The telecom issues were sent by 2000 test engineers through their testing devices every day. There was a Back office team of 20 people to do the segregation of these issues and direct them to respective bug analyzing teams. Saved 3200 person-hours per month for the Client.\n\n\n• Automate the Organisational wide all the manual work for the client by developing stand-alone tools in Java, Python, and VBA, which help employees get rid of manual tasks.\n• Integrate various independent tools to reduce human intervention in multiple tasks and smooth the organization's flow through automation.\n• Developed a website using a LAMP server to keep records from various independent sites and employee-managed excel files. This website directly takes digital data from different portals and merges it so that no human intervention is involved.\n\n--For more projects, visit my portfolio at https://Shrashti.com",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Machine Learning Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1739031",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF44VAW2ygFJQ/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,760144641)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "L&T Technology Services Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2013
+                    }
+                },
+                "description": "•  Designed and developed software using Python; the software was implemented at client organizations to track all the employees' work progress. The tool is a time tracker which monitors the productive time spent by an employee in a day. It generates the report and uploads it to a portal to track the performances at the end of the month.\n• Developed a stand-alone tool using Python and VBA to export data from the client portal, allows custom querying of data, and generates reports. These reports are integrated with another independent tool that uses this insight to creates invoices and send e-mails to the designed people.  \n• Worked in Windchill PLM domain as Advanced Java and swing Developer. I modeled and developed software that helps in extracting data when the PLM server is down. The tool's UI allows users to create a custom query to obtain from the correct product directory. The software takes care of the authorization and access level given to various users.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1739031",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF44VAW2ygFJQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1267388501)",
+                    "urn:li:fs_course:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1034114133)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1034274244)",
+                    "urn:li:fs_project:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1450068094)",
+                    "urn:li:fs_project:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1577268531)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,537331009)",
+                "school": {
+                    "objectUrn": "urn:li:school:18321",
+                    "entityUrn": "urn:li:fs_miniSchool:18321",
+                    "active": true,
+                    "schoolName": "University of Illinois Urbana-Champaign",
+                    "trackingId": "Hx+QAUTlQvOFmd5bqHNxrg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_"
+                },
+                "grade": "4/4 GPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "Courses:\n•Machine Learning\n•Data Mining\n•Cloud Computing Applications\n•Data Visualization\n•Distributed Systems\n•Data Curation\n•Data Cleaning\n•Cloud Computing Capstone\n",
+                "degreeName": "Master in Computer Science",
+                "schoolName": "University of Illinois at Urbana-Champaign",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18321"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,156660397)",
+                "school": {
+                    "objectUrn": "urn:li:school:40653",
+                    "entityUrn": "urn:li:fs_miniSchool:40653",
+                    "active": true,
+                    "schoolName": "Amity University",
+                    "trackingId": "m9mChe6ZRYCOJ4im7kv16Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHC_Tto39UPmg/company-logo_"
+                },
+                "activities": "Chess Team\n• 2011: Won a silver medal for Chess in Sangathan 2011 (Inter College Sports Tournament)\n• 2010: Won a bronze medal for Chess in Sangathan 2010 (Inter College Sports Tournament)\n• 2009: Won a silver medal for Chess in Sangathan 2009. (Inter College Sports Tournament)\n",
+                "grade": "7.4/10 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "description": "Developed an Android application for the final year project. ",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Amity Education Group",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:40653"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "CS 498: Cloud Computing Applications",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "TQMSMLHCR6A6",
+                "displaySource": "coursera.org",
+                "url": "https://www.coursera.org/account/accomplishments/verify/TQMSMLHCR6A6"
+            },
+            {
+                "authority": "Coursera",
+                "name": "CS 498: Data Visualization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "D53C4PRGRTDE",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "bgrc62zRSj25CEb07vywRg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/D53C4PRGRTDE"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Teaching volunteer",
+                "companyName": "Ashray School",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "cause": "CHILDREN",
+                "description": "• IT companies and other individuals have funded the school. The school is 25 years old. It is a part of CSR activity.\nThe school provides education & accommodation to kids who are orphans, mentally challenged & come from slums.\n•I am a teaching volunteer in this school from Sep 2015 to April 2018. I work as an extracurricular activities volunteer on Saturdays; the activities include debates, speeches, JAM, English grammar, presenting skills, art, craft, Maths tricks, and dictation."
+            },
+            {
+                "role": "Website Developer & Volunteer",
+                "companyName": "Saksham Trust",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "• Developed a website for this NGO, which deals with helping differently enabled people and brings government funds to help them.\n• Worked as a Volunteer in NGO conferences, school functions, and food distributions."
+            },
+            {
+                "role": "Volunteer",
+                "companyName": "The Ugly Indian",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "cause": "ENVIRONMENT",
+                "description": "•The Ugly Indian is a non-profit group based out of Facebook. It deals with the cleaning of places in towns and cities. I being a resident of Bangalore, participate in the cleanup of Bangalore. We have taken the initiative to clean, paint, and plant trees in UFO(Under The FLYOVER). In our UFO project, we were successful in our mission of painting 250 pillars of the flyovers in Bangalore."
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,537331009)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shrashti",
+                            "lastName": "Singhal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+                            "occupation": "Principal Data Scientist at Culinda Inc.| Cybersecurity | Healthcare| Gen AI| GeoPolitics",
+                            "objectUrn": "urn:li:member:250107510",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+                            "publicIdentifier": "shrashti-singhal-1869166b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1653055989640?e=1746057600&v=beta&t=UfQk_zhXHQNNFx3l-XErElXoC8hJXQMmFJ1DqUi6XTI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1653055989640?e=1746057600&v=beta&t=f7NFaW6elZpJJoiNJxEw5vubl25MYYlywzF6uMZLGmk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1653055989640?e=1746057600&v=beta&t=S0pij0md6l4IL35Dy8Hh0QQsxBlGidme5x-aMz5V1PU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1653055989640?e=1746057600&v=beta&t=noIhn5CUbZ4_UI3Xpuuaw_qZ4-UtzpuFI_an-AhSZSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGjArI6XtB7Sg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2CLig2xDR2Kp47RSNrPkTw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1034274244,182547666)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "Data Visualization Mid Term Project of  creating a Dashboard to visualize a publicly hosted data.",
+                "title": "Cancer in US Analysis",
+                "url": "https://public.tableau.com/profile/shrashti.singhal#!/vizhome/CancerResearch_0/CancerAnalysisUSStates"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,537331009)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shrashti",
+                            "lastName": "Singhal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+                            "occupation": "Principal Data Scientist at Culinda Inc.| Cybersecurity | Healthcare| Gen AI| GeoPolitics",
+                            "objectUrn": "urn:li:member:250107510",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+                            "publicIdentifier": "shrashti-singhal-1869166b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1653055989640?e=1746057600&v=beta&t=UfQk_zhXHQNNFx3l-XErElXoC8hJXQMmFJ1DqUi6XTI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1653055989640?e=1746057600&v=beta&t=f7NFaW6elZpJJoiNJxEw5vubl25MYYlywzF6uMZLGmk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1653055989640?e=1746057600&v=beta&t=S0pij0md6l4IL35Dy8Hh0QQsxBlGidme5x-aMz5V1PU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1653055989640?e=1746057600&v=beta&t=noIhn5CUbZ4_UI3Xpuuaw_qZ4-UtzpuFI_an-AhSZSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGjArI6XtB7Sg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2CLig2xDR2Kp47RSNrPkTw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1450068094,200204888)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "Data Visualization Project coded in D3.js. It is developed to satisfy the grading rubrics of Data Visualization Final semester Project Summer 2018. Other technologies used are html, css, d3.js and data visualization principles.",
+                "title": "Cancer Analysis of the USA",
+                "url": "https://shrashtisinghal.github.io/Data-Visualization/"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,537331009)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shrashti",
+                            "lastName": "Singhal",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+                            "occupation": "Principal Data Scientist at Culinda Inc.| Cybersecurity | Healthcare| Gen AI| GeoPolitics",
+                            "objectUrn": "urn:li:member:250107510",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ",
+                            "publicIdentifier": "shrashti-singhal-1869166b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1653055989640?e=1746057600&v=beta&t=UfQk_zhXHQNNFx3l-XErElXoC8hJXQMmFJ1DqUi6XTI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1653055989640?e=1746057600&v=beta&t=f7NFaW6elZpJJoiNJxEw5vubl25MYYlywzF6uMZLGmk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1653055989640?e=1746057600&v=beta&t=S0pij0md6l4IL35Dy8Hh0QQsxBlGidme5x-aMz5V1PU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1653055989640?e=1746057600&v=beta&t=noIhn5CUbZ4_UI3Xpuuaw_qZ4-UtzpuFI_an-AhSZSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGjArI6XtB7Sg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2CLig2xDR2Kp47RSNrPkTw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ,1577268531,210500726)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "A disease Recommender systems, created by using US public data-set.\nSymptoms of patients are required to select, the recommender systems predict the disease the patient might be suffering from.\n\nTech used: AWS, tensorFlow, Spark, HDFS, python",
+                "title": "Disease Recommender",
+                "url": "https://github.com/ShrashtiSinghal/Cloud-Computing-Applications/blob/master/Project/2%20Disease-Recommender-Final-Report.pdf"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Predictive Analytics"
+            },
+            {
+                "name": "Natural Language Processing (NLP)"
+            },
+            {
+                "name": "Azure Databricks"
+            },
+            {
+                "name": "SQL"
+            }
+        ],
+        "urn_id": "ACoAAA7oVnYBKxcia3IBbRyqauAgDZuvGTLnSdQ"
+    }
+}

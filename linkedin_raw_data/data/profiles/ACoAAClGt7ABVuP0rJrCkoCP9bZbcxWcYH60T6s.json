@@ -1,0 +1,584 @@
+{
+    "urn_id": "ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+    "fetch_timestamp": "2025-02-26T21:45:08.740738",
+    "profile_data": {
+        "summary": "Problem solver, Ex Data Science Intern at Kampd, particularly interested in solving business problems using data.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Dawkhar",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 4,
+            "day": 23
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Rohan",
+        "entityUrn": "urn:li:fs_profile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:107087584"
+        },
+        "geoLocationName": "College Park, Maryland",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "MS in Data Science at University of Maryland | Open to Summer 2025 internships | Ex Data Science Intern at Kampd",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQFfWbUfARMh1Q/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1673092767509?e=1741230000&v=beta&t=ugWN6QxiVzwhXsHyicyQfljeMWJHluiwGvV4AqB48II",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1673092767509?e=1741230000&v=beta&t=EEtMEF0sOAatM5J0cs2PLtujA4_ZdCdQkzppauzS4Ko",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1673092767509?e=1741230000&v=beta&t=EKlkPfea3FmDtwU_Vz0Q7dcZnB1ERMhBJqWUMrSVM8I",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1673092767509?e=1741230000&v=beta&t=1ldo0w-VMKz_xqbbBff9C8LQTvvGo9XSki3DrfBzo1g",
+        "profile_id": "ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+        "member_urn": "urn:li:member:692500400",
+        "public_id": "rohan-dawkhar",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,2197168898)",
+                "companyName": "Medium",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Online Media"
+                    ]
+                },
+                "title": "Technical Writer",
+                "companyUrn": "urn:li:fs_miniCompany:3039001",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHoD2diOsSOjg/company-logo_"
+            },
+            {
+                "locationName": "London, England, United Kingdom",
+                "entityUrn": "urn:li:fs_position:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,2193828730)",
+                "geoLocationName": "London, England, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:102257491",
+                "companyName": "Unify",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "◦ Paddle Frontend: Add math, tensor, activation, linear algebra functions to the PaddlePaddle frontend. Write the corresponding test cases for the same and test the functions on varied input samples. Push and create a pull request for the code snippets after successful test cases.\n◦ Community: Interact with the Unify team and community on their Discord channel to brainstorm ideas, help to solve beginner friendly issues for newcomers, etc.\n◦ Blogs: Write blogs on medium to contribute to the betterment of Unify’s open source community. Explaining how to setup repository on codespaces, tackling excessive RAM consumption while using Docker, etc.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Open Source Contributor ",
+                "region": "urn:li:fs_region:(gb,0)",
+                "companyUrn": "urn:li:fs_miniCompany:71523181",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFKXCKc2_DzwQ/company-logo_"
+            },
+            {
+                "locationName": "Singapore",
+                "entityUrn": "urn:li:fs_position:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,1989807744)",
+                "geoLocationName": "Singapore",
+                "geoUrn": "urn:li:fs_geo:102454443",
+                "companyName": "Kampd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "◦ Recommendation Engine: Build and tested utility endpoint feature for Content Abstraction Module\n(specifically for a delete feature) of Recommendation Engine in DEV Environment.\n◦ Data Annotation: Did Data Annotation on acquired users’ data which was later used as a testing set for\nTaxonomy Engine Prototype.\n◦ Taxonomy Engine: Build and tested Taxonomy Engine which appropriately labels the contents (based on Title, description and user Tags) as per the taxonomic structure and requirements with an inherent capability to learn from the incoming Data and predict the labels accordingly as per the changing distributions which would solve the need of updating the label set of the Taxonomy engine manually. This Engine was designed with an ideology aligned with “Live Learning and Live Prediction” concept.\n◦ App Testing: Participated in the App Testing Initiative, for testing different modules of the Kampd app,\nrecording the test results and sharing it with the Engineering team.\n◦ Graph Database: Tested the graph database queries thoroughly for different modules of the app (e.g., kamps, bytes, insights, etc.). These graph database gremlin queries are written to satisfy hard logics of the product in Personalization.\n◦ Personalization phase 1 - Event Streams: Explored, did PoCs on different message schemas (e.g. JSON, Avro, Protobuf) and schema registry in events streams of personalization phase 1.\n◦ Personalization phase 1 - Event Nomenclature: Did nomenclature for events and created event catalogue in event streams of personalization phase 1, which acted as a repository of events for data team and engineering team.\n◦ Personalization phase 1 - Graph Layer: Developed and tested processor blocks for different write services in graph layer of personalization phase 1.\n◦ Personalization phase 1 - Model Layer: Involved in creating graph traversals and doing PoCs on vector\ndatabases (e.g. Milvus, Qdrant) in model layer of personalization phase 1.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "region": "urn:li:fs_region:(sg,0)",
+                "companyUrn": "urn:li:fs_miniCompany:77138648",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG9M4lNVwSJ4A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,1270789256)",
+                    "urn:li:fs_course:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,1270817542)",
+                    "urn:li:fs_course:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,1270845349)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,1009415873)",
+                "school": {
+                    "objectUrn": "urn:li:school:18570",
+                    "entityUrn": "urn:li:fs_miniSchool:18570",
+                    "active": true,
+                    "schoolName": "University of Maryland",
+                    "trackingId": "1aRgOOFTQj6StXtFkA4GTQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHrhLnmmZTGjQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "description": "Coursework:\n\nFall 2024 (In progress):\nDATA601 - Probability and Statistics\nDATA602 - Principles of Data Science\nDATA603 - Principles of Machine Learning",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University of Maryland",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18570"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,1122501562)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,921216800)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "degreeName": "Certificate in Applied AI",
+                "schoolName": "Applied Roots",
+                "fieldOfStudy": "Data Science, Machine Learning, Deep Learning"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,760245448)",
+                "school": {
+                    "objectUrn": "urn:li:school:13666",
+                    "entityUrn": "urn:li:fs_miniSchool:13666",
+                    "active": true,
+                    "schoolName": "Savitribai Phule Pune University",
+                    "trackingId": "xW8rChB+Q9mYKM2RCHCEWA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEFsIyAZyuMwA/company-logo_"
+                },
+                "grade": "7.95 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Savitribai Phule Pune University",
+                "fieldOfStudy": "Computer Engineering",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:13666"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "AAIC Technologies Private Limited",
+                "name": "Applied AI Course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13433228",
+                    "entityUrn": "urn:li:fs_miniCompany:13433228",
+                    "name": "AAIC Technologies Private Limited",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630639693529/aaic_technologies_private_limited_logo?e=1748476800&v=beta&t=xXbx2TW6BFeEaJMUEmSlpmaQPGaQ85EpTBCjbeb1bqg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630639693529/aaic_technologies_private_limited_logo?e=1748476800&v=beta&t=p8-d6-tG4ymbsRJ4wM7XipLRY2F4v6Iop4pGV4p6f4U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630639693529/aaic_technologies_private_limited_logo?e=1748476800&v=beta&t=XvVHx2ikniBu_h6qFkWWK2kbyuCijxLVBPJK0oOn9w0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFUtBcbDjBnBg/company-logo_"
+                        }
+                    },
+                    "universalName": "aaic-technologies-private-limited",
+                    "dashCompanyUrn": "urn:li:fsd_company:13433228",
+                    "trackingId": "lHBM39GxSeezVl5mBYFZiA=="
+                },
+                "displaySource": "appliedaicourse.com",
+                "companyUrn": "urn:li:fs_miniCompany:13433228",
+                "url": "https://www.appliedaicourse.com/certificate/d1c70f7f75"
+            },
+            {
+                "authority": "AAIC Technologies Private Limited",
+                "name": "AppliedRoots Blogthon 2021",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13433228",
+                    "entityUrn": "urn:li:fs_miniCompany:13433228",
+                    "name": "AAIC Technologies Private Limited",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630639693529/aaic_technologies_private_limited_logo?e=1748476800&v=beta&t=xXbx2TW6BFeEaJMUEmSlpmaQPGaQ85EpTBCjbeb1bqg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630639693529/aaic_technologies_private_limited_logo?e=1748476800&v=beta&t=p8-d6-tG4ymbsRJ4wM7XipLRY2F4v6Iop4pGV4p6f4U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630639693529/aaic_technologies_private_limited_logo?e=1748476800&v=beta&t=XvVHx2ikniBu_h6qFkWWK2kbyuCijxLVBPJK0oOn9w0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFUtBcbDjBnBg/company-logo_"
+                        }
+                    },
+                    "universalName": "aaic-technologies-private-limited",
+                    "dashCompanyUrn": "urn:li:fsd_company:13433228",
+                    "trackingId": "Pj0S5UdUSc6DJKHZKoc8OQ=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:13433228",
+                "url": "https://drive.google.com/drive/u/0/folders/17dAG-yYsZwPL2f3-_mP69iFsNQ8XzF46"
+            },
+            {
+                "authority": "Kampd",
+                "name": "Kampd Internship completion letter",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:77138648",
+                    "entityUrn": "urn:li:fs_miniCompany:77138648",
+                    "name": "Kampd",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1637897641178?e=1748476800&v=beta&t=yJ-8l1d9nhU-hFtleoy4AKc0hpljOjez8T_NryQ-ZLc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1637897641178?e=1748476800&v=beta&t=xf20ZI6U0XlePLvdWb5s0VjisS3qYa-Q0o5iwoAjHNM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1637897641178?e=1748476800&v=beta&t=fJcC773IdGX5OZ_T-SZGPEsrLWE00RMH6eXIZj0O3AA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQG9M4lNVwSJ4A/company-logo_"
+                        }
+                    },
+                    "universalName": "knowledge-amplified",
+                    "dashCompanyUrn": "urn:li:fsd_company:77138648",
+                    "trackingId": "7h4rwHWwTbicrMneVSJQeg=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:77138648",
+                "url": "https://drive.google.com/drive/u/0/folders/1-ASzzywNJTiLMNkIbXubxDzFWri3uftW"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rohan",
+                            "lastName": "Dawkhar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+                            "occupation": "MS in Data Science at University of Maryland | Open to Summer 2025 internships | Ex Data Science Intern at Kampd",
+                            "objectUrn": "urn:li:member:692500400",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1636794320432?e=1746057600&v=beta&t=xurEYzcPOm-uFSWleT8DxqgkpDteN4tYvOUoSSknSvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1366,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1636794320432?e=1746057600&v=beta&t=P5z2Z6x2voecza5om3_MpkQtxXpc4Hr-_Qq1Kb6Li-Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 341
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFK-3vdGmcbhg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rohan-dawkhar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1673092767509?e=1741230000&v=beta&t=ugWN6QxiVzwhXsHyicyQfljeMWJHluiwGvV4AqB48II",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1673092767509?e=1741230000&v=beta&t=EEtMEF0sOAatM5J0cs2PLtujA4_ZdCdQkzppauzS4Ko",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1673092767509?e=1741230000&v=beta&t=EKlkPfea3FmDtwU_Vz0Q7dcZnB1ERMhBJqWUMrSVM8I",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1673092767509?e=1741230000&v=beta&t=1ldo0w-VMKz_xqbbBff9C8LQTvvGo9XSki3DrfBzo1g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQFfWbUfARMh1Q/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "CMdH6X+hSnqBR+gQlxYwPA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,412184238,330496032)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s"
+                    }
+                ],
+                "description": "Objective:- To classify all the 18,828 documents into any one\nof the 20 classes. \nSolution:- The dataset used is 20 Newsgroup Dataset which\ncontains different text documents belonging to a particular\nclass. I started the project by preprocessing the data, then\ntokenizing, sequencing, padding the preprocessed text and\nused predefined Glove Vectors. Using tensorflow, built the\narchitecture of the model and trained the model and got 0.72\nF1 Score(word embeddings).",
+                "title": "Document Classification with CNN."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rohan",
+                            "lastName": "Dawkhar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+                            "occupation": "MS in Data Science at University of Maryland | Open to Summer 2025 internships | Ex Data Science Intern at Kampd",
+                            "objectUrn": "urn:li:member:692500400",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1636794320432?e=1746057600&v=beta&t=xurEYzcPOm-uFSWleT8DxqgkpDteN4tYvOUoSSknSvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1366,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1636794320432?e=1746057600&v=beta&t=P5z2Z6x2voecza5om3_MpkQtxXpc4Hr-_Qq1Kb6Li-Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 341
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFK-3vdGmcbhg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rohan-dawkhar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1673092767509?e=1741230000&v=beta&t=ugWN6QxiVzwhXsHyicyQfljeMWJHluiwGvV4AqB48II",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1673092767509?e=1741230000&v=beta&t=EEtMEF0sOAatM5J0cs2PLtujA4_ZdCdQkzppauzS4Ko",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1673092767509?e=1741230000&v=beta&t=EKlkPfea3FmDtwU_Vz0Q7dcZnB1ERMhBJqWUMrSVM8I",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1673092767509?e=1741230000&v=beta&t=1ldo0w-VMKz_xqbbBff9C8LQTvvGo9XSki3DrfBzo1g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQFfWbUfARMh1Q/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "CMdH6X+hSnqBR+gQlxYwPA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,412245592,330496038)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s"
+                    }
+                ],
+                "description": "Objective:- To predict whether a DonorsChoose.org project\nproposal submitted by a teacher will be approved or not, using\nLSTM layer. \nSolution:- Vectorized the already preprocessed data(text data, categorical data, numerical data) and embedded the text data\nusing predefined Glove Vectors. Defined various model\narchitectures using tensorflow layers as well as used custom\ncallbacks. Used LSTM(Long Short Term Memory) layer in the\narchitecture. Obtained around 0.74 AUC Score for test data\nfor all the models.",
+                "title": "LSTM on donors choose dataset."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rohan",
+                            "lastName": "Dawkhar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+                            "occupation": "MS in Data Science at University of Maryland | Open to Summer 2025 internships | Ex Data Science Intern at Kampd",
+                            "objectUrn": "urn:li:member:692500400",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1636794320432?e=1746057600&v=beta&t=xurEYzcPOm-uFSWleT8DxqgkpDteN4tYvOUoSSknSvA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1366,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1636794320432?e=1746057600&v=beta&t=P5z2Z6x2voecza5om3_MpkQtxXpc4Hr-_Qq1Kb6Li-Q",
+                                            "expiresAt": 1746057600000,
+                                            "height": 341
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFK-3vdGmcbhg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rohan-dawkhar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1673092767509?e=1741230000&v=beta&t=ugWN6QxiVzwhXsHyicyQfljeMWJHluiwGvV4AqB48II",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1673092767509?e=1741230000&v=beta&t=EEtMEF0sOAatM5J0cs2PLtujA4_ZdCdQkzppauzS4Ko",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1673092767509?e=1741230000&v=beta&t=EKlkPfea3FmDtwU_Vz0Q7dcZnB1ERMhBJqWUMrSVM8I",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1673092767509?e=1741230000&v=beta&t=1ldo0w-VMKz_xqbbBff9C8LQTvvGo9XSki3DrfBzo1g",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D35AQFfWbUfARMh1Q/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "CMdH6X+hSnqBR+gQlxYwPA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s,412125336,330491700)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s"
+                    }
+                ],
+                "description": "Objective:- To identify whether a given file/software is a\nmalware. \nSolution:- Used Google Cloud Platform(GCP) for processing\nthe data and training the model, as the dataset was\napproximately of size 200GB. Featurized both byte files(used\nSelectKBest to select top k bigrams features) and asm\nfiles(pixel intensity features). Modeled the data using\nXGBoost Classifier and got around 0.02 log loss on the test\ndata.",
+                "title": "Microsoft Malware Detection using GCP."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Technical Writing"
+            },
+            {
+                "name": "SGD"
+            },
+            {
+                "name": "open source"
+            },
+            {
+                "name": "Blogging"
+            }
+        ],
+        "urn_id": "ACoAAClGt7ABVuP0rJrCkoCP9bZbcxWcYH60T6s"
+    }
+}

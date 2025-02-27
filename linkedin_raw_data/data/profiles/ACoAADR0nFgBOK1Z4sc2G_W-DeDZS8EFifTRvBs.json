@@ -1,0 +1,606 @@
+{
+    "urn_id": "ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+    "fetch_timestamp": "2025-02-26T21:36:05.320358",
+    "profile_data": {
+        "summary": "Deep learning practitioner with hands-on experience in cutting-edge advancements in LLMs - Finetuning LLMs with PeFT & LoRA, dataset curation for LLMs, and addressing typical NLP use-cases (Text classification, translation, summarization, and text generation) using transformer-based models. \nHand-on expertise in creating and implementing AI agents with Langchain and using private LLM offerings (GPT4-O, Claude).\nFluent adopting deep learning models to customer domain data by fine-tuning LLMs, using transfer learning for Computer Vision based models.\nProficient in using advanced model optimization techniques – low precision (INT4) Quantization, layer pruning, distillation, and distributed deployment.",
+        "industryName": "Computer Software",
+        "lastName": "Navas",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Zeeba",
+        "entityUrn": "urn:li:fs_profile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104119503"
+        },
+        "geoLocationName": "Sunnyvale, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Machine Learning Engineer | Data Scientist",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFtpg3zPKcAog/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1671777121015?e=1746057600&v=beta&t=KTkYkHCQpTK8slgHHCc3BkKE5GtU6jH5rBXzVr4A7yU",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1671777121015?e=1746057600&v=beta&t=QdgwU9b8CPoA0iZ_A4w73IYNU0k3XHuuupQbG-MmVsI",
+        "img_304_304": "800_800/profile-displayphoto-shrink_800_800/0/1671777121015?e=1746057600&v=beta&t=rUvvc2g3SLFzJHBPjuy1tm9QkQWK5nysLuArtYDVZ_o",
+        "profile_id": "ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+        "member_urn": "urn:li:member:880057432",
+        "public_id": "zeeba-navas",
+        "experience": [
+            {
+                "locationName": "Sunnyvale, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,2315885265)",
+                "geoLocationName": "Sunnyvale, California, United States",
+                "geoUrn": "urn:li:fs_geo:104119503",
+                "companyName": "Ox",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "description": "Machine Learning Engineer at GetOX.AI\nOx's generative AI platform helps teams conquer their business communication challenges, continuously improve, and build on their success.\nRole:\nOptimized GPT4 based Langchain generative production pipeline from 10 mins to under 50 secs. \nImplemented solutions with AI Agents (ReACT agents) in Langchain to optimize RAG pipelines, which solves the queries posted by the clients.\nUpdated RetrievalQA pipeline and prompt templates to return multiple structured outputs, reducing API calls to OpenAI by 30%. \nAutomated data extraction, preparation, cleaning and loading into vector database, from Websites and YouTube videos.\nScaled existing solution to support multi client access, ensuring data privacy (input and results) are restricted to specific client.\nExpertise in using tools -  “Weights and Biases” and “Langsmith” to debug AI Agents output, to ensure consistent results for user query.\nAnalyzed and reduced duplicated records stored in ChromaDB by 40%. \nStreamlined system prompts leading to reduction in outgoing token size by 38% for API calls, and cost savings.\nTechnology used - LLMs (GPT4-O, Llama2 7B. Claude) Chroma DB, Google Cloud, Hugging Face Transformers, Selenium, Deep Learning Frameworks - PyTorch",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:37220671",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFlVHqfKuYADw/company-logo_"
+            },
+            {
+                "locationName": "Sunnyvale, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,2395207323)",
+                "geoLocationName": "Sunnyvale, California, United States",
+                "geoUrn": "urn:li:fs_geo:104119503",
+                "companyName": "Freelance (Self employed)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "•\tInfinity Books, India - Created academic illustrated reading books for primary school children using Generative models - Stable Diffusion XL, Clip Interrogator, GPT3.5. The reading content was generated and optimized with GPT3.5. Illustrations reverse engineered using CLIP Interrogator and generated using SDXL. Proficient in using Prompt engineering, negative prompts, img-to-img generation, text-to-img generation with SDXL.\n•\tTechnology used – Pytorch, Diffusers, Transformers, AWS EC2, AWS Sagemaker",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Writing and Editing"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1256222"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,2395207289)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Confidential",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "description": "•\tParticipated in all phases of Machine learning life cycle - data analysis, data processing, data transformation, data quality control, experiment with multiple models, validation, model deployment, visualize data, qualitative analysis of data with statistical packages, performed gap analysis and model monitoring for ensuring consistency in predictions.\n•\tCreated information extraction model using LayoutLM (multi modal) to extract vital information from invoices uploaded to the system. Reduced the data entry time from 2 hours per invoice to 3.5 minutes. Text embeddings were extracted using BERT and relevant objects using DETR as backend.\n•\tOptimized trained Deberta model for cloud deployment by applying layer pruning, quantization and operator/layer fusion techniques using ONNX framework to reduce inference time on a 4 core CPU instance to 1 ms for a sequence length of 16.\n•\tCollaborated with Data Engineers and partners across functional teams to determine the best data source for curation from large sets of data, including identification of potential proxy data sources, and design business analytics solutions, considering current and future needs, infrastructure and security requirements and load frequencies.\n•\tFluent in using AWS Specific tools - Sage Maker , S3, Kinesis, Glue, Athena, Data Sync, MQTT, Quick Sight, EMR, Apache Spark, EC2, Torch Serve, and High-Level ML Services (Comprehend, Translate, Transcribe, Polly, Recognition, Forecast, Lex, Personalize)\n•\tCapable of working independently as well as a team player. \n•\tFocused in ensuring attention to detail by adherence to quality checks and KPIs while implementing solutions, effective in meeting deadlines and fixated in providing the best customer service using my adept problem-solving skills.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14383281",
+                "companyLogoUrl": ""
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,1051454354)",
+                "school": {
+                    "objectUrn": "urn:li:school:18007",
+                    "entityUrn": "urn:li:fs_miniSchool:18007",
+                    "active": true,
+                    "schoolName": "University of Colorado Boulder",
+                    "trackingId": "wHpd/TGjQISJV9vzixYLVQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_"
+                },
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "University of Colorado Boulder",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18007"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,850606506)",
+                "school": {
+                    "objectUrn": "urn:li:school:3187077",
+                    "entityUrn": "urn:li:fs_miniSchool:3187077",
+                    "active": true,
+                    "schoolName": "fast.ai",
+                    "trackingId": "wkLexQdgR1yYLlByY4CrLg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFeG3Xb3YVI_Q/company-logo_"
+                },
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100434",
+                "degreeName": "Deep Learning for Coders",
+                "schoolName": "fast.ai",
+                "fieldOfStudy": "Computer Technology/Computer Systems Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:3187077"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,705163006)",
+                "school": {
+                    "objectUrn": "urn:li:school:164142",
+                    "entityUrn": "urn:li:fs_miniSchool:164142",
+                    "active": true,
+                    "schoolName": "Sona College of Technology",
+                    "trackingId": "nYv65gG+Tc2jF6T8R5VfVA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEJNvLby8Ks6g/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2010
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100351",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Sona College of Technology",
+                "fieldOfStudy": "Electrical and Electronics Engineering",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:164142"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Zeeba",
+                            "lastName": "Navas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "occupation": "Machine Learning Engineer | Data Scientist",
+                            "objectUrn": "urn:li:member:880057432",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671754011358?e=1746057600&v=beta&t=0vlZpsXWrKmf-m6rcH1JEJHj3C_WaWItULE-SfGk2zA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671754011358?e=1746057600&v=beta&t=QXkkLMYUmiZjn38y2yC_4H4z54ZcBXyXh_uxHSPAxDk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEuSy518nEmow/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "zeeba-navas",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671777121015?e=1746057600&v=beta&t=KTkYkHCQpTK8slgHHCc3BkKE5GtU6jH5rBXzVr4A7yU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671777121015?e=1746057600&v=beta&t=QdgwU9b8CPoA0iZ_A4w73IYNU0k3XHuuupQbG-MmVsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671777121015?e=1746057600&v=beta&t=b5tjtB7AtNwGOM_oHlBYATgOl5aR-oAk1XP1vCfhP3A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671777121015?e=1746057600&v=beta&t=rUvvc2g3SLFzJHBPjuy1tm9QkQWK5nysLuArtYDVZ_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFtpg3zPKcAog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3z6o3nWvRcaZSFz3UuU64w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,1496773435,404531951)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "https://github.com/zeeba-tech/NLP/tree/main/LLM_experiments/Llama2\n* Replicated Llama architecture from scratch.\n* Fine-tuned Llama2 using QLoRA on code alpaca dataset.\n* **Motivation:** I wanted to understand how Llama was different from other LLMs and the improvements made. I also wanted to see how to fine-tune Llama2 in resource constrained environment ie., with single free tier GPU (Nvidia T4)\n* Documented the impact of novel Llama concepts - RoPE, RMSNorm and SwiGLU\n* Understood concepts of LoRA and authored a [blog post](https://medium.com/@zeebanavas91/lora-and-llms-a3d8dff75135) about my understanding.\n* Obtained comprehensible results in LLM prediction with fine-tuned model.\n* Libraries used - PyTorch, Ludwig",
+                "title": "Intuitive comprehension of Llama2 architecture"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Zeeba",
+                            "lastName": "Navas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "occupation": "Machine Learning Engineer | Data Scientist",
+                            "objectUrn": "urn:li:member:880057432",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671754011358?e=1746057600&v=beta&t=0vlZpsXWrKmf-m6rcH1JEJHj3C_WaWItULE-SfGk2zA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671754011358?e=1746057600&v=beta&t=QXkkLMYUmiZjn38y2yC_4H4z54ZcBXyXh_uxHSPAxDk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEuSy518nEmow/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "zeeba-navas",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671777121015?e=1746057600&v=beta&t=KTkYkHCQpTK8slgHHCc3BkKE5GtU6jH5rBXzVr4A7yU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671777121015?e=1746057600&v=beta&t=QdgwU9b8CPoA0iZ_A4w73IYNU0k3XHuuupQbG-MmVsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671777121015?e=1746057600&v=beta&t=b5tjtB7AtNwGOM_oHlBYATgOl5aR-oAk1XP1vCfhP3A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671777121015?e=1746057600&v=beta&t=rUvvc2g3SLFzJHBPjuy1tm9QkQWK5nysLuArtYDVZ_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFtpg3zPKcAog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3z6o3nWvRcaZSFz3UuU64w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,1496850944,404534697)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "description": "https://github.com/zeeba-tech/NLP/tree/main/LLM_experiments/Prompt_Engineering\n* Validated different prompt engineering techniques viable with Llama2\n* **Motivation:** With the advent of ChatGPT, LLM utilization is picking up for various use cases. I wanted to validate how effective these prompt engineering techniques were with Llama2 \n* Prompting techniques experimented - Language Translation, Question Answering, Text Summarization, Text Classification, Role Playing, Code Generation, Zero Shot, Few-Shot and Chain-Of-Thought \n* Examined the impact and efficacy of using low bit LLMs - GPTQ, GGML models\n* Libraries used - LangChain, CTransformers",
+                "title": "Efficacy of Prompt Engineering techniques with Llama2"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Zeeba",
+                            "lastName": "Navas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "occupation": "Machine Learning Engineer | Data Scientist",
+                            "objectUrn": "urn:li:member:880057432",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671754011358?e=1746057600&v=beta&t=0vlZpsXWrKmf-m6rcH1JEJHj3C_WaWItULE-SfGk2zA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671754011358?e=1746057600&v=beta&t=QXkkLMYUmiZjn38y2yC_4H4z54ZcBXyXh_uxHSPAxDk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEuSy518nEmow/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "zeeba-navas",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671777121015?e=1746057600&v=beta&t=KTkYkHCQpTK8slgHHCc3BkKE5GtU6jH5rBXzVr4A7yU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671777121015?e=1746057600&v=beta&t=QdgwU9b8CPoA0iZ_A4w73IYNU0k3XHuuupQbG-MmVsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671777121015?e=1746057600&v=beta&t=b5tjtB7AtNwGOM_oHlBYATgOl5aR-oAk1XP1vCfhP3A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671777121015?e=1746057600&v=beta&t=rUvvc2g3SLFzJHBPjuy1tm9QkQWK5nysLuArtYDVZ_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFtpg3zPKcAog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3z6o3nWvRcaZSFz3UuU64w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,1496916987,404532869)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "description": "https://github.com/zeeba-tech/NLP/tree/main/LLM_experiments/RAG\n* Created Retrieval Augmented Generated solutions on custom corpus.\n* **Motivation:** LLMs can be used directly for Inference, however models tend to hallucinate when questioned about topics which were not included in training data. Augmenting LLM generation with related input is a way of reducing this. \n* Used MiniLM model from HuggingFace to create embeddings of the input corpus and sorted the data in FAISS HNSW Vector store. Data related to the input query was fetched from FAISS and passed as user prompt to Llama2 for custom generation.\n* Libraries used - Ctransformers, Langchain, FAISS",
+                "title": "Retrieval Augmented Generation with LLMs"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Zeeba",
+                            "lastName": "Navas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "occupation": "Machine Learning Engineer | Data Scientist",
+                            "objectUrn": "urn:li:member:880057432",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671754011358?e=1746057600&v=beta&t=0vlZpsXWrKmf-m6rcH1JEJHj3C_WaWItULE-SfGk2zA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671754011358?e=1746057600&v=beta&t=QXkkLMYUmiZjn38y2yC_4H4z54ZcBXyXh_uxHSPAxDk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEuSy518nEmow/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "zeeba-navas",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671777121015?e=1746057600&v=beta&t=KTkYkHCQpTK8slgHHCc3BkKE5GtU6jH5rBXzVr4A7yU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671777121015?e=1746057600&v=beta&t=QdgwU9b8CPoA0iZ_A4w73IYNU0k3XHuuupQbG-MmVsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671777121015?e=1746057600&v=beta&t=b5tjtB7AtNwGOM_oHlBYATgOl5aR-oAk1XP1vCfhP3A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671777121015?e=1746057600&v=beta&t=rUvvc2g3SLFzJHBPjuy1tm9QkQWK5nysLuArtYDVZ_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFtpg3zPKcAog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3z6o3nWvRcaZSFz3UuU64w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,1496958052,404537270)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "https://github.com/zeeba-tech/data-science/tree/main/Stable_Diffusion\n* Generated images with Stable Diffusion with different techniques.\n* Motivation: Worked with various methods of using Stable Diffusion Model as a part of \"Practical Deep Learning for Coders - FastAI\" course work.\n* Tested techniques like Image inpainting(DiffEDit), Negative Prompting and Image-to-Image Generation apart from regular Text-to-Image generation.  \n* Library used: Diffusers, Transformers, TorchVision, OpenCV",
+                "title": "Dissecting Diffusion Models"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Zeeba",
+                            "lastName": "Navas",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "occupation": "Machine Learning Engineer | Data Scientist",
+                            "objectUrn": "urn:li:member:880057432",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1671754011358?e=1746057600&v=beta&t=0vlZpsXWrKmf-m6rcH1JEJHj3C_WaWItULE-SfGk2zA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671754011358?e=1746057600&v=beta&t=QXkkLMYUmiZjn38y2yC_4H4z54ZcBXyXh_uxHSPAxDk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEuSy518nEmow/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "zeeba-navas",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1671777121015?e=1746057600&v=beta&t=KTkYkHCQpTK8slgHHCc3BkKE5GtU6jH5rBXzVr4A7yU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1671777121015?e=1746057600&v=beta&t=QdgwU9b8CPoA0iZ_A4w73IYNU0k3XHuuupQbG-MmVsI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1671777121015?e=1746057600&v=beta&t=b5tjtB7AtNwGOM_oHlBYATgOl5aR-oAk1XP1vCfhP3A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        },
+                                        {
+                                            "width": 304,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1671777121015?e=1746057600&v=beta&t=rUvvc2g3SLFzJHBPjuy1tm9QkQWK5nysLuArtYDVZ_o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 304
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFtpg3zPKcAog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3z6o3nWvRcaZSFz3UuU64w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs,1497007295,404532877)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "description": "https://github.com/zeeba-tech/data-science/tree/main/Computer_Vision\n* Created CNN based Image Classifiers for differentiating various Flower categories.\n* Motivation: Wanted to understand the impact of training from scratch and transfer learning.\n* Learnt about impact of various concepts in training models - differential learning rate, cyclic learning rate, freezing layers, data augmentation, model validation.\n* Libraries used - FastAI, PyTorch, OpenCV",
+                "title": "Image Classifier with Convolution Neural Networks"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Apache Spark"
+            },
+            {
+                "name": "Hadoop"
+            },
+            {
+                "name": "Amazon Web Services (AWS)"
+            },
+            {
+                "name": "TensorFlow"
+            }
+        ],
+        "urn_id": "ACoAADR0nFgBOK1Z4sc2G_W-DeDZS8EFifTRvBs"
+    }
+}

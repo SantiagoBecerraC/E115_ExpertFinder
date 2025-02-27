@@ -1,0 +1,226 @@
+{
+    "urn_id": "ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo",
+    "fetch_timestamp": "2025-02-26T21:40:00.476596",
+    "profile_data": {
+        "summary": "Machine Learning Scientist using machine learning algorithms to make peoples'​ lives easier.  Creating technology to enable products to see the world, help them understand people, and help people connect with what is important to them.  Focus on neural networks for computer vision products.\n\nI develop pattern recognition systems for computer vision tasks. I focus on using machine learning techniques to help companies create products to understand their world, primarily ones that detect objects in scenes using deep learning neural networks.  I have used machine learning techniques to create models for image classification, search and rescue, and automated inspection applications. My passion is applying machine learning research to challenging real-world pattern recognition tasks to create products that unleash the value from a company's data.\n\nSpecialties: Machine learning, text categorization, image classification, computer vision, industrial robotics",
+        "industryName": "Computer Software",
+        "lastName": "Buckingham",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Jay",
+        "entityUrn": "urn:li:fs_profile:ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Machine learning scientist",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQG1Ype45Q8w6Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1548188996820?e=1746057600&v=beta&t=x7dJJAF9tcl83_M375w9rBgbND2Xq1VRehlCzyGsods",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1548188996886?e=1746057600&v=beta&t=sGpeIryF9KDm4gvf8Le6H8wyJvquDyJ9GPrE1inV1yk",
+        "img_304_304": "800_800/profile-displayphoto-shrink_800_800/0/1548188997127?e=1746057600&v=beta&t=h2dIEUmtWCOr4Rm7fXQWwYUm7itGTZipzH1IcC1HdRw",
+        "profile_id": "ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo",
+        "member_urn": "urn:li:member:4634235",
+        "public_id": "jtbuckingham",
+        "experience": [
+            {
+                "locationName": "Edinburgh, Scotland, United Kingdom",
+                "entityUrn": "urn:li:fs_position:(ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo,2172009938)",
+                "geoLocationName": "Edinburgh, Scotland, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:100209086",
+                "companyName": "Zelim",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "description": "• Led the machine learning team at Zelim, focusing on improving sea rescues in offshore energy sectors.\n• Developed Deep Learning models to locate people at sea during rescue missions using video feeds from drones, aircraft, and ships. Extensive use of Nvidia GPUs for model training and inference.\n• The success of these models helped Zelim win its first two customers with over £2M ARR.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Logistics and Supply Chain"
+                    ]
+                },
+                "title": "Machine Learning Lead",
+                "region": "urn:li:fs_region:(gb,0)",
+                "companyUrn": "urn:li:fs_miniCompany:42382509",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGSuVnwpgLOxg/company-logo_"
+            },
+            {
+                "locationName": "Vancouver, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo,1903530656)",
+                "geoLocationName": "Vancouver, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:100919703",
+                "companyName": "Absci",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "Developed deep learning models (neural networks) to help predict which auxiliary components to optimize the expression of particular genes on e. coli plasmids. For example, which chromosome chaperones work best to help create particular target proteins.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Biotechnology"
+                    ]
+                },
+                "title": "Machine Learning Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2637868",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHZfyPGgMfReA/company-logo_"
+            },
+            {
+                "locationName": "San Francisco, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo,1623186361)",
+                "geoLocationName": "San Francisco, California, United States",
+                "geoUrn": "urn:li:fs_geo:102277331",
+                "companyName": "Stitch Fix",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "description": "Using machine learning to build models that help people find clothes they'll love.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Apparel & Fashion"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2480854",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGRfPCcNwYYUg/company-logo_"
+            },
+            {
+                "locationName": "Redwood City, CA",
+                "entityUrn": "urn:li:fs_position:(ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo,1569994944)",
+                "geoLocationName": "Redwood City, CA",
+                "companyName": "PRENAV",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "description": "• Developed neural network algorithms for drones to detect structural defects in civil infrastructure (semantic segmentation via U-Net).\n• Conducted experiments to create models for detecting cracks in concrete and mechanical flaws.\n• Contributed to the advancement of drone technology for infrastructure inspection.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Aviation & Aerospace"
+                    ]
+                },
+                "title": "Deep Learning Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:6458367",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHHAgd9yQyrFw/company-logo_"
+            },
+            {
+                "locationName": "Portland, Oregon Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo,1288509441)",
+                "geoLocationName": "Portland, Oregon Area",
+                "geoUrn": "urn:li:fs_geo:90000079",
+                "companyName": "Ars Quanta",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "Helped our clients make use of machine learning techniques to better serve their customers. Focusing on Deep Learning for classification and recommendation tasks.",
+                "title": "Chief Data Scientist",
+                "region": "urn:li:fs_region:(us,79)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo,1208372)",
+                "school": {
+                    "objectUrn": "urn:li:school:12665",
+                    "entityUrn": "urn:li:fs_miniSchool:12665",
+                    "active": true,
+                    "schoolName": "The University of Edinburgh",
+                    "trackingId": "pvJVXBnPROGozNdTNEYLWg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFSi1nlisxTcg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 1991
+                    },
+                    "startDate": {
+                        "year": 1988
+                    }
+                },
+                "description": "Area of study: Neural networks for pattern recognition.\nPhD Thesis:  Delicate Nets, Faint Recollections: A Study of Partially Connected Associative Network Memories.  In this thesis I developed activation rules for sparsely connected associative networks to enable them to function near their optimal information efficiency.  I described how this scheme could be implemented in the hippocampal formation and what this means in terms of brain function.",
+                "degreeName": "PhD",
+                "schoolName": "Edinburgh University",
+                "fieldOfStudy": "Artificial Intelligence",
+                "schoolUrn": "urn:li:fs_miniSchool:12665"
+            }
+        ],
+        "languages": [
+            {
+                "name": "German"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "NVIDIA cuDNN"
+            },
+            {
+                "name": "Semantic segmentation"
+            },
+            {
+                "name": "CUDA"
+            },
+            {
+                "name": "Infrared Thermal Imaging"
+            }
+        ],
+        "urn_id": "ACoAAABGtnsBQb7s9gxZFYo6tkORZkSuYJMHgAo"
+    }
+}

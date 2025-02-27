@@ -1,0 +1,1560 @@
+{
+    "urn_id": "ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+    "fetch_timestamp": "2025-02-26T21:37:10.068974",
+    "profile_data": {
+        "summary": "Greetings reader! \n\nI have been training Deep Neural Nets for over half a decade now. \n\nDuring this, I have enjoyed collaborating with amazing researchers and my work has been published at top International Conferences: EMNLP, ACL, SIGIR, etc. I completed my Research based MS CS with a Thesis and 100% scholarship from Virginia Tech.\n\nCurrently I'm an ML Engineer in the Gemini team, focused on finetuning and evaluation of foundation models. Previously, I worked on LLM pretraining at Capital One. Before that, I was a Research Intern at Google where I focused on optimizing multimodal large language models.\n\nBeyond my professional pursuits, I've been exploring some ideas to create a more efficient content consumption and search platform through RAG and SLMs (Small Language Models). \n\nIf you're intrigued or a venture capitalist with a shared interest, please don't hesitate to connect — I'm eager to brainstorm and delve into further discussions.",
+        "industryName": "Computer Software",
+        "lastName": "Shah",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Aditya",
+        "entityUrn": "urn:li:fs_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104119503"
+        },
+        "geoLocationName": "Sunnyvale, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "ML Research Engineer @ Google  |  Building Gemini  |  Fine-Tuning and Evals",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+        "profile_id": "ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+        "member_urn": "urn:li:member:608229050",
+        "public_id": "aditya-shahh",
+        "experience": [
+            {
+                "locationName": "Sunnyvale, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,2406414693)",
+                "geoLocationName": "Sunnyvale, California, United States",
+                "geoUrn": "urn:li:fs_geo:104119503",
+                "companyName": "Google",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "description": "• Fine-tuning and evaluation for the Gemini family of foundation models.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "ML Research Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "locationName": "McLean, Virginia, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,2215371744)",
+                "geoLocationName": "McLean, Virginia, United States",
+                "geoUrn": "urn:li:fs_geo:106504367",
+                "companyName": "Capital One",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "description": "Built in-house foundation models through domain adaptive pre-training and instruction fine-tuning.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Machine Learning Scientist - AI Foundations",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1419",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_"
+            },
+            {
+                "locationName": "Kirkland, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,2033494009)",
+                "geoLocationName": "Kirkland, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:103255706",
+                "companyName": "Google",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "◦ Worked with DeepMind to integrate soft prompt parameters and adapters in a Multimodal Large Language Model (MLLM) for Document Extraction.\n◦ Developed an efficient optimization pipeline and performed parameter-efficient prefix fine-tuning on TPUs to extract data from invoice documents.\n◦ Enhanced model’s adaptability and robustness in sequential uptraining, which reduced catastrophic forgetting by 14%.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Research Intern - NLP",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,1978327922)",
+                "companyName": "Capital One",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2022
+                    }
+                },
+                "description": "◦ Fine-tuned transformer-based language models (RoBERTa, XLNet, T5) on enterprise wide call transcript data to extract relevant knowledge, identify entities and summarize the transcript.\n◦ Improved customer request fulfillment and agent performance through co-reference resolution and eliminated 70% of false positives with 94% accuracy.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Data Scientist - NLP",
+                "companyUrn": "urn:li:fs_miniCompany:1419",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_"
+            },
+            {
+                "locationName": "Indore, Madhya Pradesh, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,1694124769)",
+                "geoLocationName": "Indore, Madhya Pradesh, India",
+                "geoUrn": "urn:li:fs_geo:101389470",
+                "companyName": "Indian Institute of Technology, Indore",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "Advisor: Prof. Chandresh Maurya\n\n• Conducted research on Multimodal and code mixed NLP.\n• Published my work in ICON - ACL 2021 and ICONIP 2021",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Fellow",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1413277",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEptqhqaOqD_w/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,554671585)",
+                    "urn:li:fs_project:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,554824114)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,742010064)",
+                "school": {
+                    "objectUrn": "urn:li:school:19611",
+                    "entityUrn": "urn:li:fs_miniSchool:19611",
+                    "active": true,
+                    "schoolName": "Virginia Tech",
+                    "trackingId": "8k/8bqgTTuu+9qIXYFzLTQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQGEnHJ3Ojm1Jg/company-logo_"
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master of Science - MS (Research)",
+                "schoolName": "Virginia Tech",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:19611"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,448642965)",
+                "school": {
+                    "objectUrn": "urn:li:school:41236",
+                    "entityUrn": "urn:li:fs_miniSchool:41236",
+                    "active": true,
+                    "schoolName": "Dwarkadas J. Sanghvi College of Engineering",
+                    "trackingId": "MzBeZmaxQu2Q+4oaEZ82Fg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFZRBOE0uG9Og/company-logo_"
+                },
+                "grade": "9.4 GPA",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Dwarkadas J. Sanghvi College of Engineering",
+                "fieldOfStudy": "Computer Engineering",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:41236"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2023,
+                    "day": 1
+                },
+                "name": "End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models",
+                "publisher": "SIGIR",
+                "description": "We propose the end-to-end multimodal fact-checking and explanation generation, where the input is a claim and a large collection of web sources, including articles, images, videos, and tweets, and the goal is to assess the truthfulness of the claim by retrieving relevant evidence and predicting a truthfulness label (i.e., support, refute and not enough information), and generate a rationalization statement to explain the reasoning and ruling process. To support this research, we construct Mocheg, a large-scale dataset that consists of 21,184 claims where each claim is assigned with a truthfulness label and ruling statement, with 58,523 evidence in the form of text and images. To establish baseline performances on Mocheg, we experiment with several state-of-the-art neural architectures on the three pipelined subtasks: multimodal evidence retrieval, claim verification, and explanation generation, and demonstrate the current state-of-the-art performance of end-to-end multimodal fact-checking is still far from satisfying. To the best of our knowledge, we are the first to build the benchmark dataset and solutions for end-to-end multimodal fact-checking and justification.",
+                "url": "https://arxiv.org/abs/2205.12487",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Barry Menglong",
+                            "lastName": "Yao",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABmjwjQBpBmZ7IMfAnp-YXPgNFFPitFppSg",
+                            "occupation": "PhD Student in Computer Science",
+                            "objectUrn": "urn:li:member:430162484",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABmjwjQBpBmZ7IMfAnp-YXPgNFFPitFppSg",
+                            "publicIdentifier": "barry-menglong-yao-758088100",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1700606678547?e=1741230000&v=beta&t=6G1mIYuHNHs-TrLzuXJ7MNx9meClg3A3Fef9Gk0kQFQ",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1700606678547?e=1741230000&v=beta&t=fQJcOQsKRP_pF0-ElEBJeLlIa0LSjzznmtYldoNzRwU",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 504,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1700606678547?e=1741230000&v=beta&t=JvLyvSSaPoGzoXv3MFrbaObA2QqxlN1_Omxl4zOhxdg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 504
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1700606678547?e=1741230000&v=beta&t=5CobVRlZm5usQICOG6upFm1Q1Buf62MCWhA3gY9TqHw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQEBPzGo6OLuvg/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "90Q6G6AHSh+uZw6w/YZwRg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABmjwjQBpBmZ7IMfAnp-YXPgNFFPitFppSg"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2022,
+                    "day": 1
+                },
+                "name": "A Multi-Modal Dataset for Hate Speech Detection on Social Media:Case-study of Russia-Ukraine Conflict",
+                "publisher": "EMNLP",
+                "description": "This paper presents a new multi-modal dataset for identifying hateful content on social media, consisting of 5,680 text-image pairs collected from Twitter, labeled across two labels. Experimental analysis of the presented dataset has shown that understanding both modalities is essential for detecting these techniques. It is confirmed in our experiments with several state-of-the-art multi-modal models. In future work, we plan to extend the dataset in size. We further plan to develop new multi-modal models tailored explicitly to hate-speech detection, aiming for a deeper understanding of the text and image relation. It would also be interesting to perform experiments in a direction that explores what social entities the given hate speech tweet targets.",
+                "url": "https://aclanthology.org/2022.case-1.1/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Surendrabikram",
+                            "lastName": "Thapa",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACMqq6wBioyErz4tEc2HGGbztZhTo12Ub8Y",
+                            "occupation": "NLP and Computer Vision Researcher | Exploring New Problems with Data",
+                            "objectUrn": "urn:li:member:589999020",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACMqq6wBioyErz4tEc2HGGbztZhTo12Ub8Y",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1630245483406?e=1746057600&v=beta&t=7aa-Tbw-u7927Up_agl7rvgUJry7sCk8N1-ast77RNc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1175,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1630245483406?e=1746057600&v=beta&t=cfB62erc9BCw7v6nNcKzcOKDSTlmyPN92m_S5YqcOpg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 293
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQF6C4yyTK32lQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "therealthapa",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1726872479723?e=1746057600&v=beta&t=2w0JPxOi_bIaONYq0-WWE-aOXkKvdpSrcSBuMqnlj70",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1726872479723?e=1746057600&v=beta&t=SAsy7F3BUpoWAskqwCF-ex4ATOEjJLSTDDmFGrQo4kM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1726872479723?e=1746057600&v=beta&t=k5uSRdoHLguOwN_lsYckoBrwQxNFbx2JUIOkKA3Yf8I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1726872479749?e=1746057600&v=beta&t=oxqEsNV7OTtMzfxSkHWyU0W5yUubedNrvNhMprAH5aM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFipD0WA41L9w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4i+4tkp6TUu76mUatzvF7A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACMqq6wBioyErz4tEc2HGGbztZhTo12Ub8Y"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2021,
+                    "day": 20
+                },
+                "name": "How Effective is Incongruity? Implications for Code-mix Sarcasm Detection",
+                "publisher": "ICON ACL 2021",
+                "description": "The presence of sarcasm in conversational systems and social media like chatbots, Facebook,\nTwitter, etc. poses several challenges for downstream NLP tasks. This is attributed to the fact that the intended meaning of a sarcastic text is contrary to what is expressed. Further, the use of code-mix language to express sarcasm is increasing day by day. Current NLP techniques for code-mix data have limited success due to the use of different lexicon, syntax, and scarcity of labeled corpora. To solve the joint problem of code-mixing and sarcasm detection, we propose the idea of capturing incongruity through sub-word level embeddings learned via fastText. Empirical results show that our proposed model achieves F1-score on code-mix Hinglish dataset comparable to pre-trained multilingual models while training 10x faster and using lower memory footprint.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2021,
+                    "day": 1
+                },
+                "name": "FiLMing-Multimodal-Sarcasm-Detection",
+                "publisher": "ICONIP 2021",
+                "description": "Sarcasm detection identifies natural language expressions whose intended meaning is different from what is implied by its surface meaning. It finds applications in many NLP tasks such as opinion mining, sentiment analysis, etc. Today, social media has given rise to an abundant amount of multimodal data where users express their opinions through text and images. Our paper aims to leverage multimodal data to improve the performance of the existing systems for sarcasm detection. So far, various approaches have been proposed that uses text and image modality and a fusion of both. We propose a novel architecture that uses the RoBERTa model with a co-attention layer on top to incorporate context incongruity between input text and image attributes. Further, we integrate feature-wise affine transformation by conditioning the input image through FiLMed ResNet blocks with the textual features using the GRU network to capture the multimodal information. The output from both the models and the CLS token from RoBERTa is concatenated and used for the final prediction. Our results demonstrate that our proposed model outperforms the existing state-of-the-art method by 6.14% F1 score on the public Twitter multimodal sarcasm detection dataset.",
+                "url": "https://arxiv.org/abs/2110.00416",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2020,
+                    "day": 28
+                },
+                "name": "Evolution of Neural Text Generation: Comparative Analysis",
+                "publisher": "Springer",
+                "description": "In the past few years, various advancements have been made in Language Models owing to the formulation of various new algorithms such as Generative Adversarial Networks (GANs), ELMo and Bidirectional Encoder Representations from Transformers (BERT). Text Generation, one of the most important Language Modelling problems has shown great promise recently due to the advancement of more efficient and competent context-dependent algorithms such as ElMo and BERT and GPT-2 compared to preceding context-independent algorithms such as word2vec and GloVe. In this paper, we compare the various attempts to Text Generation showcasing the benefits of each in their own unique form.",
+                "url": "https://link.springer.com/chapter/10.1007/978-981-15-4409-5_71",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "name": "Leveraging Quantum Computing for Supervised Classification",
+                "publisher": "IEEE",
+                "description": "Enhancing quantum computing for supervised machine learning is an innovative application in the field of smart computing. With recent advancements in quantum computing, and it is rising to coalesce with Artificial Intelligence, quantum computers can revolutionize the way to address previously untenable problems. As quantum computers can succeed in producing various intuitive patterns that are strenuous for a classical system to implement, it is reasonable to presume that these quantum machines can outperform a classical computer in various tasks. They can excel at solving problems that involve data crunching with a huge amount of inputs such as machine learning tasks, complex optimization problems, communication system analysis, etc. which require complex parallel computations for an efficient result. This paper attempts to analyze one such aspect of machine learning known as supervised classification with the help of a real Quantum hardware.",
+                "url": "https://ieeexplore.ieee.org/document/9120975",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Maulik",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5P6AIB1wwq8dHpN-3xbXyoIP32wzdv0-U",
+                            "occupation": "Senior ML Engineer @ Javis | All India Rank 2, ICSE 2014",
+                            "objectUrn": "urn:li:member:508553218",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5P6AIB1wwq8dHpN-3xbXyoIP32wzdv0-U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1710863457240?e=1746057600&v=beta&t=ht3WBsO0bZhVVLFyTAysKdFVxZUc1vPmsNH9o535nrs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710863457240?e=1746057600&v=beta&t=bopt_O4hf-7VhGTgp7Q2JHaA04Tb4IiLmZOw2a-bAfc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQF_S3O6ovyP3w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "maulikss",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1715016845575?e=1746057600&v=beta&t=SqAD2YjTcAWNCMjk2sE-SRHKyMwIOkg29wfJClE62S0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1715016845575?e=1746057600&v=beta&t=8PDE1P5RNbVtkUrDnLgFhCL5Z9X3ReKXCe5YQIb_7j0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1715016845576?e=1746057600&v=beta&t=56H5X1PzeAqFUh4w8cd1S-83YoXr5wiSm1JEntsxsAs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1715016845576?e=1746057600&v=beta&t=OXNtUGYUfQHHXhXru0Mwg1k0bA6V7UQ5hJBURLJmdRg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGUUvT2-YPA1w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "F7xcOE+PSg+mgNtG2i4DOw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5P6AIB1wwq8dHpN-3xbXyoIP32wzdv0-U"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "name": "Texture Synthesis and Style Transfer for Aesthetic Design Creation",
+                "publisher": "Springer",
+                "description": "Content rendering of the image by combining different styles has always been a challenging image processing task. The paucity of image representations and content separation from the respective semantic style of the images has been quite an arduous process. However, the recent advancements in image processing, computer vision and state-of-the-art models like VGGNet and ImageNet have helped to achieve human-like accuracy and efficiency in various tasks like generating artistic images, creating design patterns from content images, identifying objects within images, image recognition and segmentation, etc. One such application in this field is deep neural style transfer. It is an optimization technique in which the semantic content of one image is superimposed with the style of another image. Thus, this paper focuses on implementing deep neural style transfer to generate styled images as an application for interior graphic designing and apparel industries. The images generated can be personalized according to the users’ custom design and fashion styles.",
+                "url": "https://link.springer.com/chapter/10.1007/978-981-15-3242-9_47",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dhruvin Anil",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACjiCisBAnnciAFhbsYYVAEu4KAFlpmQBKA",
+                            "occupation": "Data Scientist III [ML Engineer] @ Walmart | MS in Software Engineering at San Jose State University.",
+                            "objectUrn": "urn:li:member:685902379",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACjiCisBAnnciAFhbsYYVAEu4KAFlpmQBKA",
+                            "publicIdentifier": "dhruvin-shah1206",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1691037555382?e=1746057600&v=beta&t=LUZRoqv0fLp1cjsA-QikH0q87TP_rbb3cIl5ayT_b1E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1691037555382?e=1746057600&v=beta&t=RvxyhykapBas4Q8rVEc40o59m34YuM06w-MNGU0NuD4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1691037555382?e=1746057600&v=beta&t=_YENobDJ6xRhAMiZ6oN1OYNFp3maKrmJxx9Qr7LFZ4s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1691037555382?e=1746057600&v=beta&t=LOzLai3npkw5KJ9OvEwEq798UHotFwN79oeWnNjbJUo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHUKlc_PYxh1g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "rnywTMonTEubcQ/TthI6kw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACjiCisBAnnciAFhbsYYVAEu4KAFlpmQBKA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Harsh",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACN80lABjJbCH-TtxaKHQimTNO3e-VpKloY",
+                            "occupation": "McKinsey & Co. | JBIMS | PwC India | 99.99% in MBA CET",
+                            "objectUrn": "urn:li:member:595382864",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACN80lABjJbCH-TtxaKHQimTNO3e-VpKloY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1610807004914?e=1746057600&v=beta&t=yBrsGRaGnH95XfrvJqIo3veiUcQPYaNdHbPM7DUaAmc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1280,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1610807004914?e=1746057600&v=beta&t=ag9x4oT2DptIjKgE3OXj1O_Z8JDqB3rUDuexuvIDZU0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 320
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQHbPKcLXmgY5w/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "harshbhaveshshah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 99,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718270638728?e=1746057600&v=beta&t=tZc_nrSsWEyaZ6qMukPcZur_Zwf505pfCH8Jw-1f7Kw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 199,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718293832189?e=1746057600&v=beta&t=4fKJbmOP4hFnsx-0MMyEILYkcTIdPv2pAwuyn0kmE18",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 399,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718264753493?e=1746057600&v=beta&t=7Qf8QQN0XhVlLOO-gpMwTgwSYwjPL4j_rUmIfLBRzPg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 770,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718270273755?e=1746057600&v=beta&t=xnTL59taLkfIFCndoTgMMl9MBWtOSlOiejuaTHRb_QA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 770
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQH-y6ppe__xPg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "yS9eK1nVRN6UBF0oWrlTmw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACN80lABjJbCH-TtxaKHQimTNO3e-VpKloY"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "LinkedIn",
+                "name": "Machine Learning & AI Foundations: Recommendations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "yQa9oC4PRuu+GWC/ehSZEg=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://drive.google.com/open?id=1-uOmPn4xZNnIlHAjdkSpqEq_0GnWPqRP"
+            },
+            {
+                "authority": "NIIT Limited",
+                "name": "Associate Android Developer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2703",
+                    "entityUrn": "urn:li:fs_miniCompany:2703",
+                    "name": "NIIT Limited",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1670495059074?e=1748476800&v=beta&t=CSqmepZzZJwo9XDvdIZZHu2DRUjni-xl4wI7biyt96g",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1670495059074?e=1748476800&v=beta&t=16xqKyqM98M8edUXh-4tdpHxhSxe_wVRwn3X4yrkhw4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1670495059074?e=1748476800&v=beta&t=uesIWRLTW73Ks67Nb_csgA5JN9wrYf4tYlZsKeToH9E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHBYANraVH97w/company-logo_"
+                        }
+                    },
+                    "universalName": "niit-limited",
+                    "dashCompanyUrn": "urn:li:fsd_company:2703",
+                    "trackingId": "ZQW/haxBRyGmRpHQG2gbmg=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:2703",
+                "url": "https://drive.google.com/open?id=1vTA4cqEatTAqhaI-b8yagEvri5VW9maM"
+            },
+            {
+                "authority": "IBM",
+                "name": "Deep Learning with TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1009",
+                    "entityUrn": "urn:li:fs_miniCompany:1009",
+                    "name": "IBM",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=zHeAjCw0RqrCIkE6mX6SUBWvprXp-I7zwQDRPC6sADQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=Fw1QxzUEE_V2mo9pQSFj1XIQGhLufQQ_V0LuqcvZmPU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=a1cVulUOABP3sgsU0NS0Q4XJS5CyihE41DlKZ_udALU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                        }
+                    },
+                    "universalName": "ibm",
+                    "dashCompanyUrn": "urn:li:fsd_company:1009",
+                    "trackingId": "gK+IfesYSrKKg8S2CqHVrw=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:1009",
+                "url": "https://courses.cognitiveclass.ai/certificates/aeb65b07b5da46c48594ba874075ab71"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "uUHNwKHXSdOflh57N7rwOw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/45W8CRSDD8BC"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Introduction to TensorFlow for Artificial Intelligence",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "ldudZEWQRzOAWj9GnBi3QA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/70774d019724f872fc760cbbff46791b"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Convolutional Neural Networks in TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "CO7Be5fCR3a0rW5shozFvQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/10d00b0c0a253ac3780781228a31af26"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Natural Language Processing in TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "EIi6q1WkQ6WjJVf4A24UTw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/BK4CXBW9LJJR"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Sequences, Time Series and Prediction",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "F/MbnpVURGGqRv7FlTBjtA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/6D293CENGZS6"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "TensorFlow in Practice Specialization\n",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "nRc65xRER5Ocjg3sYIBuGA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/LL7VNE3Z53A6"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Sequence Models",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "snHhsfc7TPeyQa5L8APGNg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/961f58f799c94815b5f9801731ffead0"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "title": "Best Paper Honorable Mention",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "issuer": "SIGIR"
+            },
+            {
+                "description": "Selected for AI Research Fellowship",
+                "title": "AI Research Fellowship",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "issuer": "Fellowship.ai"
+            },
+            {
+                "title": "Best Research Project",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "issuer": "IIT BHU"
+            },
+            {
+                "description": "Selected for Google India Scholarship Challenge under Android Developer Track in Udacity's course.",
+                "title": "Google India Scholarship",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "issuer": "Google"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,742010064)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,554671585,335227849)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "Fine-tuned T5 model on the Extreme Summarization (XSum) Dataset achieving a rouge2 f score of 9.5% on test data. Further, I discuss the drawbacks of ngram-based metrics as well as contextual word metrics.\n\nFinally, I propose the use of Weighted Contextual N-gram (WCN) method – an alternative metric that can be more effective for the evaluation of text generation tasks.",
+                "title": "WCN — Weighted Contextual N-gram method for evaluation of Text Summarization",
+                "url": "https://github.com/Aditya-shahh/Text_Summarization"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,742010064)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Aditya",
+                            "lastName": "Shah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "occupation": "ML Research Engineer @ Google | Building Gemini | Fine-Tuning and Evals",
+                            "objectUrn": "urn:li:member:608229050",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080",
+                            "publicIdentifier": "aditya-shahh",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718222036490?e=1746057600&v=beta&t=rtmsPYasf3JaF08ZEnXivZ_ObduKkl9xFmJ4mu4by5g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718217397627?e=1746057600&v=beta&t=FNaPTapyDBE3xPSsvRleTV90Ly7IU9_uTDBRI3Mbir8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718214633828?e=1746057600&v=beta&t=LNmXknMG889x-H5ObyPi65-BcyNnhqsGblVF2TFH72I",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718220521394?e=1746057600&v=beta&t=xcb0sNwRAwri1XM3Y7lY1gFO5tDP5B8uHwwfBs0DuAk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG1A_G5g3Vsqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+zvuiZVaSaWh/Mf+AQMGYw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080,554824114,335228730)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "This project presents an Adaptive pooling-based method on top of the Electra model — AdaElectra in order to classify relations. The proposed model — AdaElectra achieves an F1 score of 0.88 on the NYT29 dataset",
+                "title": "Multi-Label Relation Classification",
+                "url": "https://github.com/Aditya-shahh/Multi-Label-Relation-Classification"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Generative AI"
+            },
+            {
+                "name": "Large Language Models"
+            },
+            {
+                "name": "Natural Language Processing (NLP)"
+            },
+            {
+                "name": "PyTorch"
+            }
+        ],
+        "urn_id": "ACoAACRA1roBKrMw_cX_CzOtuwy2p_uPJbHW080"
+    }
+}

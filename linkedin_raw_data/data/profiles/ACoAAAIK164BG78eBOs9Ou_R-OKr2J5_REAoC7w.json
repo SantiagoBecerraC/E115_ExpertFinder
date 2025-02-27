@@ -1,0 +1,569 @@
+{
+    "urn_id": "ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+    "fetch_timestamp": "2025-02-26T21:20:00.726907",
+    "profile_data": {
+        "summary": "Skilled in data analysis and machine learning, having developed over 100 predictive models. Supports strategic decision making by discovering knowledge, applying statistical and programming skills with results-focused approach. Explains technical information with patience and understanding. Stays current to keep pace with technological change. Excellent writer.  MS, Statistics and Operations Research, with Distinction.",
+        "industryName": "Marketing & Advertising",
+        "lastName": "Garbato",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:80",
+        "firstName": "Denise",
+        "entityUrn": "urn:li:fs_profile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000070"
+        },
+        "geoLocationName": "New York City Metropolitan Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Data Scientist and Analyst | Machine Learning | Data Analysis | Data Visualization | Python | Logistic Regression | Multiple Linear Regression | Gradient Boosting | Random Forest |\nNatural Language Processing",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGi3SD0t2VdkA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1712589152762?e=1746057600&v=beta&t=gM7V2wKxQNfAgAYw2U4meXmlXyookUhc5U5tWFgP4Fg",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1712589152762?e=1746057600&v=beta&t=R4fEImHUnYsJmZtIQv8nBKDi8F5Ge2frWPpxV8dg-hg",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1712589152762?e=1746057600&v=beta&t=QjnynTiUwCIvYnSvBCvN1CNzPBFwArJZrvjDDDoRwjo",
+        "img_623_623": "800_800/profile-displayphoto-shrink_800_800/0/1712589152762?e=1746057600&v=beta&t=TN3Z0q4LuZLoCQ058U9Xy9DTIelON0y1_5KVUbUtSEw",
+        "profile_id": "ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+        "member_urn": "urn:li:member:34265006",
+        "public_id": "denisegarbato",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,2189455413)",
+                "companyName": "Apziva",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2023
+                    }
+                },
+                "description": "Apziva helps companies solve challenging data and machine learning problems by designing cutting edge solutions.\n●\tImproved customer satisfaction at a logistics and delivery company by building a machine learning model.\n●\tReduced human effort by 103 hours in a telemarketing campaign for a European Bank by building classification models.\n●\tIdentified best job applicants for a talent sourcing company using natural language processing.\n●\tClassified images by building a convolutional neural network for visually impaired individuals.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "AI Resident",
+                "companyUrn": "urn:li:fs_miniCompany:29330198",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHuarpHGtpKxw/company-logo_"
+            },
+            {
+                "locationName": "New York, NY",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763410463)",
+                    "urn:li:fs_project:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763525892)",
+                    "urn:li:fs_project:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763656185)",
+                    "urn:li:fs_project:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763758922)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,1940379153)",
+                "geoLocationName": "New York, NY",
+                "companyName": "NYC Data Science Academy",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "description": "Rigorous training in machine learning with R and Python. Completed research projects involving advanced data science methods and strategies.\n●\tPredicted housing prices with an average error of just $13,306 by building and optimizing regression models.\n●\tPredicted customer churn, achieving 79% recall to identify at-risk customers for retention offers by building classification models.\n●\tSegmented the Iowa liquor store market utilizing the K-means clustering algorithm and combined those segments with Census data to recommend locations to open a new liquor store targeting upper income millennials.\n●\tScraped and analyzed data on petfinder.com and suggested actions that rescue groups and shelters could take to better “market” their cats and improve adoption rates",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Data Science Fellow",
+                "companyUrn": "urn:li:fs_miniCompany:3725991",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEZPhL1U8aR9g/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,234558630)"
+                ],
+                "locationName": "Jersey City, New Jersey",
+                "entityUrn": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,799520896)",
+                "geoLocationName": "Jersey City, New Jersey",
+                "companyName": "Advance Local",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "Used predictive modeling and data analysis to help Advance Local Media Groups increase multi-million-dollar advertising revenue in news websites and publications. Provided analysis and reporting services to external clients such as retailers and universities.\n\n•\tRetained $12M client by developing interactive dashboards in Tableau that helped marketers \n        monitor digital advertising campaigns. \n•\tBuilt logistic regression models using both internal and Acxiom data which resulted in reduced \n        subscriber attrition rates.\n•\tEnabled retailers to better target customers by creating profiles and data visualizations, delivering \n        information for effective client decision making. \n•\tHelped journalists track political trends by creating interactive dashboards of surveys using \n        Tableau. \n•\tAnalyzed advertising accounts, using Dun & Bradstreet data so that similar businesses could be \n        identified and targeted more efficiently. \n•\tIncreased college and university alumni engagement for external client through profiling",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Media Production"
+                    ]
+                },
+                "title": "Analytics Manager (Individual Contributor)",
+                "companyUrn": "urn:li:fs_miniCompany:5014793",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE6FwIGkZnx5w/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,234812964)"
+                ],
+                "locationName": "Port Washington, New York",
+                "entityUrn": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,517276927)",
+                "geoLocationName": "Port Washington, New York",
+                "companyName": "North Shore Animal League America",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Worked on marketing team of nonprofit animal welfare organization. \n\n•\tImproved efficiency of fundraising process and increased donations by building predictive models using both linear and logistic regression.\n•\tDrove marketing initiatives as subject matter expert (SME) in advanced analytics.\n•\tDefined business needs and outlined custom projects by consulting with internal clients.\n•\tTracked donor performance by creating managerial reports that included model metrics.\n•\tRecommended modeling strategy to transform medium donors into high-dollar contributors.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Statistician",
+                "companyUrn": "urn:li:fs_miniCompany:60302",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEfmBc7G-s0AA/company-logo_"
+            },
+            {
+                "locationName": "New York, NY",
+                "entityUrn": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,304545106)",
+                "geoLocationName": "New York, NY",
+                "companyName": "NYU School of Professional Studies",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "•\tAssisted in teaching courses for certificate program in data mining.\n•\tTaught SAS programming logistic regression, linear regression, and cluster analysis.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Denise Garbato",
+                "companyUrn": "urn:li:fs_miniCompany:15097453",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFnzfTTCbjqqA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,75718815)",
+                "school": {
+                    "objectUrn": "urn:li:school:18994",
+                    "entityUrn": "urn:li:fs_miniSchool:18994",
+                    "active": true,
+                    "schoolName": "NYU Stern School of Business",
+                    "trackingId": "DOVkwWjFQlyaB93Uwzi4DA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_"
+                },
+                "grade": "3.7",
+                "degreeName": "MS, With Distinction",
+                "schoolName": "New York University, Stern School of Business",
+                "fieldOfStudy": "Statistics and Operations Research",
+                "schoolUrn": "urn:li:fs_miniSchool:18994"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,96089010)",
+                "school": {
+                    "objectUrn": "urn:li:school:18959",
+                    "entityUrn": "urn:li:fs_miniSchool:18959",
+                    "active": true,
+                    "schoolName": "Hofstra University",
+                    "trackingId": "/6/gsf7aTi6FbfU/TY8DDA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHoj1ni_z3nXg/company-logo_"
+                },
+                "grade": "3.9",
+                "degreeName": "BBA, Magna Cum Laude",
+                "schoolName": "Hofstra University",
+                "fieldOfStudy": "Banking and Finance",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,89)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:18959"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,96089010)",
+                "title": "Beta Gamma Sigma"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,1940379153)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Denise",
+                            "lastName": "Garbato",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "occupation": "Data Scientist and Analyst | Machine Learning | Data Analysis | Data Visualization | Python | Logistic Regression | Multiple Linear Regression | Gradient Boosting | Random Forest | Natural Language Processing",
+                            "objectUrn": "urn:li:member:34265006",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1704304270406?e=1746057600&v=beta&t=FmAo0QJgnxlfkIkk-_B4X_Yc4Uy5F1P-nxXhw6tr_qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 816,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704304270406?e=1746057600&v=beta&t=cMrCoVPymNRjEDV9PCCLNjRCjur2HHCKSH3Z3uV_KqM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 204
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHxAnAT0VhkYQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "denisegarbato",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1712589152762?e=1746057600&v=beta&t=gM7V2wKxQNfAgAYw2U4meXmlXyookUhc5U5tWFgP4Fg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1712589152762?e=1746057600&v=beta&t=R4fEImHUnYsJmZtIQv8nBKDi8F5Ge2frWPpxV8dg-hg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1712589152762?e=1746057600&v=beta&t=QjnynTiUwCIvYnSvBCvN1CNzPBFwArJZrvjDDDoRwjo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 623,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1712589152762?e=1746057600&v=beta&t=TN3Z0q4LuZLoCQ058U9Xy9DTIelON0y1_5KVUbUtSEw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 623
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGi3SD0t2VdkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dVqQSGhKRsOvxXnxboWMow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763656185,360625986)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "title": "Getting Cats Adopted on petfinder.com",
+                "url": "https://nycdatascience.com/blog/student-works/web-scraping/getting-cats-adopted-on-petfinder-com/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,1940379153)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Denise",
+                            "lastName": "Garbato",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "occupation": "Data Scientist and Analyst | Machine Learning | Data Analysis | Data Visualization | Python | Logistic Regression | Multiple Linear Regression | Gradient Boosting | Random Forest | Natural Language Processing",
+                            "objectUrn": "urn:li:member:34265006",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1704304270406?e=1746057600&v=beta&t=FmAo0QJgnxlfkIkk-_B4X_Yc4Uy5F1P-nxXhw6tr_qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 816,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704304270406?e=1746057600&v=beta&t=cMrCoVPymNRjEDV9PCCLNjRCjur2HHCKSH3Z3uV_KqM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 204
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHxAnAT0VhkYQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "denisegarbato",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1712589152762?e=1746057600&v=beta&t=gM7V2wKxQNfAgAYw2U4meXmlXyookUhc5U5tWFgP4Fg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1712589152762?e=1746057600&v=beta&t=R4fEImHUnYsJmZtIQv8nBKDi8F5Ge2frWPpxV8dg-hg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1712589152762?e=1746057600&v=beta&t=QjnynTiUwCIvYnSvBCvN1CNzPBFwArJZrvjDDDoRwjo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 623,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1712589152762?e=1746057600&v=beta&t=TN3Z0q4LuZLoCQ058U9Xy9DTIelON0y1_5KVUbUtSEw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 623
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGi3SD0t2VdkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dVqQSGhKRsOvxXnxboWMow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763525892,360628873)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "title": "Market Case Analysis For A New Store Entrant To The Iowa Liquor Market",
+                "url": "https://nycdatascience.com/blog/student-works/finding-the-best-liquor-store-location-in-iowa/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,1940379153)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Denise",
+                            "lastName": "Garbato",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "occupation": "Data Scientist and Analyst | Machine Learning | Data Analysis | Data Visualization | Python | Logistic Regression | Multiple Linear Regression | Gradient Boosting | Random Forest | Natural Language Processing",
+                            "objectUrn": "urn:li:member:34265006",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1704304270406?e=1746057600&v=beta&t=FmAo0QJgnxlfkIkk-_B4X_Yc4Uy5F1P-nxXhw6tr_qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 816,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704304270406?e=1746057600&v=beta&t=cMrCoVPymNRjEDV9PCCLNjRCjur2HHCKSH3Z3uV_KqM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 204
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHxAnAT0VhkYQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "denisegarbato",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1712589152762?e=1746057600&v=beta&t=gM7V2wKxQNfAgAYw2U4meXmlXyookUhc5U5tWFgP4Fg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1712589152762?e=1746057600&v=beta&t=R4fEImHUnYsJmZtIQv8nBKDi8F5Ge2frWPpxV8dg-hg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1712589152762?e=1746057600&v=beta&t=QjnynTiUwCIvYnSvBCvN1CNzPBFwArJZrvjDDDoRwjo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 623,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1712589152762?e=1746057600&v=beta&t=TN3Z0q4LuZLoCQ058U9Xy9DTIelON0y1_5KVUbUtSEw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 623
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGi3SD0t2VdkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dVqQSGhKRsOvxXnxboWMow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763410463,360631732)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "title": "Predicting Real Estate Prices in Ames Iowa",
+                "url": "https://nycdatascience.com/blog/student-works/machine-learning/predicting-housing-prices-with-data/"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,1940379153)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Denise",
+                            "lastName": "Garbato",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "occupation": "Data Scientist and Analyst | Machine Learning | Data Analysis | Data Visualization | Python | Logistic Regression | Multiple Linear Regression | Gradient Boosting | Random Forest | Natural Language Processing",
+                            "objectUrn": "urn:li:member:34265006",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1704304270406?e=1746057600&v=beta&t=FmAo0QJgnxlfkIkk-_B4X_Yc4Uy5F1P-nxXhw6tr_qI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 816,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704304270406?e=1746057600&v=beta&t=cMrCoVPymNRjEDV9PCCLNjRCjur2HHCKSH3Z3uV_KqM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 204
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHxAnAT0VhkYQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "denisegarbato",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1712589152762?e=1746057600&v=beta&t=gM7V2wKxQNfAgAYw2U4meXmlXyookUhc5U5tWFgP4Fg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1712589152762?e=1746057600&v=beta&t=R4fEImHUnYsJmZtIQv8nBKDi8F5Ge2frWPpxV8dg-hg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1712589152762?e=1746057600&v=beta&t=QjnynTiUwCIvYnSvBCvN1CNzPBFwArJZrvjDDDoRwjo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 623,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1712589152762?e=1746057600&v=beta&t=TN3Z0q4LuZLoCQ058U9Xy9DTIelON0y1_5KVUbUtSEw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 623
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGi3SD0t2VdkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "dVqQSGhKRsOvxXnxboWMow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w,763758922,360626959)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "title": "What is Driving Customer Churn at Telco?",
+                "url": "https://nycdatascience.com/blog/student-works/what-is-driving-customer-churn-at-telco/"
+            }
+        ],
+        "skills": [
+            {
+                "name": "SciPy "
+            },
+            {
+                "name": " Scikit-Learn "
+            },
+            {
+                "name": "Natural Language Processing (NLP)"
+            },
+            {
+                "name": "GeoPandas"
+            }
+        ],
+        "urn_id": "ACoAAAIK164BG78eBOs9Ou_R-OKr2J5_REAoC7w"
+    }
+}

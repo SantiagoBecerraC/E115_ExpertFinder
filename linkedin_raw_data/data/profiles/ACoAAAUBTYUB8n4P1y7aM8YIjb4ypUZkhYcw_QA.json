@@ -1,0 +1,982 @@
+{
+    "urn_id": "ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+    "fetch_timestamp": "2025-02-26T21:34:18.779329",
+    "profile_data": {
+        "summary": "Past Experience\nPhysics PhD from UC Berkeley studying nano-electronic and photonic phenomena in 2D semiconductor and meta materials. \n\nInternships\nGoogle X as a research scientist intern and Facebook feed ranking as software engineer\n\nWork\nResearch Scientist, Natural Language Processing infra team in Facebook\nApplying Neural Network and Deep Learning techniques to solve natural language problems in Facebook.\n\nCurrently focus on\nParser, Grammar, Disambiguation",
+        "industryName": "Computer Software",
+        "lastName": "Zeng",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Bo",
+        "entityUrn": "urn:li:fs_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104145663"
+        },
+        "geoLocationName": "Redmond, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+        "img_442_442": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+        "profile_id": "ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+        "member_urn": "urn:li:member:83971461",
+        "public_id": "bo-zeng-71915624",
+        "experience": [
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,1653271814)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Airbnb",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "Core Machine Learning for Text Understanding, Relevance and Classification models. Supporting AI capabilities in Help Center and Airbnb Chatbot.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Engineering Manager, Core Machine Learning",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:309694",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFhfl32crIGIw/company-logo_"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,1511299112)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "Airbnb",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Topic/Sentiment Classification, Multilingual Word Embedding, Text Based Ticket Routing Automation, Entity Recognition and Extraction, Document Semantic Embedding",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Staff Machine Learning Engineer, AI Labs",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:309694",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFhfl32crIGIw/company-logo_"
+            },
+            {
+                "locationName": "San Francisco, California",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,1410592323)",
+                "geoLocationName": "San Francisco, California",
+                "companyName": "Airbnb",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "General Text Understanding Techniques.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Machine Learning Engineer, AI Labs",
+                "companyUrn": "urn:li:fs_miniCompany:309694",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFhfl32crIGIw/company-logo_"
+            },
+            {
+                "locationName": "Menlo Park",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,1344377293)",
+                "geoLocationName": "Menlo Park",
+                "companyName": "Facebook",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "description": "Text Summarization\nShort Text Understanding (Query Understanding)\nKnowledge Graph Integration, Conversational AI",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior Research Scientist at Facebook",
+                "companyUrn": "urn:li:fs_miniCompany:76987811",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_"
+            },
+            {
+                "locationName": "Menlo Park",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,766162569)",
+                "geoLocationName": "Menlo Park",
+                "companyName": "Facebook",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2016
+                    }
+                },
+                "description": "Natural Language Processing\nApplying Neural Network and Deep Learning techniques to solve open NLP problems at Facebook scale.\n\nCurrently focus on:\nQuery Semantic Understanding, Search Query Semantics (Grammar) using LSTM",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Research Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:76987811",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,60)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,61)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,62)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,63)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,64)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,65)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,597975634)"
+                ],
+                "description": "Ultrafast Optics",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,80)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:17939",
+                "entityUrn": "urn:li:fs_education:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,170100274)",
+                "school": {
+                    "objectUrn": "urn:li:school:17939",
+                    "entityUrn": "urn:li:fs_miniSchool:17939",
+                    "active": true,
+                    "schoolName": "University of California, Berkeley",
+                    "trackingId": "JFyYgcPrQVO9NcIhvgYncw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100892",
+                "schoolName": "University of California, Berkeley",
+                "fieldOfStudy": "Physics",
+                "degreeUrn": "urn:li:fs_degree:900"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,43)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,44)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,45)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,46)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,47)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,48)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,49)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,50)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,51)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,52)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,53)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,54)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,55)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,56)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,57)",
+                    "urn:li:fs_course:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,59)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,65661462)",
+                "school": {
+                    "objectUrn": "urn:li:school:11469",
+                    "entityUrn": "urn:li:fs_miniSchool:11469",
+                    "active": true,
+                    "schoolName": "Zhejiang University",
+                    "trackingId": "UulxVM08SGy7uHRBsutAFw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQFqHuGrMlNcfg/company-logo_"
+                },
+                "activities": "CKC Honors College; Engineering Mixed Class.",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "description": "Engineering Optics. Laser Technology. Photonics and Semiconductor Physics",
+                "degreeName": "Bachelor of Engineering (BEng)",
+                "schoolName": "Zhejiang University",
+                "fieldOfStudy": "Optoelectronics",
+                "schoolUrn": "urn:li:fs_miniSchool:11469"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2015,
+                    "day": 7
+                },
+                "name": "Observation of Luttinger-Liquid Plasmon in Metallic Single-Walled Carbon Nanotubes",
+                "publisher": "Nature Photonics",
+                "description": "To apear ",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Zhiwen",
+                            "lastName": "Shi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmB_FEBY9J6Mutg7ciLJ9IPXwLzUFhID_c",
+                            "occupation": "Postdoc at UC Berkeley",
+                            "objectUrn": "urn:li:member:159513681",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmB_FEBY9J6Mutg7ciLJ9IPXwLzUFhID_c",
+                            "publicIdentifier": "zhiwen-shi-1a950745",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517401803853?e=1746057600&v=beta&t=Vrst9kz98f2RnCqDzwvuBmFKa8kDc7fgSCgupMBbTgk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517401803892?e=1746057600&v=beta&t=xril4GGPfqACdhZDE1ToMTQSqJ56tTyuzT6hXr01rWU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 240,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517401803962?e=1746057600&v=beta&t=kzUyY3oWuD0sAHgKStjNcqJwQldpqY7s_FDjqvc6dwk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 240
+                                        },
+                                        {
+                                            "width": 240,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517401803886?e=1746057600&v=beta&t=iAs7bbELTHXZwgDBBJ7P1ZKrU7q14H4fsELgeVZOvo4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 240
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEb957RPDO_zg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XTercDq8R2OoqNB6EaYEHQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmB_FEBY9J6Mutg7ciLJ9IPXwLzUFhID_c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Tony",
+                            "lastName": "Hong",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA4bRBUBulcyJU243nxmr2QY7VkD_OicjWI",
+                            "occupation": "Founder and CEO at Strutt",
+                            "objectUrn": "urn:li:member:236667925",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4bRBUBulcyJU243nxmr2QY7VkD_OicjWI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1735501947725?e=1746057600&v=beta&t=8xyQr7AGAGN9dvuw5P3O48GJH46ATL5VIEX4o6dJkgM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735501947725?e=1746057600&v=beta&t=INm88ipyPAf62tV3GIzwqvTlT3HInZdICuwSdXQtaW8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQHFT2QwjT7VEw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tonyhong1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B4EZQtSGvbHsAY-/0/1735926508918?e=1746057600&v=beta&t=LKVqnbYVgnOqBKhHNGGKSjGX6RU8BbOWTpSPo3qnL-k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B4EZQtSGvbHsAg-/0/1735926508918?e=1746057600&v=beta&t=b_7EUa3ZXywU30Tg1Dd5SNaDK8MvIYttFoFCF-VKq8Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B4EZQtSGvbHsAc-/0/1735926508918?e=1746057600&v=beta&t=bN0ME7V-s2ZpdQkf-zdcfSPkfZl1fBG7KmzAraVo23E",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B4EZQtSGvbHsAk-/0/1735926508901?e=1746057600&v=beta&t=4gRSYgfsYVzJIIY7SCEOfWje0JpnKKii91Rj444i-io",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFczXxRCDHk3w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "h62i6Xy7SiyH6/+QUCGNdw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA4bRBUBulcyJU243nxmr2QY7VkD_OicjWI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    },
+                    {
+                        "name": "Feng wang"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2015,
+                    "day": 1
+                },
+                "name": "Amplitude- and Phase-Resolved Nano-Spectral Imaging of Phonon Polaritons in Hexagonal Boron Nitride",
+                "publisher": "ACS Nano",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Zhiwen",
+                            "lastName": "Shi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmB_FEBY9J6Mutg7ciLJ9IPXwLzUFhID_c",
+                            "occupation": "Postdoc at UC Berkeley",
+                            "objectUrn": "urn:li:member:159513681",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAmB_FEBY9J6Mutg7ciLJ9IPXwLzUFhID_c",
+                            "publicIdentifier": "zhiwen-shi-1a950745",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517401803853?e=1746057600&v=beta&t=Vrst9kz98f2RnCqDzwvuBmFKa8kDc7fgSCgupMBbTgk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517401803892?e=1746057600&v=beta&t=xril4GGPfqACdhZDE1ToMTQSqJ56tTyuzT6hXr01rWU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 240,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517401803962?e=1746057600&v=beta&t=kzUyY3oWuD0sAHgKStjNcqJwQldpqY7s_FDjqvc6dwk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 240
+                                        },
+                                        {
+                                            "width": 240,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517401803886?e=1746057600&v=beta&t=iAs7bbELTHXZwgDBBJ7P1ZKrU7q14H4fsELgeVZOvo4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 240
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQEb957RPDO_zg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "XTercDq8R2OoqNB6EaYEHQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAmB_FEBY9J6Mutg7ciLJ9IPXwLzUFhID_c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    },
+                    {
+                        "name": "feng wang"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2015,
+                    "day": 1
+                },
+                "name": "Tunable Dark Modes in One-Dimensional “Diatomic” Dielectric Gratings",
+                "publisher": "Optics Express",
+                "description": "Recently researchers have demonstrated ultra high quality factor (Q) resonances in one-dimensional (1D) dielectric gratings. Here we theoretically investigate a new class of subwavelength 1D gratings, namely “diatomic” gratings with two nonequivalent subcells in one period, and utilize their intrinsic dark modes to achieve ultra high Q resonances. Such “diatomic” gratings provide extra design flexibility, and enable high Q resonators using thin geometry with small filling factors. We also show that these high Q resonances can be tuned in-situ, making the design appealing in various applications including optical sensing, filtering and displays.",
+                "url": "https://www.osapublishing.org/oe/abstract.cfm?uri=oe-23-10-12478",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Arka",
+                            "lastName": "Majumdar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABG99W0BbBUw2ajGmDwcpY2ELyRaTouNkQ0",
+                            "occupation": "Applied Scientist and Entrepreneur",
+                            "objectUrn": "urn:li:member:297661805",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABG99W0BbBUw2ajGmDwcpY2ELyRaTouNkQ0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1575406029284?e=1746057600&v=beta&t=OmyTLKLFAaHBR4janFP9hGi9yzlLXCJwXgd5chIA4o0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1575406029334?e=1746057600&v=beta&t=aTQ8Zfe4h1YQnyJWMWgZoU3tbRzDGBkwJ_iswxPGbDo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGXpU3Smk74fQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "arka-majumdar-ba582983",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1699634581570?e=1746057600&v=beta&t=rlKdALroQZ-pbE_42fOs6rjQUyB9BjB-X7C0VxZ64rM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1699634581570?e=1746057600&v=beta&t=XRv1VNb3-RbGokvo47IeBXbCc_pbNBti2DCUK1GCsoE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1699634581570?e=1746057600&v=beta&t=a01Q6S6Ter-ea6Lbje-p8KlZX96VunVgygn1BsVAmPg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1699634581570?e=1746057600&v=beta&t=v2gOEBt3fViHfQPmpNQlmZeFQY4MSPON9l8sDhqgklo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGdNiZUMgAK5w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "JCpNFicZSoWBnOeYcHpNgA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABG99W0BbBUw2ajGmDwcpY2ELyRaTouNkQ0"
+                    },
+                    {
+                        "name": "feng wang"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2014,
+                    "day": 5
+                },
+                "name": "Optimizing Broadband Terahertz Modulation with Hybrid Graphene/Metasurface Structures",
+                "publisher": "Nano Letters",
+                "description": "(Equal Contribution Work) We demonstrate efficient terahertz (THz) modulation by coupling graphene strongly with a broadband THz metasurface device. This THz metasurface, made of periodic gold slit arrays, shows near unity broadband transmission that arises from coherent radiation of the enhanced local-field in the slits. Utilizing graphene as an active load with tunable conductivity, we can significantly modify the local-field enhancement and strongly modulate the THz wave transmission. This hybrid device also provides a new platform for possible nonlinear THz spectroscopy study of graphene.",
+                "url": "http://pubs.acs.org/doi/abs/10.1021/nl503670d",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sufei",
+                            "lastName": "Shi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAD9u_sBO_DhDHPjvmU3-SaCZsnJLNiTFCk",
+                            "occupation": "Associate Professor",
+                            "objectUrn": "urn:li:member:16628731",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAD9u_sBO_DhDHPjvmU3-SaCZsnJLNiTFCk",
+                            "publicIdentifier": "sufei-shi-13769b5",
+                            "trackingId": "Oh7aeeZrT5qxkT3fEctj0w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAD9u_sBO_DhDHPjvmU3-SaCZsnJLNiTFCk"
+                    },
+                    {
+                        "name": "huiling han"
+                    },
+                    {
+                        "name": "feng wang"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2014,
+                    "day": 24
+                },
+                "name": "Controlling Graphene Ultrafast Hot Carrier Response from Metal-like to Semiconductor-like by Electrostatic Gating",
+                "publisher": "Nano Letters",
+                "description": "We investigate the ultrafast terahertz response of electrostatically gated graphene upon optical excitation. We observe that the photoinduced terahertz absorption increases in charge neutral graphene but decreases in highly doped graphene. We show that this transition from semiconductor-like to metal-like response is unique for zero bandgap materials such as graphene. In charge neutral graphene photoexcited hot carriers effectively increase electron and hole densities and increase the conductivity. In highly doped graphene, however, photoexcitation does not change net conducting carrier concentration. Instead, it mainly increases electron scattering rate and reduce the conductivity.",
+                "url": "http://pubs.acs.org/doi/abs/10.1021/nl404826r",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sufei",
+                            "lastName": "Shi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAD9u_sBO_DhDHPjvmU3-SaCZsnJLNiTFCk",
+                            "occupation": "Associate Professor",
+                            "objectUrn": "urn:li:member:16628731",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAD9u_sBO_DhDHPjvmU3-SaCZsnJLNiTFCk",
+                            "publicIdentifier": "sufei-shi-13769b5",
+                            "trackingId": "Oh7aeeZrT5qxkT3fEctj0w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAD9u_sBO_DhDHPjvmU3-SaCZsnJLNiTFCk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    },
+                    {
+                        "name": "Long Ju"
+                    },
+                    {
+                        "name": "feng wang"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "A stipend fellowship awarded to potential university research candidates in the field of nano electronics/photonic technology",
+                "occupation": "urn:li:fs_education:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,170100274)",
+                "title": "Applied Science and Technology Fellowship",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2010
+                },
+                "issuer": "UC Berkeley, AS&T"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,135561231)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,519341311,519341312)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "description": "This is a series of class projects from CS189/289A. Technique used includes: Spam, Digit and Music Labeling Classifier (2015): SVM, Logistic Regression, Bayesian classifier. Cross-validation, Regularization, Parameter-Tuning. Home made code using Matlab",
+                "title": "Spam, Digit and Song labeling Classifier (2015)"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,170100274)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Bo",
+                            "lastName": "Zeng",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "occupation": "Engineering Manager, NLP & Machine Learning @ Airbnb AI Labs, Ex Facebook",
+                            "objectUrn": "urn:li:member:83971461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA",
+                            "publicIdentifier": "bo-zeng-71915624",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1549664355339?e=1746057600&v=beta&t=rWn3OD_r_8JGYfO1O3xUXD2VT27gDwRyKAN56FdlwSs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1549664355336?e=1746057600&v=beta&t=cVxq2oYyTkCikVbS04mx7qLheZ6_KSUuDLdWvQ2LU8g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1549664355408?e=1746057600&v=beta&t=j9FiU3z4dWbK67UpsNnrH3_jOJeg04weLx7Kq5NBwFI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 442,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1549664355400?e=1746057600&v=beta&t=rMJGQnBfWcyLTPhNhnKLXmAomFQ0Wj3rRXZ6m417ZKY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 442
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHoImYAL6_Geg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RItv2kKHQwCnLQyDjFMAow=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA,597975634,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2014
+                    }
+                },
+                "description": "GitHub: https://github.com/bboczeng/Codes\nMostly in Python and Matlab. Including wide range of algorithmic programs and home made machine learning codes",
+                "title": "Various Coding Exercises.",
+                "url": "https://github.com/bboczeng/Codes"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Neural Networks"
+            },
+            {
+                "name": "Natural Language"
+            },
+            {
+                "name": "Language Modeling"
+            },
+            {
+                "name": "BERT"
+            }
+        ],
+        "urn_id": "ACoAAAUBTYUB8n4P1y7aM8YIjb4ypUZkhYcw_QA"
+    }
+}

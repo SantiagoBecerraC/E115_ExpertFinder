@@ -1,0 +1,1137 @@
+{
+    "urn_id": "ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+    "fetch_timestamp": "2025-02-26T21:44:44.146191",
+    "profile_data": {
+        "summary": "Neda has a PhD in computer engineering with focus on machine learning and computer vision from Southern Illinois University in 2015. Prior to graduation she studied big data for network videos at Nokia Bell Labs. Following her dissertation defense, she joined CCC Intelligent Solutions as a data scientist and developed the first deep learning model for the company that determines total vs repairable claims via photos of the accident. She is now serving as the director of data science leading multiple data scientist groups. The main goal of her team is to deliver AI products that disrupt the P&C industry",
+        "industryName": "Computer Software",
+        "lastName": "Hantehzadeh, PhD",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Neda",
+        "entityUrn": "urn:li:fs_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000014"
+        },
+        "geoLocationName": "Greater Chicago Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Director of Data Science (Machine Learning & Computer Vision)",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+        "img_482_482": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+        "profile_id": "ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+        "member_urn": "urn:li:member:97476983",
+        "public_id": "neda-hantehzadeh-phd-35b78a28",
+        "experience": [
+            {
+                "locationName": "Chicago, Illinois, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2109006810)",
+                "geoLocationName": "Chicago, Illinois, United States",
+                "geoUrn": "urn:li:fs_geo:103112676",
+                "companyName": "CCC Intelligent Solutions",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Director of Data Science",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:162929",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcBHOPH5xitQ/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,1907950499)",
+                "geoLocationName": "Chicago, Illinois, United States",
+                "geoUrn": "urn:li:fs_geo:103112676",
+                "companyName": "CCC Intelligent Solutions",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "Machine Learning and Computer Vision Applications",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Associate Director of Data Science",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:162929",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcBHOPH5xitQ/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois",
+                "entityUrn": "urn:li:fs_position:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,1537514816)",
+                "geoLocationName": "Chicago, Illinois",
+                "companyName": "CCC Information Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior R&D Manager - Computer Vision",
+                "companyUrn": "urn:li:fs_miniCompany:162929",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcBHOPH5xitQ/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois",
+                "entityUrn": "urn:li:fs_position:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,1244837852)",
+                "geoLocationName": "Chicago, Illinois",
+                "companyName": "CCC Information Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "R&D Manager/ Computer Vision",
+                "companyUrn": "urn:li:fs_miniCompany:162929",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcBHOPH5xitQ/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois",
+                "entityUrn": "urn:li:fs_position:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,1134786778)",
+                "geoLocationName": "Chicago, Illinois",
+                "companyName": "CCC Information Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2015
+                    }
+                },
+                "description": "At CCC I work on developing and testing new generation of computer vision and machine learning models for car insurance automation processes using deep learning techniques.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Lead Computer Vision Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:162929",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGcBHOPH5xitQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,60527538)",
+                "activities": "IEEE, SIUIS (Southern Illinois University Innovative Systems)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "description": "An automatic bio-inspired key point detection and extraction strategy for classification of 2D and 3D images.",
+                "degreeName": "Doctor of Philosophy (Ph.D.)",
+                "schoolName": "Southern Illinois University, Carbondale",
+                "fieldOfStudy": "Electrical and Computer Engineering"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,234523777)",
+                "school": {
+                    "objectUrn": "urn:li:school:18306",
+                    "entityUrn": "urn:li:fs_miniSchool:18306",
+                    "active": true,
+                    "schoolName": "Southern Illinois University, Carbondale",
+                    "trackingId": "qDgVeDXSREmMw4HobuZnIQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHepgvyln6HYg/company-logo_"
+                },
+                "grade": "4.0",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "description": "Thesis title: \"3D Face Recognition using Discrete Cosine Transform(DCT)\" . Thesis description:\nMy thesis focused on 3-D face recognition using the one- and two-dimensional Discrete Cosine Transform (DCT). A feature ranking based dimensionality reduction strategy was introduced to select the DCT coefficients that yield the best classification accuracies. Two forms of 3-D representation were used: point cloud and depth map images. These representations were extracted from the original VRML files in a face database and are normalized during the extraction process. Classification accuracies exceeding 97% are obtained using the point cloud images in conjunction with the 2-D DCT.",
+                "degreeName": "Master's Degree",
+                "schoolName": "Southern Illinois University, Carbondale",
+                "fieldOfStudy": "Electrical and Computer Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:18306"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2012,
+                    "day": 29
+                },
+                "name": "Using the iCub Simulator to Study Perceptual Development: A Case Study",
+                "description": "In the present study, we assess the iCub simulator as a platform for investigating perceptual development in human infants. In particular, we evaluate the simulator as a quasi- realistic virtual environment for conducting object-perception experiments. As a case study, we describe our simulation of the perceptual-completion task, which measures infants’ perception of a moving, partially-occluded object. We present here two simulation studies. The first study replicates our previous findings, which demonstrate that increasing spatial competition in our eye-movement model results in increased attention toward the occluded object. We then extend these findings in a second simulation study by demonstrating that reducing the width of the occluder also increases attention toward the occluded object, though unexpectedly, only for low levels of spatial competition. We conclude by highlighting the value of the iCub simulator as a research tool for psychologists, and also by noting how our eye- movement model can be further improved and elaborated.",
+                "url": "http://SchlesingerAmsoJohnsonHantehzadehGupta2012UsingTheiCubSimulatorToStudyPerceptualDevelopmentACaseStudy",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "name": "Matthew Schlesinger"
+                    },
+                    {
+                        "name": "Dima Amso"
+                    },
+                    {
+                        "name": "Scott P. Johnson"
+                    },
+                    {
+                        "name": "Lalit Gupta"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2011,
+                    "day": 23
+                },
+                "name": "On the inefficacy of Euclidean classifiers for detecting self-similar Session Initiation Protocol (SIP) messages",
+                "publisher": "IEEE/IFIP",
+                "description": "The Session Initiation Protocol (SIP) is an important\nmultimedia session establishment protocol used on the Internet.\nDue to the nature and deployment realities of the protocol\n(ASCII message representation, most deployments over UDP,\nlimited use of message encryption), it becomes relatively easy\nto attack the protocol at the message level. To mitigate this, selflearning\nsystems have been proposed to counteract new threats.\nHowever the efficacy of existing machine learning algorithms\nmust be studied on varied data sets before they can be successfully\nused. Existing literature indicates that Euclidean distance based\nclassifiers work well to detect anomalous messages. Our work\nsuggests that such classifiers do not produce adequate results for\nwell-crafted malicious messages that differ very slightly from\nnormal messages. To demonstrate this, we gather SIP traffic\nand minimally perturb it using 13 generic transforms to create\nmalicious SIP messages. We use th Levenshtein distance, L,\nas a measure of similarity between normal and malicious SIP\nmessages. We subject our dataset â€” consisting of malicious and\nnormal SIP messages â€” to Euclidean distance-based classifiers\nas well as four standard classifiers. Our results show vastly\ndifferent results for Euclidean distance-based classifiers on our\ndataset than reported in current literature. We further see that\nthe standard classifiers are better able to classify an anomalous\nmessage when L is small. ",
+                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=05990708",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anil",
+                            "lastName": "Mehta",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "occupation": "Fellow of RapidSOS, an E911 company.",
+                            "objectUrn": "urn:li:member:11393756",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "publicIdentifier": "mehtaanil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516304362252?e=1746057600&v=beta&t=FZePcMUrZyYzvmFp-VOLOw22O7AnuFpECxvAbCQYcjk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516305074738?e=1746057600&v=beta&t=ESrg4NFOO6wLT6ZI-ArrVt3-B2naVDLZ8-XnQOHPlBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516304802129?e=1746057600&v=beta&t=Us08SZM4ei2qvT7THWAGcnzFWwt-f9f4CLMhdgXkw8w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516304244157?e=1746057600&v=beta&t=bmGz05F37Y2ulo8uVgXZiWTB_CLrLcHZuIDEcRx8NRM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHwYkXhsYxWlw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "va+tJ6V0TIOxmCdTP1xddg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vijay K.",
+                            "lastName": "Gurbani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI",
+                            "occupation": "Chief Data Scientist at Vail Systems",
+                            "objectUrn": "urn:li:member:329976",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI",
+                            "publicIdentifier": "vkgurbani",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516197042146?e=1746057600&v=beta&t=4NoXf-ZYrKY2xQmShLc6ZAaNIFUtn8NJ0ISWRyjTeRg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516197042401?e=1746057600&v=beta&t=TaGI7UR2_RZQ7CXgfSU_qJxL12bidPWn0316ngmNdjs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516197042120?e=1746057600&v=beta&t=4chn2Wud2nSLWRCdi9ayWD_W44Xx-S9C3scf6NuXOTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516197042161?e=1746057600&v=beta&t=Y1qap_17QZC6Ohy0kN0jUSOg2r7hQWTfpHO-ZP2lBPA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHamtO1gvvtTQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SU/1o+xJQ1OI/rijNt/uCQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Tin Kam",
+                            "lastName": "Ho",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts",
+                            "occupation": "AI Strategist, Senior AI Scientist at IBM Research",
+                            "objectUrn": "urn:li:member:25176837",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts",
+                            "publicIdentifier": "tin-kam-ho-b195218",
+                            "trackingId": "W7DOGvZ5TSC3nhbHAPBXjA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts"
+                    },
+                    {
+                        "name": "Ramanarayanan Viswanathan"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2011,
+                    "day": 2
+                },
+                "name": "Statistical analysis of self-similar Session Initiation Protocol (SIP) messages for anomaly detection",
+                "publisher": "IEEE/IFIP and IEEE's COMSOC society",
+                "description": "The Session Initiation Protocol (SIP) is an important\nmultimedia session establishment protocol used on the Internet.\nDue to the nature and deployment realities of the protocol (ASCII\nmessage representation, widespread usage over UDP, limited use\nof encryption), it becomes relatively easy to attack the protocol\nat the message level to launch denial of service attacks. To\nmitigate this, self-learning systems have been proposed to detect\nanomalous SIP messages and filter them. However, previous\nworks use datasets with large differences between the normal\nand anomalous message. This gives high performance for existing\nclassification systems, including those based on Euclidean\ndistances. We present our analysis on a new dataset that has\nminimal difference between normal and anomalous messages.\nOur findings indicate that existing classification schemes behave\nunsatisfactorily on our dataset. We demonstrate why this is\nthe case by statistical analysis of our dataset, and furthermore,\npresent feature reduction techniques to enhance the classification\nperformance of existing classification schemes on our dataset.",
+                "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5720662",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anil",
+                            "lastName": "Mehta",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "occupation": "Fellow of RapidSOS, an E911 company.",
+                            "objectUrn": "urn:li:member:11393756",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "publicIdentifier": "mehtaanil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516304362252?e=1746057600&v=beta&t=FZePcMUrZyYzvmFp-VOLOw22O7AnuFpECxvAbCQYcjk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516305074738?e=1746057600&v=beta&t=ESrg4NFOO6wLT6ZI-ArrVt3-B2naVDLZ8-XnQOHPlBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516304802129?e=1746057600&v=beta&t=Us08SZM4ei2qvT7THWAGcnzFWwt-f9f4CLMhdgXkw8w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516304244157?e=1746057600&v=beta&t=bmGz05F37Y2ulo8uVgXZiWTB_CLrLcHZuIDEcRx8NRM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHwYkXhsYxWlw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "va+tJ6V0TIOxmCdTP1xddg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2010,
+                    "day": 1
+                },
+                "name": "Bell Labs annual report 2010",
+                "publisher": "Bell Labs",
+                "description": "Annual report for Bell Labs for 'SIP anomaly detection project'. ",
+                "url": "http://ect.bell-labs.com/who/vkg/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anil",
+                            "lastName": "Mehta",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "occupation": "Fellow of RapidSOS, an E911 company.",
+                            "objectUrn": "urn:li:member:11393756",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "publicIdentifier": "mehtaanil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516304362252?e=1746057600&v=beta&t=FZePcMUrZyYzvmFp-VOLOw22O7AnuFpECxvAbCQYcjk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516305074738?e=1746057600&v=beta&t=ESrg4NFOO6wLT6ZI-ArrVt3-B2naVDLZ8-XnQOHPlBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516304802129?e=1746057600&v=beta&t=Us08SZM4ei2qvT7THWAGcnzFWwt-f9f4CLMhdgXkw8w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516304244157?e=1746057600&v=beta&t=bmGz05F37Y2ulo8uVgXZiWTB_CLrLcHZuIDEcRx8NRM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHwYkXhsYxWlw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "va+tJ6V0TIOxmCdTP1xddg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vijay K.",
+                            "lastName": "Gurbani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI",
+                            "occupation": "Chief Data Scientist at Vail Systems",
+                            "objectUrn": "urn:li:member:329976",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI",
+                            "publicIdentifier": "vkgurbani",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516197042146?e=1746057600&v=beta&t=4NoXf-ZYrKY2xQmShLc6ZAaNIFUtn8NJ0ISWRyjTeRg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516197042401?e=1746057600&v=beta&t=TaGI7UR2_RZQ7CXgfSU_qJxL12bidPWn0316ngmNdjs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516197042120?e=1746057600&v=beta&t=4chn2Wud2nSLWRCdi9ayWD_W44Xx-S9C3scf6NuXOTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516197042161?e=1746057600&v=beta&t=Y1qap_17QZC6Ohy0kN0jUSOg2r7hQWTfpHO-ZP2lBPA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHamtO1gvvtTQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SU/1o+xJQ1OI/rijNt/uCQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Tin Kam",
+                            "lastName": "Ho",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts",
+                            "occupation": "AI Strategist, Senior AI Scientist at IBM Research",
+                            "objectUrn": "urn:li:member:25176837",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts",
+                            "publicIdentifier": "tin-kam-ho-b195218",
+                            "trackingId": "W7DOGvZ5TSC3nhbHAPBXjA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2056415851,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Larry",
+                            "lastName": "O'Gorman",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEKlUcBHA70o7_0epuX8gEHp6uzz0PtgR4",
+                            "occupation": "Bell Labs Fellow",
+                            "objectUrn": "urn:li:member:17470791",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAEKlUcBHA70o7_0epuX8gEHp6uzz0PtgR4",
+                            "publicIdentifier": "logorman",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1526052699988?e=1746057600&v=beta&t=5MPVEcwXcCUAaUqVtfTuGGcoDE7lRXb3gQj0iPAIVOc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1526052699977?e=1746057600&v=beta&t=-r4DoH81Quh9caa67Br7f3gXQ7Rq2ps3QXr8NOs3T0s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1526052700071?e=1746057600&v=beta&t=-jp2rBfHAEn58elXrqmAVgQiD9v4V6x8eEZ6IgrXdmM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 500,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1526052699969?e=1746057600&v=beta&t=K1NWcGBmDfSAKSoYV4fg84A5_Egl7P1hb6IHGfJZWYo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 500
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGSdDbJTpSHOg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "myqiwDgLTvGIfFYZIsHtWQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2056415851,2)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAEKlUcBHA70o7_0epuX8gEHp6uzz0PtgR4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "description": "This high impact industry project included analysis and detection of statistically Stationary Motion (SM) in unstructured videos such as surveillance cameras. The objective of my work was to remove repetitive activities referred to as SM among the series of signals. Using C++ and Matlab programming I designed an exponential moving average filtering system that was able to distinguish between different types of motion signals in real-time.",
+                "title": "Big Data Analysis for Networked Videos"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2057113801,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Angelo",
+                            "lastName": "Cangelosi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABkUjNkBXRWw32-yQwFaxZ0-PP8PVa9frRc",
+                            "occupation": "Professor of Machine Learning & Robotics and Co-Director of Manchester Centre for Robotics and AI (University of Manchester); ERC Advanced grant holder",
+                            "objectUrn": "urn:li:member:420777177",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABkUjNkBXRWw32-yQwFaxZ0-PP8PVa9frRc",
+                            "publicIdentifier": "angelo-cangelosi-389b01b8",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516881311012?e=1746057600&v=beta&t=TJDCDuMcPC6SHqeSQqOX-BuonbwjbVg5698EJl1GF2k",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516881310745?e=1746057600&v=beta&t=0dj3QBQl6sM3-6W-u6n2jjhYEUxMJn8KoW3zbcRc-eA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 220,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516881311144?e=1746057600&v=beta&t=KhECaOlPVYwuEoxHJ_bimLey6SeHJJB7L1CPF16yjm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 220
+                                        },
+                                        {
+                                            "width": 220,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516881311083?e=1746057600&v=beta&t=XY1-_MhwP0c4zvDbWonrc4QmHklern7GBkstG9HlXPU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 220
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFLx_hQOuNDTg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U+jwjiN7QEusit5/tLdegQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2057113801,2)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABkUjNkBXRWw32-yQwFaxZ0-PP8PVa9frRc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2011
+                    }
+                },
+                "description": "During this European funded fellowship I conducted a cognitive experiment that simulated human gaze patterns. The goal of the experiment was to incorporate human inspired fovea vision for the humanoid robot (iCub) that had the ability to perform tasks as a 3-year-old child. \nThe work with the robot simulator required C++ programming tools in Linux environment.",
+                "title": "Robotics for Development of Cognition (RobotDoc)",
+                "url": "http://www.tech.plym.ac.uk/SoCCE/robotdoc/fellows.html"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Neda",
+                            "lastName": "Hantehzadeh, PhD",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "occupation": "Director of Data Science (Machine Learning & Computer Vision)",
+                            "objectUrn": "urn:li:member:97476983",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U",
+                            "backgroundImage": {
+                                "string": "https://static.licdn.com/scds/common/u/images/apps/profile/topcard_backgrounds/texture_default_blue.jpg"
+                            },
+                            "publicIdentifier": "neda-hantehzadeh-phd-35b78a28",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1670303263416?e=1746057600&v=beta&t=xBOcRAM9L5PEnXgh8yiXBKHAgTwOw_uX5Pv6RW8mlOA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1670303263416?e=1746057600&v=beta&t=qb4Sr5Bq7dgNGwr90yWQl1FoonDSx4dJG5Z_H_IM9ug",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1670303263416?e=1746057600&v=beta&t=6c3BPo2_EPOc7tFO1dgRfNncMmtDRmZFS43mqUqycvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 482,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1670303263416?e=1746057600&v=beta&t=oPNBj0cx32CIGYyfV2GstqKJ9zXtUBRPa1IAE8u_Chw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 482
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEun7jiuAxfMQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2UIxC/vbT0mO+oKlxFitBA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2056763891,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Anil",
+                            "lastName": "Mehta",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "occupation": "Fellow of RapidSOS, an E911 company.",
+                            "objectUrn": "urn:li:member:11393756",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc",
+                            "publicIdentifier": "mehtaanil",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516304362252?e=1746057600&v=beta&t=FZePcMUrZyYzvmFp-VOLOw22O7AnuFpECxvAbCQYcjk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516305074738?e=1746057600&v=beta&t=ESrg4NFOO6wLT6ZI-ArrVt3-B2naVDLZ8-XnQOHPlBk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516304802129?e=1746057600&v=beta&t=Us08SZM4ei2qvT7THWAGcnzFWwt-f9f4CLMhdgXkw8w",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        },
+                                        {
+                                            "width": 321,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516304244157?e=1746057600&v=beta&t=bmGz05F37Y2ulo8uVgXZiWTB_CLrLcHZuIDEcRx8NRM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 321
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHwYkXhsYxWlw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "va+tJ6V0TIOxmCdTP1xddg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2056763891,2)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAACt2twBOCOTh3Q4NmiGTpdBzk2s-m-6DNc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vijay K.",
+                            "lastName": "Gurbani",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI",
+                            "occupation": "Chief Data Scientist at Vail Systems",
+                            "objectUrn": "urn:li:member:329976",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI",
+                            "publicIdentifier": "vkgurbani",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516197042146?e=1746057600&v=beta&t=4NoXf-ZYrKY2xQmShLc6ZAaNIFUtn8NJ0ISWRyjTeRg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516197042401?e=1746057600&v=beta&t=TaGI7UR2_RZQ7CXgfSU_qJxL12bidPWn0316ngmNdjs",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516197042120?e=1746057600&v=beta&t=4chn2Wud2nSLWRCdi9ayWD_W44Xx-S9C3scf6NuXOTU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        },
+                                        {
+                                            "width": 173,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516197042161?e=1746057600&v=beta&t=Y1qap_17QZC6Ohy0kN0jUSOg2r7hQWTfpHO-ZP2lBPA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 173
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHamtO1gvvtTQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SU/1o+xJQ1OI/rijNt/uCQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2056763891,3)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAFCPgBRGo0DScLWfpRwe0JIbcHFMlQynI"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Tin Kam",
+                            "lastName": "Ho",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts",
+                            "occupation": "AI Strategist, Senior AI Scientist at IBM Research",
+                            "objectUrn": "urn:li:member:25176837",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts",
+                            "publicIdentifier": "tin-kam-ho-b195218",
+                            "trackingId": "W7DOGvZ5TSC3nhbHAPBXjA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U,2056763891,4)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAGAKwUBi4h_4PkxhT_P-XKUPV5m1eescts"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "description": "My 2 years of experience working with the team of Computer Systems and Security included statistical analysis of the big data set generated at Alcatel-Lucent Bell labs in Naperville, IL for feature reduction to enhance classification accuracy of anomalous Session Initiation Protocol (SIP) messages. SIP is an important network protocol responsible for multimedia data transfer that significantly affects the security of cellular networks such as 3G and LTE.  As a member of the team I used machine learning analytical tools such as Regression trees, Naïve Bayes and C4.5 classifiers along with my own data reduction techniques to successfully detect anomalous messages among the data. The accuracy of classification using ensemble methods for classification exceeded more than 99.8%.",
+                "title": "Anomaly Detection of Big Data related to Session Initial Protocol (SIP) Messages"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Signal Processing"
+            },
+            {
+                "name": "Matlab"
+            },
+            {
+                "name": "C++"
+            }
+        ],
+        "urn_id": "ACoAAAXPYXcByfSpeErpq_s8zOfw6yUDBe7Ry3U"
+    }
+}

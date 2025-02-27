@@ -1,0 +1,1177 @@
+{
+    "urn_id": "ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+    "fetch_timestamp": "2025-02-26T21:18:55.963140",
+    "profile_data": {
+        "summary": "I am a software developer who enjoys creating systems that are reliable, efficient, and easy to use. My experience includes improving platform performance, speeding up load times, and building interfaces that work well for both users and businesses.\n\nWith a Master’s degree in Computer Science from the University of Colorado, I have learned to solve problems effectively and write code that is clean and scalable. Over time, I’ve worked on projects that improved user engagement, made processes smoother, and helped businesses grow.\n\nI believe in teamwork, adapting to new challenges, and always finding ways to do better. My goal is to deliver work that not only meets expectations but also brings real value to the team and the organization.\n\nIn the future, I hope to use technology to help underserved communities by improving access to education, healthcare, and other essential resources. If you’d like to connect, I’d be happy to explore ways we can work together.",
+        "industryName": "Computer Software",
+        "lastName": "Anumakonda",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Laasya",
+        "entityUrn": "urn:li:fs_profile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106868843"
+        },
+        "geoLocationName": "New Brunswick, New Jersey",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Software Developer @ Helix Wireless",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHXax2s5LSm_Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1732319711235?e=1746057600&v=beta&t=whDQhYsPicKCF7L4uSzYn5XKbBBI6h77mZeJTBa71Lg",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1732319711235?e=1746057600&v=beta&t=SvN2fuGWuQSAWywwgK9QqekNXf5w3CZ2rOfNU3aYLxY",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1732319711235?e=1746057600&v=beta&t=9fFpVuCJXRxhW8hWWyV9EiE2LQi9vDLMPoHkkZr9lL0",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1732319711259?e=1746057600&v=beta&t=7xZmFp6MV2QRuOh0wRFrzcugbj8uLcmHzuuk2EWXLd4",
+        "profile_id": "ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+        "member_urn": "urn:li:member:808806075",
+        "public_id": "laasyalata",
+        "experience": [
+            {
+                "locationName": "New Jersey, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,2511915052)",
+                "geoLocationName": "New Jersey, United States",
+                "geoUrn": "urn:li:fs_geo:101651951",
+                "companyName": "Helix Wireless",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                "description": "• Enhanced user experience by adding critical functionalities, achieving a 25% increase in user engagement and reducing bounce rates by 15%.\n• Redesigned the platform interface with Next.js, reducing load times by 40%. Implemented additional features using React, JavaScript, and TypeScript, resulting in a 50% increase in platform stability and capacity to support concurrent users, meeting scaling business requirements.\n• Streamlined backend processes with Strapi, optimizing data handling and content management workflows, leading to a 20% reduction in data load times.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:33291759",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEHEtN3GlkVmw/company-logo_"
+            },
+            {
+                "locationName": "North Carolina, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,2509402985)",
+                "geoLocationName": "North Carolina, United States",
+                "geoUrn": "urn:li:fs_geo:103255397",
+                "companyName": "JibChain",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "description": "•  Designed the layout for the company’s MVP, using data insights to create a clear, user-friendly interface.\n•  Improved the company website’s design and structure for a better user experience.\n•  Organized and managed website content to enhance SEO performance.\n•  Increased organic website traffic by 30% within three months through effective SEO strategies.\n•  Helped the website rank in the top 10 search results for key industry-related keywords.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:75878906",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEoCtOC1nOHdw/company-logo_"
+            },
+            {
+                "locationName": "Frisco, Texas, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,2511906441)",
+                "geoLocationName": "Frisco, Texas, United States",
+                "geoUrn": "urn:li:fs_geo:105918502",
+                "companyName": "1CloudHub",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "• Developed a strong foundational understanding of AWS infrastructure and GenAI tools, focusing on how these technologies support scalable AI solutions.\n• Gained insight into the functionality of transformer models, including Anthropic, to understand how they address specific customer queries with minimized hallucinations.\n• Learned about the architecture of platforms for tone-based voice predictions, understanding the requirements for model specialization and accuracy.\n•  Familiarized with various tools used to streamline AI applications, gaining a theoretical grasp of their roles in improving model performance and reliability.\n•  Studied methodologies for training models with targeted texts to enhance output relevance, especially in customer service and predictive tasks.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer Intern",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13619369",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFYCYfiMDYWrQ/company-logo_"
+            },
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,2420938409)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "Mobalytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "description": "• Conducted in-depth data analysis, identifying insights that led to 15% increase in user retention and optimization of customer acquisition strategies, contributing directly to business growth.\n• Created interactive dashboards providing real-time analytics and visualizations, empowering stakeholders to make informed, data-driven decisions that positively impacted operational efficiency and strategic planning. \n• Engineered cross-functional data-driven solutions with the Data Science team, boosted team efficiency by 30% through predictive analytics, and facilitated innovation in marketing strategies.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:17916202",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE18o2WTymShg/company-logo_"
+            },
+            {
+                "locationName": "Denver, Colorado, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,2420943107)",
+                "geoLocationName": "Denver, Colorado, United States",
+                "geoUrn": "urn:li:fs_geo:103736294",
+                "companyName": "University of Colorado Denver",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "description": "• Conducted research and development of RoboMapper, a PyBullet-based simulation, achieving 95% obstacle avoidance accuracy for autonomous robots.\n• Contributed to the enhancement of obstacle detection algorithms, resulting in a 20% faster response time for adapting to new obstacles.\n• Led systematic simulations, running over 200 iterations to refine computational motor control, boosting navigational efficiency by 25%.\n• Documented research findings and methodologies, contributing to knowledge sharing and the advancement of robotics research",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3768",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE7ljLBZdILiQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,991774034)",
+                "school": {
+                    "objectUrn": "urn:li:school:18010",
+                    "entityUrn": "urn:li:fs_miniSchool:18010",
+                    "active": true,
+                    "schoolName": "University of Colorado Denver",
+                    "trackingId": "ZIrdHfyQQ1GqmHL42cHhSg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE7ljLBZdILiQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Relevant coursework:\n\nCSCI 5446 Theory of Automata\nCSCI 5451 Algorithms\nCSCI 5593 Advanced Computer Architecture\nCSCI 5211 Mobile Computing and Programming\nCSCI 5011 Software Project Management\nCSCI 5800 Computer Vision\nCSCI 5620 Computational Motor Control\nCSCI 5743 Cyber Infrastructure and Defense\nCSCI 5110 Number Theory\nCSCI 5575 Cyber-Physical Systems",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master's degree",
+                "schoolName": "University of Colorado Denver",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:18010"
+            },
+            {
+                "description": "Relevant Coursework:\n\n7FC01 Problem Solving using C\n7EC65 Java Programming\n7EC01 Data Structures\n7C725 Artificial Neural Networks\n7C834 Deep Learning\n7CC29 Machine Learning\n7EC20 Artificial Intelligence\n7FC20 Cyber Security\n7FC23 Data Base Systems\n7EC67 Operating Systems Concepts\n7EC05 Computer Networks\n7DC11 Computer Organization and Architecture\n7C617 Digital Image and Video Processing\n7C612 Internet of Things and Applications\n7AC02 Network Analysis\n7C301 Electronic Devices and Circuits\n7C304 Probability Theory and Stochastic Process\n7C303 Signals and Systems\n7C302 Digital Logic Design\n7C407 Analog Communications\n7C509 Digital Communications\n7C406 Electromagnetic Waves and Transmission Lines\n7AC07 Control Systems\n7CC08 IC Applications\n7DC05 Microprocessors and Microcontrollers\n7CC13 Antennas and Wave propagations\n7CC10 Digital Signal Processing\n7C714 Microwave and Optical Communications\n7C611 VLSI Technology and Design\n7ZC01 Management Science and Financial Accounting",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolUrn": "urn:li:fs_miniSchool:3243250",
+                "entityUrn": "urn:li:fs_education:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,980170059)",
+                "school": {
+                    "objectUrn": "urn:li:school:3243250",
+                    "entityUrn": "urn:li:fs_miniSchool:3243250",
+                    "active": true,
+                    "schoolName": "Sreenidhi Institute of Science and Technology",
+                    "trackingId": "PaUCBgDNQ62gKICXxkanGw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHJM7wTPjQuaA/company-logo_"
+                },
+                "activities": "Model United Nations (UNHRC), paper presentations, Hackathons, and workshops.",
+                "grade": "9.0/10.0",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100350",
+                "schoolName": "Sreenidhi Institute of Science and Technology",
+                "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+                "degreeUrn": "urn:li:fs_degree:250"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Microchip Technology Inc.",
+                "name": " Arduino Programming and Labs ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:6481",
+                    "entityUrn": "urn:li:fs_miniCompany:6481",
+                    "name": "Microchip Technology Inc.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631310605581?e=1748476800&v=beta&t=8rpy-1WEUM3QnaR2j-SPiDOKl3ZO5S0Y_SNCKKEIobs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631310605581?e=1748476800&v=beta&t=Md9019-XRbXk_Ed6BWrDpDzTxhi2w5VsbdN99toYhoU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631310605581?e=1748476800&v=beta&t=WtnSfpe2NckoZ9S45VbBjRn52g6BKpWfbgQuhWDBzZg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFajoqqZYfHYQ/company-logo_"
+                        }
+                    },
+                    "universalName": "microchip-technology",
+                    "dashCompanyUrn": "urn:li:fsd_company:6481",
+                    "trackingId": "GFTCsiNKTfyeUNBq+XNQLg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:6481",
+                "url": "https://www.udemy.com/certificate/UC-97f3fdca-4980-4e3e-bc5f-7a0a401eae42/"
+            },
+            {
+                "authority": "University of Michigan",
+                "name": "Programming for Everybody (Getting Started with Python)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "5PKAYKFECR3A",
+                "company": {
+                    "objectUrn": "urn:li:company:2516",
+                    "entityUrn": "urn:li:fs_miniCompany:2516",
+                    "name": "University of Michigan",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631307390795?e=1748476800&v=beta&t=S7mW_ZafDtFeK6KVqOiIFTG0_ILRIBmqVwl5F7CLZMA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631307390795?e=1748476800&v=beta&t=ObYYAHu-gBinNzkB3PNnr2ODTBo6_WoPzrNS0cXkYAA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631307390795?e=1748476800&v=beta&t=c5iqX2gFg0Dpi6q-L4cBpWywc6B0fvaWcgCEMnd7Ww0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-michigan",
+                    "dashCompanyUrn": "urn:li:fsd_company:2516",
+                    "trackingId": "Ij1uCO96QdefCN6A1ZvvOg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2516",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/5PKAYKFECR3A"
+            },
+            {
+                "authority": "Amazon Web Services (AWS)",
+                "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "ATD+6SWmQ92q/1rI01p7Zg=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://www.credly.com/badges/378fa22d-2afd-4d77-809e-71fa1aebc510?source=linked_in_profile"
+            },
+            {
+                "authority": "Cisco",
+                "name": "Cisco Certified Network Associate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1063",
+                    "entityUrn": "urn:li:fs_miniCompany:1063",
+                    "name": "Cisco",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1733847180528/cisco_logo?e=1748476800&v=beta&t=vzp1Xv0SehI309RanbVHd0LeBW4l0mvbUqhdW9D_rAU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1733847180528/cisco_logo?e=1748476800&v=beta&t=4dc0d_GYLWv-TWFZlIN-0-27M87YrhEUQKc3lp_zAv0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1733847180528/cisco_logo?e=1748476800&v=beta&t=_i2jHBlk8aQ41xGE4_VJYuNv1Jed6W-dQ0D3RJGw24k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEGtum3RwmvNg/company-logo_"
+                        }
+                    },
+                    "universalName": "cisco",
+                    "dashCompanyUrn": "urn:li:fsd_company:1063",
+                    "trackingId": "T+axc34DSFiAyJI73t6kzA=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:1063",
+                "url": "https://www.credly.com/badges/1ea8c608-b03b-4954-9eed-9224c2b0deb3?source=linked_in_profile"
+            },
+            {
+                "authority": "Google",
+                "name": " Foundations: Data, Data, Everywhere",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": " 6JWB93M3DACK",
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "4LIpEYBdT2Oiu/+51GZh5w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/6JWB93M3DACK"
+            },
+            {
+                "authority": "Google",
+                "name": "Google Data Analytics Professional Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "MEVAX4NSHZPR",
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "dAOBqCK6TH2lzINdchRpjA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/MEVAX4NSHZPR"
+            },
+            {
+                "authority": "Amazon Web Services (AWS)",
+                "name": "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=JTpictBTPdTy5Nd2LrAMg7M7XyZ2JUONK3HNVPameZ8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=pfdQMeP_M9FIaE6nvquhHOHxsMujZjqdhSBZPOlX4A4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1748476800&v=beta&t=nMhI3xoeH31zEGr4rPg_YDP5F58h5aXwhc3-9go9Cl0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "EqWneGK1TruCfomSi0Fq5Q=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://www.credly.com/badges/195bb1c3-f396-4f89-a9e2-aedcfb4a7f7f?source=linked_in_profile"
+            },
+            {
+                "authority": "Learn Programming Academy",
+                "name": "C++ Programming",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-7d0a2b85-a464-45e5-b397-27d845efc5e3",
+                "company": {
+                    "objectUrn": "urn:li:company:18776415",
+                    "entityUrn": "urn:li:fs_miniCompany:18776415",
+                    "name": "Learn Programming Academy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630606269501/learn_programming_academy_logo?e=1748476800&v=beta&t=YrBtc1cbCbZwnJIk-akYSQQwYAO0jTXkUG0XkOLAB8U",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630606269501/learn_programming_academy_logo?e=1748476800&v=beta&t=xsV3YE_DDUoaC9ET7T-KYx_5zU8zWOFaRh7uMfgyxHY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630606269501/learn_programming_academy_logo?e=1748476800&v=beta&t=f-lS7W7PSwOIS3lknqj7PlzT-ixg-nps92jRuuaDdAY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQGnpvm2Ad0fSg/company-logo_"
+                        }
+                    },
+                    "universalName": "learn-programming-academy",
+                    "dashCompanyUrn": "urn:li:fsd_company:18776415",
+                    "trackingId": "CzvHGRBtR/ubXByIA7U6yQ=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:18776415",
+                "url": "https://www.udemy.com/certificate/UC-7d0a2b85-a464-45e5-b397-27d845efc5e3/"
+            },
+            {
+                "authority": "University at Buffalo",
+                "name": "Blockchain Technology",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "WQT6EJV2N9C8",
+                "company": {
+                    "objectUrn": "urn:li:company:6502",
+                    "entityUrn": "urn:li:fs_miniCompany:6502",
+                    "name": "University at Buffalo",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1660069485905/universityatbuffalo_logo?e=1748476800&v=beta&t=dnHVTrc6YtqLdc2zi8Cn_4WItDhMcwCufSaVGvf3iAI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1660069485905/universityatbuffalo_logo?e=1748476800&v=beta&t=ZdCAX6EWgJy0oU1v7qyqSy-lr6RVicOoRmC3stR5DjA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1660069485905/universityatbuffalo_logo?e=1748476800&v=beta&t=cka7k4YE28BjLzBbHGRNFLqw2pdFQltC0qlU-d11VuM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_"
+                        }
+                    },
+                    "universalName": "universityatbuffalo",
+                    "dashCompanyUrn": "urn:li:fsd_company:6502",
+                    "trackingId": "BaaQnwftSOWZWSzqX1mccg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:6502",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/WQT6EJV2N9C8"
+            },
+            {
+                "authority": "EdYoda Digital University",
+                "name": " Python Programming - From Basics to Advanced level",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "UC-2553785-1144-4268-8e80-cellebde8c85",
+                "company": {
+                    "objectUrn": "urn:li:company:30185160",
+                    "entityUrn": "urn:li:fs_miniCompany:30185160",
+                    "name": "EdYoda Digital University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630582034839?e=1748476800&v=beta&t=SooqEgN5YXCMlcOBRoyfTNt0vav5duwgTsqICsLAtKc",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630582034839?e=1748476800&v=beta&t=BPnMks6j6husutOCe1x7kUil57Fh0-q1qK4T0atzMw4",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630582034839?e=1748476800&v=beta&t=sbSr0ZBlQDk3DvBZKFft6F3FWysVyJBnmD7lwqbSKXw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQG1onwtAIIQqg/company-logo_"
+                        }
+                    },
+                    "universalName": "edyoda-alums",
+                    "dashCompanyUrn": "urn:li:fsd_company:30185160",
+                    "trackingId": "Aka1DBHuSdaakQUc0/eKIg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:30185160",
+                "url": "https://www.udemy.com/certificate/UC-255f3785-1144-42b8-8e80-ce11ebde8c85/"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Web Developer",
+                "companyName": "Asian Community Development Center",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "• Developed and maintained the organization's website, ensuring it reflects current events, news, and resources for the community.\n• Implemented user-friendly features and optimized website performance to enhance accessibility and user experience.\n• Improved the site's SEO to boost visibility and engagement within the community.\n• Provided technical support and training to staff for effective website management and content updates.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:98977693",
+                        "entityUrn": "urn:li:fs_miniCompany:98977693",
+                        "name": "Asian Community Development Center",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1731435031284/aisan_community_development_center_logo?e=1748476800&v=beta&t=9RkYl4g0Nlpu4Ga_i92m9IOmcivKtvH9BbgDLVBnxos",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1731435031284/aisan_community_development_center_logo?e=1748476800&v=beta&t=qqnyoooIuZmlc0Q5duXWOsiZtxDpXWFOaHHvnisMGr4",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1731435031284/aisan_community_development_center_logo?e=1748476800&v=beta&t=lkDcJe2AbPMKeNeIgxdzXJBRfJt8uFkXK2gbn9aTS5A",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHz2oEk2EeZjw/company-logo_"
+                            }
+                        },
+                        "universalName": "acdcco",
+                        "dashCompanyUrn": "urn:li:fsd_company:98977693",
+                        "trackingId": "pfuywDcvQwmi8LpCoOV5Tw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:98977693"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Laasya",
+                            "lastName": "Anumakonda",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "occupation": "Software Developer @ Helix Wireless",
+                            "objectUrn": "urn:li:member:808806075",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1732318043712?e=1746057600&v=beta&t=p33xMISKbP6Heh4ejmlhKJMo6DxjZ0Y-4nKs0cVw_D8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732318043712?e=1746057600&v=beta&t=XJIGdk4Ib7IGkSfbt2ouR32ozc0vbibTwvXdmsf-Pgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEUE4FfpS_niQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "laasyalata",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1732319711235?e=1746057600&v=beta&t=whDQhYsPicKCF7L4uSzYn5XKbBBI6h77mZeJTBa71Lg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1732319711235?e=1746057600&v=beta&t=SvN2fuGWuQSAWywwgK9QqekNXf5w3CZ2rOfNU3aYLxY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1732319711235?e=1746057600&v=beta&t=9fFpVuCJXRxhW8hWWyV9EiE2LQi9vDLMPoHkkZr9lL0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1732319711259?e=1746057600&v=beta&t=7xZmFp6MV2QRuOh0wRFrzcugbj8uLcmHzuuk2EWXLd4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHXax2s5LSm_Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uU3p8jM+Sr2xeSZZGxjfLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,963794428,436962664)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM"
+                    }
+                ],
+                "description": "• Developed a CNN-based image classifier using Python, TensorFlow, and Keras, achieving 92% accuracy across a curated dataset of over 10,000 diverse cuisine images, resulting in a 15% accuracy improvement.\n• Optimized Model for Efficiency, reducing processing time by 20%",
+                "title": "Cuisine Detector"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Laasya",
+                            "lastName": "Anumakonda",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "occupation": "Software Developer @ Helix Wireless",
+                            "objectUrn": "urn:li:member:808806075",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1732318043712?e=1746057600&v=beta&t=p33xMISKbP6Heh4ejmlhKJMo6DxjZ0Y-4nKs0cVw_D8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732318043712?e=1746057600&v=beta&t=XJIGdk4Ib7IGkSfbt2ouR32ozc0vbibTwvXdmsf-Pgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEUE4FfpS_niQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "laasyalata",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1732319711235?e=1746057600&v=beta&t=whDQhYsPicKCF7L4uSzYn5XKbBBI6h77mZeJTBa71Lg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1732319711235?e=1746057600&v=beta&t=SvN2fuGWuQSAWywwgK9QqekNXf5w3CZ2rOfNU3aYLxY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1732319711235?e=1746057600&v=beta&t=9fFpVuCJXRxhW8hWWyV9EiE2LQi9vDLMPoHkkZr9lL0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1732319711259?e=1746057600&v=beta&t=7xZmFp6MV2QRuOh0wRFrzcugbj8uLcmHzuuk2EWXLd4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHXax2s5LSm_Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uU3p8jM+Sr2xeSZZGxjfLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,963330310,436962633)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM"
+                    }
+                ],
+                "description": "• Boosted stock value of the company’s parking lot data by over 60% through advanced analytics and performance benchmarking on a quarterly basis.\n• Achieved an accuracy rate of 85% in predicting stock market trends using satellite imagery analysis with Python, NumPy, Pandas, SciPy, and Matplotlib libraries in the Jupyter Notebook environment, enabling data-driven decision-making.",
+                "title": "Forecasting Stock Market Trends with Satellite Imagery Analysis"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Laasya",
+                            "lastName": "Anumakonda",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "occupation": "Software Developer @ Helix Wireless",
+                            "objectUrn": "urn:li:member:808806075",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1732318043712?e=1746057600&v=beta&t=p33xMISKbP6Heh4ejmlhKJMo6DxjZ0Y-4nKs0cVw_D8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732318043712?e=1746057600&v=beta&t=XJIGdk4Ib7IGkSfbt2ouR32ozc0vbibTwvXdmsf-Pgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEUE4FfpS_niQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "laasyalata",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1732319711235?e=1746057600&v=beta&t=whDQhYsPicKCF7L4uSzYn5XKbBBI6h77mZeJTBa71Lg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1732319711235?e=1746057600&v=beta&t=SvN2fuGWuQSAWywwgK9QqekNXf5w3CZ2rOfNU3aYLxY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1732319711235?e=1746057600&v=beta&t=9fFpVuCJXRxhW8hWWyV9EiE2LQi9vDLMPoHkkZr9lL0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1732319711259?e=1746057600&v=beta&t=7xZmFp6MV2QRuOh0wRFrzcugbj8uLcmHzuuk2EWXLd4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHXax2s5LSm_Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uU3p8jM+Sr2xeSZZGxjfLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,963633426,436961598)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM"
+                    }
+                ],
+                "description": "• It is a mobile application that manages an extensive plant library with detailed information on 50+ indoor plants.\n• Stimulated Q&A community engagement with 500 questions and 800 answers. Created this mobile application by using the Android Studio tool, Java, SQLite database.",
+                "title": "Gardening Wizard"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Laasya",
+                            "lastName": "Anumakonda",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "occupation": "Software Developer @ Helix Wireless",
+                            "objectUrn": "urn:li:member:808806075",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1732318043712?e=1746057600&v=beta&t=p33xMISKbP6Heh4ejmlhKJMo6DxjZ0Y-4nKs0cVw_D8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732318043712?e=1746057600&v=beta&t=XJIGdk4Ib7IGkSfbt2ouR32ozc0vbibTwvXdmsf-Pgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEUE4FfpS_niQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "laasyalata",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1732319711235?e=1746057600&v=beta&t=whDQhYsPicKCF7L4uSzYn5XKbBBI6h77mZeJTBa71Lg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1732319711235?e=1746057600&v=beta&t=SvN2fuGWuQSAWywwgK9QqekNXf5w3CZ2rOfNU3aYLxY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1732319711235?e=1746057600&v=beta&t=9fFpVuCJXRxhW8hWWyV9EiE2LQi9vDLMPoHkkZr9lL0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1732319711259?e=1746057600&v=beta&t=7xZmFp6MV2QRuOh0wRFrzcugbj8uLcmHzuuk2EWXLd4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHXax2s5LSm_Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uU3p8jM+Sr2xeSZZGxjfLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,964284921,436958794)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM"
+                    }
+                ],
+                "description": "• Trained existing object detection algorithms to enhance computational capabilities for robotic systems, optimizing performance for real-time decision-making tasks.\n• Integrated machine learning models using TensorFlow, Pybullet, and ImageAI, resulting in a 50% improvement in robot perception and decision-making accuracy, significantly advancing autonomous system research.",
+                "title": "RoboMapper"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Laasya",
+                            "lastName": "Anumakonda",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "occupation": "Software Developer @ Helix Wireless",
+                            "objectUrn": "urn:li:member:808806075",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1732318043712?e=1746057600&v=beta&t=p33xMISKbP6Heh4ejmlhKJMo6DxjZ0Y-4nKs0cVw_D8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732318043712?e=1746057600&v=beta&t=XJIGdk4Ib7IGkSfbt2ouR32ozc0vbibTwvXdmsf-Pgc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEUE4FfpS_niQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "laasyalata",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1732319711235?e=1746057600&v=beta&t=whDQhYsPicKCF7L4uSzYn5XKbBBI6h77mZeJTBa71Lg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1732319711235?e=1746057600&v=beta&t=SvN2fuGWuQSAWywwgK9QqekNXf5w3CZ2rOfNU3aYLxY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1732319711235?e=1746057600&v=beta&t=9fFpVuCJXRxhW8hWWyV9EiE2LQi9vDLMPoHkkZr9lL0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1732319711259?e=1746057600&v=beta&t=7xZmFp6MV2QRuOh0wRFrzcugbj8uLcmHzuuk2EWXLd4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHXax2s5LSm_Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "uU3p8jM+Sr2xeSZZGxjfLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM,963473813,436963616)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM"
+                    }
+                ],
+                "description": "• Illustrated different sorting algorithms across multiple input scales, benefiting 90% of users.\n• Attained 95% user satisfaction with enhanced understanding of sorting algorithms through the visualization tool. Designed with HTML, CSS, and JavaScript for a responsive web application.",
+                "title": "Sorting Visualizer"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Next.js"
+            },
+            {
+                "name": "Strapi"
+            },
+            {
+                "name": "AWS (Amazon Web Services)"
+            },
+            {
+                "name": "Generative AI (GenAI)"
+            }
+        ],
+        "urn_id": "ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM"
+    }
+}

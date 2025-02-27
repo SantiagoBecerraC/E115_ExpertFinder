@@ -1,0 +1,1035 @@
+{
+    "urn_id": "ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+    "fetch_timestamp": "2025-02-26T21:31:57.687880",
+    "profile_data": {
+        "summary": "Aeronautical Engineer, with English level C1 and with emphasis on data analysis. He has experience in data ETL and data governance. He has professional experience in process automation, KPI construction and evaluation. He has knowledge in Excel, Visual Basic, SQL, Tableau, Python and Power BI. Currently looking for positions of collection, processing, cleaning and visualization of data in different business areas",
+        "industryName": "Management Consulting",
+        "lastName": "Pava Cano",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:11",
+        "firstName": "Andres Felipe",
+        "entityUrn": "urn:li:fs_profile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Titular . Data Analyst | Data Science | Machine Learning | Data Visualization | Excel | Visual Basic | Tableau | Power BI | SQL | Python",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGBiFvr38KnDw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1692244761934?e=1746057600&v=beta&t=RMlYbrQch0g87Cd_1ENor8SNQNECC0HdUV_AN7VENM4",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1692244761934?e=1746057600&v=beta&t=jKKufmJwnTBa8nGh6ITESbfWhsTTTU2auQ8-a0TWrT8",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1692244761934?e=1746057600&v=beta&t=cAa8sx4Cg3YX3TSwMdQKerY3XPCWqY8a90okQp33cUA",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1692244761934?e=1746057600&v=beta&t=UDbSYd3qlrYIrnAlxmNQRRZy_gwjRqrgANIKYczrh4c",
+        "profile_id": "ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+        "member_urn": "urn:li:member:431627467",
+        "public_id": "andresfelipepavacano-dataanalyst",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, Estados Unidos",
+                "entityUrn": "urn:li:fs_position:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,2333249934)",
+                "geoLocationName": "Seattle, Washington, Estados Unidos",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Sales Cookie",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Arquitecto de Soluciones",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:19017297",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGhCfReXG7dkw/company-logo_"
+            },
+            {
+                "locationName": "Seattle, Washington, Estados Unidos",
+                "entityUrn": "urn:li:fs_position:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,2243263767)",
+                "geoLocationName": "Seattle, Washington, Estados Unidos",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Sales Cookie",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Arquitecto de soluciones",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:19017297",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGhCfReXG7dkw/company-logo_"
+            },
+            {
+                "locationName": "Seattle, Washington, Estados Unidos",
+                "entityUrn": "urn:li:fs_position:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,2160234509)",
+                "geoLocationName": "Seattle, Washington, Estados Unidos",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Sales Cookie",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Solutions Architect",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:19017297",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGhCfReXG7dkw/company-logo_"
+            },
+            {
+                "locationName": "Bogotá",
+                "entityUrn": "urn:li:fs_position:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,1895926478)",
+                "geoLocationName": "Bogotá",
+                "companyName": "HunterDouglas de Colombia",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Responsibilities:\n- Collect, analyse and generate Dashboard with the available dataset, evaluating their behaviour and generating optimization strategies and process automation.\n- Create and analyse KPI's, ensuring their compliance and effective analysis that guarantee the evaluation of the sales behaviour of the different products in the market through SQL and Tableau.\n- Visualize data effectively through Tableau, presenting stakeholders information that allows effective and strategic decision-making\n\nAchievements:\n- In a period of two months I created three dashboards that allowed the effective visualization of sales behaviour for decision making.\n- Automated more than 10 operational tasks using Visual Basic, reducing operational processes from six hours to two minutes.\n-Recovered close to 5000 USD through effective database clean-up and analysis.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Architecture & Planning"
+                    ]
+                },
+                "title": "Business Data Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:18014616",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFTunv8eCFP3g/company-logo_"
+            },
+            {
+                "locationName": "Medellin",
+                "entityUrn": "urn:li:fs_position:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,1812166297)",
+                "geoLocationName": "Medellin",
+                "companyName": "Genius Sports",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "Responsibilities:\n-Collect, manipulate and analyse customer data in order to understand their need and recommend content according to their interests.\n- Analyse the KPIs of the different sporting events in order to project their behaviour for decision making.\n- Guarantee data governance by promoting the proper use of databases, their confidentiality and their correct handling for the operation's operation.\n\nAchievements:\n-Attracted 15 new clients by understanding their needs and analysing KPIs.\n-I met 100% of the KPIs stipulated by the organization.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "First Line Support Operator",
+                "companyUrn": "urn:li:fs_miniCompany:22208562",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQECVe0MtzRTyw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,967015449)",
+                "school": {
+                    "objectUrn": "urn:li:school:5103240",
+                    "entityUrn": "urn:li:fs_miniSchool:5103240",
+                    "active": true,
+                    "schoolName": "MIT Professional Education",
+                    "trackingId": "VEryR2fWRB6zl5+BX6SgzA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFZLjfg1Jhpfw/company-logo_"
+                },
+                "activities": "12-week live online course covering data science techniques such as supervised/unsupervised machine learning, neural networks, computer vision, deep learning, time-series analysis, and recommendation engines. Taught by MIT faculty and featuring hands-on projects with expert mentorship from industry leaders.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "degreeName": "Diploma",
+                "schoolName": "MIT Professional Education",
+                "fieldOfStudy": "Applied Data Science Program: Leveraging AI for Effective Decision-Making",
+                "schoolUrn": "urn:li:fs_miniSchool:5103240"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,569693013)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,838650632)",
+                "school": {
+                    "objectUrn": "urn:li:school:360021",
+                    "entityUrn": "urn:li:fs_miniSchool:360021",
+                    "active": true,
+                    "schoolName": "Structuralia",
+                    "trackingId": "D21lUpIwQ028I61Pf0Gc6Q==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQG33mR5XuQBIw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Máster en Big Data y Business Analytics",
+                "schoolName": "Structuralia",
+                "schoolUrn": "urn:li:fs_miniSchool:360021"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,497161737)",
+                "school": {
+                    "objectUrn": "urn:li:school:11616",
+                    "entityUrn": "urn:li:fs_miniSchool:11616",
+                    "active": true,
+                    "schoolName": "Universidad Pontificia Bolivariana",
+                    "trackingId": "USEvOa1UQsuS1OK+nS3UJg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFryYkh65VgPw/company-logo_"
+                },
+                "activities": "Monitorias",
+                "grade": "4.12/5.00",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100331",
+                "degreeName": "Ingeniero aeronautico",
+                "schoolName": "Universidad Pontificia Bolivariana",
+                "fieldOfStudy": "Ingeniería",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,509347557)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:11616"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Francés",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Ingles",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2023,
+                    "day": 18
+                },
+                "name": "Potential use of polyvinyl alcohol as an effective inclusion vehicle of thermally reduced graphene oxides in nanoreinforced aluminum matrix composites",
+                "publisher": "ASME ",
+                "description": "Polyvinyl alcohol (PVA) was investigated as a vehicle for incorporating thermally reduced graphene oxides (TRGOs) into metal matrix composites (MMCs). The TRGOs were synthesized using the modified Hummers&#39; method and characterized using scanning electron microscopy (SEM), transmission electron microscopy (TEM), X-ray diffraction (XRD), and X-ray photoelectron spectroscopy (XPS). The PVA/TRGOs nanocomposites were synthesized using the solution mixing technique. The dispersion qualification and quantification of TRGOs in PVA were evaluated through tension and nanoindentation tests, as well as elastic modulus mapping by nanoindentation. The results demonstrated a good dispersion of TRGOs in the PVA matrix, resulting in exceptional mechanical properties. The dispersion time and energy variables were carefully controlled, leading to a good dispersion degree verified by the quantification analysis. Furthermore, preliminary studies confirmed the effectiveness of PVA as an inclusion vehicle for nanoreinforcements in metallic matrices.",
+                "url": "https://asmedigitalcollection.asme.org/materialstechnology/article-abstract/doi/10.1115/1.4063208/1166396/Potential-use-of-polyvinyl-alcohol-as-an-effective?redirectedFrom=fulltext",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Andres Felipe",
+                            "lastName": "Pava Cano",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+                            "occupation": "Titular . Data Analyst | Data Science | Machine Learning | Data Visualization | Excel | Visual Basic | Tableau | Power BI | SQL | Python",
+                            "objectUrn": "urn:li:member:431627467",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1678417226701?e=1746057600&v=beta&t=g_eGTbMF5EPfwH77XICpnj2tOVeKeV3wXOslNTEc46A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678417226701?e=1746057600&v=beta&t=9QEPsbK-AzA1zX30Jq4rYGSz0cpU_kSLpPcyg6fqraw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFnkdHYrvv1iQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "andresfelipepavacano-dataanalyst",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1692244761934?e=1746057600&v=beta&t=RMlYbrQch0g87Cd_1ENor8SNQNECC0HdUV_AN7VENM4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1692244761934?e=1746057600&v=beta&t=jKKufmJwnTBa8nGh6ITESbfWhsTTTU2auQ8-a0TWrT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1692244761934?e=1746057600&v=beta&t=cAa8sx4Cg3YX3TSwMdQKerY3XPCWqY8a90okQp33cUA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1692244761934?e=1746057600&v=beta&t=UDbSYd3qlrYIrnAlxmNQRRZy_gwjRqrgANIKYczrh4c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGBiFvr38KnDw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ffHQdF5FQA2SGE7mxL6UxA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2021,
+                    "day": 15
+                },
+                "name": "Desarrollo y evaluación de películas de alcohol polivinílico y óxidos de grafeno termorreducidos (PVA-TRGOS) para su potencial uso como vehículo de inclusión en nanocompuestos de matriz metálica obtenidos por la técnica tipo Sándwich",
+                "publisher": "UPB",
+                "description": "En este trabajo de investigación se fabricaron películas de un material compuesto de matriz polimérica (PMC) tipo PVA-rGOs (óxidos de grafeno reducidos), cuya matriz se usó como vehículo de inclusión de los nanorefuerzos en una matriz metálica. Para su análisis se emplearon diferentes técnicas de caracterización como nano-indentación, análisis dinámico mecánico (DMA) y tensión con el fin de cualificar la dispersión del nanorefuerzo en la matriz polimérica. Adicionalmente, se realizaron mapeos de rigidez por medio de un nanoindentador con el fin de cuantificar la dispersión de los nanorefuerzos en la matriz polimérica, para esto se usó un modelo estadístico de distribución cuyo análisis evidenció una buena dispersión del nanorefuerzo en la matriz y cuya dispersión se mantendría durante el proceso de fabricación del nanocompuesto metálico.",
+                "url": "http://hdl.handle.net/20.500.11912/8211",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Andres Felipe",
+                            "lastName": "Pava Cano",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+                            "occupation": "Titular . Data Analyst | Data Science | Machine Learning | Data Visualization | Excel | Visual Basic | Tableau | Power BI | SQL | Python",
+                            "objectUrn": "urn:li:member:431627467",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1678417226701?e=1746057600&v=beta&t=g_eGTbMF5EPfwH77XICpnj2tOVeKeV3wXOslNTEc46A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678417226701?e=1746057600&v=beta&t=9QEPsbK-AzA1zX30Jq4rYGSz0cpU_kSLpPcyg6fqraw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFnkdHYrvv1iQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "andresfelipepavacano-dataanalyst",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1692244761934?e=1746057600&v=beta&t=RMlYbrQch0g87Cd_1ENor8SNQNECC0HdUV_AN7VENM4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1692244761934?e=1746057600&v=beta&t=jKKufmJwnTBa8nGh6ITESbfWhsTTTU2auQ8-a0TWrT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1692244761934?e=1746057600&v=beta&t=cAa8sx4Cg3YX3TSwMdQKerY3XPCWqY8a90okQp33cUA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1692244761934?e=1746057600&v=beta&t=UDbSYd3qlrYIrnAlxmNQRRZy_gwjRqrgANIKYczrh4c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGBiFvr38KnDw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ffHQdF5FQA2SGE7mxL6UxA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "LinkedIn",
+                "name": "Pensamiento estratégico",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "QyKhY9MhTBmaoX4BV4HdMw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/c8ab3dab3fca381e34125f420e0096ac8353cb3f765ff181b1891dea60ff2a11?trk=backfilled_certificate"
+            },
+            {
+                "authority": "EF Standard English Test (EF SET) ",
+                "name": "EFSET English Certificate 77/100 (C2 Proficient)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13425355",
+                    "entityUrn": "urn:li:fs_miniCompany:13425355",
+                    "name": "EF SET",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1728915497369/efset_logo?e=1748476800&v=beta&t=ds15dIPLnLJ7P8uUNuB3ZO_CpecMsTH-qqcTIrarVws",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1728915497369/efset_logo?e=1748476800&v=beta&t=wq58bKKcDyZIfLEi6TUIJuwFBF_Lz988Ng4-04M-KiM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1728915497369/efset_logo?e=1748476800&v=beta&t=DPzRcnkfSnJQQe40_Qg1UUXd-yow9Xi1FWWHjpkjlkU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFLraHojJVQhA/company-logo_"
+                        }
+                    },
+                    "universalName": "efset",
+                    "dashCompanyUrn": "urn:li:fsd_company:13425355",
+                    "trackingId": "3GFPAI/+Rc+kQhk7IN0+EA=="
+                },
+                "displaySource": "efset.org",
+                "companyUrn": "urn:li:fs_miniCompany:13425355",
+                "url": "https://www.efset.org/cert/7XyC88"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Fundamentos de marketing B2B",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "r+WQYp1AQn6tcTk97GXa5g=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/814d627e88b97fa07cad040c2dcf4124e48f66fc2aac597097f719e99ef89b31?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Inglés de negocios: Cómo escribir correos electrónicos de negocios con éxito",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "0ibuFp6cRP+utRaROnM7rg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/443cea2ffb2c7a3f562c8ff3a868699dc6c73a88330315c79b0012dd27492851?trk=backfilled_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Power BI para principiantes: Análisis de datos",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "8FJeICcmS1OmJrgjWoY0Kw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/6e41f1a884a7f22babd3c6f612896ef7278d7785f37ea76202f93412296875d8?trk=backfilled_certificate"
+            },
+            {
+                "authority": "Platzi",
+                "name": "Curso de Análisis de Negocios para Ciencia de Datos",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "7cda8ade-f994-4852-8ec0-1f3cb4a46f8e",
+                "company": {
+                    "objectUrn": "urn:li:company:2822346",
+                    "entityUrn": "urn:li:fs_miniCompany:2822346",
+                    "name": "Platzi",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677870818258/platzi_inc_logo?e=1748476800&v=beta&t=PypSkPBQfnvScJM8cYXEe8TH_P-krBL6uDaPjPs1CWg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=qNHc3ZQo59-zd6d27pbwnsa46Osxv51ogmX95dUSrxw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=kW2yN_wEleeU9mT6RWaIkg1bfibffMYDzeeKcYlaq1k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEOTcHh0HnWwQ/company-logo_"
+                        }
+                    },
+                    "universalName": "platzi-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2822346",
+                    "trackingId": "WbjBScvVRRKevW2vXzlghA=="
+                },
+                "displaySource": "platzi.com",
+                "companyUrn": "urn:li:fs_miniCompany:2822346",
+                "url": "https://platzi.com/p/pavacanofelipe/course/2069-negocios-data-science/diploma/detalle/"
+            },
+            {
+                "authority": "Platzi",
+                "name": "Curso de Modelos de Negocio",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "44f40b73-4554-4750-8b2e-8aac101b3080",
+                "company": {
+                    "objectUrn": "urn:li:company:2822346",
+                    "entityUrn": "urn:li:fs_miniCompany:2822346",
+                    "name": "Platzi",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677870818258/platzi_inc_logo?e=1748476800&v=beta&t=PypSkPBQfnvScJM8cYXEe8TH_P-krBL6uDaPjPs1CWg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=qNHc3ZQo59-zd6d27pbwnsa46Osxv51ogmX95dUSrxw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=kW2yN_wEleeU9mT6RWaIkg1bfibffMYDzeeKcYlaq1k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEOTcHh0HnWwQ/company-logo_"
+                        }
+                    },
+                    "universalName": "platzi-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2822346",
+                    "trackingId": "UyIIl8iIR+Oi1nLW4g7DOw=="
+                },
+                "displaySource": "platzi.com",
+                "companyUrn": "urn:li:fs_miniCompany:2822346",
+                "url": "https://platzi.com/p/pavacanofelipe/curso/2583-course/diploma/detalle/"
+            },
+            {
+                "authority": "Platzi",
+                "name": "Curso de Business Model Canvas",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "5ab82507-50df-4d1c-b478-b8ad7ba69a62",
+                "company": {
+                    "objectUrn": "urn:li:company:2822346",
+                    "entityUrn": "urn:li:fs_miniCompany:2822346",
+                    "name": "Platzi",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677870818258/platzi_inc_logo?e=1748476800&v=beta&t=PypSkPBQfnvScJM8cYXEe8TH_P-krBL6uDaPjPs1CWg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=qNHc3ZQo59-zd6d27pbwnsa46Osxv51ogmX95dUSrxw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=kW2yN_wEleeU9mT6RWaIkg1bfibffMYDzeeKcYlaq1k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEOTcHh0HnWwQ/company-logo_"
+                        }
+                    },
+                    "universalName": "platzi-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2822346",
+                    "trackingId": "5Ie5kJZSSsuATFZzY87n9w=="
+                },
+                "displaySource": "platzi.com",
+                "companyUrn": "urn:li:fs_miniCompany:2822346",
+                "url": "https://platzi.com/p/pavacanofelipe/curso/1309-course/diploma/detalle/"
+            },
+            {
+                "authority": "Platzi",
+                "name": "Curso de Planificación de Proyectos",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "894af3c5-a7f8-46f2-8107-183e94562d90",
+                "company": {
+                    "objectUrn": "urn:li:company:2822346",
+                    "entityUrn": "urn:li:fs_miniCompany:2822346",
+                    "name": "Platzi",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677870818258/platzi_inc_logo?e=1748476800&v=beta&t=PypSkPBQfnvScJM8cYXEe8TH_P-krBL6uDaPjPs1CWg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=qNHc3ZQo59-zd6d27pbwnsa46Osxv51ogmX95dUSrxw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677870818259/platzi_inc_logo?e=1748476800&v=beta&t=kW2yN_wEleeU9mT6RWaIkg1bfibffMYDzeeKcYlaq1k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEOTcHh0HnWwQ/company-logo_"
+                        }
+                    },
+                    "universalName": "platzi-inc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2822346",
+                    "trackingId": "ce3CE7scQR+xaNLv3cp2vQ=="
+                },
+                "displaySource": "platzi.com",
+                "companyUrn": "urn:li:fs_miniCompany:2822346",
+                "url": "https://platzi.com/p/pavacanofelipe/curso/2340-planificacion-proyectos/diploma/detalle/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "MACROS Y VBA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "ouBA9bsSQ9ySPYvxhvIobA=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-03925097-ac97-4792-a956-4f0012dc92e4.pdf"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "title": "Distinción Andres Bello",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2015,
+                    "day": 1
+                },
+                "issuer": "Ministerio de  Educación Nacional"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,497161737)",
+                "title": "Monitoria Académica "
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,838650632)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Andres Felipe",
+                            "lastName": "Pava Cano",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+                            "occupation": "Titular . Data Analyst | Data Science | Machine Learning | Data Visualization | Excel | Visual Basic | Tableau | Power BI | SQL | Python",
+                            "objectUrn": "urn:li:member:431627467",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1678417226701?e=1746057600&v=beta&t=g_eGTbMF5EPfwH77XICpnj2tOVeKeV3wXOslNTEc46A",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678417226701?e=1746057600&v=beta&t=9QEPsbK-AzA1zX30Jq4rYGSz0cpU_kSLpPcyg6fqraw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFnkdHYrvv1iQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "andresfelipepavacano-dataanalyst",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1692244761934?e=1746057600&v=beta&t=RMlYbrQch0g87Cd_1ENor8SNQNECC0HdUV_AN7VENM4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1692244761934?e=1746057600&v=beta&t=jKKufmJwnTBa8nGh6ITESbfWhsTTTU2auQ8-a0TWrT8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1692244761934?e=1746057600&v=beta&t=cAa8sx4Cg3YX3TSwMdQKerY3XPCWqY8a90okQp33cUA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1692244761934?e=1746057600&v=beta&t=UDbSYd3qlrYIrnAlxmNQRRZy_gwjRqrgANIKYczrh4c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGBiFvr38KnDw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ffHQdF5FQA2SGE7mxL6UxA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc,569693013,409106545)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "title": "Analisis de Datos de Youtube"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Google Analytics"
+            },
+            {
+                "name": "Random Forest"
+            },
+            {
+                "name": "Decision Trees"
+            },
+            {
+                "name": "Unsupervised Learning"
+            }
+        ],
+        "urn_id": "ACoAABm6HMsBXjJU4AqwU278VFBvBkUkK7mAAOc"
+    }
+}

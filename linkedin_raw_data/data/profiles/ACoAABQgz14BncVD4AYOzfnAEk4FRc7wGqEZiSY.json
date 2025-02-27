@@ -1,0 +1,2008 @@
+{
+    "urn_id": "ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+    "fetch_timestamp": "2025-02-26T21:28:59.733697",
+    "profile_data": {
+        "summary": "I do bad things to good models.",
+        "industryName": "Computer & Network Security",
+        "lastName": "Galinkin",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:118",
+        "firstName": "Erick",
+        "entityUrn": "urn:li:fs_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000152"
+        },
+        "geoLocationName": "Charlotte Metro",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Artificially Intelligent",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+        "profile_id": "ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+        "member_urn": "urn:li:member:337694558",
+        "public_id": "erickgalinkin",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,2255351272)",
+                "companyName": "NVIDIA",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2023
+                    }
+                },
+                "description": "Research, design, and develop attacks and guardrails for large language models\nContribute to open-source NeMo Guardrails and garak frameworks",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Hardware"
+                    ]
+                },
+                "title": "AI Security Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:3608",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_"
+            },
+            {
+                "locationName": "Remote",
+                "entityUrn": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1564816398)",
+                "geoLocationName": "Remote",
+                "companyName": "Rapid7",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "description": "Established and led artificial intelligence research team within Office of the CTO, set AI research agenda to uncover applications of and vulnerabilities in AI systems.\nPublished and publicized threat research to inform the public, dispelling fear, uncertainty, and doubt.\nResearched zero-day and n-day vulnerabilities, developed proof of concept exploits and detection methods for both vulnerabilities and exploit attempts.\nWorked with government stakeholders and industry groups to shape policy on artificial intelligence -- served 2 years as co-chair of Information Technology Industry Council Innovative Tech Committee.\nDeveloped threat analytics pipeline, providing timely threat intelligence, detection, and prevention to customers.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer & Network Security"
+                    ]
+                },
+                "title": "Principal Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:39624",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGSxHKxsej2mw/company-logo_"
+            },
+            {
+                "locationName": "Remote",
+                "entityUrn": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,2055593571)",
+                "geoLocationName": "Remote",
+                "companyName": "Anthropic",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "description": "Researching feasibility and application of large language models to security problems.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Security Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:74126343",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,761847324)",
+                    "urn:li:fs_project:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,761898503)",
+                    "urn:li:fs_project:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,761951589)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1616677826)",
+                "companyName": "Udacity",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "Instructor for Deep Learning Nanodegree\nInstructor for Azure Devops Nanodegree.\nInstructor for Machine Learning Engineer with Microsoft Azure nanodegree\nProject development for \"Introduction to Machine Learning with PyTorch\" course.\nInstructor for Security Architect Nanodegree",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "Instructor",
+                "companyUrn": "urn:li:fs_miniCompany:2475568",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1892705487)",
+                "companyName": "Harvard University Graduate School of Arts and Sciences",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Teaching Assistant for Mini-Course: \"What is Computation? From Turing Machines to Blackholes and Neurons\"\nConducted advanced section on Information Geometry",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Teaching Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:24787217",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGtPlmr6rf1jw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,636038883)",
+                "school": {
+                    "objectUrn": "urn:li:school:19245",
+                    "entityUrn": "urn:li:fs_miniSchool:19245",
+                    "active": true,
+                    "schoolName": "Drexel University",
+                    "trackingId": "En42DaRGS+ij7W9x2PQDFQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEqp_nXWmHi6Q/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "Dissertation Title: Cyber Threat Decision Theory\n\nAdvisers: Spiros Mancoridis and Emmanouil Pountourakis",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "Drexel University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:900",
+                "schoolUrn": "urn:li:fs_miniSchool:19245"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,542000479)",
+                "school": {
+                    "objectUrn": "urn:li:school:18560",
+                    "entityUrn": "urn:li:fs_miniSchool:18560",
+                    "active": true,
+                    "schoolName": "The Johns Hopkins University",
+                    "trackingId": "Y7GgFRscTUOf39B0p11iCA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFeLC87ehQOUQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "Thesis: Malicious Network Traffic Detection via Deep Learning: An Information Theoretic View",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100700",
+                "degreeName": "Master's degree",
+                "schoolName": "The Johns Hopkins University",
+                "fieldOfStudy": "Computational and Applied Mathematics",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:18560"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,266845446)",
+                "school": {
+                    "objectUrn": "urn:li:school:18574",
+                    "entityUrn": "urn:li:fs_miniSchool:18574",
+                    "active": true,
+                    "schoolName": "University of Maryland Global Campus",
+                    "trackingId": "9ZEpu97TQZqxnSfwjw/0kQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE7DmPl0TeYKQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "Capstone Project: Applications of Machine Learning to Malware Detection",
+                "degreeName": "Master’s Degree",
+                "schoolName": "University of Maryland Global Campus",
+                "fieldOfStudy": "Information Technology/Information Assurance",
+                "schoolUrn": "urn:li:fs_miniSchool:18574"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2023,
+                    "day": 28
+                },
+                "name": "The Annual Vulnerability Intelligence Report: 2022 Edition",
+                "publisher": "Rapid7",
+                "description": "Widespread attacks and zero-day exploitation hit all-time highs in 2021, pushing security teams around the world to their limits and beyond. The attack landscape in 2022 was slightly more nuanced, as adversaries evolved operations and leveraged both new and known vulnerabilities to accomplish their goals. In our annual vulnerability intelligence report, we analyzed 50 of 2022’s most notable vulnerabilities and attacks to highlight exploitation trends and help security practitioners prioritize.\n\nHere’s what we found:\n\nDespite decreases, 2022 was still a year of serious risk\nNet-new widespread threats were down 15% from their 2021 highs, but 28 widely exploited vulnerabilities still dominated our 2022 dataset.\n\nAttackers are gearing up faster and faster\n56% of the vulnerabilities in our report were exploited within seven days — a 12% increase YoY and an 87% rise over 2020.\n\nZero-day attacks are down slightly, but we’re not out of the woods\nZero-day exploits are down 9% from 2021 but have still plateaued at a high rate, which keeps the gap between vulnerability disclosure and exploitation small.",
+                "url": "https://www.rapid7.com/info/vulnerability-intelligence-report-2022-edition/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Caitlin",
+                            "lastName": "Condon",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWOi58BXnvL7hLI3bAxrFxBpmlnObI0-p8",
+                            "occupation": "Director of Vulnerability Intelligence at Rapid7",
+                            "objectUrn": "urn:li:member:93227935",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAWOi58BXnvL7hLI3bAxrFxBpmlnObI0-p8",
+                            "publicIdentifier": "ccondon",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1651267142396?e=1746057600&v=beta&t=-wrRihB5P7hdC7FRnhef2cXGn-NZnBjdbaiBlEqTfAc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1651267142396?e=1746057600&v=beta&t=T7jxshjeUz83IkLIfVKN0ZoCRr8ZxAnyMyQ7KbZF2vc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1651267142396?e=1746057600&v=beta&t=CRAsBnb6-vn0BGQNexPCPz_LhzWXgMPUQAePB8cE3pM",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1651267142396?e=1746057600&v=beta&t=tOMS9HtUZrQecZk37b4u0cSTtKnCWnASQ1CQmuR_I9s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQG6-6lhLcl8jA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0Dr5qLR5SwWWNwjmlTYvUA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAWOi58BXnvL7hLI3bAxrFxBpmlnObI0-p8"
+                    },
+                    {
+                        "name": "Ron Bowes"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2023,
+                    "day": 9
+                },
+                "name": "Nearly 19,000 ESXi Servers still Vulnerable to CVE-2021-21974",
+                "publisher": "Rapid7 Blog",
+                "url": "https://www.rapid7.com/blog/post/2023/02/09/nearly-19-000-esxi-servers-still-vulnerable-to-cve-2021-21974/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2023,
+                    "day": 3
+                },
+                "name": "IOT Malware Data Augmentation using a Generative Adversarial Network",
+                "publisher": "56th Hawaii International Conference on System Sciences",
+                "description": "Behavioral malware detection has been shown to be an effective method for detecting malware running on computing hosts. Machine learning (ML) models are often used for this task, which use representative behavioral data from a device to make a classification as to whether an observation is malware or not. Although these models can perform well, machine learning models in security are often trained on imbalanced training datasets that yield poor real-world efficacy, as they favor the overrepresented class. Thus, we need a way to augment the underrepresented class. Some common data augmentation techniques include SMOTE, data resampling/upsampling, or using generative algorithms. In this work, we explore using generative algorithms for this task, and show how those results compare to results obtained using SMOTE and upsampling. Specifically, we feed the less-represented class of data into a Generative Adversarial Network (GAN) to create enough realistic synthetic data to balance the dataset. In this work, we show how using a GAN to balance a dataset that favors benign data helps a shallow Neural Network achieve a higher Area Under the Receiver Operating Characteristic Curve (AUC) and a lower False Positive Rate (FPR).",
+                "url": "https://www.cs.drexel.edu/~mancors/papers/HICSS2-2023.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "John M.",
+                            "lastName": "Carter",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB8jOjUBPRUoqFSjjhJsgXARbgHAmxrtl8A",
+                            "occupation": "PhD Student at Drexel University",
+                            "objectUrn": "urn:li:member:522402357",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB8jOjUBPRUoqFSjjhJsgXARbgHAmxrtl8A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1589829065230?e=1746057600&v=beta&t=gYp7ndSujG6EhRWEFLyKiNiQz_kwfhFt24CXNYP9fJc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1589829065230?e=1746057600&v=beta&t=ERcoxVRmOgsUBXLfqDN7x_Biu2dzDmBXO6kVu_cdywQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEnCN2GwzuchA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "johnmichaelcarter",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1563756807438?e=1746057600&v=beta&t=y0DjcyJZRIxKmwHs3qAulW8zQgxLhEnZsEtEvhiSWHA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1563756807394?e=1746057600&v=beta&t=Oy3GqxBiHbvphWbsaAaAwG87y8DQHGUKunwDRjDgOmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1563756807495?e=1746057600&v=beta&t=_mj6u1hLpLzPF85rPeRDgACX8ACWfJ07ORArqChhUUQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1563756807560?e=1746057600&v=beta&t=zV5QGL3hIHCGa0EbldlAvrQOVX_AmB5TcIT_7zzUmGE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGc_S1Y2MRRUA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SQXOz5/sSsK5M5qZKaoqPQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB8jOjUBPRUoqFSjjhJsgXARbgHAmxrtl8A"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 1,
+                    "year": 2023,
+                    "day": 3
+                },
+                "name": "Behavioral Malware Detection using a Language Model Classifier Trained on sys2vec Embeddings",
+                "publisher": "56th Hawaii International Conference on System Sciences",
+                "description": "Behavioral malware detection is an effective way to detect ever-changing malware. Often, kernel-level system calls are collected on device and then processed and fed to machine learning models. In this work, we show that using simple natural language processing (NLP) techniques on system calls, such as a bag-of-n-grams model, coupled with shallow machine learning classifiers, are not as useful for stealthier malware. In contrast, training a Word2Vec-like model, which we call sys2vec, on the system call traces and feeding the resulting embeddings to a language model classifier provides consistently better results. We evaluate and compare the two classifiers using Area Under the Receiver Operating Characteristic Curve (AUC) and the True Positive Rate (TPR) at an acceptable False Positive Rate (FPR). We then discuss how this work can be further expanded in the language model space going forward.",
+                "url": "https://www.cs.drexel.edu/~mancors/papers/HICSS1-2023.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "John M.",
+                            "lastName": "Carter",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB8jOjUBPRUoqFSjjhJsgXARbgHAmxrtl8A",
+                            "occupation": "PhD Student at Drexel University",
+                            "objectUrn": "urn:li:member:522402357",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB8jOjUBPRUoqFSjjhJsgXARbgHAmxrtl8A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1589829065230?e=1746057600&v=beta&t=gYp7ndSujG6EhRWEFLyKiNiQz_kwfhFt24CXNYP9fJc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1080,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1589829065230?e=1746057600&v=beta&t=ERcoxVRmOgsUBXLfqDN7x_Biu2dzDmBXO6kVu_cdywQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 270
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEnCN2GwzuchA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "johnmichaelcarter",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1563756807438?e=1746057600&v=beta&t=y0DjcyJZRIxKmwHs3qAulW8zQgxLhEnZsEtEvhiSWHA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1563756807394?e=1746057600&v=beta&t=Oy3GqxBiHbvphWbsaAaAwG87y8DQHGUKunwDRjDgOmA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1563756807495?e=1746057600&v=beta&t=_mj6u1hLpLzPF85rPeRDgACX8ACWfJ07ORArqChhUUQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1563756807560?e=1746057600&v=beta&t=zV5QGL3hIHCGa0EbldlAvrQOVX_AmB5TcIT_7zzUmGE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGc_S1Y2MRRUA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SQXOz5/sSsK5M5qZKaoqPQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB8jOjUBPRUoqFSjjhJsgXARbgHAmxrtl8A"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2022,
+                    "day": 2
+                },
+                "name": "Leaked Android Platform Certificates Create Risks for Users",
+                "publisher": "Rapid7 Blog",
+                "url": "https://www.rapid7.com/blog/post/2022/12/02/leaked-android-platform-certificates-create-risks-for-users/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2022,
+                    "day": 17
+                },
+                "name": "CVE-2022-42889: Keep Calm and Stop Saying \"4Shell\"",
+                "publisher": "Rapid7 Blog",
+                "url": "https://www.rapid7.com/blog/post/2022/10/17/cve-2022-42889-keep-calm-and-stop-saying-4shell/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 11,
+                    "year": 2022,
+                    "day": 1
+                },
+                "name": "Open Data: Internet Scale Telemetry",
+                "description": "Open Data is a project to collect and share internet scale telemetry for security research purposes. Open Data is available for two use cases: 1. Legitimate public research projects by academics and other not-for-profits studying security-related topics subject to time limits and the condition that findings are shared to advance the public good 2. Governments, Information sharing and Analysis Centers, and other nonprofits who support security advocacy to reduce opportunities for attackers. Data provided to these users are limited to the relevant geographic region or industrial sector they support. The data provided through Open Data is also available under commercial licensing agreements.",
+                "url": "http://dx.doi.org/10.13140/RG.2.2.14116.35203",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2022,
+                    "day": 26
+                },
+                "name": "Good Passwords for Bad Bots",
+                "publisher": "Rapid7",
+                "description": "This report details the types of credentials that are most often used by automated \nattackers to gain access to systems with SSH and RDP – the two most common \nprotocols for remote access. These protocols are widely used for managing \nvirtual machines in the cloud and thus, with the growing popularity of both cloud \ndeployments and remote work, it is important to know how opportunistic attackers \nare targeting these systems. We find that the most common usernames are defaults \nthat are built into operating systems and applications such as “root,” “administrator,” \nand “mysql.” However, the most commonly attempted passwords tend to be the  \nwell-known bad passwords: “123456,” “password,” “admin,”  or simply no \npassword at all!",
+                "url": "https://www.rapid7.com/info/good-passwords-for-bad-bots/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Tod",
+                            "lastName": "Beardsley",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAn7RAB44xlLRNsfdYsGsDX40Om9-sbjVk",
+                            "occupation": "VP, Security Research, runZero",
+                            "objectUrn": "urn:li:member:2616592",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAn7RAB44xlLRNsfdYsGsDX40Om9-sbjVk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1652741224672?e=1746057600&v=beta&t=OED_WktA2WAGmaUZuLsEkFAi92BnPfHUuNeokF--SUw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652741224672?e=1746057600&v=beta&t=GPdk60xoCEmyAM_mS6bo3Ox0qNRGGpSg7RD4iLQJ5yQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQHIc5bpVTfj7A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "todb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1686005911449?e=1746057600&v=beta&t=lB0nMKfeVm21LLGNphKnfgm8LMkGABUpdcWESMIMSJg",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1686005911449?e=1746057600&v=beta&t=S1w8lx8b1L0r0XW44W1QAleKckAY6Ub7VUMdiq3EnIQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1686005911449?e=1746057600&v=beta&t=rx0ZHCo9EB7nFzDWALxnTONUK0wEk_ZWYSWQ8Pnxwb4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1686005911449?e=1746057600&v=beta&t=B_e8eXMiAh60K3oc11QscRglfKI8y1jYTkTz-fSq4Ls",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGYkSTjVoEFGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "F4tuiwsvQvqieBCbvr5LFQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAAn7RAB44xlLRNsfdYsGsDX40Om9-sbjVk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Curt",
+                            "lastName": "Barnard",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAGRlTwBCbmN2Lhg-HUTpDOL11TlmBXFfoA",
+                            "occupation": "🔒 Cybersecurity leader | 💡 Tech innovator | 👨‍💼 Entrepreneur | 🎙️ Public Speaker",
+                            "objectUrn": "urn:li:member:26318140",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAGRlTwBCbmN2Lhg-HUTpDOL11TlmBXFfoA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 797,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1640909243570?e=1746057600&v=beta&t=qcey9JEqad2asFXcckPnhRcwH9rg8UVTonyu5ywpCQU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1396,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1640909243570?e=1746057600&v=beta&t=ATRT65XqUqq2cE1RmPfRdzi9BmzmCen98aRwhw7NfAc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQE8kvzteWdeYA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "curt-barnard",
+                            "trackingId": "13duQ8yGRmS5f4Y0AvxbBg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAGRlTwBCbmN2Lhg-HUTpDOL11TlmBXFfoA"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2022,
+                    "day": 2
+                },
+                "name": "Architecting for Extortion: Acting on the IST's Blueprint for Ransomware Defense",
+                "publisher": "Rapid7 Blog",
+                "url": "https://www.rapid7.com/blog/post/2022/09/02/architecting-for-extortion-acting-on-the-ists-blueprint-for-ransomware-defense/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2022,
+                    "day": 19
+                },
+                "name": "Pain Points: Ransomware Data Disclosure Trends",
+                "publisher": "Rapid7",
+                "url": "https://www.rapid7.com/info/ransomware-data-disclosure-trends/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul",
+                            "lastName": "P.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABNZqn8BaTQSxKKMgQZjrPbNiVs_tpcsuo8",
+                            "occupation": "Cyber Security Leader",
+                            "objectUrn": "urn:li:member:324643455",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABNZqn8BaTQSxKKMgQZjrPbNiVs_tpcsuo8",
+                            "publicIdentifier": "paul-p-45388090",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800-alternative/profile-displayphoto-shrink_800_800-alternative/0/1528772090135?e=1746057600&v=beta&t=MCUuByyS_oTMApgdQDldqAuUNRk2oO_caM3UUx6Nu_c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400-alternative/profile-displayphoto-shrink_400_400-alternative/0/1528772090068?e=1746057600&v=beta&t=FOftR51iAkH1rJFCrJvSAmQEl3Q5nVQjL8stTdRhCrc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200-alternative/profile-displayphoto-shrink_200_200-alternative/0/1528772090021?e=1746057600&v=beta&t=ZpZk9-bkktpz1RJnO45ILkHElfOTVVIlamatpg5dZk8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1528772090349?e=1746057600&v=beta&t=E_fcP4fmLeKl-CBzFQdivdEmPxy6ROC_YShJ5JV7x5o",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1528772090151?e=1746057600&v=beta&t=tiJSVNwS_3TY8PCNOWIl51dgFfUL7gn0qhNHuArP6-8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1528772090160?e=1746057600&v=beta&t=-2F-DzDPD_dKzR21OcAFyNo4QinrLLu1i-0JpmCB4TU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1528772090331?e=1746057600&v=beta&t=sxxxaoR7nRnZ-GH7riDI_u_VrEvReI_5W4iofyOJZH8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100-alternative/profile-displayphoto-shrink_100_100-alternative/0/1528772089974?e=1746057600&v=beta&t=Y49iS1IheDSIv_c4kK1tb84aYb5sfYbbVdyKfj1EK_4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQF3tGpyvvG5Aw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "SNVQmWZcRgOYIIn3VmkzcQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABNZqn8BaTQSxKKMgQZjrPbNiVs_tpcsuo8"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "MTM4M6MR3396",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "KnFxZek2TzegZ0NPSRJC0w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/MTM4M6MR3396"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "KGT2V5JQKW67",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "eDUyMLZ1TQu6PykaWMv2xg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/KGT2V5JQKW67"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Structuring Machine Learning Projects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "HA62UQG48ETQ",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "3MPMR2fBRn2NnprE0PV9Jg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/HA62UQG48ETQ"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Convolutional Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "67CSYAV37KNL",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "NIHj9ZuJSd6NOMT/Kci15A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/67CSYAV37KNL"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Sequence Models",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "43PE23SNF4N9",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "/dPk8aFgQqm8u4iO025c1g=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/43PE23SNF4N9"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "Y75NGF75NCFK",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "OYQZDDi6RNa5bSXLjp3FzA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/Y75NGF75NCFK"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Data Scientist with Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "41071",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=Na-49aq7liKffzsfT0-8Qw07zA9TRA8SJdBFohbodrA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=p3MlcWmt8X2gGfkT1xEqL6oN3bS-0A_VMXl5NPCRZTs",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1748476800&v=beta&t=BBxWHwgOwtXMVAYbziY4T47Uv8D5Vc-3zO8L2lpfTPo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "GX2BqvHdS+W0S7kcFVDZ3g=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/track/b0109c444b78f76a4688a17f690a2971bcf008b4"
+            },
+            {
+                "authority": "Elsevier",
+                "name": "Certified Peer Reviewer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:3027",
+                    "entityUrn": "urn:li:fs_miniCompany:3027",
+                    "name": "Elsevier",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719831554052/elsevier_logo?e=1748476800&v=beta&t=guJmtkMpK_fgNLfCZGoTUYPn8j7KDWpIjA6d3t5uCrY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719831554052/elsevier_logo?e=1748476800&v=beta&t=_D68xwiBBtSudyoi3EtI2CoP8doDH2ae1W1HJiOectM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719831554052/elsevier_logo?e=1748476800&v=beta&t=UQ5kE4nLT-qcWwUoDhrxW5qVBRuVnSLQubnbMF-WUJA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHMEQhVVniNJw/company-logo_"
+                        }
+                    },
+                    "universalName": "elsevier",
+                    "dashCompanyUrn": "urn:li:fsd_company:3027",
+                    "trackingId": "wm6YPAuRSbaiA5f2fgF5aA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3027"
+            },
+            {
+                "authority": "Udacity",
+                "name": "Deep Reinforcement Learning Nanodegree",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "RD2PKHRS",
+                "company": {
+                    "objectUrn": "urn:li:company:2475568",
+                    "entityUrn": "urn:li:fs_miniCompany:2475568",
+                    "name": "Udacity",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=cwuTvver91m4g5aZrO9NRAm26Fn7YFbaGp14zNwX5vk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=J67TxZc8kPEEa8Sf81YawA1B6yM5IO5apx9HK33YVYA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=StkTgdtIui2ph0KWjTGJxctqJ_MjVsbBiLNGR2f56JI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_"
+                        }
+                    },
+                    "universalName": "udacity",
+                    "dashCompanyUrn": "urn:li:fsd_company:2475568",
+                    "trackingId": "vE4auUOIRC6oX6/JvmSRGg=="
+                },
+                "displaySource": "udacity.com",
+                "companyUrn": "urn:li:fs_miniCompany:2475568",
+                "url": "https://confirm.udacity.com/RD2PKHRS"
+            },
+            {
+                "authority": "Udacity",
+                "name": "Natural Language Processing Nanodegree",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "RELPGWGZ",
+                "company": {
+                    "objectUrn": "urn:li:company:2475568",
+                    "entityUrn": "urn:li:fs_miniCompany:2475568",
+                    "name": "Udacity",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=cwuTvver91m4g5aZrO9NRAm26Fn7YFbaGp14zNwX5vk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=J67TxZc8kPEEa8Sf81YawA1B6yM5IO5apx9HK33YVYA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1748476800&v=beta&t=StkTgdtIui2ph0KWjTGJxctqJ_MjVsbBiLNGR2f56JI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_"
+                        }
+                    },
+                    "universalName": "udacity",
+                    "dashCompanyUrn": "urn:li:fsd_company:2475568",
+                    "trackingId": "2L+C7DiDQyC5q5dfxhOgzQ=="
+                },
+                "displaySource": "udacity.com",
+                "companyUrn": "urn:li:fs_miniCompany:2475568",
+                "url": "https://confirm.udacity.com/RELPGWGZ"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "CVE AI Working Group Chair",
+                "companyName": "CVE Program",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:80297015",
+                        "entityUrn": "urn:li:fs_miniCompany:80297015",
+                        "name": "CVE Program",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1633540824859?e=1748476800&v=beta&t=DqDbw7F4hc7WqLwTd87w5zAGY9dCmmyTHFDA1O6brAA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1633540824859?e=1748476800&v=beta&t=lf8q-AP25LJ80kCNppa6gQUEPCmtp6w-AI-2TQ2lG7A",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1633540824859?e=1748476800&v=beta&t=-vkdS0sbzorGNL85pkNauS5UsPDAfcIan8ODNjKh0A4",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFcxtKkWIpYGw/company-logo_"
+                            }
+                        },
+                        "universalName": "cve-program",
+                        "dashCompanyUrn": "urn:li:fsd_company:80297015",
+                        "trackingId": "qqJLaEpDTnGz1VVxj0RNEA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:80297015"
+            },
+            {
+                "role": "CWE AI Working Group Chair",
+                "companyName": "CWE Program",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2025
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY"
+            },
+            {
+                "role": "Officer",
+                "companyName": "DEF CON AI Village",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Helped organize the inaugural Twitter/AI Village bug bounty\nServed on the AIV program committee\n\"Tech-Savvy Victorian Moralist\"\nOther duties as assigned"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1616677826)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,761951589,306742447)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "title": "Security Architect",
+                "url": "https://www.udacity.com/course/security-architect-nanodegree--nd992"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1616677826)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,761847324,306742443)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "title": "Machine Learning Engineer for Microsoft Azure",
+                "url": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1616677826)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,761898503,306738798)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "title": "DevOps with Microsoft Azure"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,1365158501)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Erick",
+                            "lastName": "Galinkin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "occupation": "Artificially Intelligent",
+                            "objectUrn": "urn:li:member:337694558",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY",
+                            "publicIdentifier": "erickgalinkin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1600963153139?e=1746057600&v=beta&t=xsv36Qn98VIdZFn0wxtFrmIMBn36Gxp8-FjqZUdkTZY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1600963153139?e=1746057600&v=beta&t=L9I5-9NI9KXI3S406i_dAyhIDyIY56Yt8M352hWfM3M",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1600963153139?e=1746057600&v=beta&t=J3YOvVHANnCS2FlPuArG-HOO0eSljsH1KBJoGNuqruA",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1600963153139?e=1746057600&v=beta&t=RcftvZF6bDW84TEX39CKM7CQ27iPz_gNfhI9eAxI84s",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG2kn06-ru0Kw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "YsOuZhtASNirVi6+ya77lg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY,762025066,306739769)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "title": "SaaSy_boi",
+                "url": "https://github.com/netskopeoss/saasy_boi"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Large Language Models (LLM)"
+            },
+            {
+                "name": "Artificial Intelligence (AI)"
+            },
+            {
+                "name": "Data Science"
+            },
+            {
+                "name": "Information Security"
+            }
+        ],
+        "urn_id": "ACoAABQgz14BncVD4AYOzfnAEk4FRc7wGqEZiSY"
+    }
+}

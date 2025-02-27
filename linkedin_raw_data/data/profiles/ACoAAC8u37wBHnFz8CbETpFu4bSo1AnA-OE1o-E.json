@@ -1,0 +1,1389 @@
+{
+    "urn_id": "ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+    "fetch_timestamp": "2025-02-26T21:39:14.585712",
+    "profile_data": {
+        "summary": "🌟 About Me\nI am a Data Science Master’s student at Michigan Technological University, passionate about Artificial Intelligence (AI), Machine Learning (ML), and Software Development. I thrive on solving real-world challenges by leveraging cutting-edge AI technologies like Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and NLP-driven automation.\n\n💡 What Drives Me?\nI take inspiration from books like:\n📖 The Secret – Power of mindset in achieving success\n📖 Atomic Habits – The art of consistency and incremental growth\n📖 The Hard Thing About Hard Things – Navigating tough challenges with resilience\n\n🎯 What I’ve Built & Worked On\n✅ AI Research Assistant (Michigan Tech) – Developed RAG-powered AI solutions, GPT-based document intelligence, and NLP-driven automation.\n✅ Machine Learning Engineer (Accenture) – Built ML models for enterprise automation, integrated AI in cloud workflows, and optimized deployment pipelines.\n✅ Software Engineer Intern (Cognizant) – Engineered cloud-based applications using Spring Boot, AWS, and REST APIs.\n✅ AI Intern (Alliance Laundry Systems) – Developed an AI chatbot that enhanced supplier query efficiency by 40% and implemented predictive analytics for risk assessment.\n\n✨ Beyond Tech?\nI express creativity through poetry—it helps me think outside the box, see patterns where others don’t, and turn complex problems into elegant solutions.\n\n🚀 Actively Seeking: Internships & Full-time Roles in AI, ML, and Software Engineering\n📩 Let’s connect! Reach out at pamminen@mtu.edu or message me here!",
+        "industryName": "Higher Education",
+        "lastName": "Ammineni",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:68",
+        "firstName": "Puja",
+        "entityUrn": "urn:li:fs_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:100949506"
+        },
+        "geoLocationName": "Houghton, Michigan",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+        "img_400_400": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+        "img_800_800": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+        "img_100_100": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+        "profile_id": "ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+        "member_urn": "urn:li:member:791601084",
+        "public_id": "puja-ammineni",
+        "experience": [
+            {
+                "locationName": "Houghton, Michigan, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,2464995357)",
+                "geoLocationName": "Houghton, Michigan, United States",
+                "geoUrn": "urn:li:fs_geo:100949506",
+                "companyName": "Michigan Technological University",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "description": "• Designed an AI-powered Retrieval-Augmented Generation (RAG) system for construction management \n   research, integrating Azure Document Intelligence, OpenAI GPT-4o Mini, and distributed storage, \n   improving document retrieval accuracy by 30%.\n• Engineered a ChatGPT-like web assistant for real-time document analysis, leveraging LangChain \n  document agents to improve data extraction, summarization, and decision-making efficiency by 35%.\n• Developed a blockchain-secured healthcare data-sharing platform using Zero-Knowledge Proofs (zk- \n  SNARKs) for privacy-preserving access to medical records, ensuring regulatory compliance with \n   OpenEMR integration.\n• Automated AI deployment with Docker, GitHub Actions, AWS S3, reducing deployment time by 30%, \n   ensuring high availability and scalability.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Graduate Research Assistant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:12399",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHdGNXEdwcaUg/company-logo_"
+            },
+            {
+                "locationName": "Houghton, Michigan, United States",
+                "geoUrn": "urn:li:fs_geo:100949506",
+                "companyName": "Michigan Technological University",
+                "description": "• Assisted students in debugging & troubleshooting Python and Java code for Accelerated Introduction \n  to Programming & Data Structures courses.\n• Provided one-on-one mentorship on Object-Oriented Programming (OOP), Algorithms, and Full-Stack \n   Development (Flask, FastAPI, Spring Boot, Django).\n• Conducted hands-on lab sessions to strengthen fundamental programming concepts and software \n   engineering best practices.",
+                "title": "Laboratory Assistant",
+                "companyUrn": "urn:li:fs_miniCompany:12399",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1921525520)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,2464999174)",
+                "geoLocationName": "Houghton, Michigan, United States",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHdGNXEdwcaUg/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,661949737)"
+                ],
+                "locationName": "Ripon, Wisconsin, United States",
+                "geoUrn": "urn:li:fs_geo:112536865",
+                "companyName": "Alliance Laundry Systems LLC",
+                "description": "• Developed an AI-powered chatbot leveraging Google Generative AI & FAISS, enhancing supplier query \n   resolution by 40% and automating procurement workflows.\n• Optimized supplier risk assessment using Azure Machine Learning, reducing supply chain disruptions \n   by 25% and improving forecasting accuracy.\n•  Designed and maintained Power BI dashboards, enabling real-time data insights for procurement \n    teams.",
+                "title": "Supply Chain AI Intern",
+                "companyUrn": "urn:li:fs_miniCompany:48204",
+                "entityUrn": "urn:li:fs_position:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,2437517076)",
+                "geoLocationName": "Ripon, Wisconsin, United States",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Machinery"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG1HA2YIFS4Tg/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,2048476112)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Accenture",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "description": "• Developed and deployed AI-driven applications using Python, Node.js, AWS, optimizing cloud-based \n   workflows by 30%.\n• Integrated CI/CD pipelines (GitHub Actions, Terraform) for AI/ML model deployment on AWS Lambda \n   & EC2, reducing deployment time by 40%.\n• Designed scalable APIs for AI-powered data processing, leveraging microservices & cloud computing \n   for reliability.\n• Led development in capital markets, asset management, and trading solutions, achieving P4 Capital \n   Markets Certification.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Software AI Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_"
+            },
+            {
+                "locationName": "Hyderabad, Telangana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,2246913494)",
+                "geoLocationName": "Hyderabad, Telangana, India",
+                "geoUrn": "urn:li:fs_geo:105556991",
+                "companyName": "Cognizant",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "description": "• Developed Java-based cloud applications using Spring Boot, PostgreSQL, and AWS, optimizing data \n   processing efficiency by 25%.\n•  Implemented REST APIs and automated cloud workflows using Docker, Terraform, and GitHub Actions, \n   cutting deployment time by 35%.\n•  Designed a Data Privacy Protection Application utilizing Cloud Computing & Encryption Algorithms, \n    improving security compliance.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer Internship",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1680",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHjkUYrDIUKYA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1904851473)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1904950361)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1904998931)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1905063864)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1905103072)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1905199632)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,661803995)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,661854150)",
+                    "urn:li:fs_course:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,661896214)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1906674915)",
+                    "urn:li:fs_project:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1907762383)",
+                    "urn:li:fs_project:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,659630118)",
+                    "urn:li:fs_project:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,659764157)",
+                    "urn:li:fs_project:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,660357128)",
+                    "urn:li:fs_project:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,661245762)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,915505473)",
+                "school": {
+                    "objectUrn": "urn:li:school:18618",
+                    "entityUrn": "urn:li:fs_miniSchool:18618",
+                    "active": true,
+                    "schoolName": "Michigan Technological University",
+                    "trackingId": "+Hb4Oj3ERO65YaYEKL5Iiw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHdGNXEdwcaUg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "degreeName": "Masters in DataScience",
+                "schoolName": "Michigan Technological University",
+                "schoolUrn": "urn:li:fs_miniSchool:18618"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,635375765)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "degreeName": "B.TECH",
+                "schoolName": "MALINENI LAKSHMAIAH WOMEN'S ENGINEERING COLLEGE, PULLADIGUNTA , VATTICHERUKURU,PIN-522017 (CC-KE)",
+                "fieldOfStudy": "COMPUTER SCIENCE AND ENGINEERING",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1921447291)",
+                    "urn:li:fs_honor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1922757054)"
+                ]
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "IBM",
+                "name": "IBM Badge in Python for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1009",
+                    "entityUrn": "urn:li:fs_miniCompany:1009",
+                    "name": "IBM",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=zHeAjCw0RqrCIkE6mX6SUBWvprXp-I7zwQDRPC6sADQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=Fw1QxzUEE_V2mo9pQSFj1XIQGhLufQQ_V0LuqcvZmPU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=a1cVulUOABP3sgsU0NS0Q4XJS5CyihE41DlKZ_udALU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                        }
+                    },
+                    "universalName": "ibm",
+                    "dashCompanyUrn": "urn:li:fsd_company:1009",
+                    "trackingId": "EFkkIj/QRBOEnkr7VHJNyA=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:1009",
+                "url": "https://www.credly.com/go/3Jh3GzGT"
+            },
+            {
+                "authority": "IBM",
+                "name": "IBM Blockchain Essentials V2",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1009",
+                    "entityUrn": "urn:li:fs_miniCompany:1009",
+                    "name": "IBM",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=zHeAjCw0RqrCIkE6mX6SUBWvprXp-I7zwQDRPC6sADQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=Fw1QxzUEE_V2mo9pQSFj1XIQGhLufQQ_V0LuqcvZmPU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1748476800&v=beta&t=a1cVulUOABP3sgsU0NS0Q4XJS5CyihE41DlKZ_udALU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                        }
+                    },
+                    "universalName": "ibm",
+                    "dashCompanyUrn": "urn:li:fsd_company:1009",
+                    "trackingId": "0tfqzP8lSeG7qmsRSUAKrw=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:1009",
+                "url": "https://www.credly.com/go/mRyVVAo2"
+            },
+            {
+                "authority": "Cisco",
+                "name": "Introduction to Cybersecurity",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1063",
+                    "entityUrn": "urn:li:fs_miniCompany:1063",
+                    "name": "Cisco",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1733847180528/cisco_logo?e=1748476800&v=beta&t=vzp1Xv0SehI309RanbVHd0LeBW4l0mvbUqhdW9D_rAU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1733847180528/cisco_logo?e=1748476800&v=beta&t=4dc0d_GYLWv-TWFZlIN-0-27M87YrhEUQKc3lp_zAv0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1733847180528/cisco_logo?e=1748476800&v=beta&t=_i2jHBlk8aQ41xGE4_VJYuNv1Jed6W-dQ0D3RJGw24k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEGtum3RwmvNg/company-logo_"
+                        }
+                    },
+                    "universalName": "cisco",
+                    "dashCompanyUrn": "urn:li:fsd_company:1063",
+                    "trackingId": "tDwgdnn7RrW0Z7solm5CXQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1063"
+            },
+            {
+                "authority": "University of Michigan",
+                "name": "Programming For Everybody(Getting Started with Python)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2516",
+                    "entityUrn": "urn:li:fs_miniCompany:2516",
+                    "name": "University of Michigan",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631307390795?e=1748476800&v=beta&t=S7mW_ZafDtFeK6KVqOiIFTG0_ILRIBmqVwl5F7CLZMA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631307390795?e=1748476800&v=beta&t=ObYYAHu-gBinNzkB3PNnr2ODTBo6_WoPzrNS0cXkYAA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631307390795?e=1748476800&v=beta&t=c5iqX2gFg0Dpi6q-L4cBpWywc6B0fvaWcgCEMnd7Ww0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-michigan",
+                    "dashCompanyUrn": "urn:li:fsd_company:2516",
+                    "trackingId": "f/3RCWqfRaev5f9CPJ1flw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2516",
+                "url": "http://coursera.org/verify/6RJSQYRJ65SR"
+            },
+            {
+                "authority": "GUVI Geek Networks, IITM Research Park",
+                "name": "Game development using PyGame",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "aS512z989U9k5m835W",
+                "company": {
+                    "objectUrn": "urn:li:company:6586903",
+                    "entityUrn": "urn:li:fs_miniCompany:6586903",
+                    "name": "GUVI Geek Networks, IITM Research Park",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1680678174663/guviofficial_logo?e=1748476800&v=beta&t=GaEVtiXLylVqwGt7RR35plOliNlJtNOfTlUtot3IJso",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1680678174663/guviofficial_logo?e=1748476800&v=beta&t=z3gRATh7H08dZHAjC7SdM5-YgKBOMuVFy29HGHnfrWo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1680678174663/guviofficial_logo?e=1748476800&v=beta&t=xsgMKGiJB4POJ9Ra0ypRsXLdVL_LsX099NCDbQeE46w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQF-ToV5mBqpQw/company-logo_"
+                        }
+                    },
+                    "universalName": "guviofficial",
+                    "dashCompanyUrn": "urn:li:fsd_company:6586903",
+                    "trackingId": "xe3Rce4VTeOoLmo+7lvzng=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6586903"
+            },
+            {
+                "authority": "GUVI Geek Networks, IITM Research Park",
+                "name": "Robotic Process Automation (RPA)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "75439AMq4xz2b451W8",
+                "company": {
+                    "objectUrn": "urn:li:company:6586903",
+                    "entityUrn": "urn:li:fs_miniCompany:6586903",
+                    "name": "GUVI Geek Networks, IITM Research Park",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1680678174663/guviofficial_logo?e=1748476800&v=beta&t=GaEVtiXLylVqwGt7RR35plOliNlJtNOfTlUtot3IJso",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1680678174663/guviofficial_logo?e=1748476800&v=beta&t=z3gRATh7H08dZHAjC7SdM5-YgKBOMuVFy29HGHnfrWo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1680678174663/guviofficial_logo?e=1748476800&v=beta&t=xsgMKGiJB4POJ9Ra0ypRsXLdVL_LsX099NCDbQeE46w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQF-ToV5mBqpQw/company-logo_"
+                        }
+                    },
+                    "universalName": "guviofficial",
+                    "dashCompanyUrn": "urn:li:fsd_company:6586903",
+                    "trackingId": "Yfb57UqlSX+mrN5Qup/r4g=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:6586903",
+                "url": "http://www.guvi.in/certificate?id=75439AMq4xz2b451W8"
+            },
+            {
+                "authority": "Madblocks Technologies Private Limited",
+                "name": "AI BOOT CAMP & Hackthon",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:30990029",
+                    "entityUrn": "urn:li:fs_miniCompany:30990029",
+                    "name": "Madblocks Technologies Private Limited",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630624983732?e=1748476800&v=beta&t=aJkHxnHdRRy1W3wr5jcv7GEv6hhJkyOUYS3CA9PnBDU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630624983732?e=1748476800&v=beta&t=5CK0CW5rVfThstIizU3bIsHg6OSQTeNbjXgpTkqxwHI",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630624983732?e=1748476800&v=beta&t=evMsSUadCBp_n8Ddpojttj5ARwBRYcEaVUe5QHX52k0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQG-QEh0vvaAcg/company-logo_"
+                        }
+                    },
+                    "universalName": "madblocks-technologies-private-limited",
+                    "dashCompanyUrn": "urn:li:fsd_company:30990029",
+                    "trackingId": "GhUGE5ZHRwy8aYFsC4hsww=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:30990029"
+            },
+            {
+                "authority": "Cognitive Class",
+                "name": "Deep Learning Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2023
+                    }
+                },
+                "licenseNumber": "f622022575084c9297f9027fe6257c20",
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1735940565222/cognitiveclass_logo?e=1748476800&v=beta&t=8DL_4uDxOHgdJCEsnFNwWUGRHBvCYaP4IjeArMA7_UM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1735940565222/cognitiveclass_logo?e=1748476800&v=beta&t=i0V7MrerLsaFXi_VXLF62hDgiHHVjDi3dMGv5p-iqgo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1735940565222/cognitiveclass_logo?e=1748476800&v=beta&t=Fe8zOYqTFpSbop7cPQ9DJLzNIVbrsa09rfYG-4XHgKQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGu62b2wFgqxA/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "O+KGD+u+Qh+ADVWHAsfy/w=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/f622022575084c9297f9027fe6257c20"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "During my undergraduate journey, I consistently strived for academic excellence, leadership, and innovation. I successfully graduated with First Class with Distinction, securing multiple internships and 3 job offers even before completing my degree.\n\nI actively participated in hackathons, led technical certifications, and took on leadership roles to drive impactful initiatives. As an NSS volunteer, I contributed to community service and social responsibility efforts. I also served as a Student Ambassador for Verzeo, where I promoted tech education and mentorship programs, further strengthening my leadership and communication skills.\n\nMy dedication and achievements were recognized by my college, which honored me through ‘Sanmanam’—a prestigious recognition where my parents were felicitated for my accomplishments.\n\nThis journey reinforced my passion for continuous learning, problem-solving, and leadership, shaping my path toward making a meaningful impact in AI, Machine Learning, and Software Development.",
+                "occupation": "urn:li:fs_education:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,635375765)",
+                "title": "🏅 Undergraduate Achievements & Recognition",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            {
+                "description": "Developed an innovative Driving License Reminder System App to enhance road safety and compliance, integrating MongoDB for secure data storage, Arduino for seamless hardware connectivity, and a Fingerprint Sensor for advanced biometric authentication.\n\nThis system addresses a critical road safety challenge by ensuring that only licensed and authorized drivers operate vehicles. Through real-time biometric verification, it conducts instant license validity checks, significantly reducing the risks posed by unqualified drivers. Additionally, the real-time functionality enables law enforcement to perform on-the-spot verifications at traffic stops and checkpoints, ensuring regulatory compliance efficiently.\n\nThis initiative goes beyond technology—it's a social responsibility effort to foster safer roads and responsible driving habits. By preventing unqualified drivers from operating vehicles, the system contributes to accident prevention, public safety, and law enforcement efficiency.\n\nA key highlight of this project is the recognition and appreciation received from DRDO scientists and the Chairman, acknowledging its potential for large-scale social impact. By integrating AI-driven security measures with biometric authentication, this solution represents a proactive approach to public safety, ensuring a more secure and responsible driving environment.\n\nBy blending technology and social responsibility, this project stands as a testament to how AI and biometric security can be leveraged for positive societal change and impactful innovation.",
+                "title": "Driving License Reminder System – A Tech-Driven Social Responsibility Initiative(A State Level Science & Technology Contest)",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "issuer": "BVM Yuva Vijnana Puraskar 2019"
+            },
+            {
+                "description": "Secured 1st place in a National Level Tech Quiz Competition at CIET NOVUM, a prestigious Techno-Cultural & Sports Fest.",
+                "occupation": "urn:li:fs_education:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,635375765)",
+                "title": "CIET NOVUM 2020",
+                "issuer": "Chalapathi Institute of Engineering & Technology"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,2464999174)",
+                "title": "Teaching Assistant – Python, Java, AI & NLP",
+                "issuer": "Michigan Technological University"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1924021126,455825941)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Developed an AI-powered Image-to-Speech GenAI Tool to automate image captioning and storytelling using LLMs (GPT-4o), Hugging Face models, and Streamlit.\n Integrated OpenAI for text generation, BLIP for image captioning, and ESPnet VITS for speech synthesis, enhancing processing efficiency by 40%.\nOptimized the user experience with a streamlined UI, enabling 90% faster content generation and reducing manual effort.",
+                "title": "AI Powered Image-to-Speech-GenAI-Tool-Using-LLM"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1924257037,455829631)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Developed an AI-driven FAQ automation system using Natural Language Processing (NLP), LangChain, and OpenAI API, reducing manual effort by 60% and enhancing response accuracy.\nImplemented a customizable FAQ generation pipeline with interactive inputs and topic-specific adaptations, improving user engagement by 40% through adaptive AI responses. \nOptimized language and tone customization by fine-tuning AI models, increasing response relevance and usability by 35% across different business needs\nEnhanced export functionality for PDF and Word formats, improving documentation efficiency by 50% and streamlining content distribution for businesses.",
+                "title": "AI-driven FAQ automation system"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1924326966,455831083)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Developed an AI-powered SQL Query Generator, enabling natural language interactions with databases, improving query execution efficiency by 50%.\nIntegrated LangChain and few-shot learning techniques, enhancing SQL query accuracy by 40%, reducing manual query writing effort.\nImplemented a Streamlit-based web interface, streamlining user interaction and increasing accessibility by 60%.\nOptimized database connectivity with MySQL and PyMySQL, reducing response time by 45% while supporting multiple database systems",
+                "title": "AI-powered SQL Query Generator"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,915505473)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,660357128,452062717)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Designed and implemented an NLP-powered book recommendation system that categorizes books into genres and suggests relevant titles based on user input\nPreprocessed book descriptions using NLP techniques like tokenization, stop-word removal, and lemmatization.\nApplied Word2Vec embeddings to convert text data into 300-dimensional vectors.\nTrained models such as SVM and Random Forest for genre classification.\nAchieved a 95% classification accuracy across 14 book genres.\nEnhanced recommendation relevance by 85%, processing over 1,400 book entries efficiently.",
+                "title": "Book Recommendation System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,660828157,452064645)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Developed predictive models for breast cancer diagnosis using the Breast Cancer Wisconsin (Diagnostic) dataset. The project focuses on preprocessing, feature engineering, and deploying machine learning algorithms to classify tumors as Benign or Malignant, emphasizing high accuracy and interpretability.\nApplied data preprocessing techniques: correlation analysis, Box-Cox transformation, and feature scaling.\nTrained models like SVM, Neural Networks, and Logistic Regression, with evaluations using ROC-AUC and confusion matrices.\nIdentified key predictors such as Radius, Area, and Texture metrics.\nAchieved perfect test ROC-AUC of 1.0000 with SVM and 0.9997 with Neural Networks.\nDelivered a robust and accurate predictive system for early breast cancer diagnosis.",
+                "title": "Breast Cancer Prediction System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,163609393,413712944)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "This project focuses on addressing critical issues surrounding data security in cloud computing through the development of an innovative Data Privacy Protection Application. The significance of data security, especially in a cloud computing environment where data is distributed globally, cannot be overstated. The existing system, represented by the Dynamic Searchable Symmetric Encryption (DSSE) framework, faced limitations due to its static nature, particularly in handling dynamic file collections. To overcome these challenges, a proposed system was introduced, featuring a weight-based attribute encryption scheme that utilized a hash function for compressing arbitrary length messages into fixed-length message digests. This approach enhanced data integrity, authentication, and key management, contributing to modern cryptography standards. Notably, the inclusion of a proxy reencryption algorithm further fortified security, generating attribute proxy reencryption keys. The application is modular, catering to Owners who register and upload files, and Users who register, download files using a 16-bit private key. The project's design encompasses system architecture illustrated through UML diagrams, including class, activity, and sequence diagrams. Implementation was carried out using tools such as Java, NetBeans IDE, and MySQL database, ensuring practicality and efficiency. In conclusion, the project emphasizes the paramount importance of safeguarding sensitive data, presenting an encrypted cloud service as a secure and widely applicable solution in contemporary data security practices.",
+                "title": "Data Privacy Protection Application using Cloud Computing"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,164020019,413716834)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "The Driving License Reminder System I developed integrates MongoDB, Arduino, and a Fingerprint Sensor for an advanced approach to road safety. Biometric authentication ensures secure access, while real-time monitoring through MongoDB promptly alerts users about impending or expired licenses, reducing the risk of accidents. The user-friendly interface, mobile app integration, and Arduino's central processing enhance efficiency, providing a comprehensive and innovative solution for managing driving licenses with heightened security and effectiveness.",
+                "title": "Driving License Reminder System"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,915505473)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1907762383,418972524)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "streamlined the data exploration process using Autoviz, a powerful tool that automates the visualization of datasets. By leveraging Autoviz's capabilities, I efficiently generated insightful visualizations, gaining quick and comprehensive insights into the data's patterns, trends, and relationships. This approach significantly reduced the time and effort traditionally spent on exploratory data analysis, enabling a more efficient and informed decision-making process.",
+                "title": "Effortless Data Exploration with Autoviz"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1924173842,455832041)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Developed an end-to-end machine learning application for heart stroke prediction, integrating a Flask backend and React frontend, resulting in a 30% improvement in user engagement.\nImplemented a trained machine learning model to predict stroke risk based on user inputs, achieving an accuracy rate of 95% in identifying potential stroke cases.\nDesigned a user-friendly interface that handles inputs such as age, gender, glucose levels, and smoking status, enhancing data collection efficiency by 40%.\nDeployed a RESTful API for seamless prediction requests, reducing response time by 50% and facilitating real-time risk assessment.",
+                "title": "Heart-Stroke-Prediction-Using-ML-Application"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Puja",
+                            "lastName": "Ammineni",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "occupation": "AI Research Assistant at MTU | Ex-Accenture, Cognizant, Alliance Laundry | Generative AI | LLMs | RAG | NLP | Software & Cloud AI | Open to Opportunities",
+                            "objectUrn": "urn:li:member:791601084",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1723844219922?e=1746057600&v=beta&t=VHc-tG9_9X9hF8zhAKzV9DMHRDRDuCmmStdWuj5VHLQ",
+                                            "expiresAt": 1746057600000,
+                                            "height": 199
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723844219922?e=1746057600&v=beta&t=ff1Dj_ab7LVg9ShXVLlq9wVvggszjiTprU89fybZMD0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 349
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQG4gtGcgCsHRQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "puja-ammineni",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/B56ZUhC5aZGoAc-/0/1740016162874?e=1741230000&v=beta&t=yt1HdahFaPn8t5FEZgGeltROtsht_-ni5ZX15UgkZSs",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/B56ZUhC5aZGoAg-/0/1740016162875?e=1741230000&v=beta&t=JRDBaMLdavLmr5jnrybMowICKCwb3GbePJdprimY4Ww",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/B56ZUhC5aZGoAk-/0/1740016162875?e=1741230000&v=beta&t=WkwZxN4yQFIYXWXODzUBwN12u0Bxm4lRm1WG1sW9DAk",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/B56ZUhC5aZGoAo-/0/1740016162829?e=1741230000&v=beta&t=ON3CAVQR8P6KM8Ffv3VwklfgunFO7j3RwEKJoOHDlU0",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQGYkgc9isfO4g/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "aMOkoSjHQ6ioBCDOkYiLRA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E,1718625519,417792175)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+                    }
+                ],
+                "description": "Developing user-friendly health tech for early Parkinson's detection using advanced machine learning and deep learning and python. Analyzing vocal patterns for accurate diagnostics, the project aims to improve patient outcomes through early intervention. Significance lies in accessibility and potential impact on lives. Future steps include collaboration for model refinement and real-world implementation",
+                "title": "Innovative HealthTech for Early Parkinson's Disease Detection"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Microsoft Excel"
+            },
+            {
+                "name": "Data Governance"
+            },
+            {
+                "name": "Problem Solving"
+            },
+            {
+                "name": "Databases"
+            }
+        ],
+        "urn_id": "ACoAAC8u37wBHnFz8CbETpFu4bSo1AnA-OE1o-E"
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "urn_id": "ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8",
+    "fetch_timestamp": "2025-02-26T21:36:33.378718",
+    "profile_data": {
+        "summary": "* Over all 9+ Plus years of proven IT experience includes Data Science (Machine Learning, Deep Learning, NLP/ Text Mining), Data/Business Analytics, Data Visualization, Data Operations, and BI.\n* A deep understanding of Statistical Modeling, Multivariate Analysis, Big data analytics and Standard Procedures Highly efficient in Dimensionality Reduction methods such as PCA (Principal component Analysis), Factor Analysis etc.\n* Experience in the entire lifecycle of a project: Data Cleaning, Data Extraction, Data Pre-Processing, Data Transformation, Feature Engineering, Dimensionality Reduction, Model Building, Model Training and Hyper parameter Optimization, Model Deployment and Monitoring.\n* Implemented bootstrapping methods such as Random Forests (Classification)& Gradient Boosting, K- Means Clustering, KNN, Naïve Bayes, SVM, Decision Tree, Linear and Logistic Regression Methods.\n* Proficient in Building Data Pipelines using Data bricks and Apache Spark, ensuring efficient handling of large datasets and seamless integration of diverse data sources.\n* Automated ETL Processes in Data bricks, improving efficiency and accuracy of data preparation and transformation, leading to faster and more reliable data insights.\n* Explored applications of LLM and generative AI models in business contexts, contributing for models.\n* Strong skills in statistical methodologies such as A/B test, Experiment design, Hypothesis test, T tests and Correlation Techniques.\n* Experience with Natural Language Processing (NLP) using approach, bag of words, Glove embedding and running deep learning models.\n* Skilled in text preprocessing, feature engineering, and model evaluation for NLP tasks, including techniques like TF-IDF, word embedding, and transfer learning.\n* Proficient in integrating BigQuery with other AWS services, such as S3, Kinesis, and EMR, to build end-to-end data pipelines and analytical solutions\n* Conduct analysis and create graphical representation of data using Python or R(ggplot).\n* Extensively worked on Python for data analyses (NumPy, Pandas, Seaborn, Matplotlib, Tensor flow,  Keras, Sicker-learn and stats models).\n* Experience in implementing data analysis with various analytic tools, such as Jupyter Notebook,  Excel,  Google Collab.\n* Proficient in designing, training, and deploying Artificial Intelligence models using popular frameworks and libraries, with a strong understanding of algorithms, data preprocessing, and model evaluation in the field of Artificial Intelligence.",
+        "industryName": "Information Technology & Services",
+        "lastName": "B",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 8,
+            "day": 5
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Samara",
+        "entityUrn": "urn:li:fs_profile:ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000152"
+        },
+        "geoLocationName": "Charlotte Metro",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Sr.Data Scientist",
+        "profile_id": "ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8",
+        "member_urn": "urn:li:member:860779162",
+        "public_id": "samara-b-10a334200",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8,2534233365)",
+                "companyName": "Deluxe",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2023
+                    }
+                },
+                "description": "* Proficient in implementing Random Forest algorithms for predictive modeling and classification tasks, optimizing hyper parameters for improved accuracy and interpretability.\n* Collaborate with engineers, researchers, and product managers to understand business needs and translate them into technical specifications for AI models.\n* Developed site Yield Loss Prediction Tool for Field-Specific Risk Management of Asian Soybean Rust\n* Expertise in Terraform for multi cloud deployment using single configuration.\n* Designed and implemented a CI/CD pipeline for data warehousing project, automating the build, testing and deployment of ETL pipelines using GIT, Jenkins and Docker resulting in faster time-to-market and improved quality assurance.\n* Led the development of cutting-edge LLM applications, incorporating LLAMA models to contextually answer complex user questions based on information from database.\n* Automated ML workflows with Sage Maker, significantly reducing manual effort and improving model performance.\n* Partnered with product manager & marketing leads to design and run A/B tests.\n* Developed and optimized end-to-end data modeling pipelines, incorporating data quality assurance processes, feature engineering, model training, and evaluation techniques, to build robust and accurate predictive models for various business applications.\n* Collaborate with engineers, researchers, and product managers to understand business needs and translate them into technical specifications for AI models.\n* Automated ML workflows with Sage Maker, significantly reducing manual effort and improving model performance.\n* Expertise in Terraform for multi cloud deployment using single configuration.\n* Designed and implemented a CI/CD pipeline for data warehousing project, automating the build, testing and deployment of ETL pipelines using GIT, Jenkins and Docker resulting in faster time-to-market and improved quality assurance.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Senior Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:4768",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHK3hEzN2OgLQ/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8,2478353843)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Deloitte",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2015
+                    }
+                },
+                "description": "* Processing/ML Data Processing Pipeline Architectures, SRE Site Reliability Engineering, Security Practice Implementation Preparing the end-to-end documents and architecture design on various offer and solution.\n* Analyzed customer reviews and found emotions/sentiment analysis using NLP. Also, worked on Text summarization and Chabot’s using NLP.\n* Implementing dashboard projects, interactive, big data analytics, and visualization solutions.\n* Extensive experience in applying clustering algorithms, such as K-Means and Hierarchical Clustering, for customer segmentation, anomaly detection, and exploratory data analysis.\n* Hands in Terraform in managing resource scheduling, disposable environments and multitier application.\n* Applied data modeling methodologies such as clustering algorithms (e.g., K-means, hierarchical clustering) to identify meaningful patterns and segments within complex datasets. Employed unsupervised learning techniques to uncover hidden structures, facilitating targeted marketing strategies and customer segmentation.\n* Developed monitoring and evaluation frameworks to track AI model performance and ensure alignment with business goals.\n* Deployed and managed scalable ML models in production environments using Sage Maker’s deployment capabilities.\n* Used UI for testing the Restful Web services by sending an soap request.\n* Experience in building and deploying NLP machine learning models for text classification, summarization, and question-answering tasks using deep learning frameworks like Tensor Flow and Torch.\n* Expertise python scripting with focus on DevOps tools, CI/CD and AWS Cloud Architecture.\n* Created reports and visualizations using SAS tools to communicate insights to stakeholders.\n* Created interactive dashboards and visualization solutions for big data analytics, facilitating data-driven decision-making in marketing and customer engagement strategies.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Senior Data Scientist",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1038",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8,2478353842)",
+                "companyName": "DXC Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2012
+                    }
+                },
+                "description": "* Leveraged machine learning capabilities to build ensemble models using techniques like Naïve Bayes, Linear Regression, Logistic Regression, Support Vector Machine (SVM), and Neural Networks to predict employee attrition and retention rates.\n* Analyzed business requirements and developed applications, models, and algorithms to provide insights into workforce planning, talent management, and employee engagement.\n* Skilled in utilizing Support Vector Machines (SVMs) for both classification and regression problems, tuning kernels and regularization parameters for optimal performance.\n* Designed and analyzed A/B tests to uncover heterogeneous treatment effects across different user segments or subgroups. Utilize techniques like recursive partitioning and model-based methods to identify segments with varying treatment effects.\n* Implemented CI/CD workflow infrastructure using workflow management tool like JIRA Source control tools like GitHub Build tools like Jenkins Code quality tools like Sonar Cube.\n* Optimized communication strategies, such as email and notifications, through data-driven recommendations, enhancing employee engagement and productivity.\n* Built on-premises data pipelines using Kafka and Spark streaming using the feed from API streaming Gateway REST service.\n* Developed models and algorithms to forecast workforce demand, resource allocation, and talent acquisition needs, ensuring optimal resource utilization and cost-effectiveness.\n* Created Hive scripts to create external, internal data tables on Hive. Worked on creating datasets to load data into HIVE.\n* Implemented unsupervised learning techniques like K-means clustering for employee segmentation and supervised learning techniques like Regression and Classification for talent analytics and workforce planning.\n* Performed data cleaning, preparation, and feature engineering using Python, leveraging libraries like NumPy, Pandas, and Scikit-learn for data manipulation and model development",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:16198010",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFt7orYWPc9MQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8,691044164)",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Narasaraopeta Engineering College-NEC",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "degreeUrn": "urn:li:fs_degree:250"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8,1043238343)",
+                "school": {
+                    "objectUrn": "urn:li:school:18879",
+                    "entityUrn": "urn:li:fs_miniSchool:18879",
+                    "active": true,
+                    "schoolName": "Saint Peter's University",
+                    "trackingId": "rXFnHTFjQ/CRQUMpUQGSCw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQE5DwBHw-mS3Q/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Saint Peter's University",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:18879"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Amazon",
+                "name": "Amazon Web Services Cloud Practitioner",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2027
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2024
+                    }
+                },
+                "licenseNumber": "486610794",
+                "company": {
+                    "objectUrn": "urn:li:company:1586",
+                    "entityUrn": "urn:li:fs_miniCompany:1586",
+                    "name": "Amazon",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630640869849/amazon_logo?e=1748476800&v=beta&t=_XRtAFVE-K_YXj51EnVWOsJTGCWL_RVPRL09UabuNsM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=1748476800&v=beta&t=1oZQd78Wx2Ihq_lOVk-kJ4NYOJ6HoY0c8MuAU_K5UqM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630640869849/amazon_logo?e=1748476800&v=beta&t=V5QQJgngdbKMBP_VAh03OK_t4xWiYInHFjACa3dbtYw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon",
+                    "dashCompanyUrn": "urn:li:fsd_company:1586",
+                    "trackingId": "jaq6I0TbQQudKZVZoQ9KBA=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "url": "https://www.credly.com/badges/de0e2e26-e868-41be-8f36-bd05760529b2/public_url"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Presto"
+            },
+            {
+                "name": "luigi"
+            },
+            {
+                "name": "Amplitude"
+            },
+            {
+                "name": "Jyputer"
+            }
+        ],
+        "urn_id": "ACoAADNOcpoBQxqyzwuqgS2DKv51DzM-23j0ho8"
+    }
+}

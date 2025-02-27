@@ -1,0 +1,873 @@
+{
+    "urn_id": "ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+    "fetch_timestamp": "2025-02-26T21:45:58.167577",
+    "profile_data": {
+        "summary": "I'm looking for talented Data and Applied Scientists to join my team. We own the core user experience and features of the Rider app and apply large scale experimentation, statistical analysis, and machine learning. Connect with me to learn more.",
+        "industryName": "Computer Software",
+        "lastName": "Shang",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Barry",
+        "entityUrn": "urn:li:fs_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90000084"
+        },
+        "geoLocationName": "San Francisco Bay Area",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Senior Manager, Data and Applied Science at Uber",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+        "img_330_330": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+        "profile_id": "ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+        "member_urn": "urn:li:member:48563299",
+        "public_id": "bzshang",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,820635055)",
+                "companyName": "Uber",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2016
+                    }
+                },
+                "description": "Leading the data and applied science team that leverages analytics, experimentation, and machine learning to build and evolve Uber's flagship Rider app.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Applied Science Manager",
+                "companyUrn": "urn:li:fs_miniCompany:1815218",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_"
+            },
+            {
+                "locationName": "United States",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,871371062)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,653459110)",
+                "geoLocationName": "United States",
+                "companyName": "OSIsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "description": "Helped customers design and architect software solutions for a high-throughput data collection and monitoring infrastructure",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:8822",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHPPE_yKoW1mQ/company-logo_"
+            },
+            {
+                "locationName": "Berkeley, CA",
+                "entityUrn": "urn:li:fs_position:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,194256531)",
+                "geoLocationName": "Berkeley, CA",
+                "companyName": "UC Berkeley",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2009
+                    }
+                },
+                "description": "I developed computational models and simulations of nanoscale and biomolecular systems.\n\nI constructed algorithms using partial differential equations, statistical physics, and stochastic processes, publishing results in several high-profile journals. Tools I used included Python, MATLAB, and FORTRAN.\n\nI simulated fluid dynamics at nanoscales using the stochastic Navier-Stokes equations. Using this framework, I studied problems involving multiphase flow and self-assembly of biological molecules. I showed how the behavior of water molecules at nanoscales affects the behavior of polymers, proteins, and enzymes.\n\nI also developed the first kinetic Monte Carlo model for simulating cellulose decomposition by cellulase enzymes. This strategy is being harnessed to produce renewable biofuels. Via a simulation method that tracks the individual locations of all enzymes in the reaction system, I developed design rules to help experimentalists engineer more effective enzymes.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Ph.D. Graduate",
+                "companyUrn": "urn:li:fs_miniCompany:2517",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,194256662)",
+                "companyName": "University of Michigan",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2005
+                    }
+                },
+                "description": "I developed the first molecular model for commercially important detergent molecule. This work was published in Journal of Physical Chemistry B and received over 30 citations within 4 years.\n\nI also served as a reviewer for Journal of Physical Chemistry B.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Undergraduate Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:2516",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,336466878)",
+                "companyName": "MIT",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2008
+                    }
+                },
+                "description": "I developed a novel explanation for certain surface behaviors of nanoparticles and presented this research to leading MIT investigators in materials science.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Nanomaterials Intern",
+                "companyUrn": "urn:li:fs_miniCompany:1503",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,133634902)",
+                "school": {
+                    "objectUrn": "urn:li:school:17939",
+                    "entityUrn": "urn:li:fs_miniSchool:17939",
+                    "active": true,
+                    "schoolName": "University of California, Berkeley",
+                    "trackingId": "etUUIuajSqOwognY3tcPnw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "degreeName": "Ph.D.",
+                "schoolName": "University of California, Berkeley",
+                "fieldOfStudy": "Chemical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:17939"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,34657046)",
+                "school": {
+                    "objectUrn": "urn:li:school:18633",
+                    "entityUrn": "urn:li:fs_miniSchool:18633",
+                    "active": true,
+                    "schoolName": "University of Michigan",
+                    "trackingId": "Pumo/W+iTFqkOdOWP92MjQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2005
+                    }
+                },
+                "degreeName": "BSE",
+                "schoolName": "University of Michigan",
+                "fieldOfStudy": "Chemical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:18633"
+            }
+        ],
+        "languages": [],
+        "publications": [
+            {
+                "date": {
+                    "year": 2014
+                },
+                "name": "Kinetic Modeling at Single-Molecule Resolution Elucidates the Mechanisms of Cellulase Synergy",
+                "publisher": "ACS Catalysis",
+                "description": "I developed novel computer simulations and methodologies to understand the behavior of cellulase enzymes. This work presented the first computer simulation of cellulase mixtures at single-molecule resolution and introduced new methodologies and ideas for understanding the behavior of complex biomolecules.",
+                "url": "http://pubs.acs.org/doi/abs/10.1021/cs500126q",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2013
+                },
+                "name": "Linking hydrophobicity and hydrodynamics by the hybrid fluctuating hydrodynamics and molecular dynamics methodologies",
+                "publisher": "Physical Review E",
+                "description": "We developed a novel hybrid scheme to simulate fluid dynamics of complex materials at nanoscales. Complex materials here are defined as heterogeneous systems composed of a relatively simple fluid (or solvent) regime and a embedded macromolecules with complex chemical interactions. The system is spatially decomposed such that the simple fluid is represented as a continuum and the complex macromolecule is represented as a particle. This hybrid representation enables the detailed components of the system to remain detailed, while the simpler components to remain simple, thereby balancing the requirements of high fidelity physical representation with computational efficiency.\n\nThe fluid is simulated using stochastic Navier-Stokes equations to incorporate thermal noise inherent in molecular systems. The particles are simulated by Newton's equations of motion. We develop a novel scheme coupling the fluid and particle dynamics and demonstrate the reaction pathway governing self-assembly of biological molecules in water.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2013
+                },
+                "name": "Systems-level modeling with molecular resolution elucidates the rate-limiting mechanisms of cellulose decomposition by cellobiohydrolases",
+                "publisher": "Journal of Biological Chemistry",
+                "description": "I developed the first kinetic Monte Carlo model for simulating cellulose decomposition by cellulase enzymes. Algorithmic advances include application of null-event kinetic Monte Carlo and a stochastic quasi-equilibrium scheme that accelerates the speed of computational simulations by 50-fold. I applied this model to provide physical insight into the behaviors of these complex biological machineries and give practical design rules to experimentalists for engineering next-generation biofuel production technologies.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2012
+                },
+                "name": "Fluctuating hydrodynamics for multiscale modeling and simulation: Energy and heat transfer in molecular fluids",
+                "publisher": "Journal of Chemical Physics",
+                "description": "I developed a continuum model for simulations involving energy and heat transfer at molecular scales. I showed that these processes must be explicitly included in the Navier-Stokes fluid dynamics in order to faithfully capture the effective fluid dynamics of an atomistic system evolving under Newton's equations of motion.",
+                "url": "https://www.dropbox.com/s/klzl9c1zaw0bw7y/heat-transfer-and-fluid-dynamics.pdf?m",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2011
+                },
+                "name": "Fluctuating hydrodynamics for multiscale simulation of inhomogeneous fluids: Mapping all-atom molecular dynamics to capillary waves",
+                "publisher": "Journal of Chemical Physics",
+                "description": "Complex fluids can be characterized by the presence of large macromolecules embedded in a bulk solvent fluid (often water). In atomistic models of complex fluids, accounting for the bulk fluid occupies 99% of the computational time. Therefore, improved methods are needed to represent this bulk fluid that are less detailed, which saves computational power, but still physically realistic, which ensures our model can be trusted. An attractive method for representing the bulk fluid is using a continuum model based on the stochastic Navier-Stokes equation. In this work, I describe an elegant scheme to map an atomistic fluid onto this \"coarse-grained\" stochastic model. I show the coarse-grained model is nearly identical in its hydrodynamic behavior to the atomistic model, yet it requires 50 times less computational power to simulate, allowing larger length and time scale processes to be studied.",
+                "url": "https://www.dropbox.com/s/yueiwwcsz2h23qm/interfaces-and-fluid-dynamics.pdf?m",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2009
+                },
+                "name": "Effect of headgroup size, charge, and solvent structure on polymer - micelle interactions, studied by molecular dynamics simulations",
+                "publisher": "Journal of Physical Chemistry B",
+                "description": "I used atomistic molecular dynamics simulations to identify the primary driving forces that affect the degree of polymer-micelle interaction. I showed that headgroup charge and solvent structure determine the extent of interaction. Importantly, I illustrate that although polymers can be overall non-ionic (possess no charge) at a macroscopic length scale, they can preferentially interact with certain charged surfaces due to the specific patterns of partial charges on the polymer that vary on an atomistic length scale.",
+                "url": "https://www.dropbox.com/s/w0apln7cs4mghge/polymer-micelle-behavior.pdf?m",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "year": 2008
+                },
+                "name": "Molecular dynamics simulation of interactions between a sodium dodecyl sulfate micelle and a poly(ethylene oxide) polymer",
+                "publisher": "Journal of Physical Chemistry B",
+                "description": "I developed the first atomistic model and force field for simulating interactions between sodium dodecyl sulfate surfactants and poly(ethylene oxide) polymers. These two components are perhaps the most prominent ingredients in shampoos and detergents. The surfactant solubilizes oil and performs cleaning, while the polymer enhances the surfactant's cleaning ability and adds a thickening texture to the detergent.\n\nIn this work, I showed that atomistic force fields developed for biological molecules cannot be transferred to model synthetic macromolecules and that re-development of the model parameters are required to capture the complex molecular interactions between surfactants, polymers, and the surrounding water. I developed a novel model to accurately represent these interactions and achieved excellent agreement with experimental data.",
+                "url": "https://www.dropbox.com/s/ysryf61973n0e1o/sds-peo-interactions.pdf?m",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,395185103,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2016
+                    }
+                },
+                "description": "4th out of 355 participants in Yelp Photo Classification Challenge.\n\nApplied deep convolutional neural networks (Inception-V3) to classify restaurant labels in Yelp images. \n\nTrained models on GPU instance in AWS.\n\nApplied Transfer Learning and fine-tuning of neural network + classical ML models.\n\nCreated hierarchical ML ensemble classifiers from neural network output by combining support vector, random forest, logistic regression, and majority vote classifiers.\n\nUsed mxnet, scikit-learn, and pandas Python libraries.",
+                "title": "Kaggle - Yelp Photo Classification Challenge"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,653459110)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,871371062,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2015
+                    }
+                },
+                "description": "PI Fitness is an internal web application for OSIsoft employees leveraging the OSIsoft real-time technology stack to collect data from Fitbit, Microsoft Band, and mobile devices.\n\nTechnologies used include:\nREST APIs, AngularJS, Microsoft Azure, Reactive Extensions, Ninject for dependency injection\n",
+                "title": "PI Fitness - Full Stack Web Application"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,220,221)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "Top 2% out of 1900+ competitors in Higgs Boson Machine Learning Challenge\n\nApplied gradient boosting, decision trees, bagging, and stacking to predict Higgs boson signal from particle collision data. I used gbm and xgboost R packages.",
+                "title": "Kaggle - Higgs Boson Machine Learning Challenge"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Barry",
+                            "lastName": "Shang",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "occupation": "Senior Manager, Data and Applied Science at Uber",
+                            "objectUrn": "urn:li:member:48563299",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU",
+                            "publicIdentifier": "bzshang",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516529001543?e=1746057600&v=beta&t=Va1kLvZ7247M4h99MFtpKQPzeF60ymp8z6J_xftWe6g",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516529001344?e=1746057600&v=beta&t=m9sV3-eSiFyB-fJs-fjriP9q3E7EKOrUr8O9KoOEbvk",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516529001339?e=1746057600&v=beta&t=yQOaCgzC2ShQsjRuLWErw4pmdopTUzjc4RQVhqVD_mU",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        },
+                                        {
+                                            "width": 330,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516529001399?e=1746057600&v=beta&t=ARdR8RiUGuBOpA-fELq_b6qlD8tXnflfbG5YJN0hP9c",
+                                            "expiresAt": 1746057600000,
+                                            "height": 330
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHF-2lH8TwIEA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5ZC7r1F0TA2yzQMjmsXLhg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU,218,219)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2014
+                    }
+                },
+                "description": "Top 5% out of 1000 competitors in Acquire Valued Shoppers Challenge\n\nApplied gradient boosting machines, logistic regression, and ensemble methods to predict customer purchase behavior based on past shopping history.\n\nI used gbm, glmnet R packages for statistical analyses and MySQL for backend data storage.",
+                "title": "Kaggle - Acquire Valued Shoppers Challenge",
+                "url": "https://www.kaggle.com/users/60578/b-shang"
+            }
+        ],
+        "skills": [
+            {
+                "name": "ASP.NET MVC"
+            },
+            {
+                "name": "ASP.NET Web API"
+            },
+            {
+                "name": "AngularJS"
+            },
+            {
+                "name": "SQL"
+            }
+        ],
+        "urn_id": "ACoAAALlBGMBw4gkqPMKzsTw2Ld2ICYjbnFRKbU"
+    }
+}

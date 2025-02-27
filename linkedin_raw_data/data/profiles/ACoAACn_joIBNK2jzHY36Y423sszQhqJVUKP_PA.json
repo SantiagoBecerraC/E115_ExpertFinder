@@ -1,0 +1,1408 @@
+{
+    "urn_id": "ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+    "fetch_timestamp": "2025-02-26T21:24:28.187427",
+    "profile_data": {
+        "summary": "With a solid background in SoC functional validation at Intel Corporation, my focus has been on leading firmware/BIOS release executions and fostering collaborations with OEM/ODM customers for seamless integration with Intel Processors. My tenure here has been marked by a dedication to enhancing customer enablement through rigorous UEFI/BIOS validation and timely deliveries.",
+        "industryName": "Semiconductors",
+        "lastName": "Raju",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:7",
+        "firstName": "Sophia Susan",
+        "entityUrn": "urn:li:fs_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106233382"
+        },
+        "geoLocationName": "San Jose, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "SoC Functional Validation Engineer @ Intel Corporation",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+        "profile_id": "ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+        "member_urn": "urn:li:member:704614018",
+        "public_id": "sophia-susan-raju",
+        "experience": [
+            {
+                "locationName": "Santa Clara, California, United States",
+                "geoUrn": "urn:li:fs_geo:100075706",
+                "companyName": "Intel Corporation",
+                "description": "• Led execution for customer enablement, UEFI/BIOS validation, debug, and timely delivery of firmware/BIOS releases.\n• Collaborated with OEM/ODM customers to integrate their BIOS in Intel firmware, ensuring seamless application running on Intel Processors.\n• Worked closely with independent BIOS vendors and internal teams to integrate and test Intel firmware with their BIOS as part of Intel's shift left strategy.",
+                "title": "SoC Functional Validation Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1053",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,2097597413)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1718006366)",
+                "geoLocationName": "Santa Clara, California, United States",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Semiconductors"
+                    ]
+                },
+                "region": "urn:li:fs_region:(us,0)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_"
+            },
+            {
+                "locationName": "Santa Clara, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1626380289)",
+                "geoLocationName": "Santa Clara, California, United States",
+                "geoUrn": "urn:li:fs_geo:100075706",
+                "companyName": "Intel Corporation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "description": "• Analyzed Intel’s Xeon server CPU’s high-volume manufacturing test data using Python scripting\n• Developed ML algorithms to predict test results and root-cause failures\n• Automated data analysis and visualizations for efficient decision-making\n• Enhanced data-driven insights for optimizing manufacturing processes",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Semiconductors"
+                    ]
+                },
+                "title": "Graduate Technical Intern |Data Analytics and Machine Learning",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1053",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_"
+            },
+            {
+                "locationName": "San Francisco Bay Area",
+                "entityUrn": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1578053625)",
+                "geoLocationName": "San Francisco Bay Area",
+                "geoUrn": "urn:li:fs_geo:90000084",
+                "companyName": "San Jose State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "description": "Developed ML models in Python to predict semiconductor parameters for Physical design, achieving accurate results.\n\n• Applied ML algorithms for defect identification and inverse design in semiconductors.\n• Developing ML algorithms and models to predict various parameters of a semiconductor such as temperature, width of channel and work function using python for the experimental data provided\n• Utilized Linear and polynomial regression methods to predict semiconductor parameters accurately.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Assistant",
+                "region": "urn:li:fs_region:(us,84)",
+                "companyUrn": "urn:li:fs_miniCompany:157344",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1407122972)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:90009633",
+                "companyName": "Wipro Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "description": "• Developed applications on Salesforce platform using custom code (Apex and Visualforce) and integrated with external systems using REST and SOAP APIs.\n• Utilized bug tracking, version control, and build systems like JIRA, Jenkins, and GIT.\n• Worked in Agile and Scrum methodology to ensure efficient project delivery.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Project Engineer",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:1318",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEINH3Vf1swig/company-logo_"
+            },
+            {
+                "locationName": "Thiruvananthapuram Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,701414836)"
+                ],
+                "geoUrn": "urn:li:fs_geo:104398759",
+                "companyName": "ISRO - Indian Space Research Organization",
+                "description": "Worked under the guidance of senior scientists in the Control Electronics division of ISRO.\nWorked for the project which was designed to control the speed and position of servo actuator in the launch vehicle, which is based on a BLDC (Brush-less DC) motor and the whole system was implemented in FPGA.\n",
+                "title": "Intern",
+                "companyUrn": "urn:li:fs_miniCompany:13302858",
+                "entityUrn": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1407122786)",
+                "geoLocationName": "Thiruvananthapuram Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Defense & Space"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,6831)",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGT_65OXNpckA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,788369913)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,788453134)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,788478526)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1392459539)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1392477101)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1392519234)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,737122379)",
+                    "urn:li:fs_course:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,308907918)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1392606889)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1392626652)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,41204900)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,41535425)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,42066366)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,309083197)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1887461101)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,503701587)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,503815695)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,981391694)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,2056717281)",
+                    "urn:li:fs_project:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1739126745)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "school": {
+                    "objectUrn": "urn:li:school:17911",
+                    "entityUrn": "urn:li:fs_miniSchool:17911",
+                    "active": true,
+                    "schoolName": "San José State University",
+                    "trackingId": "VEAgLu5WR1K2H5sZVwITXw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "San Jose State University",
+                "fieldOfStudy": "Electrical Engineering",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:17911"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571506328)",
+                "school": {
+                    "objectUrn": "urn:li:school:13452",
+                    "entityUrn": "urn:li:fs_miniSchool:13452",
+                    "active": true,
+                    "schoolName": "Cochin University of Science and Technology",
+                    "trackingId": "UJ/z5kjkQ/euDQ2T1kwjng==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGrRp1ucMu2fw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100350",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Cochin University of Science and Technology",
+                "fieldOfStudy": "Electronics and Communications Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13452"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi"
+            },
+            {
+                "name": "Malayalam",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "name": "Application of Noise to Avoid Overfitting in TCAD Augmented Machine Learning",
+                "publisher": "IEEE 2020 International Conference on Simulation of Semiconductor Processes and Devices",
+                "url": "https://ieeexplore.ieee.org/document/9241654",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ]
+            },
+            {
+                "name": "Improvement of TCAD Augmented Machine Learning Using Autoencoder for Semiconductor Variation Identification and Inverse Design",
+                "publisher": "IEEE Access",
+                "url": "https://ieeexplore.ieee.org/document/9159651",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Salesforce",
+                "name": "Salesforce Advanced Administrator",
+                "company": {
+                    "objectUrn": "urn:li:company:3185",
+                    "entityUrn": "urn:li:fs_miniCompany:3185",
+                    "name": "Salesforce",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=XGpRSEic5Y1ytbBHrWp0z1u3-Dt7_HUGkC-OVsUY7HM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=MpI_GvGzjNVIAZ4Zd59Impvg3Xkc3eTza7ByOyTlCNY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_"
+                        }
+                    },
+                    "universalName": "salesforce",
+                    "dashCompanyUrn": "urn:li:fsd_company:3185",
+                    "trackingId": "6gjuG07pQB6ijXbMabQR6g=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3185"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "58VESB9C249E",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "1HFdH3LnQo+5sEt0ES5hag=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/58VESB9C249E"
+            },
+            {
+                "authority": "Stanford University",
+                "name": "Machine Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1792",
+                    "entityUrn": "urn:li:fs_miniCompany:1792",
+                    "name": "Stanford University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1748476800&v=beta&t=rtTnfUp4eNlPIK_cuJTh0-JcrZPIOOLFKdM2-IaOtVo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1748476800&v=beta&t=3y2sP8xz8lillFF_Yaygf0e8zWoj2jyrLwk7aKjNFhM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1748476800&v=beta&t=L-jd230WiGQQRWWNeFrKrDiTNEpgOxhDy312TYebw4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_"
+                        }
+                    },
+                    "universalName": "stanford-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:1792",
+                    "trackingId": "e+Ab7W0ATWeGKxWGLyx+hg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1792"
+            },
+            {
+                "authority": "deeplearning.ai",
+                "name": "Deep learning",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "/oHHL/RwRcCI87iaPkMqSg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:18246783"
+            },
+            {
+                "authority": "Stanford University",
+                "name": "Algorithms",
+                "company": {
+                    "objectUrn": "urn:li:company:1792",
+                    "entityUrn": "urn:li:fs_miniCompany:1792",
+                    "name": "Stanford University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1748476800&v=beta&t=rtTnfUp4eNlPIK_cuJTh0-JcrZPIOOLFKdM2-IaOtVo",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1748476800&v=beta&t=3y2sP8xz8lillFF_Yaygf0e8zWoj2jyrLwk7aKjNFhM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1748476800&v=beta&t=L-jd230WiGQQRWWNeFrKrDiTNEpgOxhDy312TYebw4w",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_"
+                        }
+                    },
+                    "universalName": "stanford-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:1792",
+                    "trackingId": "bmx1ps8oTMqnItKZSYgA0g=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1792"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python 3",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=1uSVxPbKWU__qGhLH1N9spM3MBQjiJiN5Y6WQKyczuU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=S1qyQPrunijy0XlO6ddKwTRRgWNPw5Z3pQPZfZftvmE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1748476800&v=beta&t=kKVrvqHAyC_QFDzaPG4LDuA02ELdvtGkYd3t5rqTPRE",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "fvAfQmfFSpuDIdXFvYlYyg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Introduction to Deep Learning with OpenCV",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "Bhca2JEwSwaPxOQGGlF4hA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/b7efd8aff8bcfc52fb8e38620e44ef73b64399b55dc420eff769b2f1d1038066?trk=backfilled_certificate"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Girl Guide",
+                "companyName": "World Association of Girl Guides and Girl Scouts",
+                "cause": "SOCIAL_SERVICES",
+                "description": "I was an active member of Bharat Scouts and Guides and as a result of my meritorious service, I was honored with Rashtrapati Award for Scouting and Guiding, the highest award given for the achievements in the field of sports, arts, military, literature, cinema, culture, science and technology or Scouting in India.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:5142165",
+                        "entityUrn": "urn:li:fs_miniCompany:5142165",
+                        "name": "World Association of Girl Guides and Girl Scouts",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1696497731341/world_association_of_girl_guides_and_girl_scouts_logo?e=1748476800&v=beta&t=BYNRH_RAjytztCDsMgjBFWCruihRTF_uVdBVAbkDifY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1696497731341/world_association_of_girl_guides_and_girl_scouts_logo?e=1748476800&v=beta&t=Q6mpsjZQOxc4dmyVThfaPp2gqpcierVphkHb0QahN9s",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1696497731341/world_association_of_girl_guides_and_girl_scouts_logo?e=1748476800&v=beta&t=CVbwVjZnSD_NZv-wI97IZ79RLfZBv5TNmx0PqP604rk",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGO0JHr4hl7Fg/company-logo_"
+                            }
+                        },
+                        "universalName": "world-association-of-girl-guides-and-girl-scouts",
+                        "dashCompanyUrn": "urn:li:fsd_company:5142165",
+                        "trackingId": "+Gr++8S9TT2qzayTV4rt/g=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:5142165"
+            },
+            {
+                "role": "Girl Guide",
+                "companyName": "The Bharat Scouts and Guides",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2003
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:28745271",
+                        "entityUrn": "urn:li:fs_miniCompany:28745271",
+                        "name": "The Bharat Scouts and Guides",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630634529954/the_bharat_scouts_and_guide_logo?e=1748476800&v=beta&t=0pmMB2fJDXYZDHqtylDaBYpHaeEKZIl7640gRyKXaBg",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630634529954/the_bharat_scouts_and_guide_logo?e=1748476800&v=beta&t=ODwMemOR2gYcXiMqEpgHJFqG7SxxaBnOk8C59vynweY",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630634529954/the_bharat_scouts_and_guide_logo?e=1748476800&v=beta&t=SwfV9JogL2y4arWK3qxHpGQYPw4JLYeQhxc9x827gwA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQEyX4ZzX-mjKA/company-logo_"
+                            }
+                        },
+                        "universalName": "the-bharat-scouts-and-guide",
+                        "dashCompanyUrn": "urn:li:fsd_company:28745271",
+                        "trackingId": "EFF5n+XjQYGFQ1eHOAP7Tw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:28745271"
+            }
+        ],
+        "honors": [
+            {
+                "description": "Awarded the best newcomer award in the year of 2017 when joined the new team in Cisco",
+                "title": "Best Newcomer Award"
+            },
+            {
+                "description": "o\tFor collaboration with client customers in Pre Si which resulted in multiple successful Customer Power-on s and boot",
+                "occupation": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1718006366)",
+                "title": "Intel Divisional Recognition Awards:"
+            },
+            {
+                "title": "Rashtrapathi Award",
+                "issuer": "Bharat Scouts and Guides"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1739126745,289386076)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "title": "TensorFlow Model Optimization For Automatic Modulation Classification"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,503701587,264395340)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "Participated in Kaggle's Covid19 forecasting series in Week 3, Week 4 and week5\nThe goal is to predict the confirmed cases and fatalities between April 15 and May 14 by region and also identify factors that appear to impact the transmission rate of COVID-19.\nDeveloped various models for prediction which include Polynomial regression, Random Forest, and XGB regressor. ",
+                "title": "COVID19 Global Forecasting| Forecast daily COVID-19 spread in regions around world",
+                "url": "https://www.kaggle.com/sophiasusanraju/week5-v2"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,503815695,264394707)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "Developed different classification models to classify the stress levels using the WESAD dataset.\nSeven different models were developed and compared the performance. The developed models include Logistic Regression, LDA, KNN, Random Forest, Decision Trees, Support Vector Machines. \nInitial models were fine-tuned to improve performance further. \nUsed different feature extraction methods  and obtained optimized features. Outliers were also handled which improved the performance of each model.",
+                "title": "Stress detection and Classification using WESAD Data set"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,981391694,269634238)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "description": "In this project a subset of MIPS ISA (Instruction Set Architecture) is implemented in Verilog that can execute the dot product. The forward-chaining technique is also added. The MIPS instruction set is implemented, along with the initialization of Data and instruction Memory in Verilog. The pipelined processor has five stages and each stage is designated to do a task in one clock cycle. The goal of this project is to improve the performance of pipelined MIPS processor by incorporating the forward chaining technique",
+                "title": "Implementation of MIPS ISA DOT Product with Forward Chaining in Verilog"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1887461101,258113592)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "description": "Predicting vehicle angle in different settings for the autonomous driving system making use of computer vision, image recognition, object detection. Developed an algorithm to estimate the absolute pose of vehicles from a single image in a real-world traffic environment. The baseline model was built on CenterNet model which models an object as a single point which is the center point of a bounding box.  Implemented various regularization methods such as data augmentation, early stopping, image preprocessing technique, GCN, etc and tuned the various hyperparameters to improve the performance and reduce overfitting.\n",
+                "title": "Computer Vision| Autonomous Driving"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,41204900,247884102)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "description": "Implemented various deep neural networks to classify the 10 classes in the FASHION MNIST dataset and compared the performance of different fully-connected feedforward neural networks on the dataset. Implemented the project in Python using Scikit-Learn and Tensorflow. Each of the models was developed by varying the hyperparameters such as the number of hidden layers, number of neurons in each layer activation functions , epochs and batch size and observed the performance of each of the models using confusion matrix .",
+                "title": "Deep Learning | Classification of Fashion MNIST dataset"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,41535425,247883120)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "description": "Classification of Kannada digits using CNN in Keras using python. Implemented Convolutional Neural Networks for the image classification problem. Used various regularization techniques such as data augmentation, Dropout, Early Stopping, etc and obtained an accuracy of 98.6 in classifying the images in the dataset.",
+                "title": "Deep Learning | Kannada MNIST ",
+                "url": "https://www.kaggle.com/sophiasusanraju/kannadamnist-v3-team-niso?scriptVersionId=25132353"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,1407122786)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,701414836,207096727)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "description": "The project was done in association with ISRO (Indian Space Research Organization), the space agency under Government of India, one of the world’s largest space agency.\n\nThe project was designed to control the speed and position of servo actuator in the launch vehicle, which is based on a BLDC motor and the implementation of the whole system in FPGA.\n The speed of the motor was controlled using PWM technique. The control circuit was based on a closed loop control technique where there is an inner loop for speed control and an outer loop for the position control of actuator. The position information provided by the hall sensors is compared against the given position command and the output is fed into an error amplifier. \n\n\n",
+                "title": "BLDC motor based servo actuator position control using FPGA "
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,309355154,255831306)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "description": "Using deep learning, predicting whether a banknote is authentic or not. Developed a neural network model using TensorFlow in python to verify the given banknote is authentic or not.",
+                "title": "Banknote authentication using DNN: Using deep learning, predicting whether a bank note is authentic or not"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,571271851)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sophia Susan",
+                            "lastName": "Raju",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "occupation": "SoC Functional Validation Engineer @ Intel Corporation",
+                            "objectUrn": "urn:li:member:704614018",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA",
+                            "publicIdentifier": "sophia-susan-raju",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693539631932?e=1746057600&v=beta&t=vdnjZndv2-R7A64OeLHhEyyHMf-3Gcck_FecBZR618Y",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693539631932?e=1746057600&v=beta&t=sBEgmt-RZpgDhdU9DH1rdBLEvSkbRcyNmHjs52_N-tc",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693539631932?e=1746057600&v=beta&t=zVyKPbnrQ5mIZFjXp2uBiYZ004WzbGXec6TPW0D3giE",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693539631932?e=1746057600&v=beta&t=E-kK3oON1YCe6M3lKcKxE_LvGH4l5rFpKoYZ9Ef2Cms",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEpVgcgcIIgxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UXgCetDwQa2YhYUiW+rgFA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA,42066366,247883151)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+                    }
+                ],
+                "description": "Developed a model that accepts the currency as input in any sequence from the customer and delivers the product and balance in denominations of 5/10/25 coins. The Altera DE10 lite FPGA board is used for the implementation. The same code is verified using UVM modules which include driver/monitors/scoreboards/sequencers etc.",
+                "title": "Design  of Vending Machine system using System Verilog and Verification using UVM"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Presentation Skills"
+            },
+            {
+                "name": "Cross-functional Team Leadership"
+            },
+            {
+                "name": "Cross-team Collaboration"
+            },
+            {
+                "name": "Power Management"
+            }
+        ],
+        "urn_id": "ACoAACn_joIBNK2jzHY36Y423sszQhqJVUKP_PA"
+    }
+}

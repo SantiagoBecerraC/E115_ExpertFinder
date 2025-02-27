@@ -1,0 +1,1894 @@
+{
+    "urn_id": "ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+    "fetch_timestamp": "2025-02-26T21:47:07.755582",
+    "profile_data": {
+        "summary": "🔥 Experienced Senior Machine Learning Engineer with a strong background in designing, deploying, and optimizing large-scale ML solutions. Skilled in Deep Learning, Natural Language Processing, and advanced model architectures, driving impactful innovations in AI. Proven track record in collaborating cross-functionally to deliver measurable results, accelerate business intelligence, and revenue growth. Experienced in Python, TensorFlow, PyTorch, Cloud and MLOps, committed to advancing data-driven decision-making.\n🚀 \n- Designed Conversational Generative AI powered Chatbot with RAG pipelines, vector DB, embeddings, demonstrating 80% reduction in user query resolution time over a 500,000 token dataset.\n- Boosted patient adherence rates by 21% for 80,000 patients through advanced predictive modeling.\n- Delivered $16M revenue growth through effective development and deployment of scalable AI/ML models.\n- Achieved 42% improvement in customer engagement with an omnichannel recommender system.\n- Served as the primary point of contact for 3 clients, planned and directed GTM strategies, reported to VP and SVP.\n\n🛠 Core skills \n- AI/ML: Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender System, Distributed Computing, Optimization, Performance Tuning, Convolutional Neural Networks, CNN, Recurrent Neural Network, RNN, Transformers, Attention, LSTM, Classification, Regression, Clustering, Retrieval & Ranking\n- Scripting/Programming Languages: Python, SQL, R, Java, Scala, C/C++, Linux, Bash\n- Tools & Frameworks: TensorFlow, PyTorch, Keras, Scikit-Learn, XGBoost, Random Forest, Naïve Bayes, SVM, Linear/Logistic Regression, Dask, NumPy, Pandas, TensorFlow Serving, MLflow, Kubernetes, Docker, Airflow, Databricks, NLTK, spaCy, OpenCV, Matplotlib, Seaborn, AutoML, SHAP, LIME\n- Cloud: Amazon Web Services, AWS SageMaker, Google Cloud Platform, GCP, Vertex AI, Azure ML, Linear Algebra\n- Big Data: Apache Spark, PySpark, Hadoop, Hive, HDFS, Kafka, Flink, BigQuery, Redshift, Tableau, PowerBI\n- MLOps & Experimentation: CI/CD Pipelines (Jenkins, GitOps), Experiment Tracking (MLflow, Weights & Biases), Feature Store(Feast, Tecton), Data Engineering, GPU, TPU, CUDA, Data Pipelines, Cross-Validation, Explainable AI\n- Gen AI: LLM, RAG, Open AI, LangChain, Gemini, Llama, Mistral, Hugging Face, Word Embedding, Retrieval Augmented Generation\n- Software Engineering, Data Structures and Algorithms, Code Review, Documentation, Probability, Statistics\n- Soft Skills: Technical Leadership, Project Management, Mentorship, Cross-functional Collaboration\n✌️",
+        "industryName": "Computer Software",
+        "lastName": "Bakshee",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Rahul",
+        "entityUrn": "urn:li:fs_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104145663"
+        },
+        "geoLocationName": "Redmond, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+        "profile_id": "ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+        "member_urn": "urn:li:member:263045181",
+        "public_id": "rahulbakshee",
+        "experience": [
+            {
+                "locationName": "Seattle, Washington, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2177294252)",
+                "geoLocationName": "Seattle, Washington, United States",
+                "geoUrn": "urn:li:fs_geo:104116203",
+                "companyName": "Axtria - Ingenious Insights",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2023
+                    }
+                },
+                "description": "• Hands-on Machine Learning Engineer developing end-to-end ML pipelines for large scale data collection, data processing, feature engineering, model training, evaluation, testing, deployment, debugging, and monitoring.\n• Technical Leadership and cross-functional collaboration with Product, Engineering and Marketing teams to develop scalable AI products and features.\n• Established ML Engineering/MLOps best practices.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior Machine Learning Engineer - Omnichannel",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:789643",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEKiBMP2B8x4Q/company-logo_"
+            },
+            {
+                "locationName": "Hyderabad, Telangana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1850281147)",
+                "geoLocationName": "Hyderabad, Telangana, India",
+                "geoUrn": "urn:li:fs_geo:105556991",
+                "companyName": "Novartis",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Pharmaceuticals"
+                    ]
+                },
+                "title": "Senior Data Scientist - Commercial Analytics",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1406",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE97wiEYgKQFA/company-logo_"
+            },
+            {
+                "locationName": "Hyderabad Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1458336555)",
+                "geoLocationName": "Hyderabad Area, India",
+                "companyName": "Verizon",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Scientist - Customer Experience",
+                "companyUrn": "urn:li:fs_miniCompany:1103",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1942702853)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFcVBjsbfJrBQ/company-logo_"
+            },
+            {
+                "locationName": "Pune, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,896053875)",
+                "geoLocationName": "Pune, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:103671728",
+                "companyName": "Accenture",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Consultant - Machine Learning ",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1942674744)"
+                ],
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_"
+            },
+            {
+                "locationName": "Hyderabad, Telangana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1942281757)",
+                "geoLocationName": "Hyderabad, Telangana, India",
+                "geoUrn": "urn:li:fs_geo:105556991",
+                "companyName": "Infosys",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2011
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Engineer - Big Data Analytics ",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1283",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1053731415)",
+                "school": {
+                    "objectUrn": "urn:li:school:41997",
+                    "entityUrn": "urn:li:fs_miniSchool:41997",
+                    "active": true,
+                    "schoolName": "Trine University",
+                    "trackingId": "cY7wXdnJS/WobsVOnHOWdg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGGjXde62PGKQ/company-logo_"
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100184",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Trine University",
+                "fieldOfStudy": "Information Science/Studies",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:41997"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,174881301)",
+                "school": {
+                    "objectUrn": "urn:li:school:22469",
+                    "entityUrn": "urn:li:fs_miniSchool:22469",
+                    "active": true,
+                    "schoolName": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+                    "trackingId": "Rr+0ICuqRmKSvaqxAOdRaw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEAVRB3i7rHHg/company-logo_"
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:22469"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Marathi"
+            }
+        ],
+        "publications": [
+            {
+                "name": "Aerial Cactus Identification Kaggle",
+                "url": "https://rahulbakshee.github.io/iWriteHere/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ]
+            },
+            {
+                "name": "Deep Learning Pc Build Beginners 2020",
+                "url": "https://rahulbakshee.github.io/iWriteHere/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ]
+            },
+            {
+                "name": "Edge Detection In Computer Vision",
+                "url": "https://rahulbakshee.github.io/iWriteHere/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ]
+            },
+            {
+                "name": "Introduction To Recommendation Systems",
+                "description": "Recommendation systems are a type of machine learning technology that have become increasingly popular in recent years, especially with the rise of e-commerce, social media, and entertainment platforms. These systems are designed to suggest products, services, or content to users based on their past behavior, preferences, and other relevant data.",
+                "url": "https://rahulbakshee.github.io/iWriteHere/2023/03/04/Introduction-to-Recommendation-Systems.html",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ]
+            },
+            {
+                "name": "Learn Computer Vision",
+                "url": "https://rahulbakshee.github.io/iWriteHere/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Programming for Everybody (Getting Started with Python) - University of Michigan",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=5Z0FyWDxnUkOBKDOFs2UH5mLaEX061IsNvcqjiTpdUk",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=Pzdjt_BkLPhdbpas76oCwVNTVMFG7o79g5QiawWyHvg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "dkxrXf7mSFqSpzfkunm0aw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2453129"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Problem Solving (Basic)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=iQDobkJ7CXB90gGXuIGUPiAXDsaS8zW3IQ_qJvIJiCU",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=SwqL2mWZM3vKWgZlKg3RFE7VJap-2yUoKbx7ZwUo6MM",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1748476800&v=beta&t=VsJfV6fDH9TShaEjUlt4j2nWfy82x2UNxPSD9r33RRA",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "E3B5J86ETQC8NZMJZ9yIDA=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/7d7197467757"
+            },
+            {
+                "authority": "Kaggle",
+                "name": "Computer Vision",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1061689",
+                    "entityUrn": "urn:li:fs_miniCompany:1061689",
+                    "name": "Kaggle",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631352159490?e=1748476800&v=beta&t=E8wrjeWif38pv2XOwPcN-958yk1mvztCydkT3e6DOhQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631352159490?e=1748476800&v=beta&t=rb3Bgp0Y-ASLxAUZv0elEya_gC8y3gIJV-37RYRoDn0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631352159490?e=1748476800&v=beta&t=PdOWAm_pznUaA_yNoZqY0XMQqYCrUD9AnJdYJCsdS18",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGbmegZ9h1otw/company-logo_"
+                        }
+                    },
+                    "universalName": "kaggle",
+                    "dashCompanyUrn": "urn:li:fsd_company:1061689",
+                    "trackingId": "nmJG+JjLRsaP7wakByKXiA=="
+                },
+                "displaySource": "kaggle.com",
+                "companyUrn": "urn:li:fs_miniCompany:1061689",
+                "url": "https://www.kaggle.com/learn/certification/rahulbakshee/computer-vision"
+            },
+            {
+                "authority": "Kaggle",
+                "name": "Intro to AI Ethics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1061689",
+                    "entityUrn": "urn:li:fs_miniCompany:1061689",
+                    "name": "Kaggle",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631352159490?e=1748476800&v=beta&t=E8wrjeWif38pv2XOwPcN-958yk1mvztCydkT3e6DOhQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631352159490?e=1748476800&v=beta&t=rb3Bgp0Y-ASLxAUZv0elEya_gC8y3gIJV-37RYRoDn0",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631352159490?e=1748476800&v=beta&t=PdOWAm_pznUaA_yNoZqY0XMQqYCrUD9AnJdYJCsdS18",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGbmegZ9h1otw/company-logo_"
+                        }
+                    },
+                    "universalName": "kaggle",
+                    "dashCompanyUrn": "urn:li:fsd_company:1061689",
+                    "trackingId": "DYzAXpyjR6Sdik2jSDHkvA=="
+                },
+                "displaySource": "kaggle.com",
+                "companyUrn": "urn:li:fs_miniCompany:1061689",
+                "url": "https://www.kaggle.com/learn/certification/rahulbakshee/intro-to-ai-ethics"
+            },
+            {
+                "authority": "Google",
+                "name": "Baseline: Data, ML, AI, Google Cloud Essentials, Perform Foundational Infrastructure Tasks in Google Cloud, Create and Manage Cloud Resources, ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "WqaXwFp9RfKdFVDz4cFpzQ=="
+                },
+                "displaySource": "qwiklabs.com",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "url": "https://google.qwiklabs.com/public_profiles/2f9a816f-2ea9-4674-8a5d-9c5748dba843"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "VAGL4WB9X67B",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "iP4zS+liSSqbDpBichn6EQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/VAGL4WB9X67B"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "TensorFlow Developer Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "HC34W3CAASM4",
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "nkzO9dYYSROGdeLfxRUOtw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HC34W3CAASM4"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Python Developer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=3COxZsuR1oMWffpZgMIVNd3IwmvadZ0zqpguCkh2L34",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "92opL66xTM67MC94XpDriA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/51c535e52bd6fa51525fe75dec876cc76a845c0286f6c19c8945b78c4a8ede54?trk=backfilled_certificate"
+            },
+            {
+                "authority": "TensorFlow Certificate Program",
+                "name": "TensorFlow Developer Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:38124390",
+                    "entityUrn": "urn:li:fs_miniCompany:38124390",
+                    "name": "TensorFlow Certificate Program",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630584446198?e=1748476800&v=beta&t=6j8pdL0JGa8_7MsA-HRVUejW4ix5sN2uVJCiO-Xr7ik",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630584446198?e=1748476800&v=beta&t=gQJEc3-dESKp2FA3YB5GqYW3TKR9Kakg_fHk-rRF7Jg",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630584446198?e=1748476800&v=beta&t=5_ZsCbdCEqmkUoNMKCqyp3Vr-_vKDCBGaZCisf-sIvY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFBgSAlQztspQ/company-logo_"
+                        }
+                    },
+                    "universalName": "tensorflow-certificate-program",
+                    "dashCompanyUrn": "urn:li:fsd_company:38124390",
+                    "trackingId": "fwXsKO7OTBeIOXD0vouT4g=="
+                },
+                "displaySource": "credential.net",
+                "companyUrn": "urn:li:fs_miniCompany:38124390",
+                "url": "https://www.credential.net/3804a043-b11d-42a0-adc6-80c34aadb592#gs.zo06nr"
+            },
+            {
+                "authority": "DeepLearning.AI",
+                "name": "Convolutional Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18246783",
+                    "entityUrn": "urn:li:fs_miniCompany:18246783",
+                    "name": "DeepLearning.AI",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Tn3hN8gX76sSoYB8dKfsJuRKee_7o8Q076tQusZWEEY",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=VDbWU3erNr0WWgRkqrZBidX8eoHAtcG6ACIonUbZ-GQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1748476800&v=beta&t=Esk3ueKogpgupjVJP-e_ReUzucQAutxgxKGyZSEXU0M",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_"
+                        }
+                    },
+                    "universalName": "deeplearningai",
+                    "dashCompanyUrn": "urn:li:fsd_company:18246783",
+                    "trackingId": "ZsTg/IleQvWBp6tgkbl9Jg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18246783",
+                "url": "https://coursera.org/share/f53470b67120230e3a1dbe3421e593a4"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer Staff",
+                "companyName": "PyData Global",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "description": "PyData Seattle 2023 at Microsoft (Redmond, WA)",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:74716291",
+                        "entityUrn": "urn:li:fs_miniCompany:74716291",
+                        "name": "PyData Global",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630646989721?e=1748476800&v=beta&t=GysHC1-gah1JaU3mchFC8CMJm2iXNH3XAEjq3qmPW9I",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630646989721?e=1748476800&v=beta&t=MMQmIVgJRj1Wnp7UU-38PKEMUQTR7dLdTs0rn8nffso",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630646989721?e=1748476800&v=beta&t=dkwcRTKykWxG2s2be2AVbVBf6AwqxKffEIMqU9xSlXk",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGtE4-C8wGskg/company-logo_"
+                            }
+                        },
+                        "universalName": "pydata-global",
+                        "dashCompanyUrn": "urn:li:fsd_company:74716291",
+                        "trackingId": "jzIxjMm2Sd+jSXgB1jvczA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:74716291"
+            },
+            {
+                "role": "Mentor underprivileged kids",
+                "companyName": "Infosys",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2012
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Teaching English, Arts, Science and Mathematics to underprivileged children in rural areas of India",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1283",
+                        "entityUrn": "urn:li:fs_miniCompany:1283",
+                        "name": "Infosys",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=vCCF5G3MFlgwlX8ssU7XcuF9t3151bNBp00dTy1WMe8",
+                                        "expiresAt": 1748476800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=rYhW8rG2rZz5hGb19Qkgs_S-jt2lt4_PhUee4tjlE3A",
+                                        "expiresAt": 1748476800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1692876768583/infosys_logo?e=1748476800&v=beta&t=1v_Z9mfe79mQLJdNys7WMusFlnKbUkX8R4oy1SQJFJA",
+                                        "expiresAt": 1748476800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+                            }
+                        },
+                        "universalName": "infosys",
+                        "dashCompanyUrn": "urn:li:fsd_company:1283",
+                        "trackingId": "l0c4u7TkRHmjw8tYs5+InQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1283"
+            }
+        ],
+        "honors": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,896053875)",
+                "title": "Employee Recognition"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1458336555)",
+                "title": "Spot Awards"
+            },
+            {
+                "title": "Trailblazer"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2053638270,334172062)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Art Generation with Neural Style Transfer"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2052832841,334168370)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Building your Deep Neural Network: Step by Step"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1045396181,336204228)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Building your Recurrent Neural Network - Step by Step"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2053091952,334169376)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Car detection with YOLO"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2053050249,334171104)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Convolution Model Application"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2053038664,334171103)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Convolutional Model, Step by Step"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2052857019,334167678)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Deep Neural Network - Application"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1045415900,335998831)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Dinosaur Island-Character-Level Language Modeling"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,1045463662,336200634)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Emojify"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rahul",
+                            "lastName": "Bakshee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "occupation": "Machine Learning Engineer | Software Engineer | Data Scientist | Cloud | Artificial Intelligence | Generative AI | LLM | MLE",
+                            "objectUrn": "urn:li:member:263045181",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/B56ZUacowfGsAc-/0/1739905470277?e=1746057600&v=beta&t=of6N7LzhQzKVbxxRteG2sfh1QwcE2mhcDMmGVNV4od8",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/B56ZUacowfGsAg-/0/1739905470277?e=1746057600&v=beta&t=pGqWujG0U-IlReK4H6cb_WHzQC0bSaJhvAt5xw6y2xY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFzwNKy-hg1DQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rahulbakshee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1718830447583?e=1746057600&v=beta&t=JqgcqVM_7uTczPQv8BYiP0CQOrpbqp-yWNtCkjYscj0",
+                                            "expiresAt": 1746057600000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1718830447583?e=1746057600&v=beta&t=EK9RflLGM42BCdn-YuR-E7eNs4zXltkhbI3qIouSdm4",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1718830447583?e=1746057600&v=beta&t=26GuqP5lLG_Ij3UqC3ilmYihxRkRfgmBG_jQpsq3Omw",
+                                            "expiresAt": 1746057600000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1718830447617?e=1746057600&v=beta&t=udGN7pS28pagpQSehld70Z219RZ-W7ZloRoOiqInVAY",
+                                            "expiresAt": 1746057600000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFNhRnBnJxg0g/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "G2vAp/jhS4eT1KtMJfc+/w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg,2053623395,334172061)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+                    }
+                ],
+                "title": "Face Recognition"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Systems Design"
+            },
+            {
+                "name": "Generative AI"
+            },
+            {
+                "name": "Leadership"
+            },
+            {
+                "name": "Statistical Analysis"
+            }
+        ],
+        "urn_id": "ACoAAA-twD0BW05fYHILvqYPtdccJfYlib18OIg"
+    }
+}

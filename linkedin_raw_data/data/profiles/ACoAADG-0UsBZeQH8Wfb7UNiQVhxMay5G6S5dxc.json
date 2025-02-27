@@ -1,0 +1,410 @@
+{
+    "urn_id": "ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+    "fetch_timestamp": "2025-02-26T21:51:17.858269",
+    "profile_data": {
+        "summary": "Seasoned Machine Learning Engineer with 5+ years of experience and expertise in deploying large-scale ML systems. Proficient in Java, Scala, Python, and SQL, with extensive experience in distributed computing frameworks like Spark and Kafka. Skilled in designing and implementing end-to-end ML pipelines using Airflow. Proven track record of leveraging advanced analytics and statistical techniques to drive actionable insights and optimize decision-making processes.",
+        "industryName": "Higher Education",
+        "lastName": "S.",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:68",
+        "firstName": "Neha",
+        "entityUrn": "urn:li:fs_profile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104116203"
+        },
+        "geoLocationName": "Seattle, Washington",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "AI/ML Engineer for Google at RedCloud Consulting | Actively seeking MLE and Data Science full-time positions | Ex-ML Data Scientist @Amazon | MSDA SJSU |",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQHmV1qKlcRD-w/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1738531625489?e=1741230000&v=beta&t=fi_aqY4kQyQvstcYxEbuOhGO_OdbLOHeIzaM15Z9BSw",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1738531625489?e=1741230000&v=beta&t=J1nokjJacRYpDpI1mcitDmqGyVPHdQGIJYcF_AnQ4Tg",
+        "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1738531625489?e=1741230000&v=beta&t=o5q5WkjVYwCkCfmoUBrL_DGLnjDSImnZvX8-RomfC3Y",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1738531625463?e=1741230000&v=beta&t=0O-QMScdqJLYxCXTVLMymwjjreSnBwzszwO-xcERHv4",
+        "profile_id": "ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+        "member_urn": "urn:li:member:834589003",
+        "public_id": "neha-ns",
+        "experience": [
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,2541286897)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "San José State University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2023
+                    }
+                },
+                "description": "• Analyzed over 10,000 patient EHR data, resulting in a 20% increase in the efficiency of the analysis\n• Enhancing image annotation capabilities by efficiently labeling 500 images using CVAT, Roboflow, \n   and OpenCV\n• Transformed an object detection pipeline using UNET and YOLO that improved the model's \n  efficiency by 13%\n• Conducted rigorous testing and evaluation to validate the model's performance, adjusting \n  parameters to ensure robustness and reliability, ultimately achieving significant improvements in \n  model accuracy and runtime",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Computer Vision Research Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:157344",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,2541288761)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Amazon",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "• Designed a real-time anomaly detection system leveraging Amazon SageMaker, reducing 25% false positives and enhancing\nincident response times using machine learning techniques, including ensemble and deep learning.\n• Collaborated with cross-functional teams to enhance operational efficiency by 15% through predictive modeling and statistical\nanalysis, utilizing Apache Airflow for data orchestration and integrating QuickSight for reporting.\n• Introduced a decision engine with Apache Spark, and AWS Glue to process over 1M+ claims\n• Conducted root cause analysis using SQL on Amazon Redshift, resulting in a 20% reduction in defects\n• Maintained CI/CD pipelines using AWS Code Pipeline, Jenkins, and Docker for automated testing and deployment, monitoring\nperformance with AWS CloudWatch",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Data Scientist",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1586",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,2541291319)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "GEEKY TECHNOLOGIES LTD",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "description": "- Developed predictive models that improved test coverage by 20%, identifying potential defects earlier in the development process and reduce post-release defects by 15%\n- Implemented a data-driven defect tracking system, increasing bug-reporting efficiency by 30%",
+                "title": "Software Test Engineer",
+                "region": "urn:li:fs_region:(in,0)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,786254313)",
+                "school": {
+                    "objectUrn": "urn:li:school:17911",
+                    "entityUrn": "urn:li:fs_miniSchool:17911",
+                    "active": true,
+                    "schoolName": "San José State University",
+                    "trackingId": "JrMe0JmbQH+mGGE9TtWcRQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_"
+                },
+                "activities": "Part of the Indian Student Organization(ISO) and SJSU as a peer graduate advisor for incoming master's students. Help the organization conduct different career-oriented and social events for international students on campus.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Courses: Data Visualization,  Database management, Statistics and Probability, Machine Learning, Big Data, Deep learning, Neural Networks, Data mining, Capstone Project/Research Thesis.",
+                "degreeName": "Master's degree",
+                "schoolName": "San Jose State University",
+                "fieldOfStudy": "Applied Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:17911"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,714663344)",
+                "grade": "7.8/10(CGPA)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Department of Technology, Shivaji university",
+                "fieldOfStudy": "Electronics and Communication technology",
+                "degreeUrn": "urn:li:fs_degree:250"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Google",
+                "name": "Google Data Analysis Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "3H566KPRENKT",
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1748476800&v=beta&t=vhR1epfTMqYJ6vCmpHLc8m78sM0FZXYm9X8_JyBGGtQ",
+                                    "expiresAt": 1748476800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+                                    "expiresAt": 1748476800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1748476800&v=beta&t=9lsGDIQ8Pq-29pe5xRl3G4trohCpd9LHXc93vjDNX4A",
+                                    "expiresAt": 1748476800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "X6lm9btZT56EJgLLIg9MMA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "url": "https://www.linkedin.com/posts/neha-ns_completion-certificate-for-foundations-data-activity-6785781013630078976-aRY2?utm_source=share&utm_medium=member_desktop"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Neha",
+                            "lastName": "S.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+                            "occupation": "AI/ML Engineer for Google at RedCloud Consulting | Actively seeking MLE and Data Science full-time positions | Ex-ML Data Scientist @Amazon | MSDA SJSU |",
+                            "objectUrn": "urn:li:member:834589003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706663493844?e=1746057600&v=beta&t=O4arvwtAEPUbUVhanpNo9Lp4N3U07KrzAHsd_SdlXIo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706663493844?e=1746057600&v=beta&t=dNFwPmz24HQwtuNovQFswBDboWjBrrHqQCb7gAiokRI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGWwl5SvAUjNw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "neha-ns",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1738531625489?e=1741230000&v=beta&t=fi_aqY4kQyQvstcYxEbuOhGO_OdbLOHeIzaM15Z9BSw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1738531625489?e=1741230000&v=beta&t=J1nokjJacRYpDpI1mcitDmqGyVPHdQGIJYcF_AnQ4Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1738531625489?e=1741230000&v=beta&t=o5q5WkjVYwCkCfmoUBrL_DGLnjDSImnZvX8-RomfC3Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1738531625463?e=1741230000&v=beta&t=0O-QMScdqJLYxCXTVLMymwjjreSnBwzszwO-xcERHv4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQHmV1qKlcRD-w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "f1emWOEESgq3HRpQhd7ilg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,1750417916,444743796)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "● Increased user adoption by 30%, and created an intuitive and insightful dashboard that effectively\naided decision-making.\n● Reduced time spent on data analysis and reporting by 20%, optimizing performance and reporting\nprocesses, freeing up resources.\n● Improved sales forecasting accuracy by 15% using data cleaning and visualization, enabling better\nmarketing decisions.",
+                "title": "Walmart Sales Forecasting Dashboard (Tableau Public Link)"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Neha",
+                            "lastName": "S.",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+                            "occupation": "AI/ML Engineer for Google at RedCloud Consulting | Actively seeking MLE and Data Science full-time positions | Ex-ML Data Scientist @Amazon | MSDA SJSU |",
+                            "objectUrn": "urn:li:member:834589003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1706663493844?e=1746057600&v=beta&t=O4arvwtAEPUbUVhanpNo9Lp4N3U07KrzAHsd_SdlXIo",
+                                            "expiresAt": 1746057600000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706663493844?e=1746057600&v=beta&t=dNFwPmz24HQwtuNovQFswBDboWjBrrHqQCb7gAiokRI",
+                                            "expiresAt": 1746057600000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGWwl5SvAUjNw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "neha-ns",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1738531625489?e=1741230000&v=beta&t=fi_aqY4kQyQvstcYxEbuOhGO_OdbLOHeIzaM15Z9BSw",
+                                            "expiresAt": 1741230000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1738531625489?e=1741230000&v=beta&t=J1nokjJacRYpDpI1mcitDmqGyVPHdQGIJYcF_AnQ4Tg",
+                                            "expiresAt": 1741230000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1738531625489?e=1741230000&v=beta&t=o5q5WkjVYwCkCfmoUBrL_DGLnjDSImnZvX8-RomfC3Y",
+                                            "expiresAt": 1741230000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1738531625463?e=1741230000&v=beta&t=0O-QMScdqJLYxCXTVLMymwjjreSnBwzszwO-xcERHv4",
+                                            "expiresAt": 1741230000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5635AQHmV1qKlcRD-w/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "f1emWOEESgq3HRpQhd7ilg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc,1527387854,369702749)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "- Implemented Batch processing involving data ingestion, Lake House architecture, processing, and visualization using Amazon Kinesis, Glue, S3, and QuickSight to draw insights. \n- Fabricated Real-time channel detecting Distributed denial of service (DDoS) and bot attacks using AWS Lambda, DynamoDB, CloudWatch, and AWS SNS.",
+                "title": "E-Commerce Analytics Pipeline Using AWS"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Google Cloud Platform (GCP)"
+            },
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Vertex AI"
+            },
+            {
+                "name": "Google BigQuery"
+            }
+        ],
+        "urn_id": "ACoAADG-0UsBZeQH8Wfb7UNiQVhxMay5G6S5dxc"
+    }
+}

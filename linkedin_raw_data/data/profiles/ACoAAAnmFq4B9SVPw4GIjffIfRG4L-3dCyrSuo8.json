@@ -1,0 +1,260 @@
+{
+    "urn_id": "ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8",
+    "fetch_timestamp": "2025-02-26T21:21:13.857268",
+    "profile_data": {
+        "industryName": "Research",
+        "lastName": "Nachum",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "Ofir",
+        "entityUrn": "urn:li:fs_profile:ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102277331"
+        },
+        "geoLocationName": "San Francisco, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Research at OpenAI",
+        "profile_id": "ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8",
+        "member_urn": "urn:li:member:166074030",
+        "public_id": "ofir-nachum-7a674b47",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,2213854233)",
+                "companyName": "OpenAI",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "description": "Performed research on large language models and artificial intelligence. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:11130470",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,816458052)",
+                "companyName": "Google",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2016
+                    }
+                },
+                "description": "Performed research in deep learning and reinforcement learning. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Researcher",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,572007474)",
+                "companyName": "Quora",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2014
+                    }
+                },
+                "description": "Made improvements to several recommendation systems (feed ranking, A2A - Ask To Answer) through feature engineering, data cleaning/preparation, optimizing metric evaluation, etc. Development of these models included a variety of techniques including decision trees, boosting, matrix factorization, and neural networks. A number of improvements to the recommendation systems were made, yielding multiple double-digit percentage increases in key metrics.  \n\nDeveloped automated quality detection of text — both grammar/formatting as well as overall 'trustworthiness' of an answer. This work utilized NLP with deep learning techniques in addition to\nmethods for measuring user trustworthiness through a network trust propagation algorithm. The end result of this project was reduced reliance on human labor and a significantly better user experience. \n\nBuilt and maintained the infrastructure (Python, C++) for the aforementioned ML systems, including data pipeline, training, testing, and productionization.    ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer - Machine Learning",
+                "companyUrn": "urn:li:fs_miniCompany:1039156",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQESjNFCktIidg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,410889594)",
+                "companyName": "Jump Trading",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2013
+                    }
+                },
+                "description": "Developed and designed a trading strategy using statistical models applied over a large pool of market\ndata.",
+                "title": "Algorithmic Trader Intern"
+            },
+            {
+                "locationName": "New York City, New York",
+                "entityUrn": "urn:li:fs_position:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,357233781)",
+                "geoLocationName": "New York City, New York",
+                "companyName": "Five Rings Capital, LLC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2013
+                    }
+                },
+                "description": "Implemented latency-reducing strategies for C++ server.  \n\nPorted server from Linux distribution to Solaris.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Programming Intern",
+                "companyUrn": "urn:li:fs_miniCompany:297502",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFhqSzqWr6ZQw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,176700591)",
+                "school": {
+                    "objectUrn": "urn:li:school:18494",
+                    "entityUrn": "urn:li:fs_miniSchool:18494",
+                    "active": true,
+                    "schoolName": "Massachusetts Institute of Technology",
+                    "trackingId": "XvLWExTbTXG4Qs7OpXUQEA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_"
+                },
+                "grade": "4.8/5.0",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Self-assembly is important in nanomedicine and increasingly plays a role in drug-delivery or imaging applications in tumors. Predicting behavior and dynamics of nanoparticle systems is very diﬃcult, especially when assembling and disassembling particles are involved. To address this challenge, the Bhatia lab has developed NanoDoc (http://nanodoc.org), an online game that allows users around the world to design and simulate nanoparticle treatments. During this project, we were able to implement mechanisms to eﬀectively describe and simulate self-assembly in NanoDoc. As a bench mark for our simulator, we show that we are able to reproduce laboratory experiments in the literature. The simulator was then made available to the crowd and a challenge was proposed that requires users to perform self-assembly in a scenario aimed at improving the accumulation of imaging agents in tumors.",
+                "degreeName": "Master of Engineering (MEng)",
+                "schoolName": "Massachusetts Institute of Technology",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18494"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,97890677)",
+                "school": {
+                    "objectUrn": "urn:li:school:18494",
+                    "entityUrn": "urn:li:fs_miniSchool:18494",
+                    "active": true,
+                    "schoolName": "Massachusetts Institute of Technology",
+                    "trackingId": "tOFiWhVmRuqKmBJDlSpnAg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_"
+                },
+                "activities": "Alternative Spring Break, Wind Ensemble, Tau Beta Pi",
+                "grade": "5",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Massachusetts Institute of Technology",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:18494"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8,122099905)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "schoolName": "Algonquin Regional High School"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hebrew",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Microsoft Office"
+            },
+            {
+                "name": "Microsoft Excel"
+            },
+            {
+                "name": "PowerPoint"
+            },
+            {
+                "name": "Microsoft Word"
+            }
+        ],
+        "urn_id": "ACoAAAnmFq4B9SVPw4GIjffIfRG4L-3dCyrSuo8"
+    }
+}

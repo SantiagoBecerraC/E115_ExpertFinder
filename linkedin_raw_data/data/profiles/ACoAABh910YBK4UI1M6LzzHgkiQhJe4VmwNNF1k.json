@@ -1,0 +1,286 @@
+{
+    "urn_id": "ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k",
+    "fetch_timestamp": "2025-02-26T21:27:17.832804",
+    "profile_data": {
+        "industryName": "Defense & Space",
+        "lastName": "Vasquez",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:1",
+        "firstName": "Anthony J",
+        "entityUrn": "urn:li:fs_profile:ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104652068"
+        },
+        "geoLocationName": "Liverpool, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Machine Learning and Artificial Intelligence Expert",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHD3ma1wtotuQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1519575308540?e=1746057600&v=beta&t=PucSWuRFjY_Hx6RwQhaPjE1gSUHAsDtk7qnXvpkzAxc",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1519575308541?e=1746057600&v=beta&t=AxNgbz_frbm8D9jt2IkaNn152QAnoA_aDKaSQmnyg_U",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1519575308631?e=1746057600&v=beta&t=MttqUVKZ-QDbq-pe-4mWwzbKUohOOWPC-wc-VVr4Iew",
+        "img_500_500": "800_800/profile-displayphoto-shrink_800_800/0/1519575308555?e=1746057600&v=beta&t=XKLy2I82kP-EuT1DHhe7MRh2GjEr0uVRuZKn8lpZ8xs",
+        "profile_id": "ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k",
+        "member_urn": "urn:li:member:410900294",
+        "public_id": "anthony-j-vasquez-632739b5",
+        "experience": [
+            {
+                "locationName": "NA",
+                "entityUrn": "urn:li:fs_position:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,2568760925)",
+                "geoLocationName": "NA",
+                "companyName": "Maximo Depot Corp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2025
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Machine Learning Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:72397436"
+            },
+            {
+                "locationName": "Syracuse, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,2086796189)",
+                "geoLocationName": "Syracuse, New York, United States",
+                "geoUrn": "urn:li:fs_geo:103650796",
+                "companyName": "INFICON",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2025
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2022
+                    }
+                },
+                "description": "Technical Data Science and machine learning R&D and Production",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Machinery"
+                    ]
+                },
+                "title": "Research Data Scientist",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:46912",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQH6FFX5a7Nh6g/company-logo_"
+            },
+            {
+                "locationName": "United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,1888352649)",
+                "geoLocationName": "United States",
+                "geoUrn": "urn:li:fs_geo:103644278",
+                "companyName": "SRC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "applied physics, applied mathematics, data acquisition, data visualization, data curation, data augmentation, data management, computer vision, time series, feature selection, feature engineering, feature reduction, clustering, modelling, object detection, classification, multi-object-tracking, pipeline generation, generative-adversarial networks, systems engineering, software engineering,  configuration management, quality management, reports, and presentations",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Defense & Space"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:23554",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFwdAduYUFr_A/company-logo_"
+            },
+            {
+                "locationName": "Syracuse, New York Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,1329970382)",
+                "geoLocationName": "Syracuse, New York Area",
+                "geoUrn": "urn:li:fs_geo:90000816",
+                "companyName": "SRC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "description": "Functional Decomposition, Physical Architecture, Interface Control Document (ICD) development, Requirements, Trade studies, Interface with Customers, Sensors, Sensors and Sensor Fusion,  DOORS, Visio, Python",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Defense & Space"
+                    ]
+                },
+                "title": "Systems Engineer - Science, Technology, Engineering, Leadership Rotation (STELR)",
+                "region": "urn:li:fs_region:(us,816)",
+                "companyUrn": "urn:li:fs_miniCompany:23554",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFwdAduYUFr_A/company-logo_"
+            },
+            {
+                "locationName": "Syracuse, New York Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,1194070198)",
+                "geoLocationName": "Syracuse, New York Area",
+                "geoUrn": "urn:li:fs_geo:90000816",
+                "companyName": "SRC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "description": "Sensor Product Support, Configuration Management, Quality, Meet with Customer, Organize Meeting, Test, Validate, Update or Write TRDs ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Defense & Space"
+                    ]
+                },
+                "title": "Product Engineer - Science, Technology, Engineering, Leadership Rotation (STELR)",
+                "region": "urn:li:fs_region:(us,816)",
+                "companyUrn": "urn:li:fs_miniCompany:23554",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFwdAduYUFr_A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,491071400)",
+                "school": {
+                    "objectUrn": "urn:li:school:18560",
+                    "entityUrn": "urn:li:fs_miniSchool:18560",
+                    "active": true,
+                    "schoolName": "The Johns Hopkins University",
+                    "trackingId": "wV6jw1F9QRids9wDkiB/pw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFeLC87ehQOUQ/company-logo_"
+                },
+                "grade": "3.8",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "The Johns Hopkins University",
+                "fieldOfStudy": "Artificial Intelligence",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:18560"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,271666047)",
+                "school": {
+                    "objectUrn": "urn:li:school:19520",
+                    "entityUrn": "urn:li:fs_miniSchool:19520",
+                    "active": true,
+                    "schoolName": "The University of Texas at El Paso",
+                    "trackingId": "SbnpUsezRYeAEX2iUrCaRQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHY-bqplJQlYg/company-logo_"
+                },
+                "activities": "Maximize Access to Research Careers\nLSAMP\nMaterials Strength Research",
+                "grade": "3.77",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Bachelor's of Science in Physics (Applied Physics Concentration)",
+                "schoolName": "The University of Texas at El Paso",
+                "fieldOfStudy": "Physics",
+                "schoolUrn": "urn:li:fs_miniSchool:19520"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k,271663877)",
+                "school": {
+                    "objectUrn": "urn:li:school:20421",
+                    "entityUrn": "urn:li:fs_miniSchool:20421",
+                    "active": true,
+                    "schoolName": "San Antonio College",
+                    "trackingId": "tAcdfPXMRX2lRmG23f8PxQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEjb-uM2SYkpQ/company-logo_"
+                },
+                "activities": "Society of Physics Students\nMath Engineer Technology Architecture Fellow\nStudent Support Services Project Mentor\nMath Tutor",
+                "grade": "3.82",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "Liberal Arts",
+                "schoolName": "San Antonio College",
+                "fieldOfStudy": "Liberal Arts and Sciences",
+                "schoolUrn": "urn:li:fs_miniSchool:20421"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Reinforecement Learning"
+            },
+            {
+                "name": "Model Benchmarking"
+            },
+            {
+                "name": "Hyperparameter Optimization"
+            },
+            {
+                "name": "Parallel Comuting"
+            }
+        ],
+        "urn_id": "ACoAABh910YBK4UI1M6LzzHgkiQhJe4VmwNNF1k"
+    }
+}
