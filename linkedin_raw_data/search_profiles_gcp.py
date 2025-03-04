@@ -216,3 +216,4 @@ if __name__ == "__main__":
         sync_search_files_with_gcp(storage_client)
     else:
         print("❌ GCP client not available. Skipping sync.")
+        

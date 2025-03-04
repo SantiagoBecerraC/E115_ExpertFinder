@@ -46,7 +46,7 @@ else:
         print(f"Error listing directory: {str(e)}")
 
 # GCP bucket configuration
-bucket_name = "expert-finder-bucket-1"  # Replace with your actual bucket name
+bucket_name = "expert-finder-bucket-1"
 try:
     bucket = storage_client.bucket(bucket_name)
     # Test bucket access
