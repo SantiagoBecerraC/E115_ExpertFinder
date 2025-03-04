@@ -58,7 +58,8 @@ temp_dir = "/tmp/linkedin_profiles"
 os.makedirs(temp_dir, exist_ok=True)
 
 # Authenticate using Linkedin credentials
-api = Linkedin('3chamois-bifocal@icloud.com', 'cinnyn-surfix-8Cejji', refresh_cookies=True)
+# api = Linkedin('3chamois-bifocal@icloud.com', 'cinnyn-surfix-8Cejji', refresh_cookies=True)
+api = Linkedin('99-rafter.balcony@icloud.com', 'howvon-peDra4-gaggeb')
 
 # Download and read the combined CSV file from GCP
 temp_csv_path = "/tmp/combined_linkedin_searches.csv"
@@ -82,6 +83,15 @@ MAX_CONSECUTIVE_ERRORS = 10
 # Get list of URNs to process
 urns_to_process = set(df['person_id'].unique()) - processed_urns
 print(f"Found {len(urns_to_process)} new profiles to process")
+
+
+# Constants
+MIN_WAIT_TIME = 40  # Minimum wait time in seconds
+MAX_WAIT_TIME = 70   # Maximum wait time in seconds
+MIN_INTERVAL = 5 * 60  # Minimum interval in seconds (8 minutes)
+MAX_INTERVAL = 7 * 60  # Maximum interval in seconds (10 minutes)
+
+start_time = time.time()
 
 # Process each URN
 for urn in urns_to_process:
@@ -123,9 +133,19 @@ for urn in urns_to_process:
                 f.write('\n'.join(processed_urns))
             processed_urns_blob.upload_from_filename(temp_processed_path)
             os.remove(temp_processed_path)
+            print(f"Saved processed URNs list to GCP")
             
         print(f"Saved profile for URN: {urn}")
         
+        # Check elapsed time
+        elapsed_time = time.time() - start_time
+        if elapsed_time >= random.uniform(MIN_INTERVAL, MAX_INTERVAL):
+            # Wait for a random time between 40 to 70 seconds
+            wait_time = random.uniform(MIN_WAIT_TIME, MAX_WAIT_TIME)
+            print(f"Taking a break for {wait_time:.1f} seconds...")
+            time.sleep(wait_time)  # Wait for a random time
+            start_time = time.time()  # Reset the timer
+
     except Exception as e:
         print(f"Error processing URN {urn}: {str(e)}")
         
