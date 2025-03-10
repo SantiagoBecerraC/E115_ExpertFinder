@@ -3,3 +3,7 @@ linkedin_raw_data/data/
 
 # Ignore Jupyter Notebook files
 *.ipynb
+
+# Local test code
+get_profiles.py
+test_get_profiles.py

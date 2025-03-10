@@ -8,34 +8,14 @@ from linkedin_api import Linkedin
 from google.cloud import storage
 from google.oauth2 import service_account
 
-credentials_path = '../secrets/expertfinder-452203-3c0b81d81d3d.json'
-
- # Check if credentials file exists
-if os.path.exists(credentials_path):
-    print(f"✅ Credentials file found at: {credentials_path}")
-    print(f"File size: {os.path.getsize(credentials_path)} bytes")
-    try:
-        credentials = service_account.Credentials.from_service_account_file(credentials_path)
-        print("✅ Successfully loaded credentials from file")
-        storage_client = storage.Client(credentials=credentials)
-        print("✅ Created storage client with explicit credentials")
-    except Exception as e:
-        print(f"❌ Error loading credentials: {str(e)}")
-else:
-    print(f"❌ Credentials file NOT found at: {credentials_path}")
-    print(f"Current working directory: {os.getcwd()}")
-    print("Please check the path to your credentials file")
-    # Try to list files in the directory where credentials should be
-    try:
-        parent_dir = os.path.dirname(credentials_path)
-        if os.path.exists(parent_dir):
-            print(f"Files in {parent_dir}:")
-            for file in os.listdir(parent_dir):
-                print(f"  - {file}")
-        else:
-            print(f"Directory {parent_dir} does not exist")
-    except Exception as e:
-        print(f"Error listing directory: {str(e)}")
+# Initialize GCP client using environment credentials
+try:
+    storage_client = storage.Client()
+    print("✅ Successfully connected to GCP using environment credentials")
+except Exception as e:
+    print(f"❌ Error initializing GCP client: {str(e)}")
+    print("Make sure GOOGLE_APPLICATION_CREDENTIALS environment variable is set correctly")
+    exit(1)
 
 # GCP bucket configuration
 bucket_name = "expert-finder-bucket-1"
@@ -47,6 +27,7 @@ try:
 except Exception as e:
     print(f"❌ Error connecting to GCP bucket: {bucket_name}")
     print(f"Error details: {str(e)}")
+    exit(1)
 
 # GCP paths
 combined_csv_path = "linkedin_raw_data/data/combined_linkedin_searches.csv"
@@ -59,7 +40,8 @@ os.makedirs(temp_dir, exist_ok=True)
 
 # Authenticate using Linkedin credentials
 # api = Linkedin('3chamois-bifocal@icloud.com', 'cinnyn-surfix-8Cejji', refresh_cookies=True)
-api = Linkedin('99-rafter.balcony@icloud.com', 'howvon-peDra4-gaggeb')
+# api = Linkedin('99-rafter.balcony@icloud.com', 'howvon-peDra4-gaggeb', refresh_cookies=True)
+api = Linkedin('hjy.alder@outlook.com', 'Abced12sg!', refresh_cookies=True)
 
 # Download and read the combined CSV file from GCP
 temp_csv_path = "/tmp/combined_linkedin_searches.csv"
@@ -75,6 +57,7 @@ if processed_urns_blob.exists():
     with open(temp_urns_path, 'r') as f:
         processed_urns = set(f.read().splitlines())
     print(f"Found {len(processed_urns)} previously processed profiles")
+
 
 # ... existing error handling setup ...
 consecutive_errors = 0
@@ -96,7 +79,7 @@ start_time = time.time()
 # Process each URN
 for urn in urns_to_process:
     try:
-        delay = random.uniform(3, 15)
+        delay = random.uniform(10, 20)
         time.sleep(delay)
         
         profile = api.get_profile(urn_id=urn)
