@@ -4,6 +4,56 @@ linkedin_raw_data/data/
 # Ignore Jupyter Notebook files
 *.ipynb
 
+# System files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Database files
+*.sqlite3
+*.db
+
+# Data files
+backend/pubmed/data/
+backend/google_scholar/database/
+*.csv
+*.json
+*.xml
+*.gz
+
+# Virtual Environment
+venv/
+.env
+.venv
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Local test code
 get_profiles.py
 test_get_profiles.py

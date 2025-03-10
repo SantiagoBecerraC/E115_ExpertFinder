@@ -1,0 +1,27 @@
+networks:
+    default:
+        name: lexpert-finder-network
+        external: true
+services:
+    expert-finder:
+        image: expert-finder
+        container_name: expert-finder
+        volumes:
+            - ../../secrets:/secrets
+            - ../backend:/app
+        environment:
+            GOOGLE_APPLICATION_CREDENTIALS: $GOOGLE_APPLICATION_CREDENTIALS
+            GCP_PROJECT: $GCP_PROJECT
+        depends_on:
+            - chromadb
+    chromadb:
+        image: chromadb/chroma:latest
+        container_name: expert-finder-chromadb
+        ports:
+            - 8000:8000
+        volumes:
+            - ./docker-volumes/chromadb:/chroma/chroma
+        environment:
+            - IS_PERSISTENT=TRUE
+            - ANONYMIZED_TELEMETRY=FALSE
+            - CHROMA_SERVER_CORS_ALLOW_ORIGINS=["*"] # This is not recommended for production environments.
