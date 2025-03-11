@@ -37,6 +37,7 @@ class ChromaDBManager:
         print(env_path)
 
         load_dotenv(dotenv_path=env_path)
+        
         api_key = os.getenv('OPENAI_API_KEY')
         if not api_key:
             raise ValueError(

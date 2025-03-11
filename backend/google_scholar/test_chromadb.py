@@ -84,6 +84,43 @@ def sort_results_by_citations(results):
         reverse=True
     )
 
+def format_article_results(results):
+    """
+    Format article results in a clean, structured way.
+    
+    Args:
+        results: List of article results
+    """
+    print("\n" + "="*80)
+    print("ARTICLE SEARCH RESULTS")
+    print("="*80)
+    
+    for idx, result in enumerate(results, 1):
+        metadata = result['metadata']
+        
+        print(f"\nArticle {idx}:")
+        print("-"*40)
+        print(f"Title: {metadata['title']}")
+        print(f"Author: {metadata['author_name']}")
+        print(f"Year: {metadata['year']}")
+        print(f"Citations: {metadata['citations_count']}")
+        
+        # Print journal information
+        print("\nPublication Details:")
+        print(f"Journal: {metadata['publication_summary']}")
+        print(f"URL: {metadata['journal_url']}")
+        
+        # Print citation details
+        if 'citation_details' in metadata:
+            print("\nCitation:")
+            print(metadata['citation_details'])
+        
+        # Print content preview
+        print("\nContent Preview:")
+        print(f"{result['content'][:200]}...")
+        
+        print("\n" + "-"*80)
+
 def print_results(results, query=None, sort_by_citations=True):
     """
     Print search results in a formatted way.
@@ -105,17 +142,29 @@ def print_results(results, query=None, sort_by_citations=True):
         result_pairs = list(zip(results['documents'][0], results['metadatas'][0]))
         print("Results in relevance order:")
     
-    for idx, (doc, metadata) in enumerate(result_pairs):
-        print(f"\nResult {idx + 1}:")
-        print(f"Title: {metadata.get('title', 'N/A')}")
-        print(f"Year: {metadata.get('year', 'N/A')}")
-        print(f"Citations: {metadata.get('citations', 'N/A')}")
-        authors = metadata.get('authors', '').split('; ') if metadata.get('authors') else []
-        print(f"Authors: {', '.join(authors)}")
-        print(f"Query: {metadata.get('query', 'N/A')}")
-        print("\nContent Preview:")
-        print(doc[:300] + "..." if len(doc) > 300 else doc)
-        print("-" * 80)
+    for idx, (document, metadata) in enumerate(result_pairs, 1):
+        print(f"\nResult {idx}:")
+        print("-"*20)
+        
+        # Handle author type documents
+        if metadata.get('doc_type') == 'author':
+            print(f"Type: Author")
+            print(f"Author: {metadata.get('author', 'N/A')}")
+            print(f"Affiliations: {metadata.get('affiliations', 'N/A')}")
+            print(f"Interests: {metadata.get('interests', 'N/A')}")
+            print(f"Citations: {metadata.get('citations', 'N/A')}")
+            print(f"Number of Articles: {metadata.get('num_articles', 'N/A')}")
+        # Handle article type documents
+        else:
+            print(f"Type: Article")
+            print(f"Title: {metadata.get('title', 'N/A')}")
+            print(f"Author: {metadata.get('author_name', 'N/A')}")
+            print(f"Year: {metadata.get('year', 'N/A')}")
+            print(f"Citations: {metadata.get('citations_count', 'N/A')}")
+            print(f"Journal URL: {metadata.get('journal_url', 'N/A')}")
+        
+        # Print content preview
+        print(f"Content Preview: {document[:200]}...")
 
 def test_queries(collection):
     """
@@ -152,8 +201,12 @@ def test_queries(collection):
         }
     ]
     
+    print("\nRunning Test Queries:")
+    print("="*50)
+    
     for idx, query_info in enumerate(queries, 1):
         print(f"\n{idx}. {query_info['title']}")
+        print("-"*30)
         results = query_collection(
             collection,
             query_info['query']

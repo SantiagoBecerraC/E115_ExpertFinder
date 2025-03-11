@@ -23,8 +23,16 @@ api_key = os.getenv('OPENAI_API_KEY')
 
 def get_openai_api_key():
     """Get OpenAI API key from environment variables."""
-    # Try to load from .env file
-    load_dotenv()
+
+    # Load environment variables from the secrets folder at project root
+    current_file = Path(__file__)
+    project_root = current_file.parent.parent.parent.parent  # Go up four levels to reach EXPERTFINDER-UV1
+    env_path = project_root / 'secrets' / '.env'
+    
+    if not env_path.exists():
+        raise FileNotFoundError(f"Environment file not found at {env_path}. Please create a .env file in the secrets directory.")
+    
+    load_dotenv(dotenv_path=env_path)   
     
     # Get API key
     api_key = os.getenv('OPENAI_API_KEY')
@@ -39,6 +47,8 @@ class ChromaDBTool:
     """Tool for retrieving articles from ChromaDB."""
     
     def __init__(self, api_key, n_results=5):
+
+        
         self.name = "chromadb_search"
         self.n_results = n_results
         self.api_key = api_key
@@ -83,6 +93,7 @@ class ScholarAgent:
         """Retrieve articles from ChromaDB."""
         query = state['messages'][0].content
         results = self.tools['chromadb_search'].invoke(query)
+        print(results)
         return {'messages': [HumanMessage(content=str(results))]}
     
     def summarize_content(self, state: AgentState):
@@ -107,9 +118,9 @@ class ScholarAgent:
         for article in results:
             metadata = article['metadata']
             output = {
-                'author': metadata.get('authors', 'N/A'),
-                'citations': metadata.get('citations', '0'),
-                'website': metadata.get('url', 'N/A'),
+                'author': metadata.get('author_name', 'N/A'),
+                'citations': metadata.get('citations_count', '0'),
+                'website': metadata.get('website', 'N/A'),
                 'summary': article['summary']
             }
             formatted_output.append(output)
@@ -154,6 +165,7 @@ if __name__ == "__main__":
         print("=" * 80)
         
         for i, output in enumerate(outputs, 1):
+            print(output)
             print(f"\nResult {i}:")
             print(f"Authors: {output['author']}")
             print(f"Citations: {output['citations']}")
