@@ -22,37 +22,62 @@ This project contains code for extracting and analyzing data from LinkedIn using
 
 - GCP Integration:
   - Store search results in Google Cloud Storage
-  - Sync local files with GCP bucket
   - Consolidate search data into a single dataset
+  - Store detailed profile information
+
+## Docker Setup
+
+### Building the Docker Image
+
+Build the Docker image from the project directory:
+
+```bash
+# Navigate to the project directory
+cd linkedin_raw_data
+
+# Build the Docker image
+docker build -t linkedin-raw-data .
+```
+
+### Running the Docker Container
+
+The container requires your GCP credentials to be mounted as a volume. Run the container in interactive mode:
+
+```bash
+docker run -it -v /path/to/your/credentials.json:/app/secrets.json linkedin-raw-data
+```
+
+Replace `/path/to/your/credentials.json` with the actual path to your GCP service account key file.
 
 ## Usage
 
 ### Search for LinkedIn Profiles
 
 ```bash
-python linkedin_raw_data/search_profiles_gcp.py keyword1 keyword2 ... [--region REGION_CODE]
+# Inside the Docker container
+python search_profiles_gcp.py keyword1 keyword2 ... [--region REGION_CODE]
 ```
 
 Examples:
 ```bash
 # Search with keywords in default region (USA)
-python linkedin_raw_data/search_profiles_gcp.py machine learning data science
+python search_profiles_gcp.py machine learning data science
 
 # Search with keywords in a specific region (UK)
-python linkedin_raw_data/search_profiles_gcp.py machine learning data science --region 101452733
+python search_profiles_gcp.py machine learning data science --region 101452733
 
 # Show help and available regions
-python linkedin_raw_data/search_profiles_gcp.py --help
+python search_profiles_gcp.py --help
 ```
 
 ### Consolidate Search Results
 
 ```bash
-python linkedin_raw_data/consolidate_people_gcp.py
+# Inside the Docker container
+python consolidate_people_gcp.py
 ```
 
 This script:
-- Syncs with GCP bucket to get the latest search files
 - Processes new search files and extracts user information
 - Combines data into a single CSV file
 - Uploads the consolidated data back to GCP
@@ -60,37 +85,33 @@ This script:
 ### Extract Detailed Profile Information
 
 ```bash
-python linkedin_raw_data/get_profiles.py
+# Inside the Docker container
+python get_profiles_gcp.py
 ```
 
 This script:
 - Reads the consolidated CSV file
 - Retrieves detailed profile information for each user
-- Saves individual profile data as JSON files
+- Saves individual profile data as JSON files in GCP
 - Tracks processed profiles to avoid duplicates
+
 
 ## GCP Integration
 
 The project uses Google Cloud Storage to store and manage LinkedIn data:
 
 1. Search results are stored in the GCP bucket
-2. Local and GCP files are synchronized
-3. Consolidated data is stored in the GCP bucket
-4. Authentication uses service account credentials
+2. Consolidated data is stored in the GCP bucket
+3. Authentication uses service account credentials mounted as a volume
 
 ## Requirements
 
-- Python 3.x
+All requirements are included in the Docker image. If running locally:
+
+- Python 3.12
 - pandas
 - linkedin_api
 - google-cloud-storage
-- google-auth
-
-## Installation
-
-```bash
-pip install pandas numpy linkedin_api google-cloud-storage google-auth
-```
 
 ## Note
 

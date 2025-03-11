@@ -53,3 +53,7 @@ ENV/
 .vscode/
 *.swp
 *.swo
+
+# Local test code
+get_profiles.py
+test_get_profiles.py
