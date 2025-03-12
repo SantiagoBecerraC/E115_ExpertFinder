@@ -1,5 +1,5 @@
 # Use the official Debian-hosted Python image
-FROM python:3.13-slim-bullseye  
+FROM python:3.11.5-bookworm 
 
 # Tell pipenv where the shell is. 
 # This allows us to use "pipenv shell" as a container entry point.

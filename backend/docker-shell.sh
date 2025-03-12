@@ -7,6 +7,7 @@ set -e
 export BASE_DIR=$(pwd)
 export PERSISTENT_DIR=$(pwd)/../database/
 export SECRETS_DIR=$(pwd)/../../secrets/
+export DATA_DIR=$(pwd)/../google-scholar-data/
 export GCP_PROJECT="l02-virtual-machine" # CHANGE TO YOUR PROJECT ID
 export GOOGLE_APPLICATION_CREDENTIALS="/secrets/llm-service-account.json"
 export IMAGE_NAME="expert-finder"
