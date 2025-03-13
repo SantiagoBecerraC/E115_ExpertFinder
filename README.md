@@ -1,6 +1,7 @@
-# ExpertFinder
+# ExpertFinder - Milestone 2
+**Team Members:** Santiago Becerra, Umapathy Bhakthavatsulu, Jinyu Han
 
-Expert finder system using LinkedIn data, Google Scholar, PubMed, and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system combines data from various professional and academic sources, using RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
+For this milestone, our expert finder system is using LinkedIn and Google Scholar data, and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system combines data from various professional and academic sources, using RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
 
 ## System Components
 
