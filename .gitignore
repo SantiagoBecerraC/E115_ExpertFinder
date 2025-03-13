@@ -1,5 +1,6 @@
 # Exclude LinkedIn raw data
 linkedin_raw_data/data/
+chroma_db
 
 # Ignore Jupyter Notebook files
 *.ipynb
@@ -47,6 +48,7 @@ venv/
 .env
 .venv
 ENV/
+.venv/
 
 # IDE
 .idea/
