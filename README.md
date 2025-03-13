@@ -1,6 +1,6 @@
 # ExpertFinder
 
-Expert finder system using LinkedIn data, Google Scholar, PubMed, and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system combines data from various professional and academic sources, using RAG (Retrieval-Augmented Generation) and clustering algorithms for effective expert search and ranking.
+Expert finder system using LinkedIn data, Google Scholar, PubMed, and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system combines data from various professional and academic sources, using RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
 
 ## System Components
 
