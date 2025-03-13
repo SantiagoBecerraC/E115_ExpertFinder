@@ -5,11 +5,11 @@ For this milestone, our expert finder system is using LinkedIn and Google Schola
 
 ## System Components
 
-### [LinkedIn Data Pipeline](./linkedin_raw_data)
+### LinkedIn Data Pipeline
 
 The LinkedIn component consists of two main parts:
 
-1. **Data Extraction**: 
+1. **[Data Extraction](./linkedin_raw_data)**: 
    - Extracts user profiles using the unofficial LinkedIn API
    - Supports keyword and region-based searching
    - Consolidates and stores data in GCP
