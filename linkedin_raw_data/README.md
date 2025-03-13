@@ -27,7 +27,45 @@ This project contains code for extracting and analyzing data from LinkedIn using
 
 ## Docker Setup
 
-### Building the Docker Image
+### Configuration Requirements
+
+Before running the scripts, you need to configure:
+
+1. GCP Bucket Name:
+   - Update the `bucket_name` variable in:
+     - `get_profiles_gcp.py`
+     - `consolidate_people_gcp.py`
+     - `search_profiles_gcp.py`
+   - Replace with your own GCP bucket name
+
+2. LinkedIn Credentials (Optional):
+   - To use your own LinkedIn account for testing:
+     - Update credentials in `get_profiles_gcp.py` (line 44)
+     - Update credentials in `search_profiles_gcp.py` (line 183)
+   - ⚠️ Warning: Be mindful of LinkedIn's rate limiting when using your credentials
+   - *Note: a better implementation to test with your own credentials will be added in future MS*
+
+### Option 1: Using docker-shell script (Recommended)
+
+The easiest way to build and run the container is using the provided shell script:
+
+```bash
+# Make sure you're inside the project folder
+cd linkedin_raw_data
+
+# Run the script
+sh docker-shell.sh
+```
+
+The script will:
+1. Build the Docker image automatically
+2. Prompt for your GCP credentials file path (with a default option)
+3. Mount both the credentials and the current directory
+4. Run the container in interactive mode
+
+### Option 2: Manual Docker Commands
+
+#### Building the Docker Image
 
 Build the Docker image from the project directory:
 
@@ -38,6 +76,7 @@ cd linkedin_raw_data
 # Build the Docker image
 docker build -t linkedin-raw-data .
 ```
+
 
 ### Running the Docker Container
 

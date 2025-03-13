@@ -19,15 +19,59 @@ The system consists of two main components:
 
 ## Docker Installation
 
-1. Build the Docker image:
-   ```bash
-   docker build -t linkedin-data-processing .
-   ```
+### Configuration Requirements
 
-2. Run the container:
-   ```bash
-   docker run -it -v /path/to/your/credentials.json:/app/secrets.json linkedin-data-processing
-   ```
+Before running the scripts, you need to configure:
+
+- GCP Bucket Name:
+   - Update the `bucket_name` variable in:
+     - `process_linkedin_profiles.py`
+     - `expert_finder_linkedin.py`
+   - Replace with your own GCP bucket name
+
+
+### Option 1: Using docker-shell script (Recommended)
+
+The easiest way to build and run the container is using the provided shell script:
+
+```bash
+# Make sure you're inside the project folder
+cd linkedin_data_processing
+
+# Run the script
+sh docker-shell.sh
+```
+
+The script will:
+1. Build the Docker image automatically
+2. Prompt for your GCP credentials file path (with a default option)
+3. Mount both the credentials and the current directory
+4. Run the container in interactive mode
+
+### Option 2: Manual Docker Commands
+
+#### Building the Docker Image
+
+Build the Docker image from the project directory:
+
+```bash
+# Navigate to the project directory
+cd linkedin_data_processing
+
+# Build the Docker image
+docker build -t linkedin-data-processing .
+```
+
+
+### Running the Docker Container
+
+The container requires your GCP credentials to be mounted as a volume. Run the container in interactive mode:
+
+```bash
+docker run -it -v /path/to/your/credentials.json:/app/secrets.json linkedin-data-processing
+```
+
+Replace `/path/to/your/credentials.json` with the actual path to your GCP service account key file.
 
 ## Profile Processing Pipeline
 
