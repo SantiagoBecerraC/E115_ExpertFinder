@@ -25,7 +25,6 @@ The LinkedIn component consists of two main parts:
 The backend provides additional data sources and processing capabilities:
 
 - **Google Scholar Integration**: Collects and processes academic profile data
-- **PubMed Integration**: Analyzes scientific publications and author data
 - **Agent System**: LLM-powered agents for intelligent expert finding
 - **Vector Search**: ChromaDB integration for efficient similarity search
 
@@ -52,7 +51,6 @@ The system uses a modular architecture with the following key components:
 1. **Data Collection Layer**:
    - LinkedIn profile extraction
    - Google Scholar data collection
-   - PubMed publication analysis
 
 2. **Processing Layer**:
    - Profile structuring and enrichment
