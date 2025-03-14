@@ -3,6 +3,8 @@
 
 For this milestone, our expert finder system is using LinkedIn and Google Scholar data, and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system combines data from various professional and academic sources, using RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
 
+Please refer to this [Notion - Snapshots (MS2)](https://bece.notion.site/ExpertFinder-MS2-1b6c9d12d67f80c7a3c8d09b0a282ae3) page to find more documentation on the Milestone 2 submission. Here you can find all the snapshots, the wire frame, as well as more detail on the DVC strategy. 
+
 ## System Components
 
 ### LinkedIn Data Pipeline
