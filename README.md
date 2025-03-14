@@ -99,6 +99,19 @@ The system uses a modular architecture with the following key components:
 # Next Steps
 Right now, both data sources have their own independent RAG workflow. Fur future milestones, we want to integrate both data sources to have a more comprehensive and robust expert list, improving the reliability of the results.
 
+# Data Version Control Strategy
+## Overview - Data Evolution Plan
+- Initial Dataset: Track the baseline collection of LinkedIn and Google Scholar profiles.
+- Incremental Updates, add new expert profiles as we perform additional searches: the baseline dataset will increase overtime, but there will be no modification to the raw data. This is the case as we do not anticipate the APIs having any significant change to their output structure, which is why the raw data will only increase when we scrape new profiles and fetch new articles, but the underlying structure of this data will not change.
+- Metadata Enhancements: Improve profile metadata for better filtering capabilities: we will track the changes to the metadata in a simple json file, indicating the structure of the metadata as we improve it.
+- Dataset Merging: This is perhaps the most important data change we anticipate, once we are able to combine both datasets we have right now (LinkedIn and Google Scholar) for enhanced and better retrieval.
+
+## Benefits
+- Maintain reproducibility across all data processing steps
+- Track data lineage as the expert database grows
+- Enable easy rollback to previous dataset versions if needed
+- Optimize storage by tracking only changes between versions
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
