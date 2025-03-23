@@ -169,7 +169,7 @@ if __name__ == "__main__":
     query = "XXXX"  # Search query
     start_year = "2022"  # Start year for filtering
     end_year = "2025"  # End year for filtering
-    num_results = 50  # Total results to fetch
+    num_results = 20  # Total results to fetch
     results_per_page = 10  # Results per page (max 20)
 
     # Example usage:

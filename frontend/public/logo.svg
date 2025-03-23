@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Magnifying Glass Handle -->
+  <path d="M75 75L60 60" stroke="#2B95D6" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Magnifying Glass Circle -->
+  <circle cx="45" cy="45" r="25" fill="white" stroke="#2B95D6" stroke-width="4"/>
+  
+  <!-- Brain Design Inside Circle -->
+  <path d="M45 30C39 30 35 34 35 39C35 44 39 46 39 46C39 46 37 48 37 51C37 54 40 56 45 56C50 56 53 54 53 51C53 48 51 46 51 46C51 46 55 44 55 39C55 34 51 30 45 30Z" fill="#FFB800"/>
+  
+  <!-- Brain Details -->
+  <path d="M45 34C42 34 40 36 40 39C40 42 42 43 42 43" stroke="#F97316" stroke-width="2" stroke-linecap="round"/>
+  <path d="M45 34C48 34 50 36 50 39C50 42 48 43 48 43" stroke="#F97316" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Connection Lines -->
+  <path d="M42 43C42 43 41 45 41 47C41 49 43 51 45 51" stroke="#F97316" stroke-width="2" stroke-linecap="round"/>
+  <path d="M48 43C48 43 49 45 49 47C49 49 47 51 45 51" stroke="#F97316" stroke-width="2" stroke-linecap="round"/>
+</svg> 

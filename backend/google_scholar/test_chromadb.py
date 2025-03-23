@@ -4,21 +4,40 @@ Script to test and demonstrate ChromaDB query capabilities on the Google Scholar
 
 import os
 from pathlib import Path
-import chromadb
-from chromadb.utils import embedding_functions
+import sys
+import logging
+from typing import Dict, Any, List
 from dotenv import load_dotenv
+
+# Add parent directory to Python path to allow imports from utils
+sys.path.append(str(Path(__file__).parent.parent))
+from utils.chroma_db_utils import ChromaDBManager
+
+# Setup logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 def initialize_chromadb():
     """
-    Initialize ChromaDB client and get the collection with embedding function.
+    Initialize ChromaDB manager.
     
     Returns:
-        tuple: (ChromaDB collection, embedding function)
+        ChromaDBManager instance
     """
     # Load environment variables from the secrets folder at project root
     current_file = Path(__file__)
-    project_root = current_file.parent.parent.parent.parent  # Go up four levels to reach EXPERTFINDER-UV1
+    project_root = current_file.parent.parent.parent.parent
     env_path = project_root / 'secrets' / '.env'
+    
+    # Print paths for debugging
+    logger.info(f"Current file path: {current_file}")
+    logger.info(f"Project root path: {project_root}")
+    logger.info(f"Environment file path: {env_path}")
+    
+    # Print ChromaDB path
+    db_path = project_root / 'chromadb'
+    logger.info(f"ChromaDB path: {db_path}")
+    logger.info(f"ChromaDB path exists: {db_path.exists()}")
     
     if not env_path.exists():
         raise FileNotFoundError(f"Environment file not found at {env_path}. Please create a .env file in the secrets directory.")
@@ -29,219 +48,223 @@ def initialize_chromadb():
     if not api_key:
         raise ValueError("OPENAI_API_KEY environment variable is not set")
     
-    # Initialize ChromaDB client
-    db_path = project_root / 'chromadb'
-    client = chromadb.PersistentClient(path=str(db_path))
+    # Initialize ChromaDB manager
+    db_manager = ChromaDBManager(collection_name="google_scholar", n_results=10)
     
-    # Create embedding function
-    embedding_function = embedding_functions.OpenAIEmbeddingFunction(
-        api_key=api_key,
-        model_name="text-embedding-ada-002"
-    )
+    # Print detailed collection info
+    try:
+        collection = db_manager.collection
+        logger.info(f"Collection name: {collection.name}")
+        logger.info(f"Collection metadata: {collection.metadata}")
+        count = collection.count()
+        logger.info(f"Collection document count: {count}")
+        
+        # Get a sample of documents to verify metadata structure
+        if count > 0:
+            logger.info("\nVerifying collection metadata structure...")
+            results = collection.get(limit=5)
+            
+            if results and results['metadatas']:
+                logger.info("\nSample document metadata:")
+                for i, metadata in enumerate(results['metadatas'][:5]):
+                    logger.info(f"\nDocument {i + 1}:")
+                    logger.info(f"Document type: {metadata.get('doc_type', 'Missing doc_type')}")
+                    logger.info(f"Available fields: {list(metadata.keys())}")
+                    
+                    # Check expected fields based on document type
+                    if metadata.get('doc_type') == 'author':
+                        expected_fields = ['author', 'affiliations', 'interests', 'citations', 'website']
+                    else:  # website_content or journal_content
+                        expected_fields = ['author', 'url', 'chunk_index', 'doc_type']
+                        
+                    missing_fields = [field for field in expected_fields if field not in metadata]
+                    if missing_fields:
+                        logger.warning(f"Missing expected fields for {metadata.get('doc_type', 'unknown type')}: {missing_fields}")
+                    
+                    # Check field types
+                    for key, value in metadata.items():
+                        logger.info(f"Field '{key}' type: {type(value).__name__}")
+                        
+            else:
+                logger.error("Could not retrieve sample documents from collection")
+                
+    except Exception as e:
+        logger.error(f"Error inspecting collection: {str(e)}")
     
-    # Get collection with embedding function
-    collection = client.get_collection(
-        name="google_scholar",
-        embedding_function=embedding_function
-    )
-    
-    return collection, embedding_function
+    return db_manager
 
-def query_collection(collection, query_text, n_results=5):
+def query_collection(db_manager: ChromaDBManager, query_text: str, n_results: int = 5) -> List[Dict[str, Any]]:
     """
-    Query the collection with proper embedding handling.
+    Query the collection using ChromaDBManager.
     
     Args:
-        collection: ChromaDB collection
+        db_manager: ChromaDBManager instance
         query_text: Text to search for
         n_results: Number of results to return
         
     Returns:
-        Query results
+        List of query results with processed metadata
     """
-    return collection.query(
-        query_texts=[query_text],
-        n_results=n_results
-    )
+    try:
+        logger.info(f"Querying ChromaDB with: {query_text}")
+        results = db_manager.query(query_text, n_results=n_results)
+        logger.info(f"Got {len(results)} results from ChromaDB")
+        if not results:
+            logger.warning("No results returned from query")
+        return results
+    except Exception as e:
+        logger.error(f"Error querying collection: {str(e)}")
+        return []
 
-def sort_results_by_citations(results):
+def print_author_result(result: Dict[str, Any], index: int):
+    """Print formatted author result."""
+    print(f"\nAuthor Result {index}:")
+    print("-"*40)
+    print(f"Author: {result['metadata'].get('author', 'N/A')}")
+    print(f"Affiliations: {result['metadata'].get('affiliations', 'N/A')}")
+    print(f"Interests: {result['metadata'].get('interests', 'N/A')}")
+    print(f"Citations: {result['metadata'].get('citations', '0')}")
+    if result['metadata'].get('website'):
+        print(f"Website: {result['metadata']['website']}")
+    print(f"\nContent Preview:")
+    print(f"{result['content'][:200]}...")
+
+def print_content_result(result: Dict[str, Any], index: int):
+    """Print formatted content result."""
+    print(f"\nContent Result {index}:")
+    print("-"*40)
+    print(f"Type: {result['metadata'].get('doc_type', 'N/A')}")
+    print(f"Author: {result['metadata'].get('author', 'N/A')}")
+    print(f"URL: {result['metadata'].get('url', 'N/A')}")
+    print(f"Chunk Index: {result['metadata'].get('chunk_index', 'N/A')}")
+    print(f"\nContent Preview:")
+    print(f"{result['content'][:200]}...")
+
+def run_test_queries(db_manager: ChromaDBManager):
     """
-    Sort results by citation count in descending order.
+    Run various test queries using ChromaDBManager.
     
     Args:
-        results: ChromaDB query results
-        
-    Returns:
-        Sorted results as list of tuples (document, metadata)
+        db_manager: ChromaDBManager instance
     """
-    # Create list of (doc, metadata) tuples
-    result_pairs = list(zip(results['documents'][0], results['metadatas'][0]))
-    
-    # Sort by citations (convert to int, default to 0 if not available)
-    return sorted(
-        result_pairs,
-        key=lambda x: int(x[1].get('citations', '0')),
-        reverse=True
-    )
+    # First, verify the collection exists and has documents
+    try:
+        count = db_manager.collection.count()
+        logger.info(f"Collection has {count} documents")
+        if count == 0:
+            logger.error("Collection is empty! Please run scrape_and_store.py first")
+            return
+    except Exception as e:
+        logger.error(f"Error accessing collection: {str(e)}")
+        return
 
-def format_article_results(results):
-    """
-    Format article results in a clean, structured way.
-    
-    Args:
-        results: List of article results
-    """
-    print("\n" + "="*80)
-    print("ARTICLE SEARCH RESULTS")
-    print("="*80)
-    
-    for idx, result in enumerate(results, 1):
-        metadata = result['metadata']
-        
-        print(f"\nArticle {idx}:")
-        print("-"*40)
-        print(f"Title: {metadata['title']}")
-        print(f"Author: {metadata['author_name']}")
-        print(f"Year: {metadata['year']}")
-        print(f"Citations: {metadata['citations_count']}")
-        
-        # Print journal information
-        print("\nPublication Details:")
-        print(f"Journal: {metadata['publication_summary']}")
-        print(f"URL: {metadata['journal_url']}")
-        
-        # Print citation details
-        if 'citation_details' in metadata:
-            print("\nCitation:")
-            print(metadata['citation_details'])
-        
-        # Print content preview
-        print("\nContent Preview:")
-        print(f"{result['content'][:200]}...")
-        
-        print("\n" + "-"*80)
-
-def print_results(results, query=None, sort_by_citations=True):
-    """
-    Print search results in a formatted way.
-    
-    Args:
-        results: ChromaDB query results
-        query: Search query used (optional)
-        sort_by_citations: Whether to sort results by citation count
-    """
-    if query:
-        print(f"\nResults for query: '{query}'")
-    print(f"Found {len(results['ids'][0])} matches\n")
-    
-    # Sort results if requested
-    if sort_by_citations:
-        result_pairs = sort_results_by_citations(results)
-        print("Results sorted by citation count (highest to lowest):")
-    else:
-        result_pairs = list(zip(results['documents'][0], results['metadatas'][0]))
-        print("Results in relevance order:")
-    
-    for idx, (document, metadata) in enumerate(result_pairs, 1):
-        print(f"\nResult {idx}:")
-        print("-"*20)
-        
-        # Handle author type documents
-        if metadata.get('doc_type') == 'author':
-            print(f"Type: Author")
-            print(f"Author: {metadata.get('author', 'N/A')}")
-            print(f"Affiliations: {metadata.get('affiliations', 'N/A')}")
-            print(f"Interests: {metadata.get('interests', 'N/A')}")
-            print(f"Citations: {metadata.get('citations', 'N/A')}")
-            print(f"Number of Articles: {metadata.get('num_articles', 'N/A')}")
-        # Handle article type documents
-        else:
-            print(f"Type: Article")
-            print(f"Title: {metadata.get('title', 'N/A')}")
-            print(f"Author: {metadata.get('author_name', 'N/A')}")
-            print(f"Year: {metadata.get('year', 'N/A')}")
-            print(f"Citations: {metadata.get('citations_count', 'N/A')}")
-            print(f"Journal URL: {metadata.get('journal_url', 'N/A')}")
-        
-        # Print content preview
-        print(f"Content Preview: {document[:200]}...")
-
-def test_queries(collection):
-    """
-    Run various test queries on the collection.
-    
-    Args:
-        collection: ChromaDB collection
-    """
-    queries = [
+    test_queries = [
         {
-            "title": "Basic Semantic Search - Machine Learning Research",
-            "query": "recent advances in machine learning and artificial intelligence",
-            "description": "recent advances in machine learning and AI"
+            "title": "Author Search - Machine Learning Experts",
+            "query": "machine learning artificial intelligence",
+            "filter": lambda x: x['metadata'].get('doc_type') == 'author'
         },
         {
-            "title": "Specific Topic Search - Deep Learning Neural Networks",
-            "query": "deep learning neural networks for computer vision",
-            "description": "deep learning neural networks for computer vision"
+            "title": "Website Content Search",
+            "query": "research projects and publications",
+            "filter": lambda x: x['metadata'].get('doc_type') == 'website_content'
         },
         {
-            "title": "Research Methodology Search",
-            "query": "experimental research methodology and empirical studies",
-            "description": "research methodology and empirical studies"
-        },
-        {
-            "title": "Application Domain Search - Healthcare",
-            "query": "machine learning applications in healthcare and medical diagnosis",
-            "description": "ML in healthcare and medical diagnosis"
-        },
-        {
-            "title": "Interdisciplinary Research",
-            "query": "intersection of machine learning with other scientific fields",
-            "description": "ML intersection with other sciences"
+            "title": "Journal Content Search",
+            "query": "deep learning neural networks",
+            "filter": lambda x: x['metadata'].get('doc_type') == 'journal_content'
         }
     ]
     
     print("\nRunning Test Queries:")
     print("="*50)
     
-    for idx, query_info in enumerate(queries, 1):
-        print(f"\n{idx}. {query_info['title']}")
-        print("-"*30)
-        results = query_collection(
-            collection,
-            query_info['query']
-        )
-        print_results(results, query_info['description'])
+    for query_info in test_queries:
+        print(f"\n{query_info['title']}")
+        print("-"*40)
+        
+        # Get results
+        results = query_collection(db_manager, query_info['query'], n_results=10)
+        logger.info(f"Total results before filtering: {len(results)}")
+        
+        # Filter results by type
+        filtered_results = [r for r in results if query_info['filter'](r)]
+        logger.info(f"Results after filtering by doc_type: {len(filtered_results)}")
+        
+        if results and not filtered_results:
+            # Log the document types we got to help debug filtering
+            doc_types = [r['metadata'].get('doc_type') for r in results]
+            logger.info(f"Document types in results: {set(doc_types)}")
+        
+        # Sort by citations
+        try:
+            filtered_results.sort(
+                key=lambda x: int(x['metadata'].get('citations', '0')), 
+                reverse=True
+            )
+        except (ValueError, TypeError) as e:
+            logger.warning(f"Could not sort by citations - {str(e)}")
+            if filtered_results:
+                # Log some citation values to help debug
+                citations = [r['metadata'].get('citations') for r in filtered_results[:3]]
+                logger.warning(f"Sample citation values: {citations}")
+        
+        # Print results
+        if not filtered_results:
+            print("No matching results found.")
+            continue
+            
+        for i, result in enumerate(filtered_results[:3], 1):
+            if result['metadata'].get('doc_type') == 'author':
+                print_author_result(result, i)
+            else:
+                print_content_result(result, i)
+        
+        print("\n" + "="*50)
 
 def main():
     """
     Main function to run ChromaDB tests.
     """
     try:
-        print("Initializing ChromaDB...")
-        collection, _ = initialize_chromadb()
+        logger.info("Initializing ChromaDB...")
+        db_manager = initialize_chromadb()
         
-        # Get collection stats
-        print("\nCollection Information:")
-        count = collection.count()
-        print(f"Total documents in collection: {count}")
+        # Get collection stats and verify database setup
+        try:
+            count = db_manager.collection.count()
+            logger.info(f"Total documents in collection: {count}")
+            if count == 0:
+                logger.error("ChromaDB collection is empty! Please run scrape_and_store.py first")
+                return
+                
+            # Try to get a sample document to verify data structure
+            results = db_manager.query("test", n_results=1)
+            if results:
+                logger.info("Sample document metadata structure:")
+                logger.info(f"Metadata keys: {list(results[0]['metadata'].keys())}")
+                logger.info(f"Document type: {results[0]['metadata'].get('doc_type')}")
+            
+        except Exception as e:
+            logger.error(f"Error verifying database setup: {str(e)}")
+            return
         
         # Run test queries
-        test_queries(collection)
+        run_test_queries(db_manager)
         
-        print("\nAll tests completed successfully!")
+        logger.info("All tests completed successfully!")
         
     except FileNotFoundError as e:
-        print(f"\nError: {str(e)}")
-        print("Please ensure you have:")
-        print("1. Created a .env file with your OPENAI_API_KEY")
-        print("2. Run load_to_chromadb.py first to create and populate the database")
+        logger.error(f"File not found: {str(e)}")
+        logger.error("Please ensure you have:")
+        logger.error("1. Created a .env file with your OPENAI_API_KEY")
+        logger.error("2. Run scrape_and_store.py first to create and populate the database")
     except ValueError as e:
-        print(f"\nError: {str(e)}")
-        print("Please set your OPENAI_API_KEY in the .env file")
+        logger.error(f"Configuration error: {str(e)}")
+        logger.error("Please set your OPENAI_API_KEY in the .env file")
     except Exception as e:
-        print(f"\nError testing ChromaDB: {str(e)}")
-        print("If this is an OpenAI API error, please check your API key configuration.")
+        logger.error(f"Error testing ChromaDB: {str(e)}")
+        logger.error("If this is an OpenAI API error, please check your API key configuration.")
 
 if __name__ == "__main__":
     main() 

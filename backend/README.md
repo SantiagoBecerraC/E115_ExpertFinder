@@ -1,94 +1,68 @@
-# ExpertFinder Backend
+# Expert Finder API
 
-This is the backend service for the ExpertFinder system, which processes and analyzes expert profiles using data from Google Scholar and PubMed, powered by LLMs and vector search capabilities.
+This is the backend API for the Expert Finder application, which provides endpoints to search for experts from various sources.
 
-## 🏗 Architecture
+## Setup
 
-The backend consists of several key components:
-
-- **Google Scholar Module** (`/google_scholar/`): Handles data collection and processing from Google Scholar profiles
-- **PubMed Module** (`/pubmed/`): Processes scientific publications and author data from PubMed
-- **Agent System** (`/agent/`): Implements LLM-powered agents for intelligent expert finding
-- **Utils** (`/utils/`): Common utilities and helper functions
-- **ChromaDB Integration**: Vector database for efficient similarity search and retrieval
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Docker and Docker Compose
-- Python 3.13
-- GCP credentials (for Google Scholar data collection)
-- OpenAI API key (for LLM functionality)
-
-### Environment Setup
-
-1. Clone the repository and navigate to the backend directory:
+1. Make sure you're in the backend directory:
 ```bash
 cd backend
 ```
 
-2. Set up environment variables:
-Create a `.env` file with the following variables:
-```env
-GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/credentials.json
-GCP_PROJECT=your-gcp-project-id
-OPENAI_API_KEY=your-openai-api-key
-```
-
-3. Start the services using Docker:
+2. Activate the virtual environment:
 ```bash
-./docker-shell.sh
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-This will start both the ExpertFinder backend service and the ChromaDB instance.
-
-## 📦 Dependencies
-
-The project uses Pipenv for dependency management. Key dependencies include:
-
-- `langchain` & `langchain-openai`: For LLM integration and agent orchestration
-- `chromadb`: Vector database for semantic search
-- `google-search-results`: SerpAPI integration for Google Scholar data
-- `pandas`: Data processing and manipulation
-- `openai`: OpenAI API integration
-- `xmltodict`: XML processing for PubMed data
-- `python-dotenv`: Environment variable management
-
-## 🗄️ Project Structure
-
-```
-backend/
-├── agent/                 # LLM-powered agent implementation
-├── google_scholar/        # Google Scholar data collection and processing
-├── pubmed/               # PubMed data integration
-├── utils/                # Shared utilities
-├── Dockerfile            # Container configuration
-├── docker-compose.yml    # Service orchestration
-├── Pipfile              # Python dependencies
-└── docker-shell.sh      # Development environment setup
-```
-
-## 🔧 Configuration
-
-### ChromaDB Setup
-
-The system uses ChromaDB as its vector database, configured with:
-- Persistence enabled
-- CORS allowed for development
-- Default port: 8000
-
-Configure ChromaDB settings in `docker-compose.yml`:
-```yaml
-environment:
-    - IS_PERSISTENT=TRUE
-    - ANONYMIZED_TELEMETRY=FALSE
-    - CHROMA_SERVER_CORS_ALLOW_ORIGINS=["*"]
-```
-
-### Docker Network
-
-The services run on a custom Docker network `lexpert-finder-network`. Create it using:
+3. Install dependencies:
 ```bash
-docker network create lexpert-finder-network
+pip install -r requirements.txt
 ```
+
+## Running the Application
+
+1. Start the FastAPI server:
+```bash
+uvicorn main:app --reload
+```
+
+The API will be available at `http://localhost:8000`
+
+## API Endpoints
+
+### GET /
+Welcome message endpoint that provides API information and available endpoints.
+
+### POST /search
+Search for experts based on a query.
+
+Request body:
+```json
+{
+    "query": "your search query",
+    "max_results": 5  // optional, defaults to 5
+}
+```
+
+Response:
+```json
+[
+    {
+        "name": "Expert Name",
+        "title": "Expert Title",
+        "source": "linkedin|scholar",
+        "company": "Company Name",  // for LinkedIn
+        "location": "Location",     // for LinkedIn
+        "skills": ["skill1", "skill2"],  // for LinkedIn
+        "citations": 1000,         // for Google Scholar
+        "interests": ["interest1", "interest2"],  // for Google Scholar
+        "publications": 25         // for Google Scholar
+    }
+]
+```
+
+## API Documentation
+
+Once the server is running, you can access:
+- Interactive API docs (Swagger UI): `http://localhost:8000/docs`
+- Alternative API docs (ReDoc): `http://localhost:8000/redoc` 

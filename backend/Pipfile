@@ -14,8 +14,15 @@ openai = "*"
 langchain = "*"
 langgraph = "*"
 langchain-openai = "*"
+langchain-community = "*"
+bs4 = "*"
+torch = "*"
+transformers = "*"
+fastapi = "==0.109.2"
+uvicorn = "==0.27.1"
+sentence-transformers = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.13"
