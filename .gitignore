@@ -2,6 +2,13 @@
 linkedin_raw_data/data/
 chroma_db
 
+# Ignore secrets
+secrets/
+**/secrets/
+*.json
+!package.json
+!package-lock.json
+
 # Ignore Jupyter Notebook files
 *.ipynb
 
@@ -27,6 +34,7 @@ lib64/
 parts/
 sdist/
 var/
+wheels/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -39,16 +47,14 @@ var/
 backend/pubmed/data/
 backend/google_scholar/database/
 *.csv
-*.json
 *.xml
 *.gz
 
 # Virtual Environment
 venv/
-.env
-.venv
 ENV/
-.venv/
+.env
+.env.*
 
 # IDE
 .idea/
@@ -59,3 +65,22 @@ ENV/
 # Local test code
 get_profiles.py
 test_get_profiles.py
+
+# Project specific
+secrets/
+*.json
+!package.json
+!package-lock.json
+*.log
+*.csv
+!requirements.txt
+!Pipfile
+!Pipfile.lock
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# OS specific
+.DS_Store
+Thumbs.db
