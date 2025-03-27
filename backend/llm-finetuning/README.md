@@ -1,116 +1,144 @@
-# LLM Fine-tuning
+# LLM Finetuning Components
 
-In this tutorial go over approaches to fine LLM models. We will cover:
-* Creating a dataset for fine-tuning
-* Fine-tuning Gemini
+This directory contains components for creating training datasets and fine-tuning Gemini models for expert finding.
 
-## Prerequisites
-* Have Docker installed
-* Cloned this repository to your local machine
+## Directory Structure
 
-### Setup GCP Service Account
-- To set up a service account, go to the [GCP Console](https://console.cloud.google.com/home/dashboard), search for "Service accounts" in the top search box, or navigate to "IAM & Admin" > "Service accounts" from the top-left menu. 
-- Create a new service account called "llm-service-account." 
-- In "Grant this service account access to project" select:
-    - Storage Admin
-    - Vertex AI User
-- This will create a service account.
-- Click the service account and navigate to the tab "KEYS"
-- Click the button "ADD Key (Create New Key)" and Select "JSON". This will download a private key JSON file to your computer. 
-- Copy this JSON file into the **secrets** folder and rename it to `llm-service-account.json`.
-
-Your folder structure should look like this:
 ```
-   |-llm-finetuning
-   |-secrets
+-backend
+--llm-finetuning/
+├── dataset-creator/     # Creates training datasets from expert data
+├── gemini-finetuner/   # Handles Gemini model fine-tuning and chat
+├── images/             # Docker images for the components
+└── autotrain-runner/   # AutoTrain integration
+
+--secrets/ secrects-file.json # from GCP service account and set it to required name
+--env.dev
 ```
 
-## Generate Question Answer Dataset
+## Workflow
 
-### Run Container
-Run the startup script which makes building & running the container easy.
+1. First, use the dataset creator to generate training data
+2. Then, use the gemini finetuner to train and interact with the model
 
-- Make sure you are inside the `dataset-creator` folder and open a terminal at this location
-- Run `sh docker-shell.sh`
-- After container startup, test the shell by running `python cli.py --help`
+## Components
 
-### Generate Text
-- Run `python cli.py --generate` to generate expert finding QA dataset
-- Change any of the default parameters
+### Dataset Creator
+Generates training datasets for fine-tuning the Gemini model.
 
-#### System Prompt
+Available commands:
+- `--help`: Display help message and available commands
+- `--generate`: Generate training examples from expert data
+- `--upload`: Upload generated dataset to GCS bucket
 
-We setup a system prompt to help guide the LLM to build a diverse set of question answer pairs. The detail prompt can been seen in `cli.py`. Specifically look at how we ask the LLM to generate question answer pairs for expert finding:
+A complete workflow inclues:
 
-Example JSON Output:
-```json
-[
-  {
-    "question": "What is Dr. Anna Li's primary research focus based on her academic profile?",
-    "answer": "Based on the available profile information, Dr. Anna Li focuses her research on natural language processing, with a particular emphasis on multilingual language models and low-resource machine translation. Her recent publications include papers at ACL and EMNLP, and she has over 1,200 citations."
-  },
-  {
-    "question": "Can John Smith be considered an expert in data engineering?",
-    "answer": "According to the individual's professional background, John Smith has over eight years of experience in data engineering. He is currently a Lead Data Engineer at a Fortune 500 company and holds certifications in Apache Spark and Google Cloud Data Engineering. His LinkedIn profile highlights large-scale data pipeline development and real-time analytics systems."
-  }
-]
+1. update the data storage location:
+
+### Default Training Data Structure
+```
+your-bucket/
+└── llm_ft/
+    ├── train.jsonl
+    ├── test.jsonl
+    ├── train.csv
+    ├── test.csv
+    └── instruct-dataset.csv
+```
+2. use the following commend to create, prepare and upload the training&validation dataset
+
+```bash
+cd dataset-creator
+./docker-shell.sh
+python cli.py --help     # Verifying the app is running, show available commends
+python cli.py --generate # Generate training dataset
+python cli.py --prepare # prepare the file format for Gemini
+python cli.py --upload # upload to the project bucket.
 ```
 
-### Upload Dataset
-In this step we upload our dataset to a GCP bucket so we can using it in our downstream tasks.
+### Gemini Finetuner
+Handles model training and chat interactions.
 
-- Run `python cli.py --upload`
-
-## Fine-tune Gemini
-
-### Run Container
-Run the startup script which makes building & running the container easy.
-
-- Make sure you are inside the `gemini-finetuner` folder and open a terminal at this location
-- Run `sh docker-shell.sh`
-- After container startup, test the shell by running `python cli.py --help`
-
-### Fine-tune Model
-- Run `python cli.py --train` to fine-tune the Gemini model
-- Change any of the default parameters if needed
-
-You can view the status of your tuning job on [Vertex AI](https://console.cloud.google.com/vertex-ai/studio/tuning)
-
-### Cost of Fine-tuning
-Cost of fine-tuning model on Vertex AI:
-
-Gemini 1.5 Flash Tuning is 0.008 USD per 1,000 tokens. The below table shows examples of how much it would cost as you have more documents
-
-| Tokens    | Epochs | Total Tokens | Price per 1000 | Cost     | # Documents     |
-|-----------|--------|--------------|----------------|----------|-----------------|
-| 4,697,472 | 3      | 14,092,416   | $0.008         | $112.73  | 16,444 ***      |  
-| 23,874    | 3      | 71,622       | $0.008         | $0.573   | 88              |
-
-*** Way too much data for this fine tuning!
-
-Refer to Vertex AI Pricing for various tasks at their [pricing page](https://cloud.google.com/vertex-ai/generative-ai/pricing)
-
-### Chat with Fine-tuned Model
-- Run `python cli.py --chat`
-
-This will:
-* Takes a sample query
-* Ask fine tuned LLM for a response
-
-Example:
-```
-Who are the top researchers in natural language processing at Harvard?
-
-Fine-tuned LLM Response: 
-
-Based on the available profile information, several researchers at Harvard have made significant contributions to natural language processing. Dr. Stuart Shieber, Professor of Computer Science, has led research in computational linguistics and machine translation. Dr. Alexander Rush, Assistant Professor, focuses on neural networks and natural language generation. Dr. Barbara Grosz, Higgins Professor of Natural Sciences, has pioneered work in dialogue systems and computational linguistics. Their combined expertise spans theoretical foundations, practical applications, and interdisciplinary approaches to NLP.
+```bash
+cd gemini-finetuner
+./docker-shell.sh
+python cli.py --help     # View available commands
+python cli.py --train    # Train the model
+python cli.py --chat     # Chat with the model
 ```
 
-If you go to [Vertex AI Tuning](https://console.cloud.google.com/vertex-ai/studio/tuning) you can view all the detail from training.
+`--chat`: Initiates an interactive chat session with the fine-tuned model. The command will:
+1. Display detailed debug logs showing model connection and endpoint information
+2. Start an interactive terminal-based chat interface
+3. Process user inputs and display model responses
+4. Exit the chat session when 'exit', 'quit', or 'bye' is entered
 
-Training Monitor:
-<img src="images/training-1.png"  width="800">
+Available commands:
+- `--help`: Display help message and available commands
+- `--train`: Start model training process
+- `--train --wait`: Start training and wait for completion
+- `--chat`: Start interactive chat session with the model
 
-Data distribution:
-<img src="images/training-2.png"  width="800">
+## Configuration
+
+### Environment Variables
+Required environment variables in `env.dev`:
+```
+GCP_PROJECT=your-project-id
+GCS_BUCKET_NAME=your-bucket-name
+GEMINI_MODEL_NAME=gemini-1.5-flash-002  # Base model for fine-tuning
+GEMINI_MODEL_VERSION=latest
+GEMINI_MODEL_ENDPOINT=your-endpoint
+GEMINI_MODEL_REGION=us-central1
+```
+
+### Service Account
+Place your service account key in: 
+```
+secrets/
+└── llm-service-account.json
+```
+and name it to llm-service-account.json
+
+Required roles:
+- Vertex AI User
+- Vertex AI Service Agent
+- Storage Admin
+- Service Account User
+
+
+## Model Configuration
+
+### Training Parameters
+- Base model: gemini-1.5-flash-002 (gemini-1.5-pro-002 could be used for better performance)
+- Training epochs: 5
+- Adapter size: 8
+- Learning rate multiplier: 1.0
+
+### Generation Settings
+- Max output tokens: 3000
+- Temperature: 0.75
+- Top-p: 0.95
+
+## Development
+
+### Building Docker Images
+```bash
+cd <component-directory>
+./docker-shell.sh
+```
+
+### Testing
+```bash
+python cli.py --help  
+python cli.py --chat  
+python cli.py --train 
+```
+
+## Dependencies
+- Docker
+- Google Cloud Platform account
+- Vertex AI API enabled
+- GCS bucket with appropriate permissions
+
 
