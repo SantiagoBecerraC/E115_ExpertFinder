@@ -16,11 +16,13 @@ Expert finder system using LinkedIn and Google Scholar data and advanced LLM tec
 
 ## System Components
 
-### [LinkedIn Data Pipeline](./linkedin_raw_data)
+### [Backend Services](./backend)
 
-The LinkedIn component consists of two main parts:
+The backend contains several key components:
 
-1. **Data Extraction**: 
+1. **LinkedIn Data Pipeline**:
+   
+   a. **[Data Extraction](./backend/linkedin_raw_data)**:
    - Extracts user profiles using the unofficial LinkedIn API
    - Supports keyword and region-based searching
    - Consolidates and stores data in GCP
@@ -32,13 +34,10 @@ The LinkedIn component consists of two main parts:
    - Uses ChromaDB for vector storage and retrieval
    - Features advanced filtering and reranking capabilities
 
-### [Google Scholar Data Pipeline](./backend)
-
-The backend provides additional data sources and processing capabilities:
-
-- **Google Scholar Integration**: Collects and processes academic profile data
-- **Agent System**: LLM-powered agents for intelligent expert finding
-- **Vector Search**: ChromaDB integration for efficient similarity search
+2. **[Google Scholar Integration](./backend/google_scholar)**:
+   - Collects and processes academic profile data
+   - Agent System: LLM-powered agents for intelligent expert finding
+   - Vector Search: ChromaDB integration for efficient similarity search
 
 ## Prerequisites
 
