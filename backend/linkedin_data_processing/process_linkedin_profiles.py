@@ -9,6 +9,10 @@ from datetime import datetime
 import chromadb
 from sentence_transformers import SentenceTransformer
 import argparse
+from credibility_system import DynamicCredibilityCalculator
+
+# Initialize the calculator as a global instance
+credibility_calculator = DynamicCredibilityCalculator()
 
 def initialize_gcp_client():
     """Initialize and return GCP storage client."""
@@ -452,9 +456,10 @@ def process_profiles_and_upload_to_gcp(temp_dir="/tmp/profiles", gcp_folder="lin
         profile_files = glob.glob(os.path.join(temp_dir, "*.json"))
         print(f"Found {len(profile_files)} profile files to process")
         
-        # Process each file
-        processed_count = 0
-        for file_path in tqdm(profile_files, desc="Processing and uploading profiles"):
+        # First pass: extract data from all profiles
+        print("Extracting data from all profiles...")
+        all_profiles = []
+        for file_path in tqdm(profile_files, desc="Extracting profile data"):
             try:
                 # Skip files that are not profile files
                 if file_path.endswith('errors.json'):
@@ -464,33 +469,62 @@ def process_profiles_and_upload_to_gcp(temp_dir="/tmp/profiles", gcp_folder="lin
                 profile_data = extract_profile_data(file_path)
                 
                 if profile_data and profile_data.get('urn_id'):
-                    # Create JSON string
-                    json_data = json.dumps(profile_data, indent=2, ensure_ascii=False)
-                    
-                    # Upload directly to GCP
-                    gcp_filename = f"{gcp_folder}/{profile_data['urn_id']}_processed.json"
-                    blob = bucket.blob(gcp_filename)
-                    blob.upload_from_string(json_data, content_type='application/json')
-                    
-                    processed_count += 1
+                    all_profiles.append(profile_data)
                     
             except Exception as e:
-                print(f"Error processing {file_path}: {str(e)}")
+                print(f"Error extracting data from {file_path}: {str(e)}")
+        
+        print(f"Extracted data from {len(all_profiles)} profiles")
+        
+        # Second pass: calculate credibility scores
+        print("Calculating credibility scores...")
+        credibility_calculator = DynamicCredibilityCalculator()
+        all_profiles = credibility_calculator.process_profiles(all_profiles)
+        
+        # Third pass: upload processed profiles
+        print("Uploading profiles with credibility scores...")
+        processed_count = 0
+        for profile_data in tqdm(all_profiles, desc="Uploading profiles"):
+            try:
+                # Create JSON string
+                json_data = json.dumps(profile_data, indent=2, ensure_ascii=False)
+                
+                # Upload directly to GCP
+                gcp_filename = f"{gcp_folder}/{profile_data['urn_id']}_processed.json"
+                blob = bucket.blob(gcp_filename)
+                blob.upload_from_string(json_data, content_type='application/json')
+                
+                processed_count += 1
+                
+            except Exception as e:
+                print(f"Error uploading {profile_data.get('urn_id', 'unknown')}: {str(e)}")
         
         print(f"Successfully processed and uploaded {processed_count} profiles to GCP")
+        print(f"Credibility distribution: {get_credibility_distribution(all_profiles)}")
         return True
-    
+        
     except Exception as e:
-        print(f"Error in processing and uploading: {str(e)}")
+        print(f"Error processing profiles: {str(e)}")
         return False
-    finally:
-        # Clean up temporary directory
-        try:
-            print(f"Cleaning up temporary directory: {temp_dir}")
-            shutil.rmtree(temp_dir)
-            print(f"✅ Temporary directory {temp_dir} has been removed")
-        except Exception as e:
-            print(f"⚠️ Warning: Could not remove temporary directory: {str(e)}")
+
+def get_credibility_distribution(profiles):
+    """Get distribution of credibility levels for reporting."""
+    distribution = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
+    
+    for profile in profiles:
+        level = profile.get('credibility', {}).get('level', 1)
+        distribution[level] = distribution.get(level, 0) + 1
+    
+    # Calculate percentages
+    total = len(profiles)
+    if total > 0:
+        for level in distribution:
+            distribution[level] = {
+                'count': distribution[level],
+                'percentage': round((distribution[level] / total) * 100, 2)
+            }
+    
+    return distribution
 
 
 

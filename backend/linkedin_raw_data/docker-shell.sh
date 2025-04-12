@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Simple docker-shell.sh for LinkedIn Data Processing
+# Simple docker-shell.sh for LinkedIn Raw Data
 
 # Configuration
-IMAGE_NAME="linkedin-expert-finder-rag"
+IMAGE_NAME="linkedin-raw-data"
 
 # Build the Docker image
 echo "Building Docker image..."
@@ -11,12 +11,12 @@ docker build -t $IMAGE_NAME .
 
 # Ask for credentials path
 echo "Please enter the path to your GCP credentials file:"
-echo "(Default: $(pwd)/../../secrets/expertfinder-452203-3c0b81d81d3d.json)"
+echo "(Default: $(pwd)/../../../secrets/expertfinder-452203-3c0b81d81d3d.json)"
 read -p "> " CREDENTIALS_PATH
 
 # Use default path if none provided
 if [ -z "$CREDENTIALS_PATH" ]; then
-    CREDENTIALS_PATH="$(pwd)/../../secrets/expertfinder-452203-3c0b81d81d3d.json"
+    CREDENTIALS_PATH="$(pwd)/../../../secrets/expertfinder-452203-3c0b81d81d3d.json"
 fi
 
 # Check if credentials file exists

@@ -4,29 +4,28 @@ Expert finder system using LinkedIn data, Google Scholar, PubMed, and advanced L
 
 ## System Components
 
-### [LinkedIn Data Pipeline](./linkedin_raw_data)
+### [Backend Services](./backend)
 
-The LinkedIn component consists of two main parts:
+The backend contains several key components:
 
-1. **Data Extraction**: 
+1. **LinkedIn Data Pipeline**:
+   
+   a. **[Data Extraction](./backend/linkedin_raw_data)**:
    - Extracts user profiles using the unofficial LinkedIn API
    - Supports keyword and region-based searching
    - Consolidates and stores data in GCP
    - Includes rate limiting protection
    
-2. **[Data Processing](./linkedin_data_processing)**:
+   b. **[Data Processing](./backend/linkedin_data_processing)**:
    - Processes raw LinkedIn profiles into structured formats
    - Implements RAG-based expert search system
    - Uses ChromaDB for vector storage and retrieval
    - Features advanced filtering and reranking capabilities
 
-### [Google Scholar Data Pipeline](./backend)
-
-The backend provides additional data sources and processing capabilities:
-
-- **Google Scholar Integration**: Collects and processes academic profile data
-- **Agent System**: LLM-powered agents for intelligent expert finding
-- **Vector Search**: ChromaDB integration for efficient similarity search
+2. **[Google Scholar Integration](./backend/google_scholar)**:
+   - Collects and processes academic profile data
+   - Agent System: LLM-powered agents for intelligent expert finding
+   - Vector Search: ChromaDB integration for efficient similarity search
 
 ## Prerequisites
 
@@ -40,8 +39,8 @@ The backend provides additional data sources and processing capabilities:
 
 Each component has its own detailed installation and setup guide:
 
-- [LinkedIn Data Extraction Setup](./linkedin_raw_data/README.md#docker-setup)
-- [LinkedIn Data Processing Setup](./linkedin_data_processing/README.md#docker-installation)
+- [LinkedIn Data Extraction Setup](./backend/linkedin_raw_data/README.md#docker-setup)
+- [LinkedIn Data Processing Setup](./backend/linkedin_data_processing/README.md#docker-installation)
 - [Backend Services Setup](./backend/README.md#getting-started)
 
 ## Architecture

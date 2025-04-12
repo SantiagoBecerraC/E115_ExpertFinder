@@ -211,8 +211,14 @@ class ExpertFinderAgent:
             aiplatform.init(project=self.project_id, location=self.location)
             
             # Initialize the Gemini 1.5 Flash model
-            self.model = GenerativeModel("gemini-1.5-flash-001")
-            print(f"✅ Successfully connected to Vertex AI Gemini 1.5 Flash in project {self.project_id}")
+            # self.model = GenerativeModel("gemini-1.5-flash-001")
+            # print(f"✅ Successfully connected to Vertex AI Gemini 1.5 Flash in project {self.project_id}")
+            # Connect to your custom model endpoint
+            self.model = GenerativeModel(
+                "projects/expertfinder-452203/locations/us-central1/endpoints/8431764346786283520",
+                # generation_config={"candidate_count": 1}
+            )
+            print(f"✅ Successfully connected to Vertex AI expert-finder-v2 finetuned model in project {self.project_id}")
         except Exception as e:
             print(f"❌ Error initializing Vertex AI: {str(e)}")
             print("Make sure you have set up Google Cloud credentials correctly")
