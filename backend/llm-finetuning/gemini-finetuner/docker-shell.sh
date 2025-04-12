@@ -1,99 +1,92 @@
 #!/bin/bash
 
-# Exit immediately on error
+# Set strict error handling
 set -e
 
+# Disable Git Bash path conversion
+export MSYS_NO_PATHCONV=1
+
+# Function to convert Windows path to Docker format
+convert_path_for_docker() {
+    local path="$1"
+    # For Windows Git Bash, convert C:\path\to\dir to /c/path/to/dir
+    if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "win32" ]]; then
+        # Remove any trailing backslashes
+        path="${path%\\}"
+        # Convert backslashes to forward slashes
+        path="${path//\\//}"
+        # Convert C: to /c
+        path=$(echo "$path" | sed 's/^\([A-Za-z]\):/\/\L\1/')
+    fi
+    echo "$path"
+}
+
+# Get the directory of this script
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+echo "Script directory: $SCRIPT_DIR"
+
 # Source environment variables
-source ../env.dev
-
-# Set your Docker image name
-export IMAGE_NAME="llm-gemini-finetuner"
-
-# Stop and remove existing container if it exists
-docker stop "$IMAGE_NAME" 2>/dev/null || true
-docker rm "$IMAGE_NAME" 2>/dev/null || true
-
-# Remove existing image if it exists
-docker rmi "$IMAGE_NAME" 2>/dev/null || true
-
-# Build the Docker image (no-cache optional)
-docker build --no-cache -t "$IMAGE_NAME" -f Dockerfile .
-
-# Run Container with appropriate paths based on OS
-if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "win32" ]]; then
-    # Windows-specific settings
-    echo "Running on Windows..."
-
-    # Get the absolute path to the secrets directory (3 levels up)
-    SECRETS_DIR="$(dirname "$(dirname "$(dirname "$(pwd)")")")/secrets"
-    BASE_DIR="$(pwd)"
-
-    # Convert Windows paths to /mnt/c/... format for Docker in WSL
-    BASE_DIR_WIN=$(echo "$BASE_DIR" | sed 's/\\/\//g' | sed 's/^\([A-Z]\):/\/mnt\/\1/')
-    SECRETS_DIR_WIN=$(echo "$SECRETS_DIR" | sed 's/\\/\//g' | sed 's/^\([A-Z]\):/\/mnt\/\1/')
-
-    # Ensure secrets directory exists (Windows host check)
-    if [ ! -d "$SECRETS_DIR" ]; then
-        echo "Error: Secrets directory not found at $SECRETS_DIR"
-        echo "Please ensure the secrets directory exists and contains llm-service-account.json"
-        exit 1
-    fi
-
-    # Check if service account file exists (Windows host check)
-    if [ ! -f "$SECRETS_DIR/llm-service-account.json" ]; then
-        echo "Error: Service account file not found at $SECRETS_DIR/llm-service-account.json"
-        exit 1
-    fi
-
-    echo "Mounting secrets from: $SECRETS_DIR_WIN"
-    echo "Mounting base directory from: $BASE_DIR_WIN"
-
-    # Disable Git Bash path rewriting and run the container
-    MSYS_NO_PATHCONV=1 docker run --rm --name "$IMAGE_NAME" -ti \
-        -v "${BASE_DIR_WIN}:/app" \
-        -v "${SECRETS_DIR_WIN}:/secrets:ro" \
-        -e GOOGLE_APPLICATION_CREDENTIALS=/secrets/llm-service-account.json \
-        -e PYTHONPATH=/app \
-        -e GCP_PROJECT="$GCP_PROJECT" \
-        -e GCS_BUCKET_NAME="$GCS_BUCKET_NAME" \
-        -e GEMINI_MODEL_NAME="$GEMINI_MODEL_NAME" \
-        -e GEMINI_MODEL_VERSION="$GEMINI_MODEL_VERSION" \
-        -e GEMINI_MODEL_ENDPOINT="$GEMINI_MODEL_ENDPOINT" \
-        -e GEMINI_MODEL_REGION="$GEMINI_MODEL_REGION" \
-        "$IMAGE_NAME"
-
+if [ -f "$SCRIPT_DIR/../env.dev" ]; then
+    echo "Loading environment variables from env.dev..."
+    source "$SCRIPT_DIR/../env.dev"
 else
-    # Linux/Unix settings
-    echo "Running on Linux/Unix..."
-
-    # Get the absolute path to the secrets directory (3 levels up)
-    SECRETS_DIR="$(dirname "$(dirname "$(dirname "$(pwd)")")")/secrets"
-    BASE_DIR="$(pwd)"
-
-    # Check secrets directory on Linux side
-    if [ ! -d "$SECRETS_DIR" ]; then
-        echo "Error: Secrets directory not found at $SECRETS_DIR"
-        exit 1
-    fi
-
-    if [ ! -f "$SECRETS_DIR/llm-service-account.json" ]; then
-        echo "Error: Service account file not found at $SECRETS_DIR/llm-service-account.json"
-        exit 1
-    fi
-
-    echo "Mounting secrets from: $SECRETS_DIR"
-    echo "Mounting base directory from: $BASE_DIR"
-
-    docker run --rm --name "$IMAGE_NAME" -ti \
-        -v "${BASE_DIR}:/app" \
-        -v "${SECRETS_DIR}:/secrets:ro" \
-        -e GOOGLE_APPLICATION_CREDENTIALS=/secrets/llm-service-account.json \
-        -e PYTHONPATH=/app \
-        -e GCP_PROJECT="$GCP_PROJECT" \
-        -e GCS_BUCKET_NAME="$GCS_BUCKET_NAME" \
-        -e GEMINI_MODEL_NAME="$GEMINI_MODEL_NAME" \
-        -e GEMINI_MODEL_VERSION="$GEMINI_MODEL_VERSION" \
-        -e GEMINI_MODEL_ENDPOINT="$GEMINI_MODEL_ENDPOINT" \
-        -e GEMINI_MODEL_REGION="$GEMINI_MODEL_REGION" \
-        "$IMAGE_NAME"
+    echo "Warning: env.dev not found in $SCRIPT_DIR/../"
+    exit 1
 fi
+
+# Determine the project root directory (3 levels up from script directory)
+PROJECT_ROOT="$(cd "$(dirname "$(dirname "$(dirname "$SCRIPT_DIR")")")" && pwd)"
+SECRETS_DIR="${PROJECT_ROOT}/secrets"
+BASE_DIR="$SCRIPT_DIR"
+
+echo "Project root: $PROJECT_ROOT"
+echo "Original secrets directory: $SECRETS_DIR"
+echo "Original base directory: $BASE_DIR"
+
+# Convert paths for Docker
+SECRETS_DIR_DOCKER=$(convert_path_for_docker "$SECRETS_DIR")
+BASE_DIR_DOCKER=$(convert_path_for_docker "$BASE_DIR")
+
+echo "Docker-compatible secrets directory: $SECRETS_DIR_DOCKER"
+echo "Docker-compatible base directory: $BASE_DIR_DOCKER"
+
+# Check if secrets directory exists
+if [ ! -d "$SECRETS_DIR" ]; then
+    echo "Error: Secrets directory not found at $SECRETS_DIR"
+    echo "Please ensure the secrets directory exists at the root of the project"
+    exit 1
+fi
+
+# Check if service account file exists
+if [ ! -f "$SECRETS_DIR/llm-service-account.json" ]; then
+    echo "Error: Service account file not found at $SECRETS_DIR/llm-service-account.json"
+    echo "Please ensure the service account file exists in the secrets directory"
+    exit 1
+fi
+
+# List contents of secrets directory
+echo "Contents of secrets directory:"
+ls -la "$SECRETS_DIR"
+
+# Build the Docker image
+echo "Building Docker image..."
+docker build -t llm-gemini-finetuner:latest .
+
+# Run the container
+echo "Starting container..."
+docker run -it \
+    --rm \
+    -v "${SECRETS_DIR_DOCKER}:/secrets" \
+    -v "${BASE_DIR_DOCKER}:/app" \
+    -e GOOGLE_APPLICATION_CREDENTIALS="/secrets/llm-service-account.json" \
+    -e GCP_PROJECT="$GCP_PROJECT" \
+    -e GCS_BUCKET_NAME="$GCS_BUCKET_NAME" \
+    -e GEMINI_MODEL_NAME="$GEMINI_MODEL_NAME" \
+    -e GEMINI_MODEL_VERSION="$GEMINI_MODEL_VERSION" \
+    -e GEMINI_MODEL_ENDPOINT="$GEMINI_MODEL_ENDPOINT" \
+    -e GEMINI_MODEL_REGION="$GEMINI_MODEL_REGION" \
+    -e LOCATION="$LOCATION" \
+    --workdir="/app" \
+    llm-gemini-finetuner:latest
+
+echo "Container is running!!!"

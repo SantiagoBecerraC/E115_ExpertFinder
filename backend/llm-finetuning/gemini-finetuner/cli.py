@@ -8,11 +8,17 @@ from google.cloud import storage
 import vertexai
 from vertexai.preview.tuning import sft
 from vertexai.generative_models import GenerativeModel, GenerationConfig
+from vertexai.preview.language_models import ChatModel, TextGenerationModel
 
 # Setup
 GCP_PROJECT = os.environ["GCP_PROJECT"]
-GCP_LOCATION = os.environ.get("GEMINI_MODEL_REGION", "us-central1")
+GCP_LOCATION = os.environ.get("GEMINI_MODEL_REGION") or os.environ.get("LOCATION") or "us-central1"
 GCS_BUCKET_NAME = os.environ["GCS_BUCKET_NAME"]
+
+# Print environment information
+print(f"Using GCP Project: {GCP_PROJECT}")
+print(f"Using Region: {GCP_LOCATION}")
+print(f"Using GCS Bucket: {GCS_BUCKET_NAME}")
 
 # Training data paths - updated to match actual bucket structure
 TRAIN_DATASET = f"gs://{GCS_BUCKET_NAME}/llm_ft/train.jsonl"
@@ -20,7 +26,7 @@ VALIDATION_DATASET = f"gs://{GCS_BUCKET_NAME}/llm_ft/test.jsonl"
 
 # Model configuration
 GENERATIVE_SOURCE_MODEL = "gemini-1.5-flash-002" 
-TUNED_MODEL_DISPLAY_NAME = "expert-finder-v1"
+TUNED_MODEL_DISPLAY_NAME = "expert-finder-v4-friendly"
 
 # Configuration settings for the content generation
 generation_config = {
@@ -29,8 +35,13 @@ generation_config = {
     "top_p": 0.95,  # Use nucleus sampling
 }
 
-vertexai.init(project=GCP_PROJECT, location=GCP_LOCATION)
-
+# Initialize Vertex AI with the detected region
+try:
+    vertexai.init(project=GCP_PROJECT, location=GCP_LOCATION)
+    print(f"Vertex AI initialized with project={GCP_PROJECT}, location={GCP_LOCATION}")
+except Exception as e:
+    print(f"Warning: Failed to initialize Vertex AI: {str(e)}")
+    print("This may cause issues when accessing the model.")
 
 def train(wait_for_job=False):
     print("Starting training process...")
@@ -43,7 +54,7 @@ def train(wait_for_job=False):
             source_model=GENERATIVE_SOURCE_MODEL,
             train_dataset=TRAIN_DATASET,
             validation_dataset=VALIDATION_DATASET,
-            epochs=1,  # Increased epochs for better training
+            epochs=5,  # Increased epochs for better training
             adapter_size=8,  # Increased adapter size
             learning_rate_multiplier=1.0,
             tuned_model_display_name=TUNED_MODEL_DISPLAY_NAME,
@@ -77,23 +88,107 @@ def train(wait_for_job=False):
         raise
 
 def chat():
-    print("Starting chat...")
+    """Chat with the model"""
+    print("Starting chat with model...")
+    print("Type 'exit' 'quit' or 'bye' to end the chat")
+    print("-" * 50)
+    
+    # First, list all available tuning jobs to find model endpoints
+    print(f"Listing tuning jobs...")
+    
     try:
-        # Use the base model instead of an endpoint
-        generative_model = GenerativeModel(GENERATIVE_SOURCE_MODEL)
-
-        query = "Who are the top researchers in natural language processing at Harvard?"
-        print("Query:", query)
-        response = generative_model.generate_content(
-            [query],  # Input prompt
-            generation_config=generation_config,  # Configuration settings
-            stream=False,  # Enable streaming for responses
-        )
-        generated_text = response.text
-        print("\nFine-tuned LLM Response:", generated_text)
+        # List all tuning jobs
+        tuning_jobs = sft.SupervisedTuningJob.list()
+        jobs_list = list(tuning_jobs)
+        print(f"Found {len(jobs_list)} tuning jobs")
+        
+        # Store endpoint information if found
+        target_endpoint = None
+        
+        # Print all jobs and look for our target job
+        for job in jobs_list:
+            print(f"Job: {job.resource_name}")
+            
+            try:
+                if hasattr(job, 'tuned_model_endpoint_name') and job.tuned_model_endpoint_name:
+                    print(f"  Endpoint: {job.tuned_model_endpoint_name}")
+                if hasattr(job, 'state'):
+                    print(f"  State: {job.state}")
+                    
+                # Check if this is our target job
+                if "6934856523440979968" in job.resource_name:
+                    if hasattr(job, 'tuned_model_endpoint_name') and job.tuned_model_endpoint_name:
+                        target_endpoint = job.tuned_model_endpoint_name
+                        print(f"Found target model endpoint: {target_endpoint}")
+            except Exception as job_err:
+                print(f"  Error getting job details: {str(job_err)}")
+        
+        # If we found our endpoint, try to access it
+        if target_endpoint:
+            print(f"\nAttempting to access model via endpoint: {target_endpoint}")
+            try:
+                # Use GenerativeModel with the endpoint
+                generative_model = GenerativeModel(target_endpoint)
+                
+                # Test the connection
+                test_response = generative_model.generate_content("Hello")
+                print("Successfully connected to tuned model via endpoint!")
+                print(f"Test response: {test_response.text}")
+                
+                # Start the chat loop
+                print(f"Using tuned model - ready for chat!")
+                while True:
+                    try:
+                        # Get user input
+                        user_input = input("\nYou: ").strip()
+                        
+                        # Check for exit command
+                        if user_input.lower() in ['exit', 'quit', 'bye']:
+                            print("\nGoodbye!")
+                            break
+                        
+                        if not user_input:
+                            continue
+                            
+                        # Get model response
+                        response = generative_model.generate_content(
+                            [user_input],  # Input prompt
+                            generation_config=generation_config,  # Configuration settings
+                            stream=False,  # Enable streaming for responses
+                        )
+                        
+                        # Print response
+                        print("\nModel:", response.text)
+                        print("-" * 50)
+                        
+                    except Exception as e:
+                        print(f"\nError during chat: {str(e)}")
+                        print("Type 'exit' to end the chat or try again")
+                        continue
+            except Exception as endpoint_err:
+                print(f"Error accessing endpoint: {str(endpoint_err)}")
+                print("\nAlternative approach: Look for the endpoint ID in the Google Cloud Console:")
+                print("1. Go to https://console.cloud.google.com/vertex-ai/studio/tuning")
+                print("2. Find your model 'expert-finder-v2'")
+                print("3. Copy the endpoint ID (format: projects/.../endpoints/...)")
+                print("4. Modify the chat() function to use that endpoint directly like in your professor's code")
+                
+                # Suggest manual endpoint usage
+                print("\nExample code modification:")
+                print("def chat():")
+                print('    MODEL_ENDPOINT = "projects/YOUR_PROJECT_ID/locations/us-central1/endpoints/YOUR_ENDPOINT_ID"')
+                print("    generative_model = GenerativeModel(MODEL_ENDPOINT)")
+                print("    # Then implement the chat loop...")
+                return
+        else:
+            print("Target job found, but no endpoint available.")
+            print("Check the Google Cloud Console to find your model's endpoint.")
+            return
+            
     except Exception as e:
-        print(f"Error during chat: {str(e)}")
-        raise
+        print(f"Error listing tuning jobs: {str(e)}")
+        print("Could not list tuning jobs. Try accessing the model endpoint directly.")
+        return
 
 def main(args=None):
     print("CLI Arguments:", args)
