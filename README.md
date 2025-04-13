@@ -58,6 +58,114 @@ Each component has its own detailed installation and setup guide:
 - [Frontend Setup](./frontend/README.md#getting-started)
 - [LLM Fine-tuning Setup](./backend/llm-finetuning/README.md#prerequisites)
 
+## Starting the Services
+
+### Backend Services
+1. Navigate to the backend directory:
+   ```bash
+   cd backend
+   ```
+
+2. Start the backend services:
+   ```bash
+   ./docker-shell.sh
+   ```
+   This will start:
+   - LinkedIn data processing service
+   - Google Scholar integration
+   - API server
+   - ChromaDB vector database
+
+3. Verify services are running:
+   ```bash
+   docker compose ps
+   ```
+
+### Frontend Application
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
+
+2. Start the frontend container:
+   ```bash
+    ./docker-shell.sh
+   ```
+
+3. Access the application:
+   - Frontend: http://localhost:3000
+   - Backend API: http://localhost:8000
+
+## Codebase Architecture
+
+```
+ExpertFinder/
+├── backend/
+│   ├── agent/                 # LLM-powered agent system
+│   │   ├── scholar_agent.py   # Google Scholar expert finder
+│   │   └── test_scholar_agent.py
+│   ├── linkedin_data_processing/
+│   │   ├── expert_finder_linkedin.py    # LinkedIn expert search
+│   │   ├── process_linkedin_profiles.py # Profile processing
+│   │   └── credibility_system.py        # Profile verification
+│   ├── linkedin_raw_data/     # LinkedIn data extraction
+│   ├── google_scholar/        # Scholar data collection
+│   ├── llm-finetuning/        # Model fine-tuning
+│   └── utils/                 # Shared utilities
+├── frontend/
+│   ├── src/
+│   │   ├── app/              # Next.js pages
+│   │   ├── components/       # React components
+│   │   └── styles/           # CSS and styling
+│   ├── public/               # Static assets
+│   └── Dockerfile            # Frontend container
+├── chroma_db/                # Vector database storage
+│   ├── embeddings/           # Stored embeddings
+│   └── metadata/             # Search metadata
+├── secrets/                  # Secure configuration
+│   ├── .env                  # Environment variables
+│   ├── gcp_credentials.json  # GCP access
+│   └── api_keys/             # API credentials
+└── docker-compose.yml        # Main service orchestration
+```
+
+### Key Components:
+
+1. **Backend Services**:
+   - `agent/`: LLM-powered expert finding agents
+   - `linkedin_data_processing/`: Profile processing and search
+   - `google_scholar/`: Academic data integration
+   - `llm-finetuning/`: Custom model training
+
+2. **Frontend Application**:
+   - Next.js-based web interface
+   - React components for expert display
+   - Real-time search functionality
+   - Responsive design with TailwindCSS
+
+3. **Data Processing Pipeline**:
+   - LinkedIn profile extraction and processing
+   - Google Scholar data collection
+   - Vector embedding generation
+   - RAG-based search implementation
+
+4. **Container Configuration**:
+   - Separate Dockerfiles for each service
+   - Docker Compose for orchestration
+   - Environment-specific configurations
+   - Volume management for persistence
+
+5. **Data Storage**:
+   - `chroma_db/`: Vector database for semantic search
+   - Persistent storage for embeddings and metadata
+   - Optimized for similarity search operations
+
+6. **Security**:
+   - `secrets/`: Secure storage for credentials
+   - Environment configuration
+   - API keys and access tokens
+   - GCP service account credentials
+
 ## Architecture
 
 The system uses a modular architecture with the following key components:
