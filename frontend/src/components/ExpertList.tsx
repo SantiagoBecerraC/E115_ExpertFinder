@@ -47,7 +47,7 @@ export function ExpertList({ source, experts }: ExpertListProps) {
           className="group relative flex items-start justify-between p-6 bg-white rounded-xl border border-gray-100 hover:shadow-lg hover:border-blue-100 transition-all duration-200"
         >
           {/* Expert Header Section */}
-          <div className="space-y-3 flex-1">
+          <div className="space-y-3 flex-1 min-w-0">
             <div className="flex items-center gap-3">
               <div>
                 <h3 className="text-lg font-semibold text-gray-800 group-hover:text-blue-600 transition-colors">
@@ -55,17 +55,6 @@ export function ExpertList({ source, experts }: ExpertListProps) {
                 </h3>
                 <p className="text-gray-600">{expert.title}</p>
               </div>
-              {/* Source Badge */}
-              <Badge 
-                variant="outline" 
-                className={`ml-auto ${
-                  expert.source === "linkedin" 
-                    ? "bg-blue-50 text-blue-600 border-blue-200" 
-                    : "bg-purple-50 text-purple-600 border-purple-200"
-                }`}
-              >
-                {expert.source === "linkedin" ? "LinkedIn" : "Google Scholar"}
-              </Badge>
             </div>
             
             {/* Expert Details Section */}
@@ -116,7 +105,7 @@ export function ExpertList({ source, experts }: ExpertListProps) {
           {/* Action Button */}
           <Button 
             variant="outline" 
-            className={`ml-4 ${
+            className={`ml-4 flex-shrink-0 self-start ${
               expert.source === "linkedin"
                 ? "hover:bg-blue-50 hover:text-blue-600 hover:border-blue-200"
                 : "hover:bg-purple-50 hover:text-purple-600 hover:border-purple-200"

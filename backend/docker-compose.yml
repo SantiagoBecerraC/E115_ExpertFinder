@@ -3,18 +3,20 @@ networks:
         name: expert-finder-network
         external: true
 services:
-    expert-finder:
-        image: expert-finder
-        container_name: expert-finder
+    expert-finder-backend:
+        image: expert-finder-backend
+        container_name: expert-finder-backend
+        ports:
+            - "8000:8000"
         volumes:    
             - ../../secrets:/secrets
-            - ../../ExpertFinder:/app
+            - ../../backend:/app/backend
             - ../../google-scholar-data:/google-scholar-data
             - ../../chromadb:/chromadb
         environment:
-            GOOGLE_APPLICATION_CREDENTIALS: $GOOGLE_APPLICATION_CREDENTIALS
+            GOOGLE_APPLICATION_CREDENTIALS: /secrets/expertfinder-452203-452ea0d34e0f.json
             GCP_PROJECT: $GCP_PROJECT
             DATA_DIR: $DATA_DIR
-            SECRETS_DIR: $SECRETS_DIR
+            SECRETS_DIR: /secrets
             BASE_DIR: $BASE_DIR
             PERSISTENT_DIR: $PERSISTENT_DIR

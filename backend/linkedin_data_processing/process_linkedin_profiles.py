@@ -9,7 +9,7 @@ from datetime import datetime
 import chromadb
 from sentence_transformers import SentenceTransformer
 import argparse
-from credibility_system import DynamicCredibilityCalculator
+from .credibility_system import DynamicCredibilityCalculator
 
 # Initialize the calculator as a global instance
 credibility_calculator = DynamicCredibilityCalculator()

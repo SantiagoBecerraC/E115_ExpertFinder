@@ -1,0 +1,21 @@
+
+networks:
+    default:
+        name: expert-finder-network
+        external: true
+
+services:
+    expert-finder-frontend:
+        image: expert-finder-frontend
+        container_name: expert-finder-frontend
+        build:
+            context: .
+            dockerfile: Dockerfile
+        ports:
+            - "3000:3000"
+        volumes:    
+            - .:/app
+        environment:
+            NODE_ENV: development
+            BASE_DIR: $BASE_DIR
+        command: npm run dev

@@ -28,7 +28,7 @@ export default function Home() {
   const handleSearch = async (query: string) => {
     setIsSearching(true)
     try {
-      const response = await fetch('http://localhost:8000/search', {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/search`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -44,13 +44,10 @@ export default function Home() {
       }
 
       const data = await response.json()
-      // Combine API results with mock LinkedIn data
-      const combinedResults = [...(data.experts || []), ...mockData]
-      setSearchResults(combinedResults)
+      setSearchResults(data.experts || [])
     } catch (error) {
       console.error('Error searching experts:', error)
-      // Show mock data even if API fails
-      setSearchResults(mockData)
+      setSearchResults([])
     } finally {
       setIsSearching(false)
     }
@@ -99,45 +96,6 @@ export default function Home() {
       description: "Access deep expertise across various technical and scientific domains"
     }
   ]
-
-  const mockData = [
-    {
-      id: "1",
-      name: "John Smith",
-      title: "Senior Software Engineer",
-      source: "linkedin" as const,
-      company: "Google",
-      location: "Mountain View, CA",
-      skills: ["Python", "Machine Learning", "Deep Learning", "TensorFlow"],
-      citations: 300,
-      interests: [],
-      publications: []
-    },
-    {
-      id: "2",
-      name: "Sarah Johnson",
-      title: "Data Science Lead",
-      source: "linkedin" as const,
-      company: "Microsoft",
-      location: "Redmond, WA",
-      skills: ["Data Science", "AI", "Big Data", "Cloud Computing"],
-      citations: 200,
-      interests: [],
-      publications: []
-    },
-    {
-      id: "3",
-      name: "Michael Chen",
-      title: "AI Research Scientist",
-      source: "linkedin" as const,
-      company: "Meta",
-      location: "Menlo Park, CA",
-      skills: ["Artificial Intelligence", "Computer Vision", "NLP", "PyTorch"],
-      citations: 200,
-      interests: [],
-      publications: []
-    }
-  ];
 
   return (
     <div className="flex h-screen bg-white">

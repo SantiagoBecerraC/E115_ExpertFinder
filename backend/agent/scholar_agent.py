@@ -173,13 +173,13 @@ class ScholarAgent:
         # Add nodes for each step
         graph.add_node("retrieve", self.retrieve_articles)
         graph.add_node("rerank", self.rerank_articles)
-        graph.add_node("summarize", self.summarize_content)
+        #graph.add_node("summarize", self.summarize_content)
         graph.add_node("format", self.format_output)
         
         # Add edges
         graph.add_edge("retrieve", "rerank")
-        graph.add_edge("rerank", "summarize")
-        graph.add_edge("summarize", "format")
+        graph.add_edge("rerank", "format")
+        #graph.add_edge("summarize", "format")
         graph.add_edge("format", END)
         
         # Set entry point
@@ -433,10 +433,23 @@ class ScholarAgent:
                 author_metadata = author_doc['metadata']
                 
                 # Format author information
+                interests = author_metadata.get('interests', '')
+                if isinstance(interests, str):
+                    # If it's a string, check if it contains commas
+                    if ',' in interests:
+                        # Split by commas if comma-separated
+                        interests = [i.strip() for i in interests.split(',')]
+                    else:
+                        # Create a list with the single string if not comma-separated
+                        interests = [interests.strip()]
+                elif not isinstance(interests, list):
+                    # If it's neither a string nor a list, default to empty list
+                    interests = []
+                
                 author_output = {
                     'name': author_metadata.get('author', 'N/A'),
                     'affiliations': author_metadata.get('affiliations', 'N/A'),
-                    'interests': author_metadata.get('interests', 'N/A'),
+                    'interests': interests,
                     'citations': author_metadata.get('citations', '0'),
                     'author_summary': author_doc.get('summary', 'No summary available'),
                 }
