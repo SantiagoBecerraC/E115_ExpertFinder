@@ -9,7 +9,9 @@ ENV PYENV_SHELL=/bin/bash
 RUN set -ex; \
     apt-get update && \
     apt-get upgrade -y && \
-    apt-get install -y --no-install-recommends build-essential && \
+    apt-get install -y --no-install-recommends \
+    build-essential \
+    libsqlite3-dev && \
     pip install --no-cache-dir --upgrade pip && \
     pip install pipenv && \
     mkdir -p /app

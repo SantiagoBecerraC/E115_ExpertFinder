@@ -12,6 +12,9 @@ from dotenv import load_dotenv
 import openai
 import logging
 
+from sentence_transformers import SentenceTransformer
+from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -54,10 +57,12 @@ class ChromaDBManager:
 
     def _create_embedding_function(self, api_key: str):
         """Create OpenAI embedding function with consistent settings."""
-        return embedding_functions.OpenAIEmbeddingFunction(
-            api_key=api_key,
-            model_name="text-embedding-ada-002"  # This model produces 1536-dimensional embeddings
-        )
+        # return embedding_functions.OpenAIEmbeddingFunction(
+        #     api_key=api_key,
+        #     model_name="text-embedding-ada-002"  # This model produces 1536-dimensional embeddings
+        # )
+        model = SentenceTransformer('all-MiniLM-L6-v2')
+        return embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
     
     def _initialize_chromadb(self):
         """Initialize ChromaDB client and collection."""

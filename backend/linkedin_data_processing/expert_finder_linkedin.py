@@ -10,8 +10,12 @@ from tqdm import tqdm
 from google.cloud import aiplatform
 from vertexai.generative_models import GenerativeModel, GenerationConfig
 
-# Import your existing functions
-from .process_linkedin_profiles import setup_chroma_db
+try:
+    # Try relative import first (when imported)
+    from .process_linkedin_profiles import setup_chroma_db
+except ImportError:
+    # Fall back to absolute import (when run directly)
+    from process_linkedin_profiles import setup_chroma_db
 
 def search_profiles(query, filters=None, top_k=5, chroma_dir="chroma_db"):
     """

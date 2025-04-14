@@ -26,6 +26,13 @@ vertexai = "*"
 tqdm = "*"
 langchain-core = "*"
 langchain-google-genai = "*"
+linkedin-api = "*"
+google-cloud-storage = "*"
+requests = "*"
+beautifulsoup4 = "*"
+numpy = "*"
+argparse = "*"
+datetime = "*"
 
 [dev-packages]
 

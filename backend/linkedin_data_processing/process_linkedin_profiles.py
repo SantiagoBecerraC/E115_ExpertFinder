@@ -9,7 +9,13 @@ from datetime import datetime
 import chromadb
 from sentence_transformers import SentenceTransformer
 import argparse
-from .credibility_system import DynamicCredibilityCalculator
+
+try:
+    # Try relative import first (when imported)
+    from .credibility_system import DynamicCredibilityCalculator
+except ImportError:
+    # Fall back to absolute import (when run directly)
+    from credibility_system import DynamicCredibilityCalculator
 
 # Initialize the calculator as a global instance
 credibility_calculator = DynamicCredibilityCalculator()
@@ -699,10 +705,6 @@ def prepare_profiles_for_rag(chroma_dir="chroma_db", embedding_model_name="all-M
                 )
                 
                 processed_count += 1
-                
-                # Log progress every 100 profiles
-                if processed_count % 100 == 0:
-                    print(f"Processed {processed_count} new profiles for RAG")
                     
             except Exception as e:
                 print(f"Error preparing {file_path} for RAG: {str(e)}")

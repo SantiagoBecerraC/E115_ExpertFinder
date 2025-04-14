@@ -11,6 +11,7 @@ export DATA_DIR=$(pwd)/../google-scholar-data/
 export GCP_PROJECT="expertfinder-452203" # CHANGE TO YOUR PROJECT ID
 export GOOGLE_APPLICATION_CREDENTIALS=$SECRETS_DIR/"expertfinder-452203-452ea0d34e0f.json"
 export IMAGE_NAME="expert-finder-backend"
+export $(cat $SECRETS_DIR/.env)
 
 
 # Create the network if we don't have it yet
