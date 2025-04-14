@@ -5,7 +5,7 @@ Script to scrape Google Scholar data and store it in ChromaDB.
 import json
 import uuid
 from typing import Optional, Dict, Any, List
-from langchain.document_loaders import WebBaseLoader
+from langchain_community.document_loaders import WebBaseLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import logging
 import time
@@ -57,7 +57,11 @@ def scrape_url_content(url: str, max_retries: int = 3) -> Optional[List[str]]:
     
     for attempt in range(max_retries):
         try:
-            loader = WebBaseLoader(url)
+            # Set a user agent to identify our application
+            headers = {
+                "User-Agent": "ExpertFinder/1.0 (Research Data Collection Tool; https://github.com/yourusername/ExpertFinder)"
+            }
+            loader = WebBaseLoader(url, header_template=headers)
             docs = loader.load()
             
             # Combine all document content

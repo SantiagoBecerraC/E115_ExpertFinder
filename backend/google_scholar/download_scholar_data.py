@@ -38,11 +38,15 @@ if not SERPAPI_API_KEY:
 DATA_DIR = Path(__file__).parent.parent.parent.parent / "google-scholar-data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-def extract_data(query, start_year, end_year, num_results, results_per_page):
+def extract_data(query, start_year, end_year, num_results, results_per_page, scholar_client=None):
     # Initialize a list to hold articles data
     articles_data = []
     total_fetched = 0
     offset = 0
+
+    # Create scholar client if not provided
+    if scholar_client is None:
+        scholar_client = GoogleScholar(SERPAPI_API_KEY)
 
     while total_fetched < num_results:
         # Calculate the number of results to fetch in this iteration
@@ -143,7 +147,7 @@ def save_to_excel(articles_data, query, start_year, end_year, num_results):
         for sheet in writer.sheets.values():
             sheet.autofit()
 
-def save_to_json(articles_data, query):
+def save_to_json(articles_data, query, start_year, end_year, num_results):
     # Create a dictionary to hold all data
     all_data = {
         "Query": query,
@@ -184,5 +188,5 @@ if __name__ == "__main__":
         )
 
         # Save extracted data to JSON
-        save_to_json(articles_data, query)
+        save_to_json(articles_data, query, start_year, end_year, num_results)
         

@@ -3,7 +3,7 @@
 # exit immediately if a command exits with a non-zero status
 set -e
 
-# Set vairables
+# Set variables
 export BASE_DIR=$(pwd)
 export PERSISTENT_DIR=$(pwd)/../database/
 export SECRETS_DIR=$(pwd)/../../secrets
@@ -11,8 +11,23 @@ export DATA_DIR=$(pwd)/../google-scholar-data/
 export GCP_PROJECT="expertfinder-452203" # CHANGE TO YOUR PROJECT ID
 export GOOGLE_APPLICATION_CREDENTIALS=$SECRETS_DIR/"expertfinder-452203-452ea0d34e0f.json"
 export IMAGE_NAME="expert-finder-backend"
-export $(cat $SECRETS_DIR/.env)
 
+# Load environment variables from .env file if it exists
+if [ -f "$SECRETS_DIR/.env" ]; then
+    # Read each line from .env file
+    while IFS= read -r line || [ -n "$line" ]; do
+        # Skip comments and empty lines
+        [[ $line =~ ^#.*$ ]] && continue
+        [[ -z $line ]] && continue
+        
+        # Export valid environment variables
+        if [[ $line =~ ^[A-Za-z_][A-Za-z0-9_]*=.*$ ]]; then
+            export "$line"
+        fi
+    done < "$SECRETS_DIR/.env"
+else
+    echo "Warning: .env file not found at $SECRETS_DIR/.env"
+fi
 
 # Create the network if we don't have it yet
 docker network inspect expert-finder-network >/dev/null 2>&1 || docker network create expert-finder-network
