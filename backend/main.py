@@ -7,6 +7,8 @@ import logging
 from agent.scholar_agent import create_scholar_agent, ChromaDBTool
 from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
 from langchain_core.messages import HumanMessage
+from utils.chroma_db_utils import ChromaDBManager
+from utils.dvc_utils import DVCManager
 
 # Configure logging
 logging.basicConfig(
@@ -78,6 +80,12 @@ class Expert(BaseModel):
     interests: InterestsList = []  # Use the custom InterestsList type
     publications: Optional[List[str]] = None
     summary: Optional[str] = None
+
+class VersionInfo(BaseModel):
+    """Model for version information."""
+    source: str
+    profiles_added: int
+    description: Optional[str] = None
 
 @app.get("/")
 async def root():
@@ -235,6 +243,61 @@ async def search_experts(search_query: SearchQuery):
         
     except Exception as e:
         logger.error(f"Error in search_experts: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/data/version")
+async def version_database(version_info: VersionInfo):
+    """
+    Version the ChromaDB database using DVC.
+    This endpoint should be called after significant updates to the database.
+    """
+    try:
+        dvc_manager = DVCManager()
+        success = dvc_manager.version_database({
+            'source': version_info.source,
+            'profiles_added': version_info.profiles_added,
+            'description': version_info.description
+        })
+        
+        if not success:
+            raise HTTPException(status_code=500, detail="Failed to version database")
+            
+        return {"message": "Database successfully versioned"}
+        
+    except Exception as e:
+        logger.error(f"Error in version_database: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/data/versions")
+async def get_version_history(max_entries: int = 10):
+    """
+    Get the version history of the ChromaDB database.
+    """
+    try:
+        dvc_manager = DVCManager()
+        history = dvc_manager.get_version_history(max_entries)
+        return {"versions": history}
+        
+    except Exception as e:
+        logger.error(f"Error in get_version_history: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/data/restore/{commit_hash}")
+async def restore_version(commit_hash: str):
+    """
+    Restore the ChromaDB database to a specific version.
+    """
+    try:
+        dvc_manager = DVCManager()
+        success = dvc_manager.restore_version(commit_hash)
+        
+        if not success:
+            raise HTTPException(status_code=500, detail="Failed to restore version")
+            
+        return {"message": f"Successfully restored to version {commit_hash}"}
+        
+    except Exception as e:
+        logger.error(f"Error in restore_version: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
