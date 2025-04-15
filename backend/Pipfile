@@ -33,6 +33,8 @@ beautifulsoup4 = "*"
 numpy = "*"
 argparse = "*"
 datetime = "*"
+dvc = "*"
+dvc-gs = "*"
 
 [dev-packages]
 

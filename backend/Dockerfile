@@ -11,6 +11,7 @@ RUN set -ex; \
     apt-get upgrade -y && \
     apt-get install -y --no-install-recommends \
     build-essential \
+    git \
     libsqlite3-dev && \
     pip install --no-cache-dir --upgrade pip && \
     pip install pipenv && \
