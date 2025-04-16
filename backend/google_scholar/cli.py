@@ -7,9 +7,10 @@ USAGE:
     python cli.py process [options]
     python cli.py vectorize [options]
     python cli.py test --query "your search query" [options]
+    python cli.py pipeline --query "your search query" [options]
 
 OPTIONS:
-    --query TEXT           (Required for download/test) The search query for Google Scholar
+    --query TEXT           (Required for download/test/pipeline) The search query for Google Scholar
     --start-year TEXT     Start year for filtering (default: "2022")
     --end-year TEXT       End year for filtering (default: "2025")
     --num-results INT     Total number of results to fetch (default: 20)
@@ -18,6 +19,7 @@ OPTIONS:
     --collection TEXT     (Optional for vectorize/test) ChromaDB collection name (default: "google_scholar")
     --n-results INT       (Optional for test) Number of results to return (default: 5)
     --doc-type TEXT       (Optional for test) Filter results by document type (author, website_content, journal_content)
+    --skip-test           (Optional for pipeline) Skip the test step after vectorization
 
 EXAMPLES:
     # Basic usage with just a query
@@ -46,6 +48,12 @@ EXAMPLES:
     
     # Test query with custom options
     python cli.py test --query "deep learning" --n-results 10 --doc-type author
+    
+    # Run the entire pipeline
+    python cli.py pipeline --query "machine learning"
+    
+    # Run the pipeline with custom options
+    python cli.py pipeline --query "deep learning" --start-year 2020 --end-year 2023 --num-results 50 --collection "my_collection"
 """
 
 import argparse
@@ -272,6 +280,48 @@ def test_data(query, collection_name="google_scholar", n_results=5, doc_type=Non
         import traceback
         traceback.print_exc()
 
+def pipeline(query, start_year, end_year, num_results, results_per_page, collection_name="google_scholar", n_results=5, doc_type=None, skip_test=False):
+    """Run the entire pipeline: download, process, vectorize, and test."""
+    try:
+        print("\n" + "="*50)
+        print("STARTING EXPERT FINDER PIPELINE")
+        print("="*50)
+        
+        # Step 1: Download data
+        print("\n" + "-"*50)
+        print("STEP 1: DOWNLOADING DATA")
+        print("-"*50)
+        download_data(query, start_year, end_year, num_results, results_per_page)
+        
+        # Step 2: Process data
+        print("\n" + "-"*50)
+        print("STEP 2: PROCESSING DATA")
+        print("-"*50)
+        process_data()
+        
+        # Step 3: Vectorize data
+        print("\n" + "-"*50)
+        print("STEP 3: VECTORIZING DATA")
+        print("-"*50)
+        vectorize_data(collection_name)
+        
+        # Step 4: Test query (optional)
+        if not skip_test:
+            print("\n" + "-"*50)
+            print("STEP 4: TESTING QUERY")
+            print("-"*50)
+            test_data(query, collection_name, n_results, doc_type)
+        
+        print("\n" + "="*50)
+        print("EXPERT FINDER PIPELINE COMPLETED")
+        print("="*50)
+        
+    except Exception as e:
+        print(f"\nAn error occurred during the pipeline: {e}")
+        import traceback
+        traceback.print_exc()
+        print("\nPipeline failed. Please check the error messages above.")
+
 def main():
     """Main function to parse arguments and execute commands."""
     parser = argparse.ArgumentParser(description="Google Scholar data extraction and processing CLI")
@@ -300,6 +350,18 @@ def main():
     test_parser.add_argument("--n-results", type=int, default=5, help="Number of results to return")
     test_parser.add_argument("--doc-type", type=str, choices=["author", "website_content", "journal_content"], help="Filter results by document type")
     
+    # Pipeline command
+    pipeline_parser = subparsers.add_parser("pipeline", help="Run the entire pipeline: download, process, vectorize, and test")
+    pipeline_parser.add_argument("--query", type=str, required=True, help="Search query")
+    pipeline_parser.add_argument("--start-year", type=str, default="2022", help="Start year for filtering")
+    pipeline_parser.add_argument("--end-year", type=str, default="2025", help="End year for filtering")
+    pipeline_parser.add_argument("--num-results", type=int, default=20, help="Total results to fetch")
+    pipeline_parser.add_argument("--results-per-page", type=int, default=10, help="Results per page (max 20)")
+    pipeline_parser.add_argument("--collection", type=str, default="google_scholar", help="ChromaDB collection name")
+    pipeline_parser.add_argument("--n-results", type=int, default=5, help="Number of results to return for test")
+    pipeline_parser.add_argument("--doc-type", type=str, choices=["author", "website_content", "journal_content"], help="Filter results by document type")
+    pipeline_parser.add_argument("--skip-test", action="store_true", help="Skip the test step after vectorization")
+    
     # Parse arguments
     args = parser.parse_args()
     
@@ -318,6 +380,18 @@ def main():
         vectorize_data(args.collection)
     elif args.command == "test":
         test_data(args.query, args.collection, args.n_results, args.doc_type)
+    elif args.command == "pipeline":
+        pipeline(
+            args.query,
+            args.start_year,
+            args.end_year,
+            args.num_results,
+            args.results_per_page,
+            args.collection,
+            args.n_results,
+            args.doc_type,
+            args.skip_test
+        )
     else:
         parser.print_help()
 
