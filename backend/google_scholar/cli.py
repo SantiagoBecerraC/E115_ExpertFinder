@@ -8,6 +8,7 @@ USAGE:
     python cli.py vectorize [options]
     python cli.py test --query "your search query" [options]
     python cli.py pipeline --query "your search query" [options]
+    python cli.py archive [options]
 
 OPTIONS:
     --query TEXT           (Required for download/test/pipeline) The search query for Google Scholar
@@ -19,7 +20,10 @@ OPTIONS:
     --collection TEXT     (Optional for vectorize/test) ChromaDB collection name (default: "google_scholar")
     --n-results INT       (Optional for test) Number of results to return (default: 5)
     --doc-type TEXT       (Optional for test) Filter results by document type (author, website_content, journal_content)
-    --skip-test           (Optional for pipeline) Skip the test step after vectorization
+    --bucket TEXT         (Optional for archive) GCP bucket name for archiving (default: "expert-finder-data")
+    --prefix TEXT         (Optional for archive) Prefix for files in GCP bucket (default: "google-scholar-data/")
+    --local-dir TEXT      (Optional for archive) Local directory to archive (default: "google-scholar-data")
+    --remove-local        (Optional for archive) Remove local files after successful archival
 
 EXAMPLES:
     # Basic usage with just a query
@@ -49,17 +53,29 @@ EXAMPLES:
     # Test query with custom options
     python cli.py test --query "deep learning" --n-results 10 --doc-type author
     
-    # Run the entire pipeline
+    # Run the data pipeline
     python cli.py pipeline --query "machine learning"
     
     # Run the pipeline with custom options
     python cli.py pipeline --query "deep learning" --start-year 2020 --end-year 2023 --num-results 50 --collection "my_collection"
+    
+    # Archive data to GCP
+    python cli.py archive
+    
+    # Archive with custom options
+    python cli.py archive --bucket "my-data-bucket" --prefix "scholar-data/" --local-dir "data/local"
+    
+    # Archive and remove local files
+    python cli.py archive --remove-local
 """
 
 import argparse
 import sys
 import os
+import json
 from pathlib import Path
+import glob
+from datetime import datetime
 
 # Add the parent directory to the Python path
 current_file = Path(__file__)
@@ -83,6 +99,13 @@ load_dotenv(dotenv_path=env_path)
 SERPAPI_API_KEY = os.getenv('SERPAPI_API_KEY')
 if not SERPAPI_API_KEY:
     raise ValueError("SERPAPI_API_KEY not found in environment variables")
+
+# Check for GCP credentials
+GOOGLE_APPLICATION_CREDENTIALS = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
+if not GOOGLE_APPLICATION_CREDENTIALS:
+    print("Warning: GOOGLE_APPLICATION_CREDENTIALS not found in environment variables")
+    print("GCP archiving functionality will not work without proper credentials")
+          
 
 def download_data(query, start_year, end_year, num_results, results_per_page):
     """Download data from Google Scholar for the given query."""
@@ -280,8 +303,123 @@ def test_data(query, collection_name="google_scholar", n_results=5, doc_type=Non
         import traceback
         traceback.print_exc()
 
-def pipeline(query, start_year, end_year, num_results, results_per_page, collection_name="google_scholar", n_results=5, doc_type=None, skip_test=False):
-    """Run the entire pipeline: download, process, vectorize, and test."""
+def archive_to_gcp(bucket_name="expert-finder-data-1", prefix="google-scholar-data/", local_dir=None, remove_local=False):
+    """Archive JSON files to Google Cloud Storage and optionally remove local files."""
+    try:
+        print("Starting archive process...")
+        
+        # Check if GCP credentials are available
+        if not GOOGLE_APPLICATION_CREDENTIALS:
+            print("Error: GOOGLE_APPLICATION_CREDENTIALS not found in environment variables")
+            print("Please set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the path of your service account key file")
+            return
+        
+        print(f"Using GCP credentials from: {GOOGLE_APPLICATION_CREDENTIALS}")
+        
+        # Import GCP libraries
+        try:
+            print("Importing google.cloud.storage...")
+            from google.cloud import storage
+            print("Successfully imported google.cloud.storage")
+        except ImportError:
+            print("Error: google-cloud-storage package not installed")
+            print("Please install it with: pip install google-cloud-storage")
+            return
+        
+        # Determine local directory
+        if local_dir is None:
+            # Use the absolute path to the google-scholar-data folder in the root directory
+            local_dir = project_root / "google-scholar-data"
+        else:
+            local_dir = Path(local_dir)
+        
+        if not local_dir.exists():
+            print(f"Error: Local directory {local_dir} does not exist")
+            print("Please make sure the google-scholar-data directory exists in the project root")
+            return
+        
+        print(f"Local directory: {local_dir}")
+        print(f"Archiving files from {local_dir} to GCP bucket {bucket_name} with prefix {prefix}")
+        if remove_local:
+            print("Local files will be removed after successful archival")
+        
+        # Initialize GCP client
+        print("Initializing GCP client...")
+        try:
+            storage_client = storage.Client()
+            print("GCP client initialized successfully")
+        except Exception as e:
+            print(f"Error initializing GCP client: {str(e)}")
+            return
+        
+        # Get bucket
+        print(f"Accessing bucket: {bucket_name}")
+        try:
+            bucket = storage_client.get_bucket(bucket_name)
+            print(f"Successfully accessed bucket: {bucket_name}")
+        except Exception as e:
+            print(f"Error accessing bucket {bucket_name}: {str(e)}")
+            print("Please make sure the bucket exists and you have the necessary permissions")
+            return
+        
+        # Find all JSON files in the local directory
+        print("Finding JSON files...")
+        json_files = []
+        json_files.extend(local_dir.glob("*.json"))
+        json_files.extend(local_dir.glob("**/*.json"))
+        
+        if not json_files:
+            print(f"No JSON files found in {local_dir}")
+            print("The directory is empty. You need to run the download command first to populate this directory.")
+            return
+        
+        print(f"Found {len(json_files)} JSON files to archive")
+        
+        # Upload each file
+        print("Starting file uploads...")
+        uploaded_count = 0
+        uploaded_files = []
+        for i, file_path in enumerate(json_files, 1):
+            print(f"Uploading file {i}/{len(json_files)}: {file_path}")
+            # Create a blob name with the prefix and relative path
+            relative_path = file_path.relative_to(local_dir)
+            blob_name = f"{prefix}{relative_path}"
+            
+            # Create a blob and upload the file
+            try:
+                blob = bucket.blob(blob_name)
+                print(f"  Uploading to: {blob_name}")
+                blob.upload_from_filename(str(file_path))
+                print(f"  Upload successful")
+                uploaded_count += 1
+                uploaded_files.append(file_path)
+            except Exception as e:
+                print(f"  Error uploading {file_path}: {str(e)}")
+        
+        print(f"\nArchiving complete! Uploaded {uploaded_count} files to GCP bucket {bucket_name}")
+        
+        # Remove local files if requested
+        if remove_local and uploaded_count > 0:
+            print("\nRemoving local files...")
+            removed_count = 0
+            
+            for file_path in uploaded_files:
+                try:
+                    file_path.unlink()
+                    print(f"Removed {file_path}")
+                    removed_count += 1
+                except Exception as e:
+                    print(f"Error removing {file_path}: {str(e)}")
+            
+            print(f"Removed {removed_count} local files")
+        
+    except Exception as e:
+        print(f"An error occurred during archiving: {e}")
+        import traceback
+        traceback.print_exc()
+
+def pipeline(query, start_year, end_year, num_results, results_per_page, collection_name="google_scholar"):
+    """Run the data pipeline: download, process, and vectorize."""
     try:
         print("\n" + "="*50)
         print("STARTING EXPERT FINDER PIPELINE")
@@ -304,13 +442,6 @@ def pipeline(query, start_year, end_year, num_results, results_per_page, collect
         print("STEP 3: VECTORIZING DATA")
         print("-"*50)
         vectorize_data(collection_name)
-        
-        # Step 4: Test query (optional)
-        if not skip_test:
-            print("\n" + "-"*50)
-            print("STEP 4: TESTING QUERY")
-            print("-"*50)
-            test_data(query, collection_name, n_results, doc_type)
         
         print("\n" + "="*50)
         print("EXPERT FINDER PIPELINE COMPLETED")
@@ -351,16 +482,20 @@ def main():
     test_parser.add_argument("--doc-type", type=str, choices=["author", "website_content", "journal_content"], help="Filter results by document type")
     
     # Pipeline command
-    pipeline_parser = subparsers.add_parser("pipeline", help="Run the entire pipeline: download, process, vectorize, and test")
+    pipeline_parser = subparsers.add_parser("pipeline", help="Run the data pipeline: download, process, and vectorize")
     pipeline_parser.add_argument("--query", type=str, required=True, help="Search query")
     pipeline_parser.add_argument("--start-year", type=str, default="2022", help="Start year for filtering")
     pipeline_parser.add_argument("--end-year", type=str, default="2025", help="End year for filtering")
     pipeline_parser.add_argument("--num-results", type=int, default=20, help="Total results to fetch")
     pipeline_parser.add_argument("--results-per-page", type=int, default=10, help="Results per page (max 20)")
     pipeline_parser.add_argument("--collection", type=str, default="google_scholar", help="ChromaDB collection name")
-    pipeline_parser.add_argument("--n-results", type=int, default=5, help="Number of results to return for test")
-    pipeline_parser.add_argument("--doc-type", type=str, choices=["author", "website_content", "journal_content"], help="Filter results by document type")
-    pipeline_parser.add_argument("--skip-test", action="store_true", help="Skip the test step after vectorization")
+    
+    # Archive command
+    archive_parser = subparsers.add_parser("archive", help="Archive JSON files to Google Cloud Storage")
+    archive_parser.add_argument("--bucket", type=str, default="expert-finder-bucket-1", help="GCP bucket name")
+    archive_parser.add_argument("--prefix", type=str, default="google-scholar-data/", help="Prefix for files in GCP bucket")
+    archive_parser.add_argument("--local-dir", type=str, help="Local directory to archive")
+    archive_parser.add_argument("--remove-local", action="store_true", help="Remove local files after successful archival")
     
     # Parse arguments
     args = parser.parse_args()
@@ -387,11 +522,10 @@ def main():
             args.end_year,
             args.num_results,
             args.results_per_page,
-            args.collection,
-            args.n_results,
-            args.doc_type,
-            args.skip_test
+            args.collection
         )
+    elif args.command == "archive":
+        archive_to_gcp(args.bucket, args.prefix, args.local_dir, args.remove_local)
     else:
         parser.print_help()
 
