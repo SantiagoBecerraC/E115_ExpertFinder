@@ -9,7 +9,7 @@ export PERSISTENT_DIR=$(pwd)/../database/
 export SECRETS_DIR=$(pwd)/../../secrets
 export DATA_DIR=$(pwd)/../google-scholar-data/
 export GCP_PROJECT="expertfinder-452203" # CHANGE TO YOUR PROJECT ID
-export GOOGLE_APPLICATION_CREDENTIALS=$SECRETS_DIR/"expertfinder-452203-452ea0d34e0f.json"
+export GOOGLE_APPLICATION_CREDENTIALS=$SECRETS_DIR/"expertfinder.json"
 export IMAGE_NAME="expert-finder-backend"
 
 # Load environment variables from .env file if it exists
