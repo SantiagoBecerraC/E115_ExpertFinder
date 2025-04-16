@@ -6,7 +6,9 @@ import os
 import logging
 from agent.scholar_agent import create_scholar_agent, ChromaDBTool
 from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
+from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
 from langchain_core.messages import HumanMessage
+import re
 
 # Configure logging
 logging.basicConfig(
@@ -85,16 +87,17 @@ async def root():
         "message": "Welcome to Expert Finder API",
         "version": "1.0.0",
         "endpoints": {
-            "search": "/search",
+            "scholar_search": "/scholar_search",
+            "linkedin_search": "/linkedin_search",
             "docs": "/docs",
             "redoc": "/redoc"
         }
     }
 
-@app.post("/search")
-async def search_experts(search_query: SearchQuery):
+@app.post("/scholar_search")
+async def search_scholar_experts(search_query: SearchQuery):
     try:
-        logger.info(f"Received search query: {search_query.query}")
+        logger.info(f"Received scholar search query: {search_query.query}")
         
         # Create ChromaDB tool with validated max_results
         logger.info("Creating ChromaDB tool...")
@@ -163,67 +166,120 @@ async def search_experts(search_query: SearchQuery):
                 # Continue with the next expert instead of raising an exception
                 continue
         
-        # Search for LinkedIn experts using the existing ExpertFinderAgent
-        logger.info("Searching LinkedIn experts...")
-        linkedin_agent = ExpertFinderAgent(
-            chroma_dir=os.getenv("CHROMA_DIR", "chroma_db"),
-            project_id=os.getenv("GCP_PROJECT"),
-            location=os.getenv("GCP_LOCATION", "us-central1")
-        )
+        return {
+            "experts": scholar_experts,
+            "total": len(scholar_experts),
+            "source": "scholar"
+        }
         
-        # Get LinkedIn search results
-        linkedin_response = linkedin_agent.find_experts(
+    except Exception as e:
+        logger.error(f"Error in search_scholar_experts: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/linkedin_search")
+async def search_linkedin_experts(search_query: SearchQuery):
+    try:
+        logger.info(f"Received LinkedIn search query: {search_query.query}")
+        
+        # Use the new LinkedInVectorizer for direct ChromaDB search
+        vectorizer = LinkedInVectorizer(collection_name="linkedin")
+        search_results = vectorizer.search_profiles(
             search_query.query,
-            initial_k=search_query.max_results * 2,  # Get more initial results for better selection
-            final_k=search_query.max_results
+            n_results=search_query.max_results
         )
         
-        # Extract LinkedIn experts from the response
+        # Convert search results to Expert objects
         linkedin_experts = []
-        
-        # The response is a text summary, so we need to extract the expert data
-        # This is a simplified approach - in a real implementation, you might want to
-        # modify the ExpertFinderAgent to return structured data
-        try:
-            # Try to extract expert data from the response
-            # This is a simplified approach and might need adjustment based on the actual response format
-            import re
-            
-            # Look for patterns like "Name: John Doe" in the response
-            name_matches = re.findall(r"Name: ([^\n]+)", linkedin_response)
-            title_matches = re.findall(r"Current Position: ([^\n]+)", linkedin_response)
-            company_matches = re.findall(r"at ([^\n]+)", linkedin_response)
-            location_matches = re.findall(r"Location: ([^\n]+)", linkedin_response)
-            
-            # Create experts from the extracted data
-            for i in range(min(len(name_matches), search_query.max_results)):
-                name = name_matches[i] if i < len(name_matches) else "Unknown"
-                title = title_matches[i] if i < len(title_matches) else "Unknown"
-                company = company_matches[i] if i < len(company_matches) else "Unknown"
-                location = location_matches[i] if i < len(location_matches) else "Unknown"
-                
-                linkedin_experts.append(Expert(
-                    id=f"linkedin_{len(linkedin_experts)}",
-                    name=name,
-                    title=title,
-                    source="linkedin",
-                    company=company,
-                    location=location,
-                    skills=[],  # Skills would need to be extracted similarly
-                    summary=linkedin_response  # Use the full response as summary for now
-                ))
-        except Exception as e:
-            logger.error(f"Error extracting LinkedIn expert data: {str(e)}")
-            # If extraction fails, create a single expert with the full response
-            linkedin_experts.append(Expert(
-                id="linkedin_0",
-                name="LinkedIn Expert",
-                title="Professional",
+        for i, result in enumerate(search_results):
+            expert = Expert(
+                id=f"linkedin_{i}",
+                name=result.get("name", "Unknown"),
+                title=result.get("current_title", "Unknown"),
                 source="linkedin",
-                summary=linkedin_response
-            ))
+                company=result.get("current_company", "Unknown"),
+                location=result.get("location", "Unknown"),
+                skills=[],  # Add skills extraction if available
+                summary=result.get("profile_summary", "")
+            )
+            linkedin_experts.append(expert)
         
-        # Combine results from both sources
+        # If no results found with vectorizer, fall back to ExpertFinderAgent
+        if not linkedin_experts:
+            logger.info("No results from LinkedInVectorizer, falling back to ExpertFinderAgent")
+            
+            linkedin_agent = ExpertFinderAgent(
+                chroma_dir=None,  # Don't specify chroma_dir to avoid using wrong collection
+                project_id=os.getenv("GCP_PROJECT"),
+                location=os.getenv("GCP_LOCATION", "us-central1")
+            )
+            
+            # Pass the LinkedInVectorizer to the ExpertFinderAgent (requires code modification)
+            # Or just use the agent's built-in search
+            linkedin_response = linkedin_agent.find_experts(
+                search_query.query,
+                initial_k=search_query.max_results * 2,
+                final_k=search_query.max_results
+            )
+            
+            # Extract LinkedIn experts from the response text
+            try:
+                # Extract expert data from the response text
+                name_matches = re.findall(r"Name: ([^\n]+)", linkedin_response)
+                title_matches = re.findall(r"Current Position: ([^\n]+)", linkedin_response)
+                company_matches = re.findall(r"at ([^\n]+)", linkedin_response)
+                location_matches = re.findall(r"Location: ([^\n]+)", linkedin_response)
+                
+                # Create experts from the extracted data
+                for i in range(min(len(name_matches), search_query.max_results)):
+                    name = name_matches[i] if i < len(name_matches) else "Unknown"
+                    title = title_matches[i] if i < len(title_matches) else "Unknown"
+                    company = company_matches[i] if i < len(company_matches) else "Unknown"
+                    location = location_matches[i] if i < len(location_matches) else "Unknown"
+                    
+                    linkedin_experts.append(Expert(
+                        id=f"linkedin_{len(linkedin_experts)}",
+                        name=name,
+                        title=title,
+                        source="linkedin",
+                        company=company,
+                        location=location,
+                        skills=[],  # Skills would need to be extracted similarly
+                        summary=linkedin_response  # Use the full response as summary for now
+                    ))
+            except Exception as e:
+                logger.error(f"Error extracting LinkedIn expert data: {str(e)}")
+                # If extraction fails, create a single expert with the full response
+                linkedin_experts.append(Expert(
+                    id="linkedin_0",
+                    name="LinkedIn Expert",
+                    title="Professional",
+                    source="linkedin",
+                    summary=linkedin_response
+                ))
+        
+        return {
+            "experts": linkedin_experts,
+            "total": len(linkedin_experts),
+            "source": "linkedin"
+        }
+        
+    except Exception as e:
+        logger.error(f"Error in search_linkedin_experts: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+# Optional - keep the original search endpoint that combines both sources
+@app.post("/search")
+async def search_all_experts(search_query: SearchQuery):
+    try:
+        # Get Scholar experts
+        scholar_response = await search_scholar_experts(search_query)
+        scholar_experts = scholar_response.get("experts", [])
+        
+        # Get LinkedIn experts
+        linkedin_response = await search_linkedin_experts(search_query)
+        linkedin_experts = linkedin_response.get("experts", [])
+        
+        # Combine results
         all_experts = scholar_experts + linkedin_experts
         
         return {
@@ -232,11 +288,10 @@ async def search_experts(search_query: SearchQuery):
             "scholar_count": len(scholar_experts),
             "linkedin_count": len(linkedin_experts)
         }
-        
     except Exception as e:
-        logger.error(f"Error in search_experts: {str(e)}")
+        logger.error(f"Error in search_all_experts: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000) 
+    uvicorn.run(app, host="0.0.0.0", port=8000)
