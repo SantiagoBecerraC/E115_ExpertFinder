@@ -14,6 +14,7 @@ import logging
 
 from sentence_transformers import SentenceTransformer
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+from .dvc_utils import DVCManager
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -314,4 +315,40 @@ class ChromaDBManager:
             logger.info("Collection recreated successfully")
         except Exception as e:
             logger.error(f"Failed to reset collection: {str(e)}")
-            raise RuntimeError(f"Failed to reset collection: {str(e)}") 
+            raise RuntimeError(f"Failed to reset collection: {str(e)}")
+
+    def add_documents_with_version(
+        self,
+        documents: List[str],
+        ids: List[str],
+        metadatas: Optional[List[Dict[str, Any]]] = None,
+        update_info: Optional[Dict[str, Any]] = None,
+        version_after_batch: bool = False
+    ) -> bool:
+        """
+        Add documents to the ChromaDB collection with optional DVC versioning.
+        
+        Args:
+            documents: List of document contents
+            ids: List of unique IDs for the documents
+            metadatas: Optional list of metadata dictionaries for each document
+            update_info: Optional information about the update for DVC commit message
+            version_after_batch: If True, version the database after adding documents
+            
+        Returns:
+            bool: True if documents were added successfully, False otherwise
+        """
+        try:
+            # Add documents using existing method
+            self.add_documents(documents, ids, metadatas)
+            
+            # If versioning is requested, use DVC to version the database
+            if version_after_batch:
+                dvc_manager = DVCManager()
+                return dvc_manager.version_database(update_info)
+            
+            return True
+            
+        except Exception as e:
+            logger.error(f"Failed to add documents with versioning: {str(e)}")
+            return False 
