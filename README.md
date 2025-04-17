@@ -1,18 +1,37 @@
-# ExpertFinder - Milestone 3
+# ExpertFinder - Milestone 4
+
+# Team Members - Jinyu Han, Santiago Becerra Cordoba, Umapathy (Umy) Bhakthavatsulu
 
 Expert finder system using LinkedIn and Google Scholar data and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system uses RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
 
-## Updates in Milestone 3
+## Updates in Milestone 4
 
 ### New Features:
-1. **Web Frontend Interface**: 
+1. **Solution Architecture**
+   - [Solution Architecture Document](/reports/ExpertFinder-Solution-Architecture.pdf)
+   
+2. **Backend API**:
+   - Built using FastAPI with comprehensive type validation using Pydantic models
+   - RESTful API endpoints for expert search and profile retrieval
+   - [API Documentation](/images/ExpertFinder-API.png)
+   - Advanced filtering capabilities for location, industry, and experience
+   - Real-time credibility scoring and ranking system
+   - Integration with ChromaDB for semantic search functionality
+
+3. **Web Frontend Interface**: 
    - Added a modern, responsive Next.js frontend for an intuitive user experience
    - Implemented tabbed interface for viewing experts from different sources
    - Designed mobile-friendly UI with real-time search capabilities
-
-2. **LLM Fine-tuning**: 
-   - Trained a custom Gemini model specifically for expert finding tasks
-   - Generated specialized dataset for training with expert profiles
+   - Interactive expert cards with detailed profile information
+   - Credibility score visualization with tooltips
+   - Dynamic filtering and sorting options
+   - Real-time search with instant results
+   
+4. **Data Versioning and Tracking**:
+   - Implemented DVC for version controlling the ChromaDB database
+   - Tracks significant database updates rather than individual profile additions
+   - Maintains version history with commit hashes and metadata
+   - Supports database restoration to previous versions
 
 ## System Components
 
@@ -89,7 +108,7 @@ Each component has its own detailed installation and setup guide:
 
 2. Start the frontend container:
    ```bash
-    ./docker-shell.sh
+   ./docker-shell.sh
    ```
 
 3. Access the application:
@@ -107,25 +126,37 @@ ExpertFinder/
 │   ├── linkedin_data_processing/
 │   │   ├── expert_finder_linkedin.py    # LinkedIn expert search
 │   │   ├── process_linkedin_profiles.py # Profile processing
+│   │   ├── dynamic_credibility.py       # Dynamic credibility scoring
 │   │   └── credibility_system.py        # Profile verification
 │   ├── linkedin_raw_data/     # LinkedIn data extraction
 │   ├── google_scholar/        # Scholar data collection
-│   ├── llm-finetuning/        # Model fine-tuning
-│   └── utils/                 # Shared utilities
+│   ├── chromaDBtest/          # ChromaDB testing and configuration
+│   ├── utils/                 # Shared utilities
+│   │   ├── chroma_db_utils.py # ChromaDB management
+│   │   └── dvc_utils.py       # DVC integration
+│   ├── main.py                # FastAPI application
+│   ├── Dockerfile             # Backend container
+│   ├── docker-compose.yml     # Backend services
+│   └── test_*.py              # Test files
 ├── frontend/
 │   ├── src/
 │   │   ├── app/              # Next.js pages
 │   │   ├── components/       # React components
-│   │   └── styles/           # CSS and styling
+│   │   │   ├── ui/           # Base UI components
+│   │   │   ├── ExpertCard.tsx
+│   │   │   ├── ExpertList.tsx
+│   │   │   └── ExpertTabs.tsx
+│   │   └── lib/              # Utilities and API
 │   ├── public/               # Static assets
-│   └── Dockerfile            # Frontend container
-├── chroma_db/                # Vector database storage
-│   ├── embeddings/           # Stored embeddings
-│   └── metadata/             # Search metadata
-├── secrets/                  # Secure configuration
-│   ├── .env                  # Environment variables
-│   ├── gcp_credentials.json  # GCP access
-│   └── api_keys/             # API credentials
+│   ├── Dockerfile            # Frontend container
+│   └── docker-compose.yml    # Frontend services
+├── .dvc/                     # DVC configuration
+├── .git/                     # Git repository
+├── images/                   # Project images
+├── reports/                  # Project reports
+├── llm-finetuning/           # Model fine-tuning
+├── cleanup.sh                # Cleanup scripts
+├── Pipfile                   # Python dependencies
 └── docker-compose.yml        # Main service orchestration
 ```
 
@@ -156,12 +187,12 @@ ExpertFinder/
    - Volume management for persistence
 
 5. **Data Storage**:
-   - `chroma_db/`: Vector database for semantic search
+   - ChromaDB for vector database and semantic search
    - Persistent storage for embeddings and metadata
    - Optimized for similarity search operations
 
 6. **Security**:
-   - `secrets/`: Secure storage for credentials
+   - Secure storage for credentials
    - Environment configuration
    - API keys and access tokens
    - GCP service account credentials
@@ -212,7 +243,7 @@ The system uses a modular architecture with the following key components:
 1. **Data Collection**:
    - Extract LinkedIn profiles
    - Gather Google Scholar data
-   - Collect PubMed publications
+   - Process and structure data
 
 2. **Data Processing**:
    - Structure and clean raw data
