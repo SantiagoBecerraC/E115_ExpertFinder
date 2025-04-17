@@ -25,8 +25,6 @@ This project contains code for extracting and analyzing data from LinkedIn using
   - Consolidate search data into a single dataset
   - Store detailed profile information
 
-## Docker Setup
-
 ### Configuration Requirements
 
 Before running the scripts, you need to configure:
