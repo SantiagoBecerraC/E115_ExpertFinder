@@ -25,8 +25,6 @@ This project contains code for extracting and analyzing data from LinkedIn using
   - Consolidate search data into a single dataset
   - Store detailed profile information
 
-## Docker Setup
-
 ### Configuration Requirements
 
 Before running the scripts, you need to configure:
@@ -44,56 +42,12 @@ Before running the scripts, you need to configure:
      - Update credentials in `search_profiles_gcp.py` (line 183)
    - ⚠️ Warning: Be mindful of LinkedIn's rate limiting when using your credentials
    - *Note: a better implementation to test with your own credentials will be added in future MS*
-
-### Option 1: Using docker-shell script (Recommended)
-
-The easiest way to build and run the container is using the provided shell script:
-
-```bash
-# Make sure you're inside the project folder
-cd linkedin_raw_data
-
-# Run the script
-sh docker-shell.sh
 ```
-
-The script will:
-1. Build the Docker image automatically
-2. Prompt for your GCP credentials file path (with a default option)
-3. Mount both the credentials and the current directory
-4. Run the container in interactive mode
-
-### Option 2: Manual Docker Commands
-
-#### Building the Docker Image
-
-Build the Docker image from the project directory:
-
-```bash
-# Navigate to the project directory
-cd linkedin_raw_data
-
-# Build the Docker image
-docker build -t linkedin-raw-data .
-```
-
-
-### Running the Docker Container
-
-The container requires your GCP credentials to be mounted as a volume. Run the container in interactive mode:
-
-```bash
-docker run -it -v /path/to/your/credentials.json:/app/secrets.json linkedin-raw-data
-```
-
-Replace `/path/to/your/credentials.json` with the actual path to your GCP service account key file.
-
 ## Usage
 
 ### Search for LinkedIn Profiles
 
 ```bash
-# Inside the Docker container
 python search_profiles_gcp.py keyword1 keyword2 ... [--region REGION_CODE]
 ```
 
@@ -112,7 +66,6 @@ python search_profiles_gcp.py --help
 ### Consolidate Search Results
 
 ```bash
-# Inside the Docker container
 python consolidate_people_gcp.py
 ```
 
