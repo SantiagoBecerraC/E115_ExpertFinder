@@ -13,7 +13,7 @@ import { ChatHistoryItem } from "@/components/ui/chat-history-item"
 import { ExpertTabs } from "@/components/ExpertTabs"
 import Image from "next/image"
 import { useState } from "react"
-import { Expert } from "@/lib/api"
+import { Expert } from "../lib/api"
 
 export default function Home() {
   // State for managing search results and loading state

@@ -9,13 +9,7 @@ import chromadb
 from tqdm import tqdm
 from google.cloud import aiplatform
 from vertexai.generative_models import GenerativeModel, GenerationConfig
-
-try:
-    # Try relative import first (when imported)
-    from .process_linkedin_profiles import setup_chroma_db
-except ImportError:
-    # Fall back to absolute import (when run directly)
-    from process_linkedin_profiles import setup_chroma_db
+from utils.chroma_db_utils import ChromaDBManager
 
 def search_profiles(query, filters=None, top_k=5, chroma_dir="chroma_db"):
     """
@@ -24,16 +18,8 @@ def search_profiles(query, filters=None, top_k=5, chroma_dir="chroma_db"):
     Args:
         query (str): The search query
         filters (dict, optional): Metadata filters with multiple conditions
-            Example: {
-                "location": ["San Francisco", "Bay Area"],  # OR condition within same field
-                "industry": "Technology",
-                "education_level": ["PhD", "Masters"],  # OR condition
-                "career_level": ["Executive", "Director"],  # OR condition
-                "years_experience": {"$gte": "10"},  # Numeric comparison
-                "current_company": {"$in": ["Google", "Meta", "Apple"]},  # IN condition
-            }
         top_k (int): Number of results to return
-        chroma_dir (str): Directory where ChromaDB data is persisted
+        chroma_dir (str): Directory where ChromaDB data is persisted (not used when ChromaDBManager is used)
         
     Returns:
         list: Matching profiles with similarity scores
@@ -41,8 +27,16 @@ def search_profiles(query, filters=None, top_k=5, chroma_dir="chroma_db"):
     # Initialize embedding model
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     
-    # Set up ChromaDB
-    _, collection = setup_chroma_db(chroma_dir)
+    # Use ChromaDBManager instead of direct ChromaDB connection
+    # This ensures we're using the same path and collection as LinkedInVectorizer
+    try:
+        print("Connecting to ChromaDB using ChromaDBManager")
+        chroma_manager = ChromaDBManager(collection_name="linkedin")
+        collection = chroma_manager.collection
+        print(f"Collection has {collection.count()} documents")
+    except Exception as e:
+        print(f"Error accessing collection: {str(e)}")
+        return []
     
     # Generate query embedding
     query_embedding = embedding_model.encode(query)
@@ -257,7 +251,7 @@ class ExpertFinderAgent:
         You are an AI assistant that helps parse user queries about finding LinkedIn experts.
         Extract the following information from the user's query:
         1. The main search query (skills, expertise, or role they're looking for)
-        2. Any filters that should be applied (location, industry, education level, career level, years of experience)
+        2. Any filters that should be applied (location, company, industry, education level, career level, years of experience)
         
         Format your response as a JSON object with these fields:
         {
@@ -265,6 +259,7 @@ class ExpertFinderAgent:
             "filters": {
                 "location": ["Location filter if specified"],  # Use array even for single values
                 "industry": ["Industry filter if specified"],  # Use array even for single values
+                "current_company": ["Company name if specified"],  # Use array for companies mentioned
                 "education_level": ["Education level filter if specified"],  # PhD, Masters, Bachelors, Other
                 "career_level": ["Career level filter if specified"],  # Executive, Director, Manager, Senior, Other
                 "years_experience": {"$gte": "10"}  # If years of experience is mentioned with a comparison
@@ -272,7 +267,9 @@ class ExpertFinderAgent:
         }
         
         Notes:
-        - For location, industry, education_level, and career_level, always use arrays even for single values
+        - IMPORTANT: If the user mentions a company name (like Google, Microsoft, Meta, etc.), use the "current_company" filter, NOT industry
+        - Companies should be categorized as "current_company" while industries are broader sectors like "Technology", "Finance", etc.
+        - For location, industry, current_company, education_level, and career_level, always use arrays even for single values
         - If multiple values are mentioned for a field, include all of them in the array
         - For years_experience, use comparison operators ($gte, $lte) if appropriate
         - Only include filter fields that are explicitly mentioned in the query
@@ -502,6 +499,165 @@ class ExpertFinderAgent:
         
         return response
 
+    def generate_json_response(self, user_query, search_results):
+        """
+        Generate a JSON response summarizing the search results using Gemini.
+        
+        Args:
+            user_query (str): Original user query
+            search_results (list): Results from the search_profiles function
+            
+        Returns:
+            list: List of expert profiles in JSON format
+        """
+        if not self.model:
+            # Fallback to simple response if Vertex AI is not available
+            return [self._format_expert_json(expert) for expert in search_results]
+        
+        if not search_results:
+            return []
+        
+        # Prepare the context for Gemini
+        context = "Here are the top experts I found:\n\n"
+        
+        for result in search_results:
+            context += f"Expert {result['rank']}:\n"
+            context += f"ID: {result.get('urn_id', '')}\n"
+            context += f"Name: {result.get('name', '')}\n"
+            context += f"Current Position: {result.get('current_title', '')} at {result.get('current_company', '')}\n"
+            context += f"Location: {result.get('location', '')}\n"
+            context += f"Industry: {result.get('industry', '')}\n"
+            context += f"Education Level: {result.get('education_level', '')}\n"
+            context += f"Career Level: {result.get('career_level', '')}\n"
+            context += f"Years Experience: {result.get('years_experience', '')}\n"
+            
+            # Include both scores if reranking was used
+            if 'rerank_score' in result:
+                context += f"Initial Similarity: {result['similarity']:.2f}\n"
+                context += f"Relevance Score: {result['rerank_score']:.2f}\n"
+            else:
+                context += f"Relevance Score: {result['similarity']:.2f}\n"
+                
+            context += f"Profile Summary: {result['profile_summary']}\n\n"
+        
+        system_prompt = """
+        You are an AI assistant that helps find LinkedIn experts based on user queries.
+        Extract relevant information from the search results and format it as a JSON array.
+        
+        For each expert, include these fields:
+        - id: The expert's unique identifier
+        - name: Full name of the expert
+        - title: Current job title
+        - company: Current company
+        - location: Geographic location
+        - skills: Extract 3-5 key skills based on their profile summary and experience
+        - years_experience: Years of professional experience (numeric value)
+        - education_level: Highest level of education
+        - credibility_level: A numeric value from 1-5 based on experience and education
+        - similarity: The similarity/relevance score
+        - rerank_score: The reranking score if available
+        - summary: A brief 1-2 sentence summary of their expertise
+
+        Return ONLY the JSON array with no additional text or explanation.
+        """
+        
+        prompt = f"{system_prompt}\n\nQuery: {user_query}\n\nSearch Results:\n{context}\n\nJSON Response:"
+        
+        try:
+            # Configure generation parameters for structured JSON output
+            generation_config = GenerationConfig(
+                temperature=0.1,  # Low temperature for more deterministic results
+                max_output_tokens=4096,
+                top_p=0.95,
+                top_k=40
+            )
+            
+            response = self.model.generate_content(
+                prompt,
+                generation_config=generation_config
+            )
+            
+            # Extract JSON from the response
+            json_text = response.text.strip()
+            
+            # Handle potential formatting issues
+            if not json_text.startswith('['):
+                # Try to find JSON array in the text
+                match = re.search(r'(\[.*\])', json_text, re.DOTALL)
+                if match:
+                    json_text = match.group(1)
+                else:
+                    raise ValueError("Could not extract JSON array from response")
+            
+            # Parse the JSON response
+            experts_data = json.loads(json_text)
+            return experts_data
+            
+        except Exception as e:
+            print(f"Error generating JSON response: {str(e)}")
+            # Fallback to simple formatting if Gemini fails
+            return [self._format_expert_json(expert) for expert in search_results]
+
+    def _format_expert_json(self, expert):
+        """Fallback method to format expert data as JSON if LLM fails."""
+        # Extract years of experience (default to 0 if not available)
+        years_experience = 0
+        try:
+            years_experience = int(expert.get('years_experience', '0'))
+        except (ValueError, TypeError):
+            pass
+            
+        return {
+            "id": expert.get('urn_id', ''),
+            "name": expert.get('name', ''),
+            "title": expert.get('current_title', ''),
+            "company": expert.get('current_company', ''),
+            "location": expert.get('location', ''),
+            "skills": [],  # No skills extraction in fallback
+            "years_experience": years_experience,
+            "education_level": expert.get('education_level', ''),
+            "credibility_level": expert.get('career_level', ''),
+            "similarity": expert.get('similarity', 0),
+            "rerank_score": expert.get('rerank_score', 0) if 'rerank_score' in expert else None,
+            "summary": expert.get('profile_summary', '')[:150] + "..." if len(expert.get('profile_summary', '')) > 150 else expert.get('profile_summary', '')
+        }
+
+    def find_experts_json(self, user_query, initial_k=20, final_k=5):
+        """
+        Find experts based on a natural language query and return structured JSON.
+        
+        Args:
+            user_query (str): Natural language query
+            initial_k (int): Number of initial results to retrieve
+            final_k (int): Number of results to return after reranking
+            
+        Returns:
+            list: JSON-formatted expert profiles
+        """
+        print(f"Processing query: '{user_query}'")
+        
+        # Parse the query to extract search terms and filters
+        search_query, filters = self.parse_query(user_query)
+        
+        print(f"Parsed search query: '{search_query}'")
+        if filters:
+            print(f"Parsed filters: {filters}")
+        
+        # Perform the search with reranking
+        search_results = self.search_profiles_with_reranking(
+            search_query, 
+            filters, 
+            initial_k=initial_k, 
+            final_k=final_k
+        )
+        
+        print(f"Found {len(search_results)} matching experts after reranking")
+        
+        # Use the LLM to generate a structured JSON response
+        expert_data = self.generate_json_response(user_query, search_results)
+        
+        return expert_data
+
 def main():
     parser = argparse.ArgumentParser(description="Expert Finder Agent with Reranking")
     parser.add_argument("--query", required=True, help="Natural language query to find experts")
@@ -511,6 +667,7 @@ def main():
     parser.add_argument("--project_id", help="Google Cloud project ID")
     parser.add_argument("--location", default="us-central1", help="Google Cloud region")
     parser.add_argument("--reranker", default="BAAI/bge-reranker-v2-m3", help="HuggingFace reranker model name")
+    parser.add_argument("--json", action="store_true", help="Return results as JSON instead of text")
     
     args = parser.parse_args()
     
@@ -528,14 +685,20 @@ def main():
     )
     
     # Find experts based on the query
-    response = agent.find_experts(args.query, args.initial_k, args.final_k)
-    
-    # Print the response
-    print("\n" + "="*50)
-    print("Expert Finder Results:")
-    print("="*50)
-    print(response)
-    print("="*50)
+    if args.json:
+        response = agent.find_experts_json(args.query, args.initial_k, args.final_k)
+        print("\n" + "="*50)
+        print("Expert Finder Results (JSON):")
+        print("="*50)
+        print(json.dumps(response, indent=2))
+        print("="*50)
+    else:
+        response = agent.find_experts(args.query, args.initial_k, args.final_k)
+        print("\n" + "="*50)
+        print("Expert Finder Results:")
+        print("="*50)
+        print(response)
+        print("="*50)
 
 def test_search():
     """

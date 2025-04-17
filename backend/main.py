@@ -7,6 +7,7 @@ import logging
 from agent.scholar_agent import create_scholar_agent, ChromaDBTool
 from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
 from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
+from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
 from langchain_core.messages import HumanMessage
 from utils.chroma_db_utils import ChromaDBManager
 from utils.dvc_utils import DVCManager
@@ -18,6 +19,11 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+# Initialize credibility calculator
+credibility_calculator = OnDemandCredibilityCalculator()
+# Update stats if needed
+credibility_calculator.update_stats_if_needed()
 
 app = FastAPI(
     title="Expert Finder API",
@@ -82,6 +88,9 @@ class Expert(BaseModel):
     interests: InterestsList = []  # Use the custom InterestsList type
     publications: Optional[List[str]] = None
     summary: Optional[str] = None
+    credibility_level: Optional[int] = None
+    credibility_percentile: Optional[float] = None
+    years_experience: Optional[float] = None
 
 class VersionInfo(BaseModel):
     """Model for version information."""
@@ -127,15 +136,46 @@ async def search_scholar_experts(search_query: SearchQuery):
         scholar_experts = []
         scholar_data = eval(str(scholar_result['messages'][-1].content))
         
-        # Debug logging
-        logger.info(f"Scholar data type: {type(scholar_data)}")
-        if scholar_data:
-            logger.info(f"First expert data: {scholar_data[0]}")
-            logger.info(f"Interests type: {type(scholar_data[0].get('interests'))}")
-            logger.info(f"Interests value: {scholar_data[0].get('interests')}")
+        # Track seen experts to avoid duplicates
+        seen_expert_ids = set()
         
         for expert_data in scholar_data:
-            # Create Expert object with debug logging
+            # Extract the author profile to look for metadata
+            author_profile = None
+            if 'author_profile' in expert_data and 'metadata' in expert_data['author_profile']:
+                author_profile = expert_data['author_profile']
+            
+            # Get the expert name
+            expert_name = expert_data.get("name", "")
+            
+            # Extract Google Scholar user ID from metadata or website URL
+            scholar_id = None
+            
+            # Check if we have the author profile with metadata
+            if author_profile and 'metadata' in author_profile:
+                # Look for website URL which might contain the user ID
+                website = author_profile['metadata'].get('website', '')
+                if website and 'citations?user=' in website:
+                    # Extract the user ID from the URL
+                    start_idx = website.find('user=') + 5
+                    end_idx = website.find('&', start_idx) if '&' in website[start_idx:] else len(website)
+                    scholar_id = website[start_idx:end_idx]
+                    logger.info(f"Found Scholar ID in website URL: {scholar_id}")
+            
+            # If we still don't have an ID, generate one from the name
+            if not scholar_id:
+                # Generate a consistent ID from the name
+                scholar_id = f"scholar_author_{hash(expert_name) % 10000000}"
+                logger.info(f"Generated Scholar ID from name hash: {scholar_id}")
+            
+            # Skip if we've already seen this expert ID
+            if scholar_id in seen_expert_ids:
+                logger.info(f"Skipping duplicate expert: {expert_name} with ID {scholar_id}")
+                continue
+            
+            seen_expert_ids.add(scholar_id)
+            
+            # Create Expert object
             try:
                 # Convert interests to list first
                 raw_interests = expert_data.get("interests", "")
@@ -150,10 +190,10 @@ async def search_scholar_experts(search_query: SearchQuery):
                 else:
                     interests_list = []
                 
-                # Create the Expert object
+                # Create the Expert object with the Google Scholar ID
                 expert = Expert(
-                    id=f"scholar_{len(scholar_experts)}",
-                    name=expert_data.get("name", ""),
+                    id=scholar_id,  # Use the Google Scholar user ID
+                    name=expert_name,
                     title=expert_data.get("affiliations", ""),  # Using affiliations as title
                     source="scholar",
                     citations=expert_data.get("citations", 0),
@@ -162,9 +202,8 @@ async def search_scholar_experts(search_query: SearchQuery):
                     summary=expert_data.get("author_summary", "")
                 )
                 
-                # Log the interests field after creating the Expert object
-                logger.info(f"Expert interests after creation: {expert.interests}")
-                logger.info(f"Expert interests type after creation: {type(expert.interests)}")
+                # Log the ID and interests
+                logger.info(f"Created expert with ID: {expert.id}")
                 
                 # Add the expert to the list
                 scholar_experts.append(expert)
@@ -189,81 +228,41 @@ async def search_linkedin_experts(search_query: SearchQuery):
     try:
         logger.info(f"Received LinkedIn search query: {search_query.query}")
         
-        # Use the new LinkedInVectorizer for direct ChromaDB search
-        vectorizer = LinkedInVectorizer(collection_name="linkedin")
-        search_results = vectorizer.search_profiles(
-            search_query.query,
-            n_results=search_query.max_results
+        # Initialize the agent - it will now use the ChromaDBManager with "linkedin" collection
+        linkedin_agent = ExpertFinderAgent(
+            chroma_dir=None,  # Not needed since we're using ChromaDBManager
+            project_id=os.getenv("GCP_PROJECT"),
+            location=os.getenv("GCP_LOCATION", "us-central1")
         )
         
-        # Convert search results to Expert objects
+        # Use the find_experts_json method
+        expert_json_data = linkedin_agent.find_experts_json(
+            search_query.query,
+            initial_k=search_query.max_results * 2,
+            final_k=search_query.max_results
+        )
+        
+        # Convert to Expert objects
         linkedin_experts = []
-        for i, result in enumerate(search_results):
+        for i, expert_data in enumerate(expert_json_data):
+            # Calculate credibility on-demand
+            credibility = credibility_calculator.calculate_credibility(expert_data)
+            
+            # Add credibility data without modifying the original data
             expert = Expert(
-                id=f"linkedin_{i}",
-                name=result.get("name", "Unknown"),
-                title=result.get("current_title", "Unknown"),
+                id=expert_data.get("id", f"linkedin_{i}"),
+                name=expert_data.get("name", "Unknown"),
+                title=expert_data.get("title", "Unknown"),
                 source="linkedin",
-                company=result.get("current_company", "Unknown"),
-                location=result.get("location", "Unknown"),
-                skills=[],  # Add skills extraction if available
-                summary=result.get("profile_summary", "")
+                company=expert_data.get("company", "Unknown"),
+                location=expert_data.get("location", "Unknown"),
+                skills=expert_data.get("skills", []),
+                summary=expert_data.get("summary", ""),
+                credibility_level=credibility.get("level", 1),
+                credibility_percentile=credibility.get("percentile", 0),
+                years_experience=credibility.get("years_experience", 0)
             )
             linkedin_experts.append(expert)
-        
-        # If no results found with vectorizer, fall back to ExpertFinderAgent
-        if not linkedin_experts:
-            logger.info("No results from LinkedInVectorizer, falling back to ExpertFinderAgent")
-            
-            linkedin_agent = ExpertFinderAgent(
-                chroma_dir=None,  # Don't specify chroma_dir to avoid using wrong collection
-                project_id=os.getenv("GCP_PROJECT"),
-                location=os.getenv("GCP_LOCATION", "us-central1")
-            )
-            
-            # Pass the LinkedInVectorizer to the ExpertFinderAgent (requires code modification)
-            # Or just use the agent's built-in search
-            linkedin_response = linkedin_agent.find_experts(
-                search_query.query,
-                initial_k=search_query.max_results * 2,
-                final_k=search_query.max_results
-            )
-            
-            # Extract LinkedIn experts from the response text
-            try:
-                # Extract expert data from the response text
-                name_matches = re.findall(r"Name: ([^\n]+)", linkedin_response)
-                title_matches = re.findall(r"Current Position: ([^\n]+)", linkedin_response)
-                company_matches = re.findall(r"at ([^\n]+)", linkedin_response)
-                location_matches = re.findall(r"Location: ([^\n]+)", linkedin_response)
-                
-                # Create experts from the extracted data
-                for i in range(min(len(name_matches), search_query.max_results)):
-                    name = name_matches[i] if i < len(name_matches) else "Unknown"
-                    title = title_matches[i] if i < len(title_matches) else "Unknown"
-                    company = company_matches[i] if i < len(company_matches) else "Unknown"
-                    location = location_matches[i] if i < len(location_matches) else "Unknown"
-                    
-                    linkedin_experts.append(Expert(
-                        id=f"linkedin_{len(linkedin_experts)}",
-                        name=name,
-                        title=title,
-                        source="linkedin",
-                        company=company,
-                        location=location,
-                        skills=[],  # Skills would need to be extracted similarly
-                        summary=linkedin_response  # Use the full response as summary for now
-                    ))
-            except Exception as e:
-                logger.error(f"Error extracting LinkedIn expert data: {str(e)}")
-                # If extraction fails, create a single expert with the full response
-                linkedin_experts.append(Expert(
-                    id="linkedin_0",
-                    name="LinkedIn Expert",
-                    title="Professional",
-                    source="linkedin",
-                    summary=linkedin_response
-                ))
         
         return {
             "experts": linkedin_experts,
@@ -355,59 +354,23 @@ async def restore_version(commit_hash: str):
         logger.error(f"Error in restore_version: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.post("/api/data/version")
-async def version_database(version_info: VersionInfo):
+@app.post("/api/data/update_credibility_stats")
+async def update_credibility_stats(force: bool = False):
     """
-    Version the ChromaDB database using DVC.
-    This endpoint should be called after significant updates to the database.
-    """
-    try:
-        dvc_manager = DVCManager()
-        success = dvc_manager.version_database({
-            'source': version_info.source,
-            'profiles_added': version_info.profiles_added,
-            'description': version_info.description
-        })
-        
-        if not success:
-            raise HTTPException(status_code=500, detail="Failed to version database")
-            
-        return {"message": "Database successfully versioned"}
-        
-    except Exception as e:
-        logger.error(f"Error in version_database: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-@app.get("/api/data/versions")
-async def get_version_history(max_entries: int = 10):
-    """
-    Get the version history of the ChromaDB database.
+    Update the credibility statistics from the current database.
+    
+    Args:
+        force: Force update even if not needed
     """
     try:
-        dvc_manager = DVCManager()
-        history = dvc_manager.get_version_history(max_entries)
-        return {"versions": history}
-        
+        was_updated = credibility_calculator.update_stats_if_needed(force=force)
+        return {
+            "success": True,
+            "message": "Credibility statistics updated" if was_updated else "No update needed",
+            "was_updated": was_updated
+        }
     except Exception as e:
-        logger.error(f"Error in get_version_history: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-@app.post("/api/data/restore/{commit_hash}")
-async def restore_version(commit_hash: str):
-    """
-    Restore the ChromaDB database to a specific version.
-    """
-    try:
-        dvc_manager = DVCManager()
-        success = dvc_manager.restore_version(commit_hash)
-        
-        if not success:
-            raise HTTPException(status_code=500, detail="Failed to restore version")
-            
-        return {"message": f"Successfully restored to version {commit_hash}"}
-        
-    except Exception as e:
-        logger.error(f"Error in restore_version: {str(e)}")
+        logger.error(f"Error updating credibility stats: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":

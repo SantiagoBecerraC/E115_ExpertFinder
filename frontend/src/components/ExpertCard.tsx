@@ -2,6 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Building2, MapPin, GraduationCap, BookOpen, Link } from "lucide-react"
+import { CredibilityBadge } from "./CredibilityBadge"
 
 interface Expert {
   id: string
@@ -14,6 +15,9 @@ interface Expert {
   citations?: number
   interests?: string[]
   publications?: number
+  credibility_level?: number
+  credibility_percentile?: number
+  years_experience?: number
 }
 
 interface ExpertCardProps {
@@ -24,7 +28,16 @@ export function ExpertCard({ expert }: ExpertCardProps) {
   return (
     <Card className="h-full flex flex-col hover:shadow-md transition-shadow duration-200">
       <CardHeader className="pb-3">
-        <CardTitle className="text-xl font-semibold text-gray-800">{expert.name}</CardTitle>
+        <div className="flex items-center justify-between">
+          <CardTitle className="text-xl font-semibold text-gray-800">{expert.name}</CardTitle>
+          {expert.source === "linkedin" && expert.credibility_level && (
+            <CredibilityBadge 
+              level={expert.credibility_level} 
+              percentile={expert.credibility_percentile}
+              yearsExperience={expert.years_experience}
+            />
+          )}
+        </div>
       </CardHeader>
       <CardContent className="flex-1 space-y-4">
         <div className="space-y-2">

@@ -1,7 +1,8 @@
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Building2, MapPin, GraduationCap, BookOpen, Link, Star } from "lucide-react"
-import { Expert } from "@/lib/api"
+import { Expert } from "../lib/api"
+import { CredibilityBadge } from "./CredibilityBadge"
 
 /**
  * Props for the ExpertList component
@@ -55,6 +56,15 @@ export function ExpertList({ source, experts }: ExpertListProps) {
                 </h3>
                 <p className="text-gray-600">{expert.title}</p>
               </div>
+              
+              {/* Credibility Badge - only show for LinkedIn experts */}
+              {expert.source === "linkedin" && expert.credibility_level && (
+                <CredibilityBadge 
+                  level={expert.credibility_level} 
+                  percentile={expert.credibility_percentile}
+                  yearsExperience={expert.years_experience}
+                />
+              )}
             </div>
             
             {/* Expert Details Section */}
@@ -110,6 +120,9 @@ export function ExpertList({ source, experts }: ExpertListProps) {
                 ? "hover:bg-blue-50 hover:text-blue-600 hover:border-blue-200"
                 : "hover:bg-purple-50 hover:text-purple-600 hover:border-purple-200"
             } transition-colors`}
+            onClick={() => window.open(expert.source === "linkedin" 
+              ? `https://www.linkedin.com/in/${expert.id}`
+              : `https://scholar.google.com/citations?user=${expert.id}`, '_blank')}
           >
             <Link className="h-4 w-4 mr-2" />
             View Profile

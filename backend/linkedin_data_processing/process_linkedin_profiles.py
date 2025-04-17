@@ -12,13 +12,13 @@ import argparse
 
 try:
     # Try relative import first (when imported)
-    from .credibility_system import DynamicCredibilityCalculator
+    from .dynamic_credibility import OnDemandCredibilityCalculator
 except ImportError:
     # Fall back to absolute import (when run directly)
-    from credibility_system import DynamicCredibilityCalculator
+    from dynamic_credibility import OnDemandCredibilityCalculator
 
 # Initialize the calculator as a global instance
-credibility_calculator = DynamicCredibilityCalculator()
+credibility_calculator = OnDemandCredibilityCalculator()
 
 def initialize_gcp_client():
     """Initialize and return GCP storage client."""
@@ -439,33 +439,23 @@ def extract_profile_data(file_path):
         print(f"Error processing {file_path}: {str(e)}")
         return None
 
-
 def process_profiles_and_upload_to_gcp(temp_dir="/tmp/profiles", gcp_folder="linkedin_data_processing/processed_profiles"):
-    """
-    Process LinkedIn profile JSON files and upload directly to GCP.
-    
-    Args:
-        temp_dir (str): Temporary directory containing raw profile JSON files
-        gcp_folder (str): GCP folder to store processed profiles
-    """
-    # Initialize GCP client
-    storage_client = initialize_gcp_client()
-    if not storage_client:
-        print("Failed to initialize GCP client. Exiting.")
-        return False
-    
+    """Process LinkedIn profiles and upload to GCP."""
     try:
+        storage_client = initialize_gcp_client()
+        if not storage_client:
+            print("Failed to initialize GCP client. Exiting.")
+            return False
+        
         bucket_name = "expert-finder-bucket-1"
         bucket = storage_client.bucket(bucket_name)
         
-        # Get all JSON files in the input directory
-        profile_files = glob.glob(os.path.join(temp_dir, "*.json"))
-        print(f"Found {len(profile_files)} profile files to process")
-        
-        # First pass: extract data from all profiles
-        print("Extracting data from all profiles...")
+        # First pass: extract profile data
         all_profiles = []
-        for file_path in tqdm(profile_files, desc="Extracting profile data"):
+        json_files = glob.glob(os.path.join(temp_dir, "*.json"))
+        print(f"Found {len(json_files)} profile files to process")
+        
+        for file_path in tqdm(json_files, desc="Processing profiles"):
             try:
                 # Skip files that are not profile files
                 if file_path.endswith('errors.json'):
@@ -482,13 +472,11 @@ def process_profiles_and_upload_to_gcp(temp_dir="/tmp/profiles", gcp_folder="lin
         
         print(f"Extracted data from {len(all_profiles)} profiles")
         
-        # Second pass: calculate credibility scores
-        print("Calculating credibility scores...")
-        credibility_calculator = DynamicCredibilityCalculator()
-        all_profiles = credibility_calculator.process_profiles(all_profiles)
+        # Second pass: no longer calculate credibility scores here
+        print("Preparing profiles...")
         
         # Third pass: upload processed profiles
-        print("Uploading profiles with credibility scores...")
+        print("Uploading processed profiles...")
         processed_count = 0
         for profile_data in tqdm(all_profiles, desc="Uploading profiles"):
             try:
@@ -506,7 +494,6 @@ def process_profiles_and_upload_to_gcp(temp_dir="/tmp/profiles", gcp_folder="lin
                 print(f"Error uploading {profile_data.get('urn_id', 'unknown')}: {str(e)}")
         
         print(f"Successfully processed and uploaded {processed_count} profiles to GCP")
-        print(f"Credibility distribution: {get_credibility_distribution(all_profiles)}")
         return True
         
     except Exception as e:
@@ -515,10 +502,19 @@ def process_profiles_and_upload_to_gcp(temp_dir="/tmp/profiles", gcp_folder="lin
 
 def get_credibility_distribution(profiles):
     """Get distribution of credibility levels for reporting."""
+    # Initialize our on-demand calculator to get current credibility stats
+    calculator = OnDemandCredibilityCalculator()
+    
+    # Make sure stats are up to date
+    calculator.update_stats_if_needed()
+    
+    # Process each profile to get credibility
     distribution = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
     
     for profile in profiles:
-        level = profile.get('credibility', {}).get('level', 1)
+        # Calculate credibility on-demand
+        cred_data = calculator.calculate_credibility(profile)
+        level = cred_data.get('level', 1)
         distribution[level] = distribution.get(level, 0) + 1
     
     # Calculate percentages
@@ -531,8 +527,6 @@ def get_credibility_distribution(profiles):
             }
     
     return distribution
-
-
 
 def download_new_processed_profiles_for_rag(storage_client, existing_profiles, temp_dir="/tmp/processed_profiles", gcp_folder="linkedin_data_processing/processed_profiles"):
     """
@@ -830,8 +824,6 @@ def setup_chroma_db(persist_directory="chroma_db"):
     
     return chroma_client, collection
 
-
-
 # Part 4: RAG search function
 
 def search_profiles_demo(query, filters=None, top_k=5, chroma_dir="chroma_db"):
@@ -897,8 +889,6 @@ def search_profiles_demo(query, filters=None, top_k=5, chroma_dir="chroma_db"):
             })
     
     return matches
-
-
 
 def demo_search(query, filters=None, top_k=5, chroma_dir="chroma_db"):
     """Demonstrate the search functionality."""
