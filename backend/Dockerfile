@@ -22,13 +22,23 @@ WORKDIR /app
 # Add Pipfile, Pipfile.lock
 ADD Pipfile Pipfile.lock /app/
 
-RUN pipenv sync 
+# Install dependencies
+RUN pipenv install --system
+
+# Install pytest explicitly
+RUN pip install pytest pytest-cov
 
 # Source code
 ADD . /app
 
-# Entry point
-ENTRYPOINT ["/bin/bash"]
+# Set PYTHONPATH to include the app directory
+ENV PYTHONPATH=/app
 
-# Get into the pipenv shell
-CMD ["-c", "pipenv shell"]
+# Make the entrypoint script executable
+RUN chmod +x /app/docker-entrypoint.sh
+
+# Expose port 8000
+EXPOSE 8000
+
+# Run the application
+ENTRYPOINT ["/app/docker-entrypoint.sh"]

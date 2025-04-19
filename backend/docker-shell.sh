@@ -3,6 +3,11 @@
 # exit immediately if a command exits with a non-zero status
 set -e
 
+# Debug information
+echo "docker-shell.sh started"
+echo "Arguments: $@"
+echo "First argument: $1"
+
 # Set variables
 export BASE_DIR=$(pwd)
 export PERSISTENT_DIR=$(pwd)/../database/
@@ -35,9 +40,75 @@ docker network inspect expert-finder-network >/dev/null 2>&1 || docker network c
 # Build the image based on the Dockerfile
 docker build -t $IMAGE_NAME -f Dockerfile .
 
-# Run All Containers
-docker compose run --rm --service-ports $IMAGE_NAME
+# Function to run tests
+run_tests() {
+    echo "run_tests function called"
+    echo "Running tests..."
+    echo "Current directory: $(pwd)"
+    echo "Base directory: $BASE_DIR"
+    echo "Running pytest with arguments: $@"
+    
+    # Run the container with pytest directly, overriding the ENTRYPOINT
+    docker run --rm --name $IMAGE_NAME-test \
+        --entrypoint="" \
+        -v "$BASE_DIR":/app \
+        -v "$SECRETS_DIR":/secrets \
+        -v "$PERSISTENT_DIR":/persistent \
+        -e GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS \
+        -e GCP_PROJECT=$GCP_PROJECT \
+        $IMAGE_NAME \
+        bash -c "cd /app && python -m pytest $@"
+    
+    # Check the exit code
+    if [ $? -ne 0 ]; then
+        echo "Tests failed with exit code $?"
+    else
+        echo "Tests completed successfully"
+    fi
+}
 
+# Function to run formatting and linting
+run_format_and_lint() {
+    echo "run_format_and_lint function called"
+    echo "Running formatting and linting..."
+    echo "Current directory: $(pwd)"
+    echo "Base directory: $BASE_DIR"
+    
+    # Run the container with format_and_lint.sh, overriding the ENTRYPOINT
+    docker run --rm --name $IMAGE_NAME-format \
+        --entrypoint="" \
+        -v "$BASE_DIR":/app \
+        -v "$SECRETS_DIR":/secrets \
+        -v "$PERSISTENT_DIR":/persistent \
+        -e GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS \
+        -e GCP_PROJECT=$GCP_PROJECT \
+        $IMAGE_NAME \
+        bash -c "cd /app && chmod +x format_and_lint.sh && ./format_and_lint.sh"
+    
+    # Check the exit code
+    if [ $? -ne 0 ]; then
+        echo "Formatting and linting failed with exit code $?"
+    else
+        echo "Formatting and linting completed successfully"
+    fi
+}
+
+# Check if the first argument is "test"
+echo "Checking if first argument is 'test': $1"
+if [ "$1" == "test" ]; then
+    echo "First argument is 'test', running tests"
+    # Shift the first argument and pass the rest to pytest
+    shift
+    run_tests $@
+# Check if the first argument is "format"
+elif [ "$1" == "format" ]; then
+    echo "First argument is 'format', running formatting and linting"
+    run_format_and_lint
+else
+    echo "First argument is not 'test' or 'format', running containers"
+    # Run All Containers
+    docker compose run --rm --service-ports $IMAGE_NAME
+fi
 
 # Run Container
 # docker run --rm --name $IMAGE_NAME -ti \

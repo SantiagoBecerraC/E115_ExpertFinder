@@ -92,6 +92,4 @@ Each item is a string containing related keyword pairs.
 #     "time series analysis recommendation systems"
 # ]
 
-keywords_list = [ 
-    "danuglipron"
-]
+keywords_list = ["danuglipron"]

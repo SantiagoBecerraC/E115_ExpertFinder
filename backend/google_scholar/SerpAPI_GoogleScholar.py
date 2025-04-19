@@ -32,14 +32,14 @@ class GoogleScholar:
         """
         # Set up search parameters for Google Scholar
         params = {
-            "engine": "google_scholar",    # Specify Google Scholar search engine
-            "q": query,                    # Search query
-            "hl": "en",                    # Set language to English
-            "as_ylo": start_year,          # Start year for filtering
-            "as_yhi": end_year,            # End year for filtering
-            "limit": num_results,          # Number of results per request
-            "api_key": self.api_key,       # Authentication
-            "start": offset               # Pagination offset
+            "engine": "google_scholar",  # Specify Google Scholar search engine
+            "q": query,  # Search query
+            "hl": "en",  # Set language to English
+            "as_ylo": start_year,  # Start year for filtering
+            "as_yhi": end_year,  # End year for filtering
+            "limit": num_results,  # Number of results per request
+            "api_key": self.api_key,  # Authentication
+            "start": offset,  # Pagination offset
         }
 
         # Create search instance and execute
@@ -60,9 +60,9 @@ class GoogleScholar:
         # Set up parameters for author profile request
         params = {
             "engine": "google_scholar_author",  # Use author profile engine
-            "author_id": author_id,            # Author's Google Scholar ID
-            "hl": "en",                        # Set language to English
-            "api_key": self.api_key            # Authentication
+            "author_id": author_id,  # Author's Google Scholar ID
+            "hl": "en",  # Set language to English
+            "api_key": self.api_key,  # Authentication
         }
 
         # Execute search and get author profile
@@ -81,9 +81,9 @@ class GoogleScholar:
         """
         # Set up parameters for citation request
         params = {
-            "engine": "google_scholar_cite",    # Use citation engine
-            "q": citation_id,                   # Article's citation ID
-            "api_key": self.api_key             # Authentication
+            "engine": "google_scholar_cite",  # Use citation engine
+            "q": citation_id,  # Article's citation ID
+            "api_key": self.api_key,  # Authentication
         }
 
         # Get citation formats for the article
