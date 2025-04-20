@@ -19,6 +19,17 @@ sys.modules['keywords_list'].keywords_list = ['AI', 'Machine Learning', 'Data Sc
 sys.modules['SerpAPI_GoogleScholar'] = MagicMock()
 sys.modules['SerpAPI_GoogleScholar'].GoogleScholar = MagicMock
 
+# Mock os.getenv to return a fake API key
+import os
+original_getenv = os.getenv
+
+def mock_getenv(key, default=None):
+    if key == "SERPAPI_API_KEY":
+        return "fake_api_key_for_testing"
+    return original_getenv(key, default)
+
+os.getenv = mock_getenv
+
 from google_scholar.download_scholar_data import (
     extract_data,
     save_to_json,
