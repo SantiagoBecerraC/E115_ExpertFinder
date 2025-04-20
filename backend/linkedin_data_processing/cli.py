@@ -213,9 +213,9 @@ def main():
     pipeline_parser.add_argument("--top_k", type=int, default=5, help="Number of search results to return")
     pipeline_parser.add_argument("--initial_k", type=int, default=20, help="Number of initial results for reranking")
     
-    # Reset collection command
-    reset_parser = subparsers.add_parser("reset", parents=[common_parser],
-                                       help="Reset the ChromaDB collection for LinkedIn profiles")
+    # Add reset command
+    subparsers.add_parser("reset", parents=[common_parser],
+                         help="Reset the collection by deleting and recreating it")
     
     # Add new update-credibility-stats command
     cred_stats_parser = subparsers.add_parser("update-credibility-stats", parents=[common_parser],
