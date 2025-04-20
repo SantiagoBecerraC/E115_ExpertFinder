@@ -31,6 +31,7 @@ jobs:
       run: |
         cd backend
         pipenv install --dev
+        pipenv install pytest pytest-cov
     
     - name: Set PYTHONPATH
       run: echo "PYTHONPATH=$GITHUB_WORKSPACE/backend" >> $GITHUB_ENV
