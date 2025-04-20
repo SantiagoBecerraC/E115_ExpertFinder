@@ -4,6 +4,7 @@ Test cases for Google Scholar data vectorization functionality.
 
 import pytest
 import json
+import inspect
 from pathlib import Path
 from unittest.mock import Mock, patch, MagicMock
 import uuid
@@ -122,8 +123,6 @@ def test_prepare_documents_for_chromadb(mock_scrape_url_content):
     }
     
     # Get the actual function signature to ensure correct parameter order
-    import inspect
-    from google_scholar.scholar_data_vectorization import prepare_documents_for_chromadb
     sig = inspect.signature(prepare_documents_for_chromadb)
     params = list(sig.parameters.keys())
     
@@ -173,8 +172,6 @@ def test_prepare_documents_for_chromadb_no_website(mock_scrape):
     }
     
     # Get the actual function signature to ensure correct parameter order
-    import inspect
-    from google_scholar.scholar_data_vectorization import prepare_documents_for_chromadb
     sig = inspect.signature(prepare_documents_for_chromadb)
     params = list(sig.parameters.keys())
     
