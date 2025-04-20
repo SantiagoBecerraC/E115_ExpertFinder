@@ -1,0 +1,12 @@
+[flake8]
+max-line-length = 100
+extend-ignore = E402, F401, F541, W293
+exclude = 
+    .git,
+    __pycache__,
+    build,
+    dist,
+    *.pyc
+per-file-ignores =
+    __init__.py: F401
+    tests/*: F401 

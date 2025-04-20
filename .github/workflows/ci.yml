@@ -33,12 +33,20 @@ jobs:
         pipenv install --dev
         pipenv install black flake8 isort
     
-    - name: Run format and lint
+    - name: Run black
       run: |
         cd backend
-        pipenv run black .
-        pipenv run isort .
-        pipenv run flake8 .
+        pipenv run black . --line-length 100
+    
+    - name: Run isort
+      run: |
+        cd backend
+        pipenv run isort . --profile black --line-length 100
+    
+    - name: Run flake8
+      run: |
+        cd backend
+        pipenv run flake8 . --config ../.flake8
 
   test:
     runs-on: ubuntu-latest
