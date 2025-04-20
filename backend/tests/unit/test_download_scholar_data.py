@@ -15,6 +15,10 @@ from unittest.mock import MagicMock
 sys.modules['keywords_list'] = MagicMock()
 sys.modules['keywords_list'].keywords_list = ['AI', 'Machine Learning', 'Data Science']
 
+# Mock SerpAPI_GoogleScholar module
+sys.modules['SerpAPI_GoogleScholar'] = MagicMock()
+sys.modules['SerpAPI_GoogleScholar'].GoogleScholar = MagicMock
+
 from google_scholar.download_scholar_data import (
     extract_data,
     save_to_json,
