@@ -1,5 +1,6 @@
 name: ExpertFinderTests
 
+# This workflow runs pytest on push and pull requests
 on:
   push:
     branches: [ main, Umy-Milestone5-CI ]
