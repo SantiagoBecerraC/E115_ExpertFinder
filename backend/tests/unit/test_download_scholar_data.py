@@ -9,6 +9,12 @@ from pathlib import Path
 from unittest.mock import Mock, patch, MagicMock
 from datetime import datetime
 
+# Mock keywords_list module before importing download_scholar_data
+import sys
+from unittest.mock import MagicMock
+sys.modules['keywords_list'] = MagicMock()
+sys.modules['keywords_list'].keywords_list = ['AI', 'Machine Learning', 'Data Science']
+
 from google_scholar.download_scholar_data import (
     extract_data,
     save_to_json,
