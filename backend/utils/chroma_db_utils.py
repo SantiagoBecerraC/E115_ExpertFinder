@@ -9,7 +9,6 @@ import chromadb
 from chromadb.utils import embedding_functions
 from typing import List, Dict, Any, Optional
 from dotenv import load_dotenv
-import openai
 import logging
 
 from sentence_transformers import SentenceTransformer
@@ -38,31 +37,8 @@ class ChromaDBManager:
         self.embedding_function = None
         self._initialize_chromadb()
     
-    def _get_api_key(self) -> str:
-        """Get OpenAI API key from environment variables."""
-        # Load environment variables from the secrets folder at project root
-        current_file = Path(__file__)
-        project_root = current_file.parent.parent.parent.parent
-        env_path = project_root / 'secrets' / '.env'
-        logger.info(f"Looking for .env file at: {env_path}")
-
-        load_dotenv(dotenv_path=env_path)
-        
-        api_key = os.getenv('OPENAI_API_KEY')
-        if not api_key:
-            raise ValueError(
-                "OPENAI_API_KEY environment variable is not set. "
-                "Please set it in your environment or in a .env file."
-            )
-        return api_key
-
-    def _create_embedding_function(self, api_key: str):
-        """Create OpenAI embedding function with consistent settings."""
-        # return embedding_functions.OpenAIEmbeddingFunction(
-        #     api_key=api_key,
-        #     model_name="text-embedding-ada-002"  # This model produces 1536-dimensional embeddings
-        # )
-        model = SentenceTransformer('all-MiniLM-L6-v2')
+    def _create_embedding_function(self):
+        """Create embedding function using SentenceTransformer."""
         return embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
     
     def _initialize_chromadb(self):
@@ -81,12 +57,8 @@ class ChromaDBManager:
             self.client = chromadb.PersistentClient(path=str(db_path))
             logger.info("ChromaDB client initialized")
             
-            # Setup OpenAI API key
-            api_key = self._get_api_key()
-            openai.api_key = api_key
-            
             # Create embedding function
-            self.embedding_function = self._create_embedding_function(api_key)
+            self.embedding_function = self._create_embedding_function()
             logger.info("Embedding function created")
             
             # Try to get or create collection
@@ -109,7 +81,7 @@ class ChromaDBManager:
                     
                     # Test the collection with a simple query
                     try:
-                        test_results = self.collection.query(
+                        self.collection.query(
                             query_texts=["test query"],
                             n_results=1
                         )

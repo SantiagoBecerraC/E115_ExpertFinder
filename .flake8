@@ -1,0 +1,21 @@
+[flake8]
+max-line-length = 120
+extend-ignore = E402, F401, F541, W293, E722, F601
+exclude = 
+    .git,
+    __pycache__,
+    build,
+    dist,
+    *.pyc
+per-file-ignores =
+    __init__.py: F401
+    tests/*: F401
+    */cli.py: E501
+    */scholar_agent.py: E501
+    */expert_finder_linkedin.py: E501
+    */scholar_data_processor.py: E501
+    */scholar_data_vectorization.py: E501
+    */test_chromadb.py: E501
+    */linkedin_vectorizer.py: E501
+    */process_linkedin_profiles.py: E501
+    */search_profiles_gcp.py: E501 

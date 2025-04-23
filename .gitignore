@@ -62,6 +62,12 @@ ENV/
 *.swp
 *.swo
 
+# Test and coverage reports
+reports/
+coverage-report/
+.coverage
+htmlcov/
+
 # Local test code
 get_profiles.py
 test_get_profiles.py

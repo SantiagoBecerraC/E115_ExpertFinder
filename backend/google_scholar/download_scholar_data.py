@@ -6,31 +6,34 @@ Required packages: pandas, openpyxl, python-dotenv, serpapi
 Environment: SERPAPI_API_KEY in serpapi.env file
 """
 
+import datetime
+import json
+
 # Standard library imports
 import os
 import re
-import json
-import datetime
 from pathlib import Path
-from keywords_list import keywords_list
 
 # Third-party imports
 import pandas as pd
 from dotenv import load_dotenv
 
+from keywords_list import keywords_list
+
 # Local application imports
 from SerpAPI_GoogleScholar import GoogleScholar
 
-
 # Load environment variables from the secrets folder at project root
 current_file = Path(__file__)
-project_root = current_file.parent.parent.parent.parent  # Go up four levels to reach EXPERTFINDER-UV1
-env_path = project_root / 'secrets' / '.env'
+project_root = (
+    current_file.parent.parent.parent.parent
+)  # Go up four levels to reach EXPERTFINDER-UV1
+env_path = project_root / "secrets" / ".env"
 
 load_dotenv(dotenv_path=env_path)
 
 # Get API key from environment variables
-SERPAPI_API_KEY = os.getenv('SERPAPI_API_KEY')
+SERPAPI_API_KEY = os.getenv("SERPAPI_API_KEY")
 if not SERPAPI_API_KEY:
     raise ValueError("SERPAPI_API_KEY not found in environment variables")
 
@@ -38,7 +41,10 @@ if not SERPAPI_API_KEY:
 DATA_DIR = Path(__file__).parent.parent.parent.parent / "google-scholar-data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-def extract_data(query, start_year, end_year, num_results, results_per_page, scholar_client=None):
+
+def extract_data(
+    query, start_year, end_year, num_results, results_per_page, scholar_client=None
+):
     # Initialize a list to hold articles data
     articles_data = []
     total_fetched = 0
@@ -69,7 +75,9 @@ def extract_data(query, start_year, end_year, num_results, results_per_page, sch
             year_match = re.findall(r"(\d{4})", publication_info.get("summary"))
             year = year_match[0] if year_match else None
             journal_url = article.get("link")
-            cited_by = article.get("inline_links", {}).get("cited_by", {}).get("total", 0)
+            cited_by = (
+                article.get("inline_links", {}).get("cited_by", {}).get("total", 0)
+            )
 
             # Extract authors' names and their details
             authors = []
@@ -80,16 +88,20 @@ def extract_data(query, start_year, end_year, num_results, results_per_page, sch
                 website = author_details.get("author", {}).get("website")
                 interests = [
                     interest["title"]
-                    for interest in author_details.get("author", {}).get("interests", [])
+                    for interest in author_details.get("author", {}).get(
+                        "interests", []
+                    )
                 ]
 
                 # Append author details to the authors list
-                authors.append({
-                    "Author Name": author_name,
-                    "Affiliations": affiliations,
-                    "Website": website,
-                    "Interests": ", ".join(interests),
-                })
+                authors.append(
+                    {
+                        "Author Name": author_name,
+                        "Affiliations": affiliations,
+                        "Website": website,
+                        "Interests": ", ".join(interests),
+                    }
+                )
 
             # Create a nested structure for each article
             article_data = {
@@ -109,10 +121,12 @@ def extract_data(query, start_year, end_year, num_results, results_per_page, sch
             for citation in citations_response.get("citations", []):
                 # Append citation data to the article's citations list if the citation type is MLA
                 if citation.get("title") == "MLA":
-                    article_data["Citations"].append({
-                        "Citation": citation.get("title"),
-                        "Citation Details": citation.get("snippet"),
-                    })
+                    article_data["Citations"].append(
+                        {
+                            "Citation": citation.get("title"),
+                            "Citation Details": citation.get("snippet"),
+                        }
+                    )
 
             # Append the article data to the articles_data list
             articles_data.append(article_data)
@@ -126,19 +140,26 @@ def extract_data(query, start_year, end_year, num_results, results_per_page, sch
     # Return the collected articles data
     return articles_data  # Return only articles_data
 
+
 def save_to_excel(articles_data, query, start_year, end_year, num_results):
     # Create a timestamp for the output file name
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
     # Create an Excel writer object to save data to an Excel file
-    with pd.ExcelWriter(f'Google_Scholar_Data_{query.split(" ")[0]}_{timestamp}.xlsx') as writer:
+    with pd.ExcelWriter(
+        f'Google_Scholar_Data_{query.split(" ")[0]}_{timestamp}.xlsx'
+    ) as writer:
         # Save the search query information to a separate sheet
-        pd.DataFrame([{
-            "Query Text": query,
-            "Publication Year From": start_year,
-            "Publication Year To": end_year,
-            "No of results": num_results,
-        }]).to_excel(writer, sheet_name="SearchQuery", index=False)
+        pd.DataFrame(
+            [
+                {
+                    "Query Text": query,
+                    "Publication Year From": start_year,
+                    "Publication Year To": end_year,
+                    "No of results": num_results,
+                }
+            ]
+        ).to_excel(writer, sheet_name="SearchQuery", index=False)
 
         # Save articles data to its respective sheet
         pd.DataFrame(articles_data).to_excel(writer, sheet_name="Articles", index=False)
@@ -146,6 +167,7 @@ def save_to_excel(articles_data, query, start_year, end_year, num_results):
         # Autofit the columns in each sheet for better readability
         for sheet in writer.sheets.values():
             sheet.autofit()
+
 
 def save_to_json(articles_data, query, start_year, end_year, num_results):
     # Create a dictionary to hold all data
@@ -161,12 +183,12 @@ def save_to_json(articles_data, query, start_year, end_year, num_results):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = DATA_DIR / f'Google_Scholar_Data_{query.split(" ")[0]}_{timestamp}.json'
 
-     # Write data to JSON file
+    # Write data to JSON file
     with open(filename, "w", encoding="utf-8") as json_file:
         json.dump(all_data, json_file, indent=4, ensure_ascii=False)
 
     print(f"Data saved to: {filename}")
-    
+
 
 if __name__ == "__main__":
     # Define search parameters
@@ -189,4 +211,3 @@ if __name__ == "__main__":
 
         # Save extracted data to JSON
         save_to_json(articles_data, query, start_year, end_year, num_results)
-        
