@@ -1,7 +1,5 @@
-# Use Node.js LTS version
-FROM node:20.12.0
+FROM node:20.12.0-alpine
 
-# Set working directory
 WORKDIR /app
 
 # Copy package files
@@ -10,13 +8,20 @@ COPY package*.json ./
 # Install dependencies
 RUN npm install
 
-# Copy project files
+# Copy the rest of the application
 COPY . .
+
+# Build the application
+RUN npm run build
 
 # Expose port
 EXPOSE 3000
 
-# Start the development server
-ENV NODE_ENV=development
+# Set environment variables
+ENV NODE_ENV=production
 ENV NEXT_PUBLIC_API_URL=http://localhost:8000
-CMD ["npx", "next", "dev", "-H", "0.0.0.0"]
+ENV PORT=3000
+ENV HOSTNAME=0.0.0.0
+
+# Start the application directly with node
+CMD ["node", "node_modules/.bin/next", "start"]

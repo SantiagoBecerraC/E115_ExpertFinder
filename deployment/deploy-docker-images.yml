@@ -1,0 +1,32 @@
+---
+- name: "Build docker images and push them to GCR"
+  hosts: localhost
+  gather_facts: false
+  tasks:
+  - name: "Get timestamp for docker tag"
+    shell: "(date +%Y%m%d%H%M%S)"
+    register: tag
+  - name: Print tag
+    debug:
+      var: tag
+      
+  - name: Authenticate with Google Cloud
+    shell: >
+      gcloud auth configure-docker --quiet
+      
+  - name: Pull base Python image to refresh cache
+    shell: >
+      docker pull python:3.11.5-bookworm
+      
+  - name: Build backend container image
+    shell: >
+      cd ../backend && 
+      docker build --no-cache --platform linux/amd64 
+      -t gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }} .
+      
+  - name: Push backend image to GCR
+    shell: >
+      docker push gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }}
+      
+  - name: "Save docker tag"
+    shell: echo {{ tag.stdout}} > .docker-tag    

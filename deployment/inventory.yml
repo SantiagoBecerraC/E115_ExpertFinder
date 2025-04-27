@@ -1,0 +1,23 @@
+all:
+    vars:
+      ansible_user: sa_105973922243804475362
+      ansible_ssh_private_key_file: "../../secrets/ssh-key-deployment"
+      gcp_service_account_file: "../../secrets/deployment.json"
+      gcp_service_account_email: "umy-deployment@expertfinder-452203.iam.gserviceaccount.com"
+      gcp_auth_kind: "serviceaccount"
+      gcp_scopes: "https://www.googleapis.com/auth/compute"
+      gcp_project: "expertfinder-452203"
+      gcp_region: "us-east1"
+      gcp_zone: "us-east1-b"
+      docker_network_name: "appnetwork"
+      persistent_disk_name: "expert-finder-disk"
+      persistent_disk_size: 50
+      machine_instance_name: "expert-finder-demo"
+      machine_type: "n2d-standard-2"
+      machine_disk_size: 50
+      cluster_state: "present"
+
+    children:
+        appserver:
+            hosts:
+                35.231.223.245:

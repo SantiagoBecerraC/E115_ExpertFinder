@@ -1,0 +1,54 @@
+---
+- name: "Build docker images and push them to GCR"
+  hosts: localhost
+  gather_facts: false
+  tasks:
+  - name: "Get timestamp for docker tag"
+    shell: "(date +%Y%m%d%H%M%S)"
+    register: tag
+  - name: Print tag
+    debug:
+      var: tag
+  - name: Authenticate with Google Cloud using service account
+    shell: >
+      gcloud auth activate-service-account --key-file={{ lookup('env', 'GOOGLE_APPLICATION_CREDENTIALS') }}
+      
+  - name: Verify active account and print for debugging
+    shell: >
+      gcloud auth list --format="value(account)"
+    register: active_account
+      
+  - name: Print active account
+    debug:
+      var: active_account
+      
+  - name: Configure gcloud Docker credentials
+    shell: >
+      gcloud auth configure-docker gcr.io --quiet
+      
+  - name: Build frontend container image
+    shell: >
+      cd ../frontend && 
+      docker build --no-cache --platform linux/amd64 
+      -t gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout }} .
+      
+  - name: Push frontend image using docker push with access token auth
+    shell: >
+      gcloud auth print-access-token | docker login -u oauth2accesstoken --password-stdin https://gcr.io &&
+      docker push gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout }}
+      
+  - name: Build backend container image
+    shell: >
+      cd ../backend && 
+      docker build --no-cache --platform linux/amd64 
+      -t gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }} .
+      
+  - name: Push backend image using docker push with access token auth
+    shell: >
+      gcloud auth print-access-token | docker login -u oauth2accesstoken --password-stdin https://gcr.io &&
+      docker push gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }}
+      
+  - name: "Save docker tag"
+    shell: echo {{ tag.stdout}} > .docker-tag
+  - name: "Remove all unused containers"
+    shell: docker system prune -a -f
