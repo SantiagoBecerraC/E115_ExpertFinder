@@ -3,14 +3,17 @@ const nextConfig = {
   output: 'standalone',
   reactStrictMode: true,
   // Configure asset prefix based on environment
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? 'http://35.237.222.42.sslip.io' : '',
+  // Configure public path for assets
+  publicRuntimeConfig: {
+    basePath: process.env.NODE_ENV === 'production' ? 'http://35.237.222.42.sslip.io' : '',
+  },
   // Configure trailing slash behavior
   trailingSlash: true,
-  // Configure base path if needed
-  // basePath: '',
   // Ensure images are properly handled
   images: {
     unoptimized: true,
+    domains: ['35.237.222.42.sslip.io'],
   },
   eslint: {
     // Warning: This allows production builds to successfully complete even if
