@@ -22,6 +22,9 @@ WORKDIR /app
 # Add Pipfile, Pipfile.lock
 ADD Pipfile Pipfile.lock /app/
 
+# Install CPU-only PyTorch first
+RUN pip install torch --index-url https://download.pytorch.org/whl/cpu
+
 # Install dependencies
 RUN pipenv install --system
 

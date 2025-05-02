@@ -9,24 +9,31 @@
   - name: Print tag
     debug:
       var: tag
-      
-  - name: Authenticate with Google Cloud
-    shell: >
-      gcloud auth configure-docker --quiet
-      
-  - name: Pull base Python image to refresh cache
-    shell: >
-      docker pull python:3.11.5-bookworm
-      
-  - name: Build backend container image
-    shell: >
-      cd ../backend && 
-      docker build --no-cache --platform linux/amd64 
-      -t gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }} .
-      
-  - name: Push backend image to GCR
-    shell: >
-      docker push gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }}
-      
+  - name: Build frontend container image
+    shell: |
+      cd /frontend && \
+      docker buildx build --platform linux/amd64 -t gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout }} .
+    args:
+      executable: /bin/bash
+  - name: Push frontend image to GCR
+    community.general.docker_image:
+      name: gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout}}
+      repository: gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout}}
+      push: yes
+      source: local
+  - name: Build api-service container image
+    shell: |
+      cd /backend && \
+      docker buildx build --platform linux/amd64 -t gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout }} .
+    args:
+      executable: /bin/bash
+  - name: Push api-service image to GCR
+    community.general.docker_image:
+      name: gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout}}
+      repository: gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout}}
+      push: yes
+      source: local
   - name: "Save docker tag"
-    shell: echo {{ tag.stdout}} > .docker-tag    
+    shell: echo {{ tag.stdout}} > .docker-tag
+  - name: "Remove all unused containers"
+    shell: docker system prune -a

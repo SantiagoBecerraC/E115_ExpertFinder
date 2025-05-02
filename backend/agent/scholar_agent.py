@@ -88,7 +88,7 @@ class BGEReranker:
     def __init__(self):
         self.name = "bge_reranker"
         self.model_name = "BAAI/bge-reranker-base"
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.device = "cpu"  # Force CPU usage
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         self.model = AutoModelForSequenceClassification.from_pretrained(self.model_name).to(self.device)
     
