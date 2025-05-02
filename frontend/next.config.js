@@ -2,6 +2,16 @@
 const nextConfig = {
   output: 'standalone',
   reactStrictMode: true,
+  // Configure asset prefix based on environment
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/' : '',
+  // Configure trailing slash behavior
+  trailingSlash: true,
+  // Configure base path if needed
+  // basePath: '',
+  // Ensure images are properly handled
+  images: {
+    unoptimized: true,
+  },
   eslint: {
     // Warning: This allows production builds to successfully complete even if
     // your project has ESLint errors.

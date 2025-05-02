@@ -163,7 +163,7 @@
                 run: frontend
             spec:
               containers:
-              - image: "gcr.io/{{ gcp_project }}/expert-finder-frontend"
+              - image: "gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout }}"
                 imagePullPolicy: Always
                 name: frontend
                 ports:
@@ -331,7 +331,7 @@
           annotations:
             kubernetes.io/ingress.class: "nginx"
             nginx.ingress.kubernetes.io/ssl-redirect: "false"
-            nginx.org/rewrites: "serviceName=frontend rewrite=/;serviceName=api rewrite=/"
+            nginx.org/rewrites: "serviceName=frontend rewrite=/;serviceName=backend rewrite=/"
         spec:
           rules:
           - host: "{{ nginx_ingress_ip }}.sslip.io" # Host requires a domain and not just an IP
@@ -344,7 +344,7 @@
                     name: frontend
                     port:
                       number: 3000
-              - path: /api/
+              - path: /backend/
                 pathType: Prefix
                 backend:
                   service:
