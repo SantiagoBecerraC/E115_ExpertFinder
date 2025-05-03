@@ -12,13 +12,112 @@ import { SearchInput } from "@/components/ui/search-input"
 import { ChatHistoryItem } from "@/components/ui/chat-history-item"
 import { ExpertTabs } from "@/components/ExpertTabs"
 import Image from "next/image"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Expert } from "../lib/api"
+
+// Interface for search history items
+interface SearchHistoryItem {
+  id: number;
+  title: string;
+  timestamp: string;
+  preview: string;
+  expertCount: number;
+  query: string;
+  searchCount: number; // Number of times this search has been performed
+}
 
 export default function Home() {
   // State for managing search results and loading state
   const [searchResults, setSearchResults] = useState<Expert[]>([])
   const [isSearching, setIsSearching] = useState(false)
+  const [searchHistory, setSearchHistory] = useState<SearchHistoryItem[]>([])
+  const [activeSearchId, setActiveSearchId] = useState<number | null>(null)
+  const [currentQuery, setCurrentQuery] = useState<string>("")
+
+  /**
+   * Load search history from localStorage on component mount
+   */
+  useEffect(() => {
+    const storedHistory = localStorage.getItem('expertFinderSearchHistory')
+    if (storedHistory) {
+      try {
+        const parsedHistory = JSON.parse(storedHistory)
+        setSearchHistory(parsedHistory)
+        // Set the most recent search as active if it exists
+        if (parsedHistory.length > 0) {
+          setActiveSearchId(parsedHistory[0].id)
+        }
+      } catch (error) {
+        console.error('Error loading search history:', error)
+      }
+    }
+  }, [])
+
+  /**
+   * Formats a date as a relative time string (e.g., "2 hours ago")
+   */
+  const getRelativeTimeString = (date: Date): string => {
+    const now = new Date()
+    const diffInSeconds = Math.floor((now.getTime() - date.getTime()) / 1000)
+    
+    if (diffInSeconds < 60) return `${diffInSeconds} seconds ago`
+    if (diffInSeconds < 3600) return `${Math.floor(diffInSeconds / 60)} minutes ago`
+    if (diffInSeconds < 86400) return `${Math.floor(diffInSeconds / 3600)} hours ago`
+    if (diffInSeconds < 604800) return `${Math.floor(diffInSeconds / 86400)} days ago`
+    return `${Math.floor(diffInSeconds / 604800)} weeks ago`
+  }
+
+  /**
+   * Saves a search to history and localStorage
+   * If the search already exists, updates its timestamp and increments its count
+   */
+  const saveSearchToHistory = (query: string, expertResults: Expert[]) => {
+    // Check if this search query already exists in history
+    const existingSearchIndex = searchHistory.findIndex(
+      item => item.query.toLowerCase() === query.toLowerCase()
+    );
+    
+    let updatedHistory: SearchHistoryItem[];
+    
+    if (existingSearchIndex !== -1) {
+      // If this search already exists, update it
+      const existingSearch = searchHistory[existingSearchIndex];
+      const updatedSearch: SearchHistoryItem = {
+        ...existingSearch,
+        timestamp: getRelativeTimeString(new Date()),
+        expertCount: expertResults.length,
+        searchCount: existingSearch.searchCount + 1
+      };
+      
+      // Create new array with the updated search moved to the top
+      updatedHistory = [
+        updatedSearch,
+        ...searchHistory.slice(0, existingSearchIndex),
+        ...searchHistory.slice(existingSearchIndex + 1)
+      ];
+      
+      setActiveSearchId(existingSearch.id);
+    } else {
+      // Create a new search entry
+      const newSearch: SearchHistoryItem = {
+        id: Date.now(),
+        title: query,
+        timestamp: getRelativeTimeString(new Date()),
+        preview: `Search for experts in ${query}...`,
+        expertCount: expertResults.length,
+        query: query,
+        searchCount: 1
+      };
+      
+      // Add the new search to the top of history
+      updatedHistory = [newSearch, ...searchHistory.slice(0, 9)]; // Keep only the 10 most recent searches
+      setActiveSearchId(newSearch.id);
+    }
+    
+    // Update state and localStorage
+    setSearchHistory(updatedHistory);
+    localStorage.setItem('expertFinderSearchHistory', JSON.stringify(updatedHistory));
+  }
 
   /**
    * Handles the search functionality by making an API call to the backend
@@ -27,8 +126,12 @@ export default function Home() {
    */
   const handleSearch = async (query: string) => {
     setIsSearching(true)
+    setCurrentQuery(query)
     try {
-      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/search`, {
+      // Set API URL - use environment variable if available, otherwise default to local backend
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+      
+      const response = await fetch(`${apiUrl}/search`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -44,39 +147,67 @@ export default function Home() {
       }
 
       const data = await response.json()
-      setSearchResults(data.experts || [])
+      const experts = data.experts || []
+      setSearchResults(experts)
+      
+      // Save this search to history
+      saveSearchToHistory(query, experts)
     } catch (error) {
       console.error('Error searching experts:', error)
       setSearchResults([])
+      
+      // Fallback to mock data for demonstration when backend is unavailable
+      if (!searchHistory.length) {
+        // Only create a mock entry if history is empty
+        const mockExperts: Expert[] = [
+          { 
+            id: "mock1", 
+            name: "Demo Expert", 
+            title: "AI Researcher", 
+            source: "linkedin" as const
+          }
+        ];
+        saveSearchToHistory(query, mockExperts);
+      }
     } finally {
       setIsSearching(false)
     }
   }
 
-  // Mock chat history data for demonstration
-  const chatHistory = [
-    {
-      id: 1,
-      title: "Machine Learning Expert Search",
-      timestamp: "2 hours ago",
-      preview: "Looking for experts in deep learning and neural networks...",
-      expertCount: 5
-    },
-    {
-      id: 2,
-      title: "Data Science Consultation",
-      timestamp: "Yesterday",
-      preview: "Need expertise in data analysis and visualization...",
-      expertCount: 3
-    },
-    {
-      id: 3,
-      title: "AI Research Expert",
-      timestamp: "2 days ago",
-      preview: "Seeking specialists in reinforcement learning...",
-      expertCount: 4
+  /**
+   * Deletes a specific search history item
+   */
+  const deleteSearchHistoryItem = (id: number) => {
+    const updatedHistory = searchHistory.filter(item => item.id !== id)
+    setSearchHistory(updatedHistory)
+    
+    // If the active item was deleted, set the most recent as active (if any)
+    if (activeSearchId === id && updatedHistory.length > 0) {
+      setActiveSearchId(updatedHistory[0].id)
+    } else if (updatedHistory.length === 0) {
+      setActiveSearchId(null)
     }
-  ]
+    
+    localStorage.setItem('expertFinderSearchHistory', JSON.stringify(updatedHistory))
+  }
+
+  /**
+   * Clears search history from state and localStorage
+   */
+  const clearSearchHistory = () => {
+    setSearchHistory([])
+    setActiveSearchId(null)
+    localStorage.removeItem('expertFinderSearchHistory')
+  }
+
+  /**
+   * Handles clicking on a search history item
+   */
+  const handleSearchHistoryClick = (item: SearchHistoryItem) => {
+    setActiveSearchId(item.id)
+    setCurrentQuery(item.query)
+    handleSearch(item.query)
+  }
 
   // Feature cards data for the landing page
   const features = [
@@ -109,21 +240,35 @@ export default function Home() {
 
         {/* Chat History List */}
         <div className="flex-1 overflow-y-auto p-4 space-y-3">
-          {chatHistory.map((chat) => (
-            <ChatHistoryItem
-              key={chat.id}
-              title={chat.title}
-              timestamp={chat.timestamp}
-              preview={chat.preview}
-              expertCount={chat.expertCount}
-              isActive={chat.id === 1}
-            />
-          ))}
+          {searchHistory.length > 0 ? (
+            searchHistory.map((item) => (
+              <ChatHistoryItem
+                key={item.id}
+                title={item.title}
+                timestamp={item.timestamp}
+                preview={item.preview}
+                expertCount={item.expertCount}
+                isActive={item.id === activeSearchId}
+                onClick={() => handleSearchHistoryClick(item)}
+                onDelete={() => deleteSearchHistoryItem(item.id)}
+                searchCount={item.searchCount}
+              />
+            ))
+          ) : (
+            <div className="text-center py-8 text-gray-500">
+              <p>No recent searches</p>
+              <p className="text-sm mt-2">Your search history will appear here</p>
+            </div>
+          )}
         </div>
 
         {/* Sidebar Footer */}
         <div className="p-4 border-t border-gray-200 bg-white">
-          <button className="w-full px-4 py-2 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors flex items-center justify-center gap-2">
+          <button 
+            className="w-full px-4 py-2 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors flex items-center justify-center gap-2"
+            onClick={clearSearchHistory}
+            disabled={searchHistory.length === 0}
+          >
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
             </svg>
@@ -167,7 +312,11 @@ export default function Home() {
 
               {/* Search Input */}
               <div className="flex justify-center">
-                <SearchInput onSearch={handleSearch} isLoading={isSearching} />
+                <SearchInput 
+                  onSearch={handleSearch} 
+                  isLoading={isSearching} 
+                  initialQuery={currentQuery}
+                />
               </div>
 
               {/* Feature Cards */}

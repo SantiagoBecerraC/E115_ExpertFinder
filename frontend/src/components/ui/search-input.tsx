@@ -1,14 +1,22 @@
 import { Input } from "./input"
 import { Button } from "./button"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 
 interface SearchInputProps {
   onSearch: (query: string) => Promise<void>
   isLoading: boolean
+  initialQuery?: string
 }
 
-export function SearchInput({ onSearch, isLoading }: SearchInputProps) {
-  const [query, setQuery] = useState("")
+export function SearchInput({ onSearch, isLoading, initialQuery = "" }: SearchInputProps) {
+  const [query, setQuery] = useState(initialQuery)
+
+  // Update query when initialQuery changes
+  useEffect(() => {
+    if (initialQuery) {
+      setQuery(initialQuery)
+    }
+  }, [initialQuery])
 
   const handleSearch = async () => {
     if (!query.trim()) return
@@ -60,4 +68,4 @@ export function SearchInput({ onSearch, isLoading }: SearchInputProps) {
       </Button>
     </div>
   )
-} 
+}
