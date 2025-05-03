@@ -67,7 +67,7 @@ def process_scholar_data(json_file):
     return dict(authors_with_articles)
 
 
-def prepare_chroma_data(authors_data):
+def prepare_chroma_data(authors_data, query=""):
     """
     Prepare data in format ready for ChromaDB without actually loading it.
     Returns two lists of dictionaries for authors and articles collections.
@@ -97,7 +97,7 @@ def prepare_chroma_data(authors_data):
             article_titles = [
                 article["title"] for article in author_articles if article["title"]
             ]
-            author_text = f"{author_info['author']}. {author_info['affiliations']}. Interests: {author_info['interests']}. Publications: {'; '.join(article_titles)}"
+            author_text = f"Query: {query}. {author_info['author']}. {author_info['affiliations']}. Interests: {author_info['interests']}. Publications: {'; '.join(article_titles)}"
 
             authors_collection_data.append(
                 {
@@ -112,7 +112,7 @@ def prepare_chroma_data(authors_data):
                 if not article["title"]:  # Skip articles without titles
                     continue
 
-                article_text = f"{article['title']}. {article['snippet']}. {article['publication_summary']}"
+                article_text = f"Query: {query}{article['title']}. {article['snippet']}. {article['publication_summary']}. "
 
                 # Add article metadata with citations
                 article_metadata = {

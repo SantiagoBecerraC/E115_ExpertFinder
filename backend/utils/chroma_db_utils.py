@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 class ChromaDBManager:
     """Manages all ChromaDB operations including initialization, querying, and data management."""
     
-    def __init__(self, collection_name: str = "google_scholar", n_results: int = 5):
+    def __init__(self, collection_name: str = "google_scholar", n_results: int = 100):
         """
         Initialize ChromaDB manager.
         
@@ -132,7 +132,7 @@ class ChromaDBManager:
             # Query collection
             results = self.collection.query(
                 query_texts=[query_text],
-                n_results=n_results
+                n_results=n_results,
             )
             
             # Check if we have any results

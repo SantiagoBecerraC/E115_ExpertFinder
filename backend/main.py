@@ -4,7 +4,24 @@ from pydantic import BaseModel, field_validator, model_validator, ConfigDict, Be
 from typing import List, Optional, Union, Any, Annotated
 import os
 import logging
-from agent.scholar_agent import create_scholar_agent, ChromaDBTool
+
+# Wrap problematic imports in try-except blocks
+try:
+    from agent.scholar_agent import create_scholar_agent, ChromaDBTool
+    torch_available = True
+except Exception as e:
+    logging.error(f"Error importing scholar_agent: {e}")
+    # Create stub classes or functions to allow the app to run
+    torch_available = False
+    class ChromaDBTool:
+        def __init__(self, *args, **kwargs):
+            pass
+        def invoke(self, query):
+            return {"error": "ChromaDBTool is not available due to dependency issues"}
+    def create_scholar_agent(*args, **kwargs):
+        return None
+
+# Import other modules that don't depend on PyTorch
 from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
 from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
 from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
@@ -111,8 +128,28 @@ async def root():
         }
     }
 
+@app.get("/health")
+async def health_check():
+    """
+    Health check endpoint for Kubernetes liveness and readiness probes.
+    Returns a 200 status code if the service is healthy.
+    """
+    return {"status": "healthy"}
+
 @app.post("/scholar_search")
 async def search_scholar_experts(search_query: SearchQuery):
+    """
+    Search for experts on Google Scholar based on the provided query.
+    Returns a list of experts from Google Scholar.
+    """
+    # If torch is not available, return an error message
+    if not torch_available:
+        logger.error("PyTorch dependencies are not available, Google Scholar search is disabled")
+        raise HTTPException(
+            status_code=503,
+            detail="Google Scholar search is temporarily unavailable due to dependency issues. Please use LinkedIn search instead."
+        )
+    
     try:
         logger.info(f"Received scholar search query: {search_query.query}")
         
@@ -134,7 +171,20 @@ async def search_scholar_experts(search_query: SearchQuery):
         
         # Process scholar results
         scholar_experts = []
-        scholar_data = eval(str(scholar_result['messages'][-1].content))
+        
+        # Safely parse the scholar result content
+        try:
+            result_content = scholar_result['messages'][-1].content
+            if result_content == "[]":
+                # Empty results case
+                scholar_data = []
+            else:
+                # Try to safely evaluate the string as Python literal
+                import ast
+                scholar_data = ast.literal_eval(result_content)
+        except (SyntaxError, ValueError) as e:
+            logger.error(f"Error parsing scholar result: {e}")
+            scholar_data = []
         
         # Track seen experts to avoid duplicates
         seen_expert_ids = set()
@@ -175,44 +225,47 @@ async def search_scholar_experts(search_query: SearchQuery):
             
             seen_expert_ids.add(scholar_id)
             
-            # Create Expert object
-            try:
-                # Convert interests to list first
-                raw_interests = expert_data.get("interests", "")
-                if isinstance(raw_interests, str):
-                    # Split by common delimiters and clean up
-                    if ',' in raw_interests:
-                        interests_list = [i.strip() for i in raw_interests.split(',')]
-                    else:
-                        interests_list = [i.strip() for i in raw_interests.split()]
-                elif isinstance(raw_interests, list):
-                    interests_list = raw_interests
+            # Convert interests to list first
+            raw_interests = expert_data.get("interests", "")
+            if isinstance(raw_interests, str):
+                # Split by common delimiters and clean up
+                if ',' in raw_interests:
+                    interests_list = [i.strip() for i in raw_interests.split(',')]
                 else:
-                    interests_list = []
-                
-                # Create the Expert object with the Google Scholar ID
-                expert = Expert(
-                    id=scholar_id,  # Use the Google Scholar user ID
-                    name=expert_name,
-                    title=expert_data.get("affiliations", ""),  # Using affiliations as title
-                    source="scholar",
-                    citations=expert_data.get("citations", 0),
-                    interests=interests_list,  # Pass the converted list
-                    publications=[],  # Not available in current format
-                    summary=expert_data.get("author_summary", "")
-                )
-                
-                # Log the ID and interests
-                logger.info(f"Created expert with ID: {expert.id}")
-                
-                # Add the expert to the list
-                scholar_experts.append(expert)
-            except Exception as e:
-                logger.error(f"Error creating Expert object: {str(e)}")
-                logger.error(f"Expert data: {expert_data}")
-                # Continue with the next expert instead of raising an exception
-                continue
-        
+                    interests_list = [i.strip() for i in raw_interests.split()]
+            elif isinstance(raw_interests, list):
+                interests_list = raw_interests
+            else:
+                interests_list = []
+            
+            # Convert citations to integer
+            try:
+                citations = expert_data.get("citations", "0")
+                if isinstance(citations, str):
+                    citations = int(citations) if citations.isdigit() else 0
+                else:
+                    citations = int(citations) if citations is not None else 0
+            except (ValueError, TypeError):
+                logger.warning(f"Could not convert citations to int: {expert_data.get('citations')}")
+                citations = 0
+            
+            # Create the Expert object with the Google Scholar ID
+            expert = Expert(
+                id=scholar_id,  # Use the Google Scholar user ID
+                name=expert_name,
+                title=expert_data.get("affiliations", ""),  # Using affiliations as title
+                source="scholar",
+                citations=citations,  # Use the safely converted integer
+                interests=interests_list,  # Pass the converted list
+                publications=[],  # Not available in current format
+                summary=expert_data.get("author_summary", "")
+            )
+            
+            # Log the ID and interests
+            logger.info(f"Created expert with ID: {expert.id}")
+            
+            # Add the expert to the list
+            scholar_experts.append(expert)
         return {
             "experts": scholar_experts,
             "total": len(scholar_experts),

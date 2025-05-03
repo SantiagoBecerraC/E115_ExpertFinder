@@ -48,7 +48,7 @@ EXAMPLES:
     python cli.py vectorize --collection "my_collection"
 
     # Test query on vectorized data
-    python cli.py test --query "machine learning"
+    python cli.py test --query "deep learning"
 
     # Test query with custom options
     python cli.py test --query "deep learning" --n-results 10 --doc-type author
@@ -139,7 +139,7 @@ def download_data(query, start_year, end_year, num_results, results_per_page):
     print(f"Data downloaded and saved for query: {query}")
 
 
-def process_data(input_file=None):
+def process_data(input_file=None, query=""):
     """Process downloaded Google Scholar data and prepare it for ChromaDB."""
     try:
         # Find JSON files to process
@@ -194,7 +194,7 @@ def process_data(input_file=None):
 
         # Prepare data for ChromaDB
         print("\nPreparing combined data for ChromaDB...")
-        chroma_ready_data = prepare_chroma_data(combined_authors_data)
+        chroma_ready_data = prepare_chroma_data(combined_authors_data, query)
 
         # Create output directory and save processed data
         output_dir = data_dir / "processed_data"
@@ -303,34 +303,38 @@ def test_data(query, collection_name="google_scholar", n_results=5, doc_type=Non
             print("No results returned from query")
             return
 
-        # Filter results by document type if specified
-        if doc_type:
-            filtered_results = [
-                r for r in results if r["metadata"].get("doc_type") == doc_type
-            ]
-            print(
-                f"Results after filtering by doc_type '{doc_type}': {len(filtered_results)}"
-            )
-            results = filtered_results
+        # Always filter to only retrieve authors regardless of doc_type parameter
+        filtered_results = [
+            r for r in results if r["metadata"].get("doc_type") == "author"
+        ]
+        print(
+            f"Results after filtering for authors: {len(filtered_results)}"
+        )
+        results = filtered_results
 
-        # Sort by citations if available
+        # Sort results by citation count
         try:
+            print("Sorting results by citation count...")
             results.sort(
-                key=lambda x: int(x["metadata"].get("citations", "0")), reverse=True
+                key=lambda x: -int(x["metadata"].get("citations", "0"))  # Sort by descending citations
             )
         except (ValueError, TypeError) as e:
-            print(f"Could not sort by citations - {str(e)}")
+            print(f"Could not sort results - {str(e)}")
 
         # Print results
         if not results:
             print("No matching results found.")
             return
 
+        # Debug: print document types in results
+        print("\nDocument types in results:")
         for i, result in enumerate(results, 1):
-            if result["metadata"].get("doc_type") == "author":
-                print_author_result(result, i)
-            else:
-                print_content_result(result, i)
+            doc_type = result["metadata"].get("doc_type", "unknown")
+            print(f"Result {i}: doc_type = {doc_type}")
+        print()
+
+        for i, result in enumerate(results, 1):
+            print_author_result(result, i)
 
     except Exception as e:
         print(f"An error occurred during testing: {e}")
@@ -500,7 +504,7 @@ def pipeline(
         print("\n" + "-" * 50)
         print("STEP 2: PROCESSING DATA")
         print("-" * 50)
-        process_data()
+        process_data(query=query)
 
         # Step 3: Vectorize data
         print("\n" + "-" * 50)
@@ -553,6 +557,9 @@ def main():
     )
     process_parser.add_argument(
         "--input-file", type=str, help="Specific JSON file to process"
+    )
+    process_parser.add_argument(
+        "--query", type=str, default="", help="Search query"
     )
 
     # Vectorize command
@@ -648,7 +655,7 @@ def main():
             args.results_per_page,
         )
     elif args.command == "process":
-        process_data(args.input_file)
+        process_data(args.input_file, args.query)
     elif args.command == "vectorize":
         vectorize_data(args.collection)
     elif args.command == "test":

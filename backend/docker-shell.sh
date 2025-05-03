@@ -10,7 +10,7 @@ echo "First argument: $1"
 
 # Set variables
 export BASE_DIR=$(pwd)
-export PERSISTENT_DIR=$(pwd)/../database/
+export PERSISTENT_DIR=$(pwd)/../../chromadb/
 export SECRETS_DIR=$(pwd)/../../secrets
 export DATA_DIR=$(pwd)/../google-scholar-data/
 export GCP_PROJECT="expertfinder-452203" # CHANGE TO YOUR PROJECT ID
