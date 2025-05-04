@@ -128,10 +128,15 @@ export default function Home() {
     setIsSearching(true)
     setCurrentQuery(query)
     try {
-      // Set API URL - use environment variable if available, otherwise default to local backend
-      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+      // Set API URL - handle both absolute URLs and relative paths
+      let apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
       
-      const response = await fetch(`${apiUrl}/search`, {
+      // Construct the full URL properly, handling relative paths
+      const searchUrl = apiUrl.startsWith('http') 
+        ? `${apiUrl}/search`                     // If it's a full URL (starts with http)
+        : `${apiUrl.endsWith('/') ? apiUrl.slice(0, -1) : apiUrl}/search`;  // If it's a path like '/backend'
+      
+      const response = await fetch(searchUrl, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
