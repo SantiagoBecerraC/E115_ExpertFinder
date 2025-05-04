@@ -203,11 +203,17 @@
           selector:
             matchLabels:
               run: backend
+          strategy:
+            type: RollingUpdate
+            rollingUpdate:
+              maxSurge: 1
+              maxUnavailable: 0
           template:
             metadata:
               labels:
                 run: backend
             spec:
+              terminationGracePeriodSeconds: 30
               volumes:
                 - name: persistent-vol
                   persistentVolumeClaim:
@@ -245,10 +251,10 @@
                   - name: persistent-vol
                     mountPath: /app/data
                   - name: google-cloud-key
-                    mountPath: /secrets/google
+                    mountPath: /secrets
                 env:
                   - name: GOOGLE_APPLICATION_CREDENTIALS
-                    value: /secrets/google/gcp-service.json
+                    value: /secrets/gcp-service.json
                   - name: GCS_BUCKET_NAME
                     value: expert-finder-bucket-1
                   - name: GCP_PROJECT
