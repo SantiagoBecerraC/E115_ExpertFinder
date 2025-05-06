@@ -2,6 +2,34 @@
 
 This document outlines the comprehensive testing strategy and implementation steps for the Expert Finder project.
 
+## 0. Current State Assessment (May 2025)
+
+### Existing Testing Infrastructure
+- Directory layout already follows the structure proposed in this document (unit / integration / system / fixtures)
+- Unit tests exist for many utility modules (`chroma_db_utils`, Scholar / LinkedIn data processing, etc.)
+- A few integration tests exist (DVC ChromaDB)
+- No real system-level tests yet (`backend/tests/system` only has `__init__.py`)
+- GitHub Actions workflow directory is empty – tests are **not** wired into CI
+- No coverage config (`.coveragerc`) or HTML/Codecov upload
+- Existing FastAPI endpoint tests (`test_api.py`) call a running server via `requests` rather than using `fastapi.testclient`
+- Some key modules basically untested:
+  - `main.py` endpoint logic & Pydantic validators
+  - `DVCManager.version_database / restore_version / get_version_history` (needs `subprocess` / git mocks)
+  - `OnDemandCredibilityCalculator` and anything inside `linkedin_data_processing`
+- No automatic lint step (flake8 / isort) or code-format check in CI
+- No fixtures for ChromaDB / DVC isolation across tests
+- Tests do not use `pytest` markers (`unit`, `integration`, `system`) for filtering
+
+### Gaps vs. Project Requirements
+| Requirement | Gap / Issue |
+|-------------|-------------|
+| ≥70% line coverage, doc listing uncovered parts | Coverage job missing, actual % unknown, no report |
+| Unit / Integration / System tests in CI | System tests not in place |
+| Linting on every push / PR | Not configured |
+| GitHub Actions should run Docker builds for each container | Build step missing |
+| Integration tests must hit exposed API | Need `pytest` HTTP client tests |
+| K8s "health-check" probe must be exercised in tests | Only `/health` endpoint exists; not tested |
+
 ## 1. Testing Framework Setup
 
 ### PyTest Configuration
@@ -35,20 +63,90 @@ Create the following directory structure:
 backend/
 ├── tests/
 │   ├── unit/
+│   │   ├── __init__.py
 │   │   ├── test_dvc_utils.py
 │   │   ├── test_chroma_db_utils.py
-│   │   └── ... (other unit tests)
+│   │   ├── test_linkedin_finder.py
+│   │   └── test_api.py
 │   ├── integration/
-│   │   ├── test_api_integration.py
+│   │   ├── __init__.py
+│   │   ├── test_dvc_integration.py
 │   │   ├── test_chromadb_dvc_integration.py
-│   │   └── ... (other integration tests)
-│   └── system/
-│       ├── test_search_flow.py
-│       ├── test_version_management.py
-│       └── ... (other system tests)
-├── conftest.py  (shared fixtures)
-└── ... (existing files)
+│   │   └── test_api_integration.py
+│   ├── system/
+│   │   ├── __init__.py
+│   │   ├── test_search_flow.py
+│   │   └── test_version_management.py
+│   ├── fixtures/
+│   │   ├── __init__.py
+│   │   ├── test_data/
+│   │   │   ├── sample_experts.json
+│   │   │   └── sample_queries.json
+│   │   └── mock_services/
+│   │       ├── mock_chromadb.py
+│   │       └── mock_dvc.py
+│   └── conftest.py
+├── docs/
+│   ├── testing/
+│   │   ├── testing_readme.md
+│   │   └── testing_todo.md
+│   └── coverage/
+│       └── coverage_reports/
+├── scripts/
+│   ├── run_tests.sh
+│   └── format_and_lint.sh
+├── .github/
+│   └── workflows/
+│       └── test.yml
+├── .coveragerc
+└── pytest.ini
 ```
+
+### Directory Structure Explanation
+
+1. **tests/**
+   - `unit/`: Contains all unit tests for individual components
+   - `integration/`: Contains tests for component interactions
+   - `system/`: Contains end-to-end system tests
+   - `fixtures/`: Contains test data and mock services
+   - `conftest.py`: Shared pytest fixtures and configurations
+
+2. **docs/testing/**
+   - Contains all testing-related documentation
+   - `testing_readme.md`: General testing documentation
+   - `testing_todo.md`: Testing implementation guide
+
+3. **scripts/**
+   - Contains utility scripts for testing
+   - `run_tests.sh`: Test runner script
+   - `format_and_lint.sh`: Code formatting and linting
+
+4. **.github/workflows/**
+   - Contains CI/CD workflow configurations
+   - `test.yml`: GitHub Actions test workflow
+
+5. **Configuration Files**
+   - `.coveragerc`: Coverage configuration
+   - `pytest.ini`: PyTest configuration
+
+### File Organization Rules
+
+1. **Test Files**
+   - All test files should be prefixed with `test_`
+   - Test files should be placed in the appropriate test type directory
+   - Each test file should have a corresponding `__init__.py`
+
+2. **Test Data**
+   - All test data should be placed in `tests/fixtures/test_data/`
+   - Mock services should be placed in `tests/fixtures/mock_services/`
+
+3. **Documentation**
+   - All testing documentation should be placed in `docs/testing/`
+   - Coverage reports should be placed in `docs/coverage/coverage_reports/`
+
+4. **Scripts**
+   - All utility scripts should be placed in `scripts/`
+   - Scripts should be executable and documented
 
 ## 3. Test Types Implementation
 
@@ -285,35 +383,51 @@ def k8s_environment():
 
 ## 8. Implementation Timeline
 
-### Phase 1: Basic Setup (Week 1)
-- [ ] Set up testing directory structure
-- [ ] Configure PyTest and coverage
-- [ ] Create test runner script
-- [ ] Set up GitHub Actions workflow
+### Phase 1: Basic Setup and Assessment (Week 1)
+- Set up testing directory structure
+- Configure PyTest
+- Create `.coveragerc` to configure coverage settings
+- Measure current coverage (`pytest --cov=backend --cov-report=term-missing`)
+- Document uncovered modules and functions
+- Add PyTest markers (`@pytest.mark.unit`, etc.) to existing tests
+- Update the `run_tests.sh` script to filter on markers
 
-### Phase 2: Unit Tests (Week 2)
-- [ ] Implement DVCManager unit tests
-- [ ] Implement ChromaDBManager unit tests
-- [ ] Implement API endpoint unit tests
-- [ ] Achieve 70% coverage for unit tests
+### Phase 2: API Testing Improvement & Unit Test Expansion (Week 2)
+- Convert `test_api.py` to use `fastapi.testclient` instead of `requests`
+- Add tests for the `/health` endpoint
+- Implement missing unit tests for:
+  - `utils.dvc_utils` (mock `subprocess.run`)
+  - `main.SearchQuery` validators (edge cases)
+  - `linkedin_data_processing` vectorizer logic
+- Create shared fixtures for:
+  - Temporary ChromaDB directory
+  - Temporary DVC repository
+  - FastAPI test client
 
-### Phase 3: Integration Tests (Week 3)
-- [ ] Implement ChromaDB-DVC integration tests
-- [ ] Implement API integration tests
-- [ ] Test error handling and edge cases
-- [ ] Achieve 70% coverage for integration tests
+### Phase 3: Integration & System Tests (Week 3)
+- Create `tests/system/test_end_to_end.py` with tests that:
+  - Spin up `TestClient`
+  - Push a sample document to ChromaDB
+  - Call `/search` endpoints
+  - Assert combined results from different sources
+- Implement K8s-aware fixture for environment variable switching
+- Test scaling scenarios with multiple concurrent requests
 
-### Phase 4: System Tests (Week 4)
-- [ ] Implement end-to-end search flow tests
-- [ ] Implement version management tests
-- [ ] Test K8s deployment scenarios
-- [ ] Achieve 70% overall coverage
+### Phase 4: CI/CD Pipeline Implementation (Week 4)
+- Create `.github/workflows/ci.yml` with:
+  - Linting step (flake8 / isort)
+  - Unit & integration tests
+  - Coverage gate (fail if < 70%)
+  - Docker build verification
+- Add Codecov upload step
+- Configure deployment to Kubernetes on successful merge to main
 
-### Phase 5: CI/CD Integration (Week 5)
-- [ ] Integrate tests with GitHub Actions
-- [ ] Set up coverage reporting
-- [ ] Configure automated deployment
-- [ ] Document testing procedures
+### Phase 5: Integration with Kubernetes (Week 5)
+- Implement system tests that run in a Kubernetes environment
+- Test auto-scaling capabilities
+- Verify liveness and readiness probes
+- Automate deployment validation
+- Achieve 70% overall coverage
 
 ## 9. Collaboration Points
 

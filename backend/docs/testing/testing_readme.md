@@ -11,13 +11,22 @@ The Expert Finder application uses a comprehensive testing approach with three l
 ## Test Coverage
 
 The project aims for at least 70% code coverage. Current coverage metrics:
-- Overall: XX%
-- DVC Utils: XX%
-- ChromaDB Utils: XX%
-- API Endpoints: XX%
+- Overall: 16%
+- Google Scholar Download: 89%
+- DVC Utils: 65%
+- Scholar Data Vectorization: 66%
+- ChromaDB Utils: 49%
+- Scholar Data Processor: 48%
+- All LinkedIn modules: <10%
+- Main API Endpoints: 0%
 
-Modules with limited coverage:
-- [List any modules that don't meet the coverage threshold]
+Modules with limited or no coverage:
+- `main.py` (API endpoints): 0%
+- `linkedin_data_processing/expert_finder_linkedin.py`: 7%
+- `linkedin_data_processing/linkedin_vectorizer.py`: 0%
+- `linkedin_data_processing/dynamic_credibility.py`: 0%
+- `linkedin_data_processing/process_linkedin_profiles.py`: 0%
+- `google_scholar/test_chromadb.py`: 10%
 
 ## Test Tools
 
@@ -109,7 +118,6 @@ For tests that interact with external services (OpenAI, ChromaDB, DVC), use mock
 def test_function(mock_client):
     mock_client.return_value.get_collection.return_value = MagicMock()
     # Test code here
-```
 ```
 
 ### 8. Improving the Existing Tests
