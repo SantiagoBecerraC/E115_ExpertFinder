@@ -1,6 +1,8 @@
 import os
 import pytest
 from pathlib import Path
+from fastapi.testclient import TestClient
+import sys
 
 @pytest.fixture
 def test_data_dir():
@@ -41,3 +43,27 @@ def temp_dvc_dir(tmp_path):
     dvc_dir = tmp_path / "dvc"
     dvc_dir.mkdir()
     return dvc_dir 
+
+@pytest.fixture
+def api_client():
+    """Return a FastAPI TestClient.
+    
+    This allows testing API endpoints without running a server.
+    """
+    try:
+        # Import here to avoid circular imports
+        from main import app
+        
+        # Create a test client for the app
+        client = TestClient(app)
+        
+        return client
+    except TypeError as e:
+        # Handle version differences in TestClient initialization
+        # Some versions use client = TestClient(app=app) instead of client = TestClient(app)
+        if "unexpected keyword argument 'app'" in str(e):
+            from main import app
+            from starlette.testclient import TestClient as StarletteTestClient
+            return StarletteTestClient(app)
+        else:
+            raise
