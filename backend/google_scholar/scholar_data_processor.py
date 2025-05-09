@@ -13,9 +13,7 @@ def process_scholar_data(json_file):
 
     # Get articles from the correct key in the JSON structure
     articles = data.get("Articles", [])  # Use get() with default empty list
-    if not articles and isinstance(
-        data, list
-    ):  # If data is directly a list of articles
+    if not articles and isinstance(data, list):  # If data is directly a list of articles
         articles = data
 
     if not articles:
@@ -112,7 +110,10 @@ def prepare_chroma_data(authors_data, query=""):
                 if not article["title"]:  # Skip articles without titles
                     continue
 
-                article_text = f"Query: {query}{article['title']}. {article['snippet']}. {article['publication_summary']}. "
+                # Prepare article document text
+                article_text = (
+                    f"Query: {query}{article['title']}. {article['snippet']}. {article['publication_summary']}. "
+                )
 
                 # Add article metadata with citations
                 article_metadata = {
@@ -131,6 +132,7 @@ def prepare_chroma_data(authors_data, query=""):
                         "metadata": article_metadata,
                     }
                 )
+
         except Exception as e:
             print(f"Error processing author {author_name}: {e}")
             continue

@@ -1,483 +1,379 @@
-# Expert Finder Testing Implementation Guide
+# Expert Finder Testing Development Plan
 
-This document outlines the comprehensive testing strategy and implementation steps for the Expert Finder project.
+This document outlines the comprehensive testing strategy for the Expert Finder project, focusing on real data and implementations.
 
-## 0. Current State Assessment (May 2025)
+## System Overview
 
-### Existing Testing Infrastructure
-- Directory layout already follows the structure proposed in this document (unit / integration / system / fixtures)
-- Unit tests exist for many utility modules (`chroma_db_utils`, Scholar / LinkedIn data processing, etc.)
-- A few integration tests exist (DVC ChromaDB)
-- No real system-level tests yet (`backend/tests/system` only has `__init__.py`)
-- GitHub Actions workflow directory is empty – tests are **not** wired into CI
-- No coverage config (`.coveragerc`) or HTML/Codecov upload
-- Existing FastAPI endpoint tests (`test_api.py`) call a running server via `requests` rather than using `fastapi.testclient`
-- Some key modules basically untested:
-  - `main.py` endpoint logic & Pydantic validators
-  - `DVCManager.version_database / restore_version / get_version_history` (needs `subprocess` / git mocks)
-  - `OnDemandCredibilityCalculator` and anything inside `linkedin_data_processing`
-- No automatic lint step (flake8 / isort) or code-format check in CI
-- No fixtures for ChromaDB / DVC isolation across tests
-- Tests do not use `pytest` markers (`unit`, `integration`, `system`) for filtering
+The Expert Finder system consists of six key stages:
 
-### Gaps vs. Project Requirements
-| Requirement | Gap / Issue |
-|-------------|-------------|
-| ≥70% line coverage, doc listing uncovered parts | Coverage job missing, actual % unknown, no report |
-| Unit / Integration / System tests in CI | System tests not in place |
-| Linting on every push / PR | Not configured |
-| GitHub Actions should run Docker builds for each container | Build step missing |
-| Integration tests must hit exposed API | Need `pytest` HTTP client tests |
-| K8s "health-check" probe must be exercised in tests | Only `/health` endpoint exists; not tested |
+1. **Data Collection**: Gathering data from LinkedIn and Google Scholar sources
+2. **Data Processing**: Processing raw data into a structured format
+3. **Data Vectorization**: Converting processed data into vector embeddings
+4. **Database Storage**: Storing vectorized data in ChromaDB
+5. **Version Control** (Optional): Versioning the data using DVC
+6. **Query & Response**: Using LLM to query the database and return results to the frontend
 
-## 1. Testing Framework Setup
+## Testing Approach
 
-### PyTest Configuration
-```bash
-# Install additional testing dependencies
-pip install pytest pytest-cov pytest-mock httpx pytest-asyncio
-```
+Our testing strategy is organized into three layers:
 
-Create/update `pytest.ini`:
-```ini
-[pytest]
-testpaths = tests
-python_files = test_*.py
-python_classes = Test*
-python_functions = test_*
-filterwarnings =
-    ignore::DeprecationWarning
-    ignore::UserWarning
-markers =
-    unit: Unit tests
-    integration: Integration tests
-    system: System tests
-    dvc: Data version control tests
-    slow: Tests that take a long time to run
-```
+- **Unit Tests**: Testing individual components in isolation
+- **Integration Tests**: Testing interactions between components
+- **System Tests**: Testing end-to-end workflows
 
-## 2. Testing Structure
+All tests will use real data and implementations wherever possible, not mock objects or shortcuts.
 
-Create the following directory structure:
+## Directory Structure
+
 ```
 backend/
 ├── tests/
-│   ├── unit/
-│   │   ├── __init__.py
-│   │   ├── test_dvc_utils.py
-│   │   ├── test_chroma_db_utils.py
-│   │   ├── test_linkedin_finder.py
-│   │   └── test_api.py
-│   ├── integration/
-│   │   ├── __init__.py
-│   │   ├── test_dvc_integration.py
-│   │   ├── test_chromadb_dvc_integration.py
-│   │   └── test_api_integration.py
-│   ├── system/
-│   │   ├── __init__.py
-│   │   ├── test_search_flow.py
-│   │   └── test_version_management.py
-│   ├── fixtures/
-│   │   ├── __init__.py
+│   ├── unit/               # Unit tests for individual components
+│   ├── integration/        # Tests for component interactions
+│   ├── system/             # End-to-end system tests
+│   ├── fixtures/           # Test data and helper functions
 │   │   ├── test_data/
-│   │   │   ├── sample_experts.json
-│   │   │   └── sample_queries.json
-│   │   └── mock_services/
-│   │       ├── mock_chromadb.py
-│   │       └── mock_dvc.py
-│   └── conftest.py
-├── docs/
-│   ├── testing/
-│   │   ├── testing_readme.md
-│   │   └── testing_todo.md
-│   └── coverage/
-│       └── coverage_reports/
-├── scripts/
-│   ├── run_tests.sh
-│   └── format_and_lint.sh
-├── .github/
-│   └── workflows/
-│       └── test.yml
-├── .coveragerc
-└── pytest.ini
+│   │   │   ├── linkedin/   # LinkedIn test data (pre/post processing)
+│   │   │   └── scholar/    # Google Scholar test data (pre/post processing)
+│   │   └── conftest.py     # Shared pytest fixtures
 ```
 
-### Directory Structure Explanation
+## Test Implementation Plan
 
-1. **tests/**
-   - `unit/`: Contains all unit tests for individual components
-   - `integration/`: Contains tests for component interactions
-   - `system/`: Contains end-to-end system tests
-   - `fixtures/`: Contains test data and mock services
-   - `conftest.py`: Shared pytest fixtures and configurations
+### Priority Order for Testing
 
-2. **docs/testing/**
-   - Contains all testing-related documentation
-   - `testing_readme.md`: General testing documentation
-   - `testing_todo.md`: Testing implementation guide
+Based on code analysis and current coverage levels (15% initially), we've identified the following testing priorities to reach our 70% coverage target:
 
-3. **scripts/**
-   - Contains utility scripts for testing
-   - `run_tests.sh`: Test runner script
-   - `format_and_lint.sh`: Code formatting and linting
+#### Priority 1: Core Utilities (High Impact)
 
-4. **.github/workflows/**
-   - Contains CI/CD workflow configurations
-   - `test.yml`: GitHub Actions test workflow
+1. **utils/chroma_db_utils.py** (325 lines) - Used throughout the app
+   - Test initialization with various configurations
+   - Test collection management (create, reset, delete)
+   - Test document operations (add, query, count)
+   - Test error handling and edge cases
 
-5. **Configuration Files**
-   - `.coveragerc`: Coverage configuration
-   - `pytest.ini`: PyTest configuration
+2. **utils/dvc_utils.py** (201 lines) - Used for versioning
+   - Test initialization and repo setup
+   - Test version operations (create, list, restore)
+   - Test error handling for common DVC issues
 
-### File Organization Rules
+#### Priority 2: LinkedIn Processing (Largest Modules)
 
-1. **Test Files**
-   - All test files should be prefixed with `test_`
-   - Test files should be placed in the appropriate test type directory
-   - Each test file should have a corresponding `__init__.py`
+3. **linkedin_data_processing/process_linkedin_profiles.py** (1,032 lines)
+   - Use test data: `backend/tests/fixtures/test_data/linkedinProfiles_beforeProcessing/profile_0.json`
+   - Test extraction of profile fields
+   - Test profile cleaning and normalization
+   - Test special case handling
 
-2. **Test Data**
-   - All test data should be placed in `tests/fixtures/test_data/`
-   - Mock services should be placed in `tests/fixtures/mock_services/`
+4. **linkedin_data_processing/expert_finder_linkedin.py** (766 lines) 
+   - Test core functionality except search function
+   - Test profile scoring and ranking
+   - Test expert identification logic
 
-3. **Documentation**
-   - All testing documentation should be placed in `docs/testing/`
-   - Coverage reports should be placed in `docs/coverage/coverage_reports/`
+#### Priority 3: Vectorization (Search Interface)
 
-4. **Scripts**
-   - All utility scripts should be placed in `scripts/`
-   - Scripts should be executable and documented
+5. **google_scholar/scholar_data_vectorization.py** (306 lines)
+   - Use test data: `backend/tests/fixtures/test_data/Google_Scholar_Data_semiglutide_20250414_231353.json`
+   - Test document preparation
+   - Test embedding generation
+   - Test ChromaDB integration
 
-## 3. Test Types Implementation
+6. **linkedin_data_processing/linkedin_vectorizer.py** (476 lines)
+   - Use test data: `backend/tests/fixtures/test_data/ACoAAA-n0MQBGjQ97rW5iLkYlYSolGR_7vSvoXE_processed.json`
+   - Test vectorization of LinkedIn profiles
+   - Test metadata extraction
+   - Test embedding quality checks
 
-### Unit Tests Implementation
+### 1. Data Processing Tests
 
-1. **DVCManager Tests** (`tests/unit/test_dvc_utils.py`):
-   - Test initialization
-   - Test version_database
-   - Test restore_version
-   - Test get_version_history
-   - Test error handling
+#### Unit Tests
 
-2. **ChromaDBManager Tests** (`tests/unit/test_chroma_db_utils.py`):
-   - Test initialization
-   - Test query functionality
-   - Test add_documents
-   - Test add_documents_with_version
-   - Test collection management
+**LinkedIn Data Processing**
 
-### Integration Tests Implementation
-
-1. **ChromaDB-DVC Integration** (`tests/integration/test_chromadb_dvc_integration.py`):
-   - Test document addition with versioning
-   - Test version restoration
-   - Test version history retrieval
-   - Test error handling in integration
-
-2. **API Integration** (`tests/integration/test_api_integration.py`):
-   - Test version_database endpoint
-   - Test get_version_history endpoint
-   - Test restore_version endpoint
-   - Test error responses
-
-### System Tests Implementation
-
-1. **Search Flow** (`tests/system/test_search_flow.py`):
-   - Test end-to-end search functionality
-   - Test expert profile retrieval
-   - Test result formatting
-   - Test error handling
-
-## 4. Test Coverage Configuration
-
-Create `.coveragerc`:
-```ini
-[run]
-source = .
-omit = 
-    venv/*
-    */tests/*
-    */migrations/*
-    */site-packages/*
-    */dist-packages/*
-    */__pycache__/*
-    */.eggs/*
-    
-[report]
-exclude_lines =
-    pragma: no cover
-    def __repr__
-    raise NotImplementedError
-    if __name__ == .__main__.:
-    pass
-    raise ImportError
-```
-
-## 5. GitHub Actions CI Implementation
-
-Create `.github/workflows/test.yml`:
-```yaml
-name: Run Tests
-
-on:
-  push:
-    branches: [ main, develop ]
-  pull_request:
-    branches: [ main, develop ]
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    
-    steps:
-    - uses: actions/checkout@v3
-    
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r backend/requirements.txt
-        pip install pytest pytest-cov pytest-mock httpx pytest-asyncio
-        
-    - name: Lint with flake8
-      run: |
-        pip install flake8
-        cd backend
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        
-    - name: Run unit tests
-      run: |
-        cd backend
-        pytest tests/unit/ -v --cov=.
-        
-    - name: Run integration tests
-      run: |
-        cd backend
-        pytest tests/integration/ -v --cov=. --cov-append
-        
-    - name: Run system tests
-      run: |
-        cd backend
-        pytest tests/system/ -v --cov=. --cov-append
-        
-    - name: Generate coverage report
-      run: |
-        cd backend
-        pytest --cov=. --cov-report=xml
-        
-    - name: Upload coverage to Codecov
-      uses: codecov/codecov-action@v3
-      with:
-        file: ./backend/coverage.xml
-        fail_ci_if_error: true
-```
-
-## 6. Test Runner Script
-
-Create `backend/run_tests.sh`:
-```bash
-#!/bin/bash
-
-# Parse command line arguments
-TYPE="all"
-COVERAGE=false
-
-for arg in "$@"
-do
-    case $arg in
-        --unit)
-        TYPE="unit"
-        shift
-        ;;
-        --integration)
-        TYPE="integration"
-        shift
-        ;;
-        --system)
-        TYPE="system"
-        shift
-        ;;
-        --dvc)
-        TYPE="dvc"
-        shift
-        ;;
-        --coverage)
-        COVERAGE=true
-        shift
-        ;;
-    esac
-done
-
-# Base command
-CMD="python -m pytest"
-
-# Add coverage if requested
-if [ "$COVERAGE" = true ]; then
-    CMD="$CMD --cov=. --cov-report=term --cov-report=html"
-fi
-
-# Run specific test type
-case $TYPE in
-    unit)
-    echo "Running unit tests..."
-    $CMD tests/unit/ -v
-    ;;
-    integration)
-    echo "Running integration tests..."
-    $CMD tests/integration/ -v
-    ;;
-    system)
-    echo "Running system tests..."
-    $CMD tests/system/ -v
-    ;;
-    dvc)
-    echo "Running DVC tests..."
-    $CMD -m dvc -v
-    ;;
-    all)
-    echo "Running all tests..."
-    $CMD -v
-    ;;
-esac
-
-# If coverage was generated, show the report location
-if [ "$COVERAGE" = true ]; then
-    echo "Coverage report generated in htmlcov/index.html"
-fi
-```
-
-Make it executable:
-```bash
-chmod +x backend/run_tests.sh
-```
-
-## 7. K8s Environment Testing Strategy
-
-For Kubernetes environment testing:
-
-1. Create mock deployments for local testing
-2. Set up environment variables for switching between local/K8s testing
-
-Example K8s-aware test fixture:
 ```python
-@pytest.fixture
-def k8s_environment():
-    """Set up a test environment that simulates K8s deployment."""
-    original_env = os.environ.copy()
-    
-    # Set environment variables that would be present in K8s
-    os.environ["KUBERNETES_SERVICE_HOST"] = "127.0.0.1"
-    os.environ["KUBERNETES_SERVICE_PORT"] = "8443"
-    os.environ["CHROMA_DB_HOST"] = "chroma-service"
-    
-    yield
-    
-    # Restore original environment
-    os.environ.clear()
-    os.environ.update(original_env)
+# test_linkedin_profile_processor.py
+
+def test_extract_profile_data():
+    """Test extraction of relevant data from a raw LinkedIn profile."""
+    # Load real raw LinkedIn profile from fixtures
+    # Call extract_profile_data function
+    # Verify structure and key fields
+
+def test_create_profile_text():
+    """Test creating text representation of a profile for embedding."""
+    # Load real processed LinkedIn profile
+    # Call create_profile_text function
+    # Verify that text includes important profile information
 ```
 
-## 8. Implementation Timeline
+**Google Scholar Processing**
 
-### Phase 1: Basic Setup and Assessment (Week 1)
+```python
+# test_scholar_data_processor.py
+
+def test_process_scholar_data():
+    """Test processing scholar data from a real file."""
+    # Load real Google Scholar data file
+    # Call process_scholar_data function
+    # Verify structure and key fields
+
+def test_prepare_chroma_data():
+    """Test preparing data for ChromaDB format."""
+    # Use real processed scholar data
+    # Call prepare_chroma_data function
+    # Verify that data is formatted correctly for ChromaDB
+```
+
+### 2. Vectorization Tests
+
+#### Unit Tests
+
+**LinkedIn Vectorization**
+
+```python
+# test_linkedin_vectorizer.py
+
+def test_create_profile_embeddings():
+    """Test creating embeddings from LinkedIn profile text."""
+    # Load real processed LinkedIn profile
+    # Call function to create embeddings
+    # Verify embedding structure and dimensions
+
+def test_add_profiles_to_chroma():
+    """Test adding LinkedIn profiles to ChromaDB."""
+    # Create temporary ChromaDB
+    # Use real LinkedIn profiles
+    # Call add_profiles_to_chroma function
+    # Verify profiles were added correctly
+```
+
+**Google Scholar Vectorization**
+
+```python
+# test_scholar_data_vectorization.py
+
+def test_prepare_documents_for_chromadb():
+    """Test preparing documents for ChromaDB using real author data."""
+    # Load real author data
+    # Call prepare_documents_for_chromadb function
+    # Verify document structure is correct for ChromaDB
+
+def test_load_to_chromadb():
+    """Test loading documents to a real ChromaDB instance."""
+    # Create temporary ChromaDB
+    # Prepare real documents
+    # Load to ChromaDB
+    # Verify documents were added correctly
+```
+
+### 3. ChromaDB Storage Tests
+
+#### Unit Tests
+
+```python
+# test_chroma_db_utils.py
+
+def test_chroma_manager_initialization():
+    """Test ChromaDBManager initialization."""
+    # Create ChromaDBManager with real settings
+    # Verify connection and collection setup
+
+def test_add_documents():
+    """Test adding documents to ChromaDB."""
+    # Create real documents based on test data
+    # Add to ChromaDB
+    # Verify documents were added correctly
+
+def test_query_collection():
+    """Test querying ChromaDB collection."""
+    # Add test documents to collection
+    # Perform different types of queries
+    # Verify query results
+```
+
+### 4. DVC Version Control Tests
+
+#### Unit Tests
+
+```python
+# test_dvc_utils.py
+
+def test_initialize_dvc():
+    """Test initializing DVC in a test directory."""
+    # Create temp directory
+    # Initialize DVC
+    # Verify DVC initialization
+
+def test_version_database():
+    """Test versioning database changes."""
+    # Create temp directory with DVC
+    # Create test files
+    # Version with DVC
+    # Verify commit created
+
+def test_restore_version():
+    """Test restoring a previous version."""
+    # Create temp directory with DVC
+    # Create and version multiple file changes
+    # Restore to a previous version
+    # Verify files match expected state
+```
+
+### 5. LLM Query Tests
+
+#### Unit Tests
+
+```python
+# test_expert_finder_agent.py
+
+def test_search_profiles():
+    """Test searching for profiles with semantic search."""
+    # Set up test ChromaDB with real profiles
+    # Perform search with test query
+    # Verify search results format and relevance
+
+def test_generate_response():
+    """Test generating a response from search results."""
+    # Create sample search results from real data
+    # Generate response
+    # Verify response structure and content
+```
+
+### 6. API and Integration Tests
+
+#### Integration Tests
+
+```python
+# test_api.py
+
+def test_search_endpoint():
+    """Test the search endpoint with TestClient."""
+    # Create TestClient with app
+    # Send search request
+    # Verify response structure and status code
+
+def test_linkedin_search_endpoint():
+    """Test LinkedIn-specific search."""
+    # Create TestClient with app
+    # Send LinkedIn search request
+    # Verify response structure and source field
+
+def test_scholar_search_endpoint():
+    """Test Scholar-specific search."""
+    # Create TestClient with app
+    # Send Scholar search request
+    # Verify response structure and source field
+```
+
+### 7. System Tests (End-to-End)
+
+#### System Tests
+
+```python
+# test_search_flow.py
+
+def test_end_to_end_search():
+    """Test the complete search flow from query to response."""
+    # Set up test environment with real data
+    # Send search request
+    # Verify complete pipeline execution
+    # Check response quality
+
+def test_combined_sources_search():
+    """Test searching from multiple sources."""
+    # Set up test environment with LinkedIn and Scholar data
+    # Send search request that should match both sources
+    # Verify results contain items from both sources
+    # Check combined response quality
+```
+
+## Test Fixtures
+
+```python
+# conftest.py
+
+@pytest.fixture
+def temp_chroma_dir():
+    """Create a temporary directory for ChromaDB testing."""
+    with tempfile.TemporaryDirectory() as tmpdir:
+        yield tmpdir
+
+@pytest.fixture
+def temp_dvc_dir():
+    """Create a temporary directory for DVC testing."""
+    with tempfile.TemporaryDirectory() as tmpdir:
+        # Initialize git and DVC in the temp directory
+        subprocess.run(["git", "init"], cwd=tmpdir, check=True)
+        subprocess.run(["dvc", "init"], cwd=tmpdir, check=True)
+        yield tmpdir
+
+@pytest.fixture
+def linkedin_profile_fixture():
+    """Load a real LinkedIn profile for testing."""
+    fixture_path = Path(__file__).parent / "test_data" / "linkedin" / "sample_profile_processed.json"
+    with open(fixture_path, 'r') as f:
+        return json.load(f)
+
+@pytest.fixture
+def scholar_data_fixture():
+    """Load real Google Scholar data for testing."""
+    fixture_path = Path(__file__).parent / "test_data" / "scholar" / "sample_scholar_processed.json"
+    with open(fixture_path, 'r') as f:
+        return json.load(f)
+
+@pytest.fixture
+def fastapi_test_client():
+    """Create a TestClient for FastAPI testing."""
+    from fastapi.testclient import TestClient
+    from main import app
+    return TestClient(app)
+```
+
+## Testing Principles
+
+1. **Use Real Data**: All tests should use real data from fixtures where possible.
+2. **No Mocking Core Logic**: Avoid mocking core application logic; test the real implementation.
+3. **Isolate External Dependencies**: Only mock external dependencies like API calls or remote services.
+4. **Test Complete Workflows**: Ensure end-to-end testing of key user flows.
+5. **Maintain Test Data Quality**: Keep test fixtures up-to-date with production data structure.
+
+## Known Issues and Limitations
+
+- Testing download functionality will be handled later.
+- Current Google Scholar module test coverage (54%) has the following gaps that need to be addressed:
+  - Main functions (`main()`) in both `scholar_data_processor.py` and `scholar_data_vectorization.py` aren't being tested
+  - Error handling code paths aren't covered
+  - `load_google_scholar_data()` function in vectorization.py isn't tested
+  - Some conditional branches in processing logic aren't exercised by current tests
+
+## Implementation Strategy
+
+### Phase 1: Foundation Tests
 - Set up testing directory structure
-- Configure PyTest
-- Create `.coveragerc` to configure coverage settings
-- Measure current coverage (`pytest --cov=backend --cov-report=term-missing`)
-- Document uncovered modules and functions
-- Add PyTest markers (`@pytest.mark.unit`, etc.) to existing tests
-- Update the `run_tests.sh` script to filter on markers
+- Create basic fixtures with real test data
+- Implement basic unit tests for core components
 
-### Phase 2: API Testing Improvement & Unit Test Expansion (Week 2)
-- Convert `test_api.py` to use `fastapi.testclient` instead of `requests`
-- Add tests for the `/health` endpoint
-- Implement missing unit tests for:
-  - `utils.dvc_utils` (mock `subprocess.run`)
-  - `main.SearchQuery` validators (edge cases)
-  - `linkedin_data_processing` vectorizer logic
-- Create shared fixtures for:
-  - Temporary ChromaDB directory
-  - Temporary DVC repository
-  - FastAPI test client
+### Phase 2: Core Component Tests
+- Implement comprehensive unit tests for data processing
+- Implement comprehensive unit tests for vectorization
+- Create ChromaDB tests with real data
 
-### Phase 3: Integration & System Tests (Week 3)
-- Create `tests/system/test_end_to_end.py` with tests that:
-  - Spin up `TestClient`
-  - Push a sample document to ChromaDB
-  - Call `/search` endpoints
-  - Assert combined results from different sources
-- Implement K8s-aware fixture for environment variable switching
-- Test scaling scenarios with multiple concurrent requests
+### Phase 3: Integration and System Tests
+- Implement integration tests between components
+- Develop system tests for end-to-end workflows
+- Test real LLM queries against test database
 
-### Phase 4: CI/CD Pipeline Implementation (Week 4)
-- Create `.github/workflows/ci.yml` with:
-  - Linting step (flake8 / isort)
-  - Unit & integration tests
-  - Coverage gate (fail if < 70%)
-  - Docker build verification
-- Add Codecov upload step
-- Configure deployment to Kubernetes on successful merge to main
+## Coverage Targets
 
-### Phase 5: Integration with Kubernetes (Week 5)
-- Implement system tests that run in a Kubernetes environment
-- Test auto-scaling capabilities
-- Verify liveness and readiness probes
-- Automate deployment validation
-- Achieve 70% overall coverage
+- Overall test coverage: ≥70%
+- Critical paths coverage: ≥85%
+- Each component should have dedicated tests
 
-## 9. Collaboration Points
+## Dependencies
 
-### With K8s Team
-- Coordinate on environment variables
-- Share test deployment configurations
-- Align on scaling test scenarios
-
-### With CI/CD Team
-- Integrate test results into pipeline
-- Set up automated deployment triggers
-- Configure coverage reporting
-
-## 10. Quality Metrics
-
-### Coverage Goals
-- Overall code coverage: ≥70%
-- Critical path coverage: ≥90%
-- DVC operations coverage: ≥80%
-- API endpoints coverage: ≥85%
-
-### Performance Metrics
-- Test execution time: <5 minutes
-- CI pipeline time: <15 minutes
-- Test reliability: >99%
-
-## 11. Maintenance Plan
-
-### Regular Tasks
-- Weekly coverage report review
-- Monthly test suite optimization
-- Quarterly performance benchmark
-- Bi-annual test strategy review
-
-### Documentation Updates
-- Update test documentation monthly
-- Review and update test cases quarterly
-- Maintain test coverage dashboard
-- Document new test patterns
-
-## 12. Risk Management
-
-### Identified Risks
-1. Flaky tests in CI environment
-2. Coverage gaps in critical paths
-3. Performance degradation with test growth
-4. Integration test complexity
-
-### Mitigation Strategies
-1. Implement retry mechanisms for flaky tests
-2. Regular coverage analysis and gap filling
-3. Test suite optimization and parallelization
-4. Modular test design and clear documentation
+- pytest
+- pytest-cov
+- httpx (for TestClient)
+- tempfile (for temporary directories)
+- ChromaDB (for real database tests)
+- DVC (for version control tests)
