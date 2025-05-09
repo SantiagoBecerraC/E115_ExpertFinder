@@ -4,7 +4,10 @@
 
 ```bash
 # Run this command from the backend directory to get comprehensive coverage metrics:
-EF_TEST_MODE=1 pytest --cov=. --cov-report=term-missing
+export GCP_PROJECT=dummy
+export EF_TEST_MODE=1
+export PYTHONPATH=.
+pytest --cov=. --cov-report=term-missing
 ```
 
 ## Overview

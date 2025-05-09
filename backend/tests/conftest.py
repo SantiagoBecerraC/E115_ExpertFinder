@@ -325,3 +325,68 @@ def mock_dvc_manager():
     
     with patch('utils.dvc_utils.DVCManager', return_value=mock_dvc):
         yield mock_dvc
+
+@pytest.fixture(scope="function")
+def real_scholar_data_file():
+    """Fixture providing the path to a real Google Scholar data file for testing."""
+    return os.path.join(
+        Path(__file__).parent, 
+        "fixtures", 
+        "test_data", 
+        "Google_Scholar_Data_semiglutide_20250414_231353.json"
+    )
+
+@pytest.fixture(scope="function")
+def use_real_services():
+    """Fixture that determines whether to use real services or mocks.
+    
+    Returns True if real services should be used, False for mocks.
+    This is useful for integration tests that can run in both real and mock modes.
+    """
+    # Default to mock mode in CI, real mode in local development
+    # Can be overridden by setting the environment variable
+    if os.environ.get("CI") == "true":
+        return False
+    
+    # Check if explicitly set in environment
+    use_real = os.environ.get("USE_REAL_SERVICES", "").lower() in ["true", "1", "yes"]
+    
+    return use_real
+
+@pytest.fixture(scope="function")
+def chroma_client():
+    """Fixture providing a ChromaDB client for testing.
+    
+    If real services are available, uses a real ChromaDB client.
+    Otherwise, provides a mock client.
+    """
+    try:
+        import chromadb
+        from chromadb.config import Settings
+        
+        # Try to use a real ChromaDB client if possible
+        # This will use an in-memory client which is safe for testing
+        client = chromadb.Client(Settings(
+            anonymized_telemetry=False,
+            allow_reset=True
+        ))
+        
+        yield client
+        
+    except (ImportError, Exception) as e:
+        # If anything goes wrong, fall back to a mock
+        mock_client = MagicMock()
+        mock_collection = MagicMock()
+        mock_client.create_collection.return_value = mock_collection
+        mock_client.get_collection.return_value = mock_collection
+        
+        # Set up basic functionality for the mock collection
+        mock_collection.count.return_value = 0
+        mock_collection.query.return_value = {
+            "ids": [["doc1", "doc2"]],
+            "documents": [["text1", "text2"]],
+            "metadatas": [[{"source": "Test"}, {"source": "Test"}]],
+            "distances": [[0.1, 0.2]]
+        }
+        
+        yield mock_client
