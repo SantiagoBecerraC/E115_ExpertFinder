@@ -5,7 +5,7 @@
 
   vars:
     cluster_name: "expert-finder-cluster"
-    machine_type: "n2d-standard-2"
+    machine_type: "n2d-standard-4"
     machine_disk_size: 30
     initial_node_count: 2
 
@@ -138,12 +138,25 @@
     register: create_secret_op
     ignore_errors: yes
     when: cluster_state == "present"
-  
+
   - name: "Print Create Secret Output"
     debug:
       var: create_secret_op
     when: cluster_state == "present"
-  
+
+  - name: Create environment file Secret
+    shell: |
+      #!/bin/bash
+      kubectl create secret generic backend-env-file --from-file=.env=../secrets/.env --namespace="{{cluster_name}}-namespace"
+    register: create_env_secret_op
+    ignore_errors: yes
+    when: cluster_state == "present"
+    
+  - name: "Print Create Env Secret Output"
+    debug:
+      var: create_env_secret_op
+    when: cluster_state == "present"
+
   - name: "Create Deployment for Frontend"
     k8s:
       state: present
@@ -166,6 +179,9 @@
               - image: "gcr.io/{{ gcp_project }}/expert-finder-frontend:{{ tag.stdout }}"
                 imagePullPolicy: Always
                 name: frontend
+                env:
+                  - name: NEXT_PUBLIC_API_URL
+                    value: "/backend"
                 ports:
                 - containerPort: 3000
                   protocol: TCP
@@ -206,7 +222,7 @@
           strategy:
             type: RollingUpdate
             rollingUpdate:
-              maxSurge: 1
+              maxSurge: 2
               maxUnavailable: 0
           template:
             metadata:
@@ -221,6 +237,12 @@
                 - name: google-cloud-key
                   secret:
                     secretName: gcp-service-key
+                - name: env-file
+                  secret:
+                    secretName: backend-env-file
+                - name: chromadb-vol
+                  persistentVolumeClaim:
+                    claimName: chromadb-pvc
               containers:
               - image: gcr.io/{{ gcp_project }}/expert-finder-backend:{{ tag.stdout}}
                 imagePullPolicy: Always
@@ -230,11 +252,11 @@
                   protocol: TCP
                 resources:
                   requests:
-                    cpu: "200m"
-                    memory: "256Mi"
-                  limits:
                     cpu: "1000m"
-                    memory: "1Gi"
+                    memory: "2Gi"
+                  limits:
+                    cpu: "2000m"
+                    memory: "8Gi"
                 readinessProbe:
                   httpGet:
                     path: /health
@@ -252,6 +274,12 @@
                     mountPath: /app/data
                   - name: google-cloud-key
                     mountPath: /secrets
+                  - name: env-file
+                    mountPath: /config/.env
+                    # readOnly: true
+                    subPath: .env
+                  - name: chromadb-vol
+                    mountPath: /chromadb
                 env:
                   - name: GOOGLE_APPLICATION_CREDENTIALS
                     value: /secrets/gcp-service.json
@@ -259,6 +287,8 @@
                     value: expert-finder-bucket-1
                   - name: GCP_PROJECT
                     value: "{{ gcp_project }}"
+                  - name: CHROMADB_PATH
+                    value: /chromadb
     when: cluster_state == "present"
 
   - name: "Create Service for Frontend"
@@ -337,10 +367,11 @@
           annotations:
             kubernetes.io/ingress.class: "nginx"
             nginx.ingress.kubernetes.io/ssl-redirect: "false"
-            nginx.org/rewrites: "serviceName=frontend rewrite=/;serviceName=backend rewrite=/"
+            nginx.ingress.kubernetes.io/configuration-snippet: |
+              rewrite ^/backend(/.*)$ $1 break;
         spec:
           rules:
-          - host: "{{ nginx_ingress_ip }}.sslip.io" # Host requires a domain and not just an IP
+          - host: "{{ nginx_ingress_ip }}.sslip.io"
             http:
               paths:
               - path: /

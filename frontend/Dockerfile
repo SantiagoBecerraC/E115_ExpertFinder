@@ -20,7 +20,7 @@ FROM node:20.12.0-alpine AS runner
 WORKDIR /app
 
 ENV NODE_ENV=production
-ENV NEXT_PUBLIC_API_URL=http://localhost:8000
+ENV NEXT_PUBLIC_API_URL=/backend
 ENV PORT=3000
 ENV HOSTNAME=0.0.0.0
 

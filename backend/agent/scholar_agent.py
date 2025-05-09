@@ -43,7 +43,7 @@ def get_openai_api_key():
     # Load environment variables from the secrets folder at project root
     current_file = Path(__file__)
     project_root = current_file.parent.parent.parent.parent  # Go up four levels to reach EXPERTFINDER-UV1
-    env_path = project_root / 'secrets' / '.env'
+    env_path = project_root / 'config' / '.env'
     
     if not env_path.exists():
         raise FileNotFoundError(f"Environment file not found at {env_path}. Please create a .env file in the secrets directory.")

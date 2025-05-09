@@ -48,6 +48,8 @@ app = FastAPI(
     version="1.0.0"
 )
 
+app.root_path = "/backend" 
+
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,

@@ -18,17 +18,23 @@ from pathlib import Path
 import pandas as pd
 from dotenv import load_dotenv
 
-from keywords_list import keywords_list
+try:
+    from .keywords_list import keywords_list
+except ImportError:
+    from keywords_list import keywords_list
 
 # Local application imports
-from SerpAPI_GoogleScholar import GoogleScholar
+try:
+    from .SerpAPI_GoogleScholar import GoogleScholar
+except ImportError:
+    from SerpAPI_GoogleScholar import GoogleScholar
 
 # Load environment variables from the secrets folder at project root
 current_file = Path(__file__)
 project_root = (
     current_file.parent.parent.parent.parent
 )  # Go up four levels to reach EXPERTFINDER-UV1
-env_path = project_root / "secrets" / ".env"
+env_path = project_root / "config" / ".env"
 
 load_dotenv(dotenv_path=env_path)
 

@@ -129,7 +129,7 @@ export default function Home() {
     setCurrentQuery(query)
     try {
       // Set API URL - handle both absolute URLs and relative paths
-      let apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+      let apiUrl = process.env.NEXT_PUBLIC_API_URL || '/backend';
       
       // Construct the full URL properly, handling relative paths
       const searchUrl = apiUrl.startsWith('http') 
