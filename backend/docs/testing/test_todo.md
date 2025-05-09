@@ -21,20 +21,43 @@ Comprehensive test run on May 9, 2025 shows the following coverage metrics:
 
 | Module | Coverage | Status | Priority |
 |---|---|---|---|
-| Overall | 48% | ⚠️ Needs improvement | - |
 | DVC Utils | 96% | ✅ Excellent | Low |
 | CLI Commands | 90% | ✅ Excellent | Low |
-| ChromaDB Utils | 80% | ✅ Good | Low |
-| Scholar Data Vectorization | 77% | ✅ Good | Low |
+| ChromaDB Utils | 78% | ✅ Good | Low |
+| Scholar Data Vectorization | 76% | ✅ Good | Low |
 | LinkedIn Vectorizer | 72% | ✅ Good | Low |
 | Dynamic Credibility | 71% | ✅ Good | Low |
 | Credibility System | 54% | ⚠️ Moderate | Medium |
-| Process LinkedIn Profiles | 43% | ⚠️ Needs improvement | High |
 | Scholar Data Processor | 45% | ⚠️ Needs improvement | Medium |
-| Credibility Stats | 25% | ⚠️ Poor | High |
+| Process LinkedIn Profiles | 43% | ⚠️ Needs improvement | High |
 | ExpertFinderAgent | 33% | ⚠️ Needs improvement | High |
+| Credibility Stats | 25% | ❌ Poor | High |
 | Main API Endpoints | 0% | ❌ Missing | Critical |
-| Test ChromaDB | 10% | ❌ Poor | Low |
+
+**Overall Coverage**: 48% (Target: 70%)
+
+## Known Test Issues
+
+### ChromaDB Initialization Errors
+
+Several tests fail with `RuntimeError: Failed to initialize ChromaDB: '_type'` error. Investigation shows this is likely due to ChromaDB API version compatibility issues:
+
+1. **Root Cause**: In ChromaDB v0.6.3, `client.list_collections()` returns `CollectionName` objects (not plain strings)
+
+```python
+# Current code (works in production but fails in tests):
+collection_names = self.client.list_collections()
+if self.collection_name in collection_names:  # Type mismatch here
+```
+
+2. **Potential Solutions**:
+   - Extract string names: `collection_names = [str(c) for c in client.list_collections()]`
+   - Skip the failing tests in CI with `@pytest.mark.skip` until fixed
+   - Pin ChromaDB version in requirements to a compatible version
+
+3. **Impact**: This affects 10 tests across ChromaDB-related functionality
+
+Do not fix this issue until confirming which approach preserves production behavior!
 
 ## Unit Testing Tasks
 
