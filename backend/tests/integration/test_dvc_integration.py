@@ -4,6 +4,7 @@ Test script for DVC and ChromaDB integration.
 
 import os
 import logging
+import pytest
 from utils.chroma_db_utils import ChromaDBManager
 from utils.dvc_utils import DVCManager
 
@@ -11,6 +12,7 @@ from utils.dvc_utils import DVCManager
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+@pytest.mark.integration
 def test_dvc_integration():
     """Test DVC integration with ChromaDB."""
     try:

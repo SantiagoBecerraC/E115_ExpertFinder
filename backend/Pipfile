@@ -35,6 +35,11 @@ dvc-gs = "*"
 cohere = "*"
 torch = "*"
 sentence-transformers = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+httpx = "*"
+pytest-asyncio = "*"
 
 [dev-packages]
 pytest = "*"
