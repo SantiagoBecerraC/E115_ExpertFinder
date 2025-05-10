@@ -79,7 +79,7 @@ jobs:
         echo "percentage=$COVERAGE" >> $GITHUB_OUTPUT
         echo "color=$COLOR" >> $GITHUB_OUTPUT
 
-        # ❗️ Fail if too low
+        # Fail if too low
         if (( $(echo "$COVERAGE < 60" | bc -l) )); then
           echo "Coverage too low: $COVERAGE%"
           exit 1

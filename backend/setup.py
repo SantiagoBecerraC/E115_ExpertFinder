@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+# setup file is a marker file for github to deploy as a project
 
 setup(
     name="expert-finder",

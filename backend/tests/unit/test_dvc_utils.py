@@ -19,21 +19,21 @@ from utils.dvc_utils import DVCManager
 @pytest.fixture()
 def project_env():
     """
-    真正的“项目根”——包含 `.git`，并根据测试需要决定是否预先创建 `.dvc` 目录。
-    返回 (root_path, make_dvc_dir)：
-        - root_path: Path 对象
-        - make_dvc_dir(): 调用后在根目录下创建 .dvc
+    A real "project root" - containing `.git` directory and optionally creating `.dvc` directory based on test needs.
+    Returns (root_path, make_dvc_dir):
+        - root_path: Path object
+        - make_dvc_dir(): Function that creates .dvc in the root directory when called
     """
     with TemporaryDirectory() as tmp:
         root = Path(tmp)
-        (root / ".git").mkdir()  # 让 _find_project_root 能停下来
+        (root / ".git").mkdir()  # Makes _find_project_root stop at this directory
 
-        # 提供一个 helper，让测试按需创建 .dvc
+        # Provides a helper function for tests to create .dvc as needed
         def make_dvc_dir():
             (root / ".dvc").mkdir(exist_ok=True)
 
         yield root, make_dvc_dir
-        # 临时目录自动清理
+        # Temporary directory is automatically cleaned up
 
 
 # ---------- Tests ---------------------------------------------------------- #
@@ -42,7 +42,7 @@ class TestInitialization:
         root, _ = project_env
         with patch.object(DVCManager, "_find_project_root", return_value=root), patch.object(
             DVCManager, "_initialize_dvc"
-        ):  # 不触发真正初始化
+        ):  # Prevents actual initialization
             mgr = DVCManager()
 
         assert mgr.project_root == root
@@ -90,13 +90,13 @@ class TestInitialization:
 
 class TestInitializeDVC:
     def test_first_time_init_runs_commands(self, project_env):
-        root, _ = project_env  # 此时没有 .dvc
+        root, _ = project_env  # No .dvc directory at this point
         with patch.object(DVCManager, "_find_project_root", return_value=root), patch.object(
             DVCManager, "_run_command", return_value=True
         ) as mock_run:
-            mgr = DVCManager()  # 构造函数里会自动调用 _initialize_dvc
+            mgr = DVCManager()  # Constructor will automatically call _initialize_dvc
 
-        # 应执行三条命令：dvc init、git add、git commit
+        # Should execute three commands: dvc init, git add, git commit
         expected = [
             call(["dvc", "init"], "initialize DVC"),
             call(["git", "add", ".dvc", ".dvcignore"], "add DVC to git"),
@@ -107,13 +107,13 @@ class TestInitializeDVC:
 
     def test_init_skipped_if_dvc_exists(self, project_env):
         root, make_dvc_dir = project_env
-        make_dvc_dir()  # 先建好 .dvc，模拟已初始化
+        make_dvc_dir()  # Create .dvc first to simulate already initialized
         with patch.object(DVCManager, "_find_project_root", return_value=root), patch.object(
             DVCManager, "_run_command", return_value=True
         ) as mock_run:
-            DVCManager()  # 构造函数仍会走 _initialize_dvc
+            DVCManager()  # Constructor will still call _initialize_dvc
 
-        mock_run.assert_not_called()  # 不应该再执行任何命令
+        mock_run.assert_not_called()  # Should not execute any commands
 
 
 class TestOtherOperations:
@@ -256,11 +256,10 @@ class TestOtherOperations:
             with patch("subprocess.run", side_effect=error) as mock_run, patch(
                 "utils.dvc_utils.logger.error"
             ) as mock_logger:
-
                 # Call method
                 history = mgr.get_version_history()
 
-                # Verify
+                # Verify empty result on error
                 assert history == []
                 # Verify a subprocess.run call was made with git log
                 git_log_calls = [
