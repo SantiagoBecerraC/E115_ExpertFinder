@@ -3,12 +3,12 @@ name: ExpertFinder Tests
 # This workflow runs pytest on push and pull requests
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ “**“ ]
     paths:
       - 'backend/**'
       - '.github/workflows/pytest.yml'
   pull_request:
-    branches: [ main, develop ]
+    branches: [ “**“ ]
     paths:
       - 'backend/**'
 
