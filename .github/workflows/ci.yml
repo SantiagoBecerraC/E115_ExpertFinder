@@ -3,9 +3,9 @@ name: ExpertFinder CI
 # This workflow runs linting and all test suites on pull requests
 on:
   push:
-    branches: [ ”**“ ]
+    branches: [  "**"  ]
   pull_request:
-    branches: [ ”**“ ]
+    branches: [  "**"  ]
 
 jobs:
   format-and-lint:
