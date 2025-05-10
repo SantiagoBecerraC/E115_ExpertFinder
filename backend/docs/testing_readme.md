@@ -62,6 +62,8 @@ python -m pytest tests/unit/test_expert_finder_linkedin.py::TestExpertFinderAgen
 
 Based on the latest test run, the current coverage is approximately 64% across all modules:
 
+![Unit Test Coverage](../images/unitTestCoverage.png)
+
 | Module | Stmts | Miss | Cover | Missing |
 |--------|-------|------|-------|---------|
 | Overall | 2398 | 859 | 64% | - |
@@ -90,13 +92,21 @@ Four tests are currently skipped with pytest.mark.skip:
 backend/
 ├── tests/
 │   ├── unit/               # Unit tests for individual components
+│   │   └── utils/          # Tests for utility modules
 │   ├── integration/        # Tests for component interactions
-│   ├── system/             # End-to-end system tests
+│   │   ├── api/            # API integration tests
+│   │   └── data/           # Data processing integration tests
+│   ├── system/             # Future end-to-end system tests
 │   ├── fixtures/           # Test data and helper functions
-│   │   ├── test_data/
-│   │   │   ├── linkedinProfiles_beforeProcessing/ # LinkedIn test data
-│   │   │   └── scholar/    # Google Scholar test data
-│   │   └── conftest.py     # Shared pytest fixtures
+│   │   └── test_data/      # Test data files
+│   │       ├── linkedinProfiles_beforeProcessing/ # LinkedIn test data
+│   │       └── expert-finder-bucket-1/            # Test bucket data
+│   │           └── google_scholar/                # Google Scholar test data
+│   ├── conftest.py         # Shared pytest fixtures
+│   ├── api_test_client.py  # API testing utilities
+│   ├── run_integration_tests.sh # Script to run integration tests
+│   ├── start_test_environment.sh # Script to set up test environment
+│   └── test_config.py      # Test configuration
 ```
 
 ## Unit Tests
@@ -139,11 +149,65 @@ Tests for the expert credibility scoring system:
 
 The integration tests verify that components work together correctly:
 
+### Directory Structure
 
+The integration tests are organized in the following directories:
+
+```
+backend/tests/integration/
+├── data/                       # Tests for data processing components
+│   ├── test_chromadb_integration.py
+│   ├── test_linkedin_integration.py
+│   ├── test_process_linkedin_profiles_integration.py
+│   └── test_scholar_integration.py
+└── api/                        # Tests for API functionality
+    └── test_api_integration.py
+```
+
+### Integration Test Coverage
+
+Based on our test runs, the integration tests provide the following coverage:
+
+| Integration Test File | Coverage |
+|-----------------------|----------|
+| test_api_integration.py | ~80% API endpoint coverage |
+| test_chromadb_integration.py | 100% ChromaDB operations |
+| test_linkedin_integration.py | ~84% LinkedIn processing |
+| test_process_linkedin_profiles_integration.py | 100% LinkedIn profile processing |
+| test_scholar_integration.py | ~95% Google Scholar integration |
+
+![Integration Test Coverage](../images/IntegrationTestCoverage.jpg)
+
+Several key integration tests were implemented to verify component interactions:
+
+1. **ChromaDB Integration**: Tests batch operations, updates, and basic CRUD functionality
+2. **LinkedIn Processing**: Tests profile extraction, vectorization, credibility scoring
+3. **API Integration**: Tests search endpoints and versioning
+
+### Running Integration Tests
+
+Integration tests can be run with the pytest mark parameter:
+
+```bash
+# Run all integration tests
+python -m pytest tests/integration/ -m integration -v
+
+# Run a specific integration test file
+python -m pytest tests/integration/data/test_chromadb_integration.py -v
+
+# Run a specific test
+python -m pytest tests/integration/data/test_linkedin_integration.py::test_linkedin_profile_processing -v
+```
+
+The integration tests use test fixtures defined in `tests/fixtures/conftest.py` to set up test environments and provide test data.
 
 ## System Tests
 
-The system tests verify end-to-end functionality, due to time constraints, we will implement the system level tseting to later.
+**Note: System tests are planned for future implementation**
+
+The system tests will verify end-to-end functionality when implemented. Due to time constraints, system-level testing has been deferred to a future development phase. The current focus is on reaching the 70% test coverage target through unit and integration tests.
+
+When implemented, system tests will cover:
 
 ### Search Workflow Tests
 
