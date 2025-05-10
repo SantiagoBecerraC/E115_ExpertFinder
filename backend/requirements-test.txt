@@ -16,7 +16,7 @@ langgraph==0.0.21
 dvc==3.59.2
 pandas==2.2.3
 pydantic==2.11.4
-numpy==2.2.5
+numpy>=1.23,<2.0
 httpx==0.28.1
 coverage==7.8.0
 cohere==5.0.0
