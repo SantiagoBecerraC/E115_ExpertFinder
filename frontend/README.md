@@ -7,16 +7,32 @@ A modern web application for finding and connecting with domain experts in Compu
 frontend/
 ├── src/
 │   ├── app/                 # Next.js app directory
-│   │   └── page.tsx        # Main application page
-│   ├── components/         # React components
-│   │   ├── ExpertList.tsx  # List of expert results
-│   │   ├── ExpertCard.tsx  # Individual expert card
-│   │   ├── ExpertTabs.tsx  # Tab navigation
-│   │   └── ui/            # UI components
-│   └── lib/               # Utility functions and API
-│       ├── api.ts         # API interface
-│       └── utils.ts       # Helper functions
+│   │   ├── page.tsx         # Main application page
+│   │   └── experts/         # Experts routing
+│   ├── components/          # React components
+│   │   ├── ExpertList.tsx   # List of expert results
+│   │   ├── ExpertCard.tsx   # Individual expert card
+│   │   ├── ExpertTabs.tsx   # Tab navigation
+│   │   ├── CredibilityBadge.tsx # Expert credibility indicator
+│   │   └── ui/              # UI components
+│   └── lib/                 # Utility functions and API
+│       ├── api.ts           # API interface
+│       └── utils.ts         # Helper functions
 ```
+
+## Getting Started Locally
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run the development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Core Components
 
@@ -35,38 +51,16 @@ Key features:
 
 ### 2. Expert Components
 
-#### ExpertTabs (`ExpertTabs.tsx`)
-```typescript
-interface ExpertTabsProps {
-  searchResults?: Expert[]
-}
+#### CredibilityBadge (`CredibilityBadge.tsx`)
+A component that visually represents the credibility of an expert based on metrics such as citations, publications, and profile completeness. 
 
-export function ExpertTabs({ searchResults = [] }: ExpertTabsProps) {
-  const linkedinExperts = searchResults.filter(e => e.source === "linkedin")
-  const scholarExperts = searchResults.filter(e => e.source === "scholar")
-  // ...
-}
-```
+#### ExpertTabs (`ExpertTabs.tsx`)
 - Handles tab navigation between LinkedIn and Google Scholar experts
 - Displays filtered results based on source
 - Manages tab state and switching
 - Shows expert count for each source
 
 #### ExpertList (`ExpertList.tsx`)
-```typescript
-interface ExpertListProps {
-  source: "linkedin" | "scholar"
-  experts: Expert[]
-}
-
-export function ExpertList({ source, experts }: ExpertListProps) {
-  // Filter and sort experts
-  const filteredExperts = experts
-    .filter(expert => expert.source === source)
-    .sort((a, b) => source === "scholar" ? (b.citations || 0) - (a.citations || 0) : 0);
-  // ...
-}
-```
 - Displays the list of expert results
 - Handles filtering and sorting
 - Shows expert details including:
@@ -77,26 +71,18 @@ export function ExpertList({ source, experts }: ExpertListProps) {
 - Implements responsive card layout
 - Uses badges for source and skills/interests
 
-### 3. API Integration (`api.ts`)
-```typescript
-export interface Expert {
-  id: string;
-  name: string;
-  title: string;
-  source: "linkedin" | "scholar";
-  company?: string;
-  location?: string;
-  skills?: string[];
-  citations?: number;
-  interests?: string[];
-  publications?: string[];
-  summary?: string;
-}
+#### ExpertCard (`ExpertCard.tsx`)
+- Displays an expert's information in a card layout
+- Shows expert details including:
+  - Name and title
+  - Company and location
+  - Skills and interests
+  - Citations and publications
+- Implements responsive card layout
+- Uses badges for source and skills/interests
 
-export const searchExperts = async (query: string, maxResults: number = 5): Promise<Expert[]> => {
-  // API call implementation
-}
-```
+
+### 3. API Integration (`api.ts`)
 - Defines TypeScript interfaces for API data
 - Handles API communication with error handling
 - Provides type safety for expert data
@@ -124,59 +110,29 @@ Located in `components/ui/`:
 - Modern UI with hover effects and transitions
 - Custom color schemes for LinkedIn (blue) and Scholar (purple)
 
-## State Management
-- Uses React's useState for local state
-- Manages:
-  - Search results
-  - Loading states
-  - Active tabs
-  - Chat history
-
-## Error Handling
-- Graceful fallback to mock data if API fails
-- Loading states during API calls
-- Error logging for debugging
-- Type safety with TypeScript interfaces
-
-## Mock Data
-Includes sample LinkedIn experts for:
-- Testing UI components
-- Fallback when API is unavailable
-- Demonstration purposes
-
-## Getting Started
-
-1. Install dependencies:
-```bash
-npm install
-```
-
-2. Run the development server:
-```bash
-npm run dev
-```
-
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 ## Dependencies
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Shadcn UI Components
-- Lucide Icons
+- Next.js 15.3.0
+- React 19.0.0
+- TypeScript 5.8
+- Tailwind CSS 3.4
+- Radix UI Components (Tabs, Select, Tooltip, Slot)
+- Lucide React Icons
+- Class Variance Authority
+- Tailwind Merge
 
 ## Development
-- Built with Next.js 13+ and App Router
+- Built with Next.js 15+ and App Router
 - TypeScript for type safety
 - Tailwind CSS for styling
-- ESLint for code quality
+- ESLint 9 for code quality
 
 ## API Integration
 The frontend communicates with the backend API at `http://localhost:8000`:
 - POST `/search` - Search for experts
 - Request body: `{ query: string, max_results?: number }`
 - Response: `{ experts: Expert[] }`
+
+
 
 
 
