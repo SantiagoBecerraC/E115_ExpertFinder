@@ -158,7 +158,21 @@ ExpertFinder/
    - API keys and access tokens
    - GCP service account credentials
 
+## Testing
 
+The project includes a comprehensive testing framework with:
+
+- **Unit Tests**: Individual component testing with mocked dependencies
+- **Integration Tests**: Testing component interactions and workflows
+- **System Tests**: End-to-end functionality tests
+
+Current test coverage is approximately 64%, with a target of 70%. The test suite uses:
+
+- PyTest as the testing framework
+- pytest-cov for coverage reporting
+- pytest-mock for dependency mocking
+
+To run the tests, see the [backend testing documentation](/backend/docs/testing_readme.md).
 
 ## License
 

@@ -155,3 +155,21 @@ Update the credibility statistics from the current database.
 Once the server is running, you can access:
 - Interactive API docs (Swagger UI): `http://localhost:8000/docs`
 - Alternative API docs (ReDoc): `http://localhost:8000/redoc` 
+
+## Testing
+
+The backend includes a comprehensive testing suite to ensure reliability and functionality:
+
+```bash
+# Run unit tests with coverage reporting
+python -m pytest tests/unit/ --cov=. --cov-config=../.coveragerc --cov-report=term-missing
+```
+
+Set these environment variables when running tests:
+```bash
+export GCP_PROJECT=dummy
+export EF_TEST_MODE=1
+export PYTHONPATH=.
+```
+
+For detailed testing documentation, refer to [testing_readme.md](docs/testing_readme.md). 
