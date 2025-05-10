@@ -141,7 +141,24 @@ setup(
 
 This file allows pip to install the backend code as a package with `pip install -e .` command.
 
-### 5. Mock Function Issues
+### 5. Module Import Errors
+
+**Issue**: Import errors due to incorrect module structure:
+
+```
+AttributeError: module 'agent' has no attribute 'scholar_agent'
+```
+
+**Solution**: Ensure Python modules have proper `__init__.py` files:
+
+```bash
+# Create an __init__.py file in the agent directory:
+touch agent/__init__.py
+
+# If the error persists, check for correct import paths in your code
+```
+
+### 6. Mock Function Issues
 
 **Issue**: Tests fail with unexpected mock function calls or arguments.
 
@@ -161,7 +178,7 @@ def test_function(self, mock_init_gcp):
     mock_init_gcp.assert_called_once()
 ```
 
-### 6. Test Coverage Issues
+### 7. Test Coverage Issues
 
 **Issue**: Test coverage is below the required threshold.
 

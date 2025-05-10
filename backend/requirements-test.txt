@@ -18,6 +18,7 @@ pydantic==2.11.4
 numpy==2.2.5
 httpx==0.28.1
 coverage==7.8.0
+cohere==5.0.0
 
 # Natural language processing
 scikit-learn==1.6.1

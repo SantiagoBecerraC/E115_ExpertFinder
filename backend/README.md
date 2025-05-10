@@ -64,7 +64,11 @@ Common CI pipeline failures include:
    - Ensure there's a `setup.py` file in the backend directory
    - This file is required for `pip install -e .` to work in CI
 
-3. **Failing Tests**:
+3. **Module Import Errors**:
+   - Create proper `__init__.py` files for all Python modules
+   - For example: `touch agent/__init__.py`
+
+4. **Failing Tests**:
    - Run tests locally before pushing with `python -m pytest tests/unit/ --cov=. --cov-config=../.coveragerc --cov-report=term-missing`
    - Check the detailed test documentation in `docs/testing/test_readme.md`
 

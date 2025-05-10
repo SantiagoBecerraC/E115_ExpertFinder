@@ -193,7 +193,6 @@ def test_process_scholar_data_basic(tmp_json_file):
 
 def test_prepare_chroma_data(minimal_article_data):
     """prepare_chroma_data returns authors & articles lists with expected lengths."""
-    # The old test was using a different format, adapt it for the new implementation
     # Create a result similar to what process_scholar_data returns
     data = {
         "articles": [
