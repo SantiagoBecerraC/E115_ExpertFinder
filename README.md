@@ -1,20 +1,33 @@
-# ExpertFinder - Milestone 4
+# ExpertFinder
 
 [![Tests](https://github.com/USERNAME/ExpertFinder/actions/workflows/pytest.yml/badge.svg)](https://github.com/USERNAME/ExpertFinder/actions/workflows/pytest.yml)
 [![CI](https://github.com/USERNAME/ExpertFinder/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/ExpertFinder/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/USERNAME/ExpertFinder/branch/main/graph/badge.svg)](https://codecov.io/gh/USERNAME/ExpertFinder)
 
 # Team Members - Jinyu Han, Santiago Becerra Cordoba, Umapathy (Umy) Bhakthavatsulu
+# Project Advisor - Rashmi Banthia 
 
-Expert finder system using LinkedIn and Google Scholar data and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system uses RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
+## In today's digital age, the proliferation of misinformation has become a significant challenge. With the vast amount of online information, it is increasingly difficult for individuals to identify credible sources and trusted experts. This issue is exacerbated by biased or misleading content, which can quickly spread through social media and other online platforms. As a result, there is a growing need for a reliable tool that can help users find and verify expert opinions on various topics. Our project aims to address this problem by developing an intuitive expert search tool that leverages Large Language Models (LLMs) to identify and rank credible experts based on their online presence and contributions.
 
-## Updates in Milestone 4
+## Expert finder system using LinkedIn and Google Scholar data and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system uses RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
 
-### New Features:
-1. **Solution Architecture**
-   - [Solution Architecture Document](/reports/ExpertFinder-Solution-Architecture.pdf)
+### Key Features
+- Multi-source expert data collection
+- Advanced semantic search capabilities
+- Natural language query processing
+- Intelligent result ranking and filtering
+- Custom-tuned LLM for domain-specific responses
+- Modern web interface for intuitive user experience
+- Scalable data processing pipeline
+- Docker-based deployment to kubernetes 
+- GCP integration for storage and processing
+
+### Architecture
+   - [Solution Architecture](/images/ExpertFinder-Solution-Architecture.pdf)
+   - [Application Architecture](/images/ExpertFinder-Application-Architecture.png)
+   - [Frontend Design](/images/ExpertFinder-Frontend-Design.png)
    
-2. **Backend API**:
+### Backend API
    - Built using FastAPI with comprehensive type validation using Pydantic models
    - RESTful API endpoints for expert search and profile retrieval
    - [API Documentation](/images/ExpertFinder-API.png)
@@ -22,7 +35,7 @@ Expert finder system using LinkedIn and Google Scholar data and advanced LLM tec
    - Real-time credibility scoring and ranking system
    - Integration with ChromaDB for semantic search functionality
 
-3. **Web Frontend Interface**: 
+### Web Frontend Interface
    - Added a modern, responsive Next.js frontend for an intuitive user experience
    - Implemented tabbed interface for viewing experts from different sources
    - Designed mobile-friendly UI with real-time search capabilities
@@ -31,36 +44,23 @@ Expert finder system using LinkedIn and Google Scholar data and advanced LLM tec
    - Dynamic filtering and sorting options
    - Real-time search with instant results
    
-4. **Data Versioning and Tracking**:
+### Data Versioning and Tracking
    - Implemented DVC for version controlling the ChromaDB database
    - Tracks significant database updates rather than individual profile additions
    - Maintains version history with commit hashes and metadata
    - Supports database restoration to previous versions
 
-## System Components
+### Data Processing Pipeline
+   - LinkedIn profile extraction and processing
+   - Google Scholar data collection
+   - Vector embedding generation
+   - RAG-based search implementation
 
-### [Backend Services](./backend)
-
-The backend contains several key components:
-
-1. **LinkedIn Data Pipeline**:
-   
-   a. **[Data Extraction](./backend/linkedin_raw_data)**:
-   - Extracts user profiles using the unofficial LinkedIn API
-   - Supports keyword and region-based searching
-   - Consolidates and stores data in GCP
-   - Includes rate limiting protection
-   
-   b. **[Data Processing](./backend/linkedin_data_processing)**:
-   - Processes raw LinkedIn profiles into structured formats
-   - Implements RAG-based expert search system
-   - Uses ChromaDB for vector storage and retrieval
-   - Features advanced filtering and reranking capabilities
-
-2. **[Google Scholar Integration](./backend/google_scholar)**:
-   - Collects and processes academic profile data
-   - Agent System: LLM-powered agents for intelligent expert finding
-   - Vector Search: ChromaDB integration for efficient similarity search
+### LLM Fine-tuning
+   - Generate specialized QA dataset
+   - Train model on Vertex AI
+   - Integrate model with expert search system
+   - Monitor performance and results
 
 ## Prerequisites
 
@@ -69,58 +69,19 @@ The backend contains several key components:
 - Google Cloud Platform account with Storage access
 - GCP credentials JSON file
 - OpenAI API key (for LLM functionality)
+- Cohere API key (for LLM Reranking functionality)
 - Node.js 18+ (for frontend development)
 
 ## Installation & Setup
 
 Each component has its own detailed installation and setup guide:
 
-- [LinkedIn Data Extraction Setup](./backend/linkedin_raw_data/README.md#docker-setup)
-- [LinkedIn Data Processing Setup](./backend/linkedin_data_processing/README.md#docker-installation)
-- [Backend Services Setup](./backend/README.md#getting-started)
-- [Frontend Setup](./frontend/README.md#getting-started)
-- [LLM Fine-tuning Setup](./backend/llm-finetuning/README.md#prerequisites)
-
-## Starting the Services
-
-### Backend Services
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Start the backend services:
-   ```bash
-   ./docker-shell.sh
-   ```
-   This will start:
-   - LinkedIn data processing service
-   - Google Scholar integration
-   - API server
-   - ChromaDB vector database
-
-3. Verify services are running:
-   ```bash
-   docker compose ps
-   ```
-
-### Frontend Application
-1. Navigate to the frontend directory:
-   ```bash
-   cd frontend
-   ```
-
-2. Start the frontend container:
-   ```bash
-   ./docker-shell.sh
-   ```
-
-3. Access the application:
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:8000
+- [Backend](./backend/README.md#getting-started)
+- [Frontend](./frontend/README.md#getting-started)
+- [LLM Fine-tuning](./llm-finetuning/README.md#getting-started)
+- [Kubernetes Deployment](./deployment/README.md)
 
 ## Codebase Architecture
-
 ```
 ExpertFinder/
 ├── backend/
@@ -201,84 +162,7 @@ ExpertFinder/
    - API keys and access tokens
    - GCP service account credentials
 
-## Architecture
 
-The system uses a modular architecture with the following key components:
-
-1. **Data Collection Layer**:
-   - LinkedIn profile extraction
-   - Google Scholar data collection
-
-2. **Processing Layer**:
-   - Profile structuring and enrichment
-   - Vector embedding generation
-   - Semantic search capabilities
-
-3. **Search Layer**:
-   - RAG-based expert finding
-   - Multi-source data integration
-   - Advanced filtering and ranking
-   - Fine-tuned LLM for response generation
-
-4. **Storage Layer**:
-   - Google Cloud Storage for raw data
-   - ChromaDB for vector storage
-   - Structured data persistence
-
-5. **Presentation Layer**:
-   - Next.js frontend application
-   - Responsive UI components
-   - Source-specific expert displays
-
-## Key Features
-
-- Multi-source expert data collection
-- Advanced semantic search capabilities
-- Natural language query processing
-- Intelligent result ranking and filtering
-- Custom-tuned LLM for domain-specific responses
-- Modern web interface for intuitive user experience
-- Scalable data processing pipeline
-- Docker-based deployment
-- GCP integration for storage and processing
-
-## Development Workflow
-
-1. **Data Collection**:
-   - Extract LinkedIn profiles
-   - Gather Google Scholar data
-   - Process and structure data
-
-2. **Data Processing**:
-   - Structure and clean raw data
-   - Generate embeddings
-   - Prepare for RAG system
-
-3. **Expert Search**:
-   - Process natural language queries
-   - Perform semantic search
-   - Rank and filter results
-   - Generate result summaries with fine-tuned LLM
-
-4. **Frontend Development**:
-   - Implement React components
-   - Connect to backend API
-   - Style with TailwindCSS
-   - Ensure responsive design
-
-5. **LLM Fine-tuning**:
-   - Generate specialized QA dataset
-   - Train model on Vertex AI
-   - Integrate model with expert search system
-   - Monitor performance and results
-
-# Next Steps
-Right now, both data sources have their own independent RAG workflow. For future milestones, we want to:
-
-1. Further integrate data sources for a more comprehensive and robust expert list
-2. Enhance the frontend with additional visualization capabilities
-3. Expand fine-tuning efforts to improve expert characterization
-4. Add real-time collaboration features for team-based expert finding
 
 ## License
 
