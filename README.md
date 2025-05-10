@@ -7,9 +7,9 @@
 # Team Members - Jinyu Han, Santiago Becerra Cordoba, Umapathy (Umy) Bhakthavatsulu
 # Project Advisor - Rashmi Banthia 
 
-## In today's digital age, the proliferation of misinformation has become a significant challenge. With the vast amount of online information, it is increasingly difficult for individuals to identify credible sources and trusted experts. This issue is exacerbated by biased or misleading content, which can quickly spread through social media and other online platforms. As a result, there is a growing need for a reliable tool that can help users find and verify expert opinions on various topics. Our project aims to address this problem by developing an intuitive expert search tool that leverages Large Language Models (LLMs) to identify and rank credible experts based on their online presence and contributions.
+In today's digital age, the proliferation of misinformation has become a significant challenge. With the vast amount of online information, it is increasingly difficult for individuals to identify credible sources and trusted experts. This issue is exacerbated by biased or misleading content, which can quickly spread through social media and other online platforms. As a result, there is a growing need for a reliable tool that can help users find and verify expert opinions on various topics. Our project aims to address this problem by developing an intuitive expert search tool that leverages Large Language Models (LLMs) to identify and rank credible experts based on their online presence and contributions.
 
-## Expert finder system using LinkedIn and Google Scholar data and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system uses RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
+Expert finder system using LinkedIn and Google Scholar data and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system uses RAG (Retrieval-Augmented Generation) for effective expert search and ranking.
 
 ### Key Features
 - Multi-source expert data collection
