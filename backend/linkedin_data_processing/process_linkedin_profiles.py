@@ -773,6 +773,14 @@ def create_profile_text(profile):
     if 'skills' in profile and profile['skills']:
         sections.append("Skills: " + ", ".join(profile['skills']))
     
+    # Languages
+    if 'languages' in profile and profile['languages']:
+        lang_texts = []
+        for lang in profile['languages']:
+            lang_text = f"{lang.get('name')} ({lang.get('proficiency', '')})"
+            lang_texts.append(lang_text)
+        sections.append("Languages: " + ", ".join(lang_texts))
+    
     # Publications
     if 'publications' in profile and profile['publications']:
         pub_texts = []
@@ -895,16 +903,17 @@ def demo_search(query, filters=None, top_k=5, chroma_dir="chroma_db"):
     print(f"Searching for: '{query}'")
     if filters:
         print(f"With filters: {filters}")
-    
+
     results = search_profiles_demo(query, filters, top_k, chroma_dir)
-    
+
     print(f"\nFound {len(results)} matching profiles:")
-    for result in results:
+    for i, result in enumerate(results):
+        # Add rank if not present
+        if 'rank' not in result:
+            result['rank'] = i + 1
         print(f"\n{result['rank']}. {result['name']} ({result['similarity']:.2f})")
-        print(f"   {result['current_title']} at {result['current_company']}")
-        print(f"   Location: {result['location']}")
-        print(f"   Industry: {result['industry']}")
-        print(f"   Summary: {result['profile_summary'][:150]}...")
+    
+    return results
 
 def get_metadata_values(field_name, chroma_dir="chroma_db"):
     """

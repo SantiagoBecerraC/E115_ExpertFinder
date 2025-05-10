@@ -68,7 +68,7 @@ class EducationMetric(CredibilityMetric):
                 return 3.0
             elif 'master' in level:
                 return 2.0
-            elif 'bachelor' in level:
+            elif 'bachelor' in level or 'bs ' in level or 'bs in' in level:
                 return 1.0
             return 0.0
         
@@ -79,7 +79,7 @@ class EducationMetric(CredibilityMetric):
                 return 3.0
             elif 'master' in degree:
                 return 2.0
-            elif 'bachelor' in degree:
+            elif 'bachelor' in degree or 'bs ' in degree or 'bs in' in degree:
                 return 1.0
             return 0.0
         
@@ -93,7 +93,7 @@ class EducationMetric(CredibilityMetric):
                         highest_score = max(highest_score, 3.0)
                     elif 'master' in degree:
                         highest_score = max(highest_score, 2.0)
-                    elif 'bachelor' in degree:
+                    elif 'bachelor' in degree or 'bs ' in degree or 'bs in' in degree:
                         highest_score = max(highest_score, 1.0)
         
         return highest_score

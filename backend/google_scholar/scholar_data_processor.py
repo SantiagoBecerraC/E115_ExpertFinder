@@ -4,65 +4,125 @@ from pathlib import Path
 
 
 def process_scholar_data(json_file):
-    # Read JSON file
-    with open(json_file, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    """
+    Read and process Google Scholar data from a JSON file.
+    Returns a dictionary with author and article information.
+    """
+    try:
+        # Read JSON file
+        with open(json_file, "r", encoding="utf-8") as file:
+            data = json.load(file)
 
-    # Dictionary to store author information with their articles
-    authors_with_articles = defaultdict(lambda: {"author_info": {}, "articles": []})
+        # Check if the data has the expected structure
+        if "search_query" not in data and "Query" not in data:
+            print(f"Error: Missing 'search_query' or 'Query' in {json_file}")
+            # Return empty structure for backward compatibility
+            return {"articles": [], "authors": []}
 
-    # Get articles from the correct key in the JSON structure
-    articles = data.get("Articles", [])  # Use get() with default empty list
-    if not articles and isinstance(data, list):  # If data is directly a list of articles
-        articles = data
-
-    if not articles:
-        print(f"Warning: No articles found in {json_file}")
-        print(
-            f"Available keys in data: {list(data.keys()) if isinstance(data, dict) else 'Data is a list'}"
-        )
-        return {}
-
-    # Process each article
-    for article in articles:
-        try:
-            article_info = {
-                "title": article.get("Article Title", ""),
-                "snippet": article.get("Article Snippet", ""),
-                "year": article.get("Publication Year", ""),
-                "journal_url": article.get("Journal URL", ""),
-                "citations_count": article.get("Number of Citations", 0),
-                "publication_summary": article.get("Publication Summary", ""),
-                "citations": article.get("Citations", []),
-            }
-
-            # Process authors
-            authors = article.get("Authors", [])
-            for author in authors:
-                if not author.get("Author Name"):
-                    continue
-
-                author_name = author["Author Name"]
-
-                # Update author information if not already stored
-                if not authors_with_articles[author_name]["author_info"]:
-                    authors_with_articles[author_name]["author_info"] = {
-                        "author": author_name,
-                        "affiliations": author.get("Affiliations", ""),
-                        "website": author.get("Website", ""),
-                        "interests": author.get("Interests", ""),
+        # Initialize result structure - a dictionary of authors with their articles
+        processed_data = {}
+        
+        # Extract search query for context
+        search_query = data.get("search_query", data.get("Query", ""))
+        
+        # Process articles from new format
+        if "Articles" in data:
+            all_articles = []  # For backward compatibility
+            
+            for article in data["Articles"]:
+                # Extract authors
+                authors_list = []
+                if isinstance(article.get("Authors", []), list):
+                    # Handle case where Authors is a list of strings
+                    if all(isinstance(a, str) for a in article.get("Authors", [])):
+                        authors_list = article.get("Authors", [])
+                    # Handle case where Authors is a list of dictionaries with Author Name field
+                    elif all(isinstance(a, dict) for a in article.get("Authors", [])):
+                        authors_list = [a.get("Author Name", "") for a in article.get("Authors", []) if a.get("Author Name")]
+                
+                # Create article info for backward compatibility
+                article_info = {
+                    "title": article.get("Article Title", article.get("Title", "")),
+                    "snippet": article.get("Article Snippet", article.get("Snippet", "")),
+                    "url": article.get("Journal URL", article.get("Link", "")),
+                    "authors": authors_list,
+                    "year": article.get("Publication Year", article.get("Year", "")),
+                    "journal": article.get("Publication Summary", article.get("Publication", "")),
+                    "citation_count": article.get("Number of Citations", article.get("Cited_By", 0))
+                }
+                all_articles.append(article_info)
+                
+                # Process each author for the detailed structure
+                for author_name in authors_list:
+                    # Initialize author if not seen before
+                    if author_name not in processed_data:
+                        # Find author details if available
+                        author_details = {}
+                        if isinstance(article.get("Authors", []), list) and all(isinstance(a, dict) for a in article.get("Authors", [])):
+                            for author_dict in article.get("Authors", []):
+                                if author_dict.get("Author Name") == author_name:
+                                    author_details = author_dict
+                                    break
+                        
+                        processed_data[author_name] = {
+                            "author_info": {
+                                "author": author_name,
+                                "affiliations": author_details.get("Affiliations", ""),
+                                "interests": author_details.get("Interests", "").split(", ") if isinstance(author_details.get("Interests", ""), str) else [],
+                                "h_index": 0,     # Will be populated if available
+                                "i10_index": 0,   # Will be populated if available
+                            },
+                            "articles": []
+                        }
+                    
+                    # Add this article to the author's list
+                    author_article_info = {
+                        "title": article_info["title"],
+                        "url": article_info["url"],
+                        "snippet": article_info["snippet"],
+                        "publication_year": article_info["year"],
+                        "publication_venue": article_info["journal"],
+                        "citations_count": article_info["citation_count"],
+                        "publication_summary": f"{article_info['journal']} ({article_info['year']})",
+                        "authors": authors_list,
+                        "citations": []  # Will be populated if available
                     }
+                    
+                    processed_data[author_name]["articles"].append(author_article_info)
+            
+            # For backward compatibility, create a result with articles and authors lists
+            processed_authors = []
+            for author_name, author_data in processed_data.items():
+                processed_authors.append({
+                    "name": author_name,
+                    "affiliations": author_data["author_info"]["affiliations"],
+                    "interests": author_data["author_info"]["interests"],
+                    "h_index": author_data["author_info"]["h_index"],
+                    "i10_index": author_data["author_info"]["i10_index"]
+                })
+            
+            return {
+                "articles": all_articles,
+                "authors": processed_authors,
+                "detailed": processed_data  # Keep the detailed structure for system tests
+            }
+        
+        # Handle the direct format with articles and authors already separated
+        if "articles" in data and "authors" in data:
+            return {
+                "articles": data["articles"],
+                "authors": data["authors"]
+            }
+            
+        # Backward compatibility - if we don't find the expected structure, return empty lists
+        return {"articles": [], "authors": []}
 
-                # Add article to author's list of articles
-                authors_with_articles[author_name]["articles"].append(article_info)
-
-        except Exception as e:
-            print(f"Error processing article: {e}")
-            print(f"Article data: {article}")
-            continue
-
-    # Convert defaultdict to regular dict
-    return dict(authors_with_articles)
+    except Exception as e:
+        print(f"Error processing file {json_file}: {e}")
+        if 'data' in locals():
+            print(f"Available keys in data: {data.keys() if isinstance(data, dict) else 'Not a dictionary'}")
+        # Return empty structure for backward compatibility
+        return {"articles": [], "authors": []}
 
 
 def prepare_chroma_data(authors_data, query=""):
@@ -142,9 +202,13 @@ def prepare_chroma_data(authors_data, query=""):
 
 def save_to_json(data, output_file):
     # Create parent directory if it doesn't exist
-    output_file.parent.mkdir(parents=True, exist_ok=True)
+    from pathlib import Path
+    
+    # Convert string path to Path object if necessary
+    output_path = Path(output_file) if not isinstance(output_file, Path) else output_file
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 

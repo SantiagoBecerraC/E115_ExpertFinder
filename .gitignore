@@ -18,6 +18,7 @@ secrets/
 
 # Python
 __pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 *.so
@@ -66,7 +67,12 @@ ENV/
 reports/
 coverage-report/
 .coverage
+.coverage.*
+coverage.xml
+coverage.json
 htmlcov/
+.pytest_cache/
+**/.pytest_cache/
 
 # Local test code
 get_profiles.py

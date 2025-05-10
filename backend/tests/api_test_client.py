@@ -210,6 +210,21 @@ class CompatibleTestClient:
             Response object with status_code and json method
         """
         if self.use_mocks:
+            # Check if a specific variant is requested through environment variable
+            variant = os.environ.get("CURRENT_MOCK_VARIANT")
+            if variant:
+                key = ("GET", url, variant)
+                if key in self.responses:
+                    return self._create_response_obj(self.responses[key])
+                
+                # Try with base URL without query params
+                base_url = url.split("?")[0]
+                if base_url != url:
+                    key = ("GET", base_url, variant)
+                    if key in self.responses:
+                        return self._create_response_obj(self.responses[key])
+            
+            # Default lookup
             key = ("GET", url)
             if key in self.responses:
                 return self._create_response_obj(self.responses[key])
@@ -234,6 +249,18 @@ class CompatibleTestClient:
         if self.use_mocks:
             # Special case handling for urls with query parameters
             base_url = url.split("?")[0]
+            
+            # Check if a specific variant is requested through environment variable
+            variant = os.environ.get("CURRENT_MOCK_VARIANT")
+            if variant:
+                key = ("POST", url, variant)
+                if key in self.responses:
+                    return self._create_response_obj(self.responses[key])
+                
+                # Try with base_url if not found with full URL
+                key = ("POST", base_url, variant)
+                if key in self.responses:
+                    return self._create_response_obj(self.responses[key])
             
             # Handle specific cases where we need special mock responses
             if url == "/linkedin_search" and json and "query" in json and json["query"] == "":

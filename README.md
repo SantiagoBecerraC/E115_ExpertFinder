@@ -1,5 +1,9 @@
 # ExpertFinder - Milestone 4
 
+[![Tests](https://github.com/USERNAME/ExpertFinder/actions/workflows/pytest.yml/badge.svg)](https://github.com/USERNAME/ExpertFinder/actions/workflows/pytest.yml)
+[![CI](https://github.com/USERNAME/ExpertFinder/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/ExpertFinder/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/USERNAME/ExpertFinder/branch/main/graph/badge.svg)](https://codecov.io/gh/USERNAME/ExpertFinder)
+
 # Team Members - Jinyu Han, Santiago Becerra Cordoba, Umapathy (Umy) Bhakthavatsulu
 
 Expert finder system using LinkedIn and Google Scholar data and advanced LLM techniques to process user queries and identify relevant experts across multiple domains. The system uses RAG (Retrieval-Augmented Generation) for effective expert search and ranking.

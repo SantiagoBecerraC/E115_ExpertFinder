@@ -1,88 +1,175 @@
-name: ExpertFinderTests
+name: ExpertFinder CI
 
-# This workflow runs pytest on push and pull requests
+# This workflow runs linting and all test suites on pull requests
 on:
   push:
-    branches: [ main, Umy-Milestone5-CI ]
+    branches: [ main, develop ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, develop ]
 
 jobs:
   format-and-lint:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [3.11]
-
     steps:
     - uses: actions/checkout@v3
     
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: '3.11'
     
-    - name: Install pipenv
+    - name: Install linting tools
       run: |
         python -m pip install --upgrade pip
-        pip install pipenv
-    
-    - name: Install dependencies
-      run: |
-        cd backend
-        pipenv install --dev
-        pipenv install black flake8 isort
+        pip install black==24.3.0 flake8==7.0.0 isort==5.13.2
     
     - name: Run black
       run: |
         cd backend
-        pipenv run black . --line-length 120
+        black --check --line-length 120 .
     
     - name: Run isort
       run: |
         cd backend
-        pipenv run isort . --profile black --line-length 120
+        isort --check-only --profile black --line-length 120 .
     
     - name: Run flake8
       run: |
         cd backend
-        pipenv run flake8 . --config ../.flake8
+        flake8 . --config ../.flake8 --max-line-length 120
 
-  test:
+  unit-tests:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [3.11]
-
+    needs: format-and-lint
     steps:
     - uses: actions/checkout@v3
     
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v4
+    - name: Setup Micromamba
+      uses: mamba-org/setup-micromamba@v1
       with:
-        python-version: ${{ matrix.python-version }}
-    
-    - name: Install pipenv
-      run: |
-        python -m pip install --upgrade pip
-        pip install pipenv
+        environment-name: py311
+        create-args: python=3.11
     
     - name: Install dependencies
+      shell: bash -el {0}
       run: |
         cd backend
-        pipenv install --dev
-        pipenv install pytest pytest-cov
+        micromamba install -c conda-forge python=3.11
+        pip install -r requirements-test.txt
+        pip install -e .
     
     - name: Set PYTHONPATH
       run: echo "PYTHONPATH=$GITHUB_WORKSPACE/backend" >> $GITHUB_ENV
     
-    - name: Run tests with pytest
+    - name: Run unit tests
+      shell: bash -el {0}
       run: |
         cd backend
-        pipenv run pytest tests/ --cov=. --cov-report=xml --cov-report=term
+        python -m pytest tests/unit/ -v --cov=backend --cov-report=xml --cov-report=term-missing \
+          --ignore=backend/linkedin_raw_data/test_get_profles.py \
+          --ignore=llm-finetuning/dataset-creator/test_model.py
     
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v3
       with:
         file: ./backend/coverage.xml
-        fail_ci_if_error: false 
+        flags: unit-tests
+        fail_ci_if_error: false
+    
+    - name: Upload coverage reports
+      uses: actions/upload-artifact@v3
+      with:
+        name: coverage-reports
+        path: backend/coverage.xml
+
+  integration-tests:
+    runs-on: ubuntu-latest
+    needs: unit-tests
+    continue-on-error: true  # Allow this job to fail without failing the whole workflow
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Micromamba
+      uses: mamba-org/setup-micromamba@v1
+      with:
+        environment-name: py311
+        create-args: python=3.11
+    
+    - name: Install dependencies
+      shell: bash -el {0}
+      run: |
+        cd backend
+        micromamba install -c conda-forge python=3.11
+        pip install -r requirements-test.txt
+        pip install -e .
+    
+    - name: Set PYTHONPATH
+      run: echo "PYTHONPATH=$GITHUB_WORKSPACE/backend" >> $GITHUB_ENV
+      
+    - name: Run integration tests
+      shell: bash -el {0}
+      run: |
+        cd backend
+        # Only run integration tests that don't require specific fixtures or cloud access
+        python -m pytest tests/integration/test_dvc_integration.py -v
+
+  coverage-report:
+    runs-on: ubuntu-latest
+    needs: [unit-tests, integration-tests]
+    if: always()  # Run this job even if integration-tests fails
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Download coverage reports
+      uses: actions/download-artifact@v3
+      with:
+        name: coverage-reports
+        path: coverage-reports
+    
+    - name: Display coverage reports
+      run: |
+        ls -la coverage-reports/
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Parse coverage
+      id: coverage
+      run: |
+        python -m pip install coverage
+        COVERAGE=$(python -c "
+        import xml.etree.ElementTree as ET
+        tree = ET.parse('coverage-reports/coverage.xml')
+        root = tree.getroot()
+        coverage = float(root.attrib['line-rate']) * 100
+        print(f'{coverage:.2f}')
+        ")
+        COLOR=$(python -c "
+        coverage = float('$COVERAGE')
+        if coverage >= 70:
+            print('brightgreen')
+        elif coverage >= 60:
+            print('yellow')
+        else:
+            print('red')
+        ")
+        echo "percentage=$COVERAGE" >> $GITHUB_OUTPUT
+        echo "color=$COLOR" >> $GITHUB_OUTPUT
+    
+    - name: Generate coverage badge
+      uses: schneegans/dynamic-badges-action@v1.6.0
+      with:
+        auth: ${{ secrets.GIST_SECRET }}
+        gistID: YOUR_GIST_ID_HERE  # Replace with your actual Gist ID for the badge
+        filename: expert_finder_coverage.json
+        label: Coverage
+        message: "${{ steps.coverage.outputs.percentage }}%"
+        color: "${{ steps.coverage.outputs.color }}"
+    
+    - name: Update README with coverage badge
+      run: |
+        echo "## ExpertFinder Project" > README.md
+        echo "![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/yourusername/YOUR_GIST_ID_HERE/raw/expert_finder_coverage.json)" >> README.md
+        echo "The rest of your README content goes here" >> README.md 

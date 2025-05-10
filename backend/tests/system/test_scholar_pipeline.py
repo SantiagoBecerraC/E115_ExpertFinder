@@ -38,6 +38,10 @@ class TestGoogleScholarPipeline:
             
         # Create a restricted version with fewer articles
         limited_data = data.copy()
+        
+        # Add search_query field which is required by process_scholar_data
+        limited_data["search_query"] = data.get("Query", "semaglutide")
+        
         if "Articles" in limited_data and len(limited_data["Articles"]) > 2:
             limited_data["Articles"] = limited_data["Articles"][:2]  # Keep only first 2 articles
             limited_data["Results_Fetched"] = len(limited_data["Articles"])

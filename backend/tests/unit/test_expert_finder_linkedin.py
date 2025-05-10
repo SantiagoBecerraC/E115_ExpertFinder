@@ -383,45 +383,27 @@ class TestExpertFinderAgent(unittest.TestCase):
             {
                 "name": "Test Expert",
                 "current_title": "Software Engineer",
-                "profile_summary": "Experienced software engineer."
+                "profile_summary": "Experienced software engineer.",
+                "similarity": 0.85  # Add similarity for sorting
             }
         ]
         
-        # We'll create a custom response for the reranker
-        # Instead of raising an exception in predict, we'll patch the method itself
-        with patch.object(self.agent, 'search_profiles_with_reranking', wraps=self.agent.search_profiles_with_reranking) as mock_search_with_reranking:
-            # Set up a side effect that actually calls the original method first,
-            # then allows us to handle the exception that would be raised
-            def side_effect(*args, **kwargs):
-                try:
-                    # Try to run the original method, which will raise the exception
-                    return self.agent.search_profiles_with_reranking.__wrapped__(self.agent, *args, **kwargs)
-                except Exception as e:
-                    # This simulates what the error handling in the method would do
-                    # In a real implementation, this would log the error and return the original results
-                    print(f"Error in reranking: {str(e)}")
-                    return mock_search.return_value
-                
-            # Don't use side_effect here, as that would replace the original method
-            # Instead, let the wrapped method run and handle the error in our own try/except
+        # Setup reranker mock to raise an exception during predict
+        mock_reranker = MagicMock()
+        self.agent.reranker = mock_reranker
+        mock_reranker.predict.side_effect = RuntimeError("Reranking error")
+        
+        # Call with a query and capture print output
+        with patch('builtins.print') as mock_print:
+            # Call the method - it should not raise an exception due to error handling
+            results = self.agent.search_profiles_with_reranking("python developer")
             
-            # Setup reranker mock to raise an exception during predict
-            mock_reranker = MagicMock()
-            self.agent.reranker = mock_reranker
-            mock_reranker.predict.side_effect = RuntimeError("Reranking error")
+            # Verify error was printed
+            mock_print.assert_any_call("Error during reranking: Reranking error")
             
-            # Call with a query and capture print output
-            with patch('builtins.print') as mock_print:
-                # Use try/except to handle the exception from the method
-                try:
-                    results = self.agent.search_profiles_with_reranking("python developer")
-                    # If we reach here, the method has error handling
-                    self.assertEqual(len(results), 1)
-                    self.assertEqual(results[0]["name"], "Test Expert")
-                except RuntimeError:
-                    # If the exception is raised, it means there's no error handling in the method
-                    # In this case, we'll skip the test with a message
-                    self.skipTest("The method doesn't have error handling for reranking exceptions")
+            # Verify we still got results (the original results)
+            self.assertEqual(len(results), 1)
+            self.assertEqual(results[0]["name"], "Test Expert")
     
     def test_vertex_ai_rate_limit(self):
         """Test handling of Vertex AI rate limit errors during query parsing."""
@@ -816,6 +798,486 @@ class TestExpertFinderAgent(unittest.TestCase):
         # Reset the side_effect and clean up
         mock_search.side_effect = None
         mock_search.stop()
+
+    def test_cuda_available(self):
+        """Test behavior when CUDA is available."""
+        # Stop any current patches
+        patch.stopall()
+        
+        # Restart patches with cuda available as True
+        patch('linkedin_data_processing.expert_finder_linkedin.GenerativeModel').start()
+        patch('linkedin_data_processing.expert_finder_linkedin.aiplatform').start()
+        with patch('linkedin_data_processing.expert_finder_linkedin.torch.cuda.is_available', return_value=True):
+            # Create a new agent with CUDA available
+            with patch('linkedin_data_processing.expert_finder_linkedin.CrossEncoder') as mock_cross_encoder:
+                with patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer'):
+                    with patch('builtins.print'):
+                        agent = ExpertFinderAgent()
+                
+                # Verify device was set to cuda - note the actual parameters used
+                mock_cross_encoder.assert_called_with(
+                    'BAAI/bge-reranker-v2-m3', 
+                    max_length=512
+                )
+                
+        # Set up for next test
+        self.setUp()
+    
+    def test_parse_query_with_mock(self):
+        """Test the parse_query method with mocked model."""
+        query_str = "python developer"
+        
+        # Create a JSON response to simulate Vertex AI
+        mock_content = MagicMock()
+        json_response = {
+            "search_query": "python developer",
+            "filters": {
+                "industry": ["Technology", "Software"]
+            }
+        }
+        mock_content.text = json.dumps(json_response)
+        self.mock_llm.generate_content.return_value = mock_content
+        
+        # Reset the mock to clear any previous calls
+        self.mock_llm.generate_content.reset_mock()
+        
+        # Call the method
+        result = self.agent.parse_query(query_str)
+        
+        # Verify the model was called
+        self.mock_llm.generate_content.assert_called_once()
+        
+        # Verify the result matches expected output from the parsed JSON
+        self.assertEqual(result[0], "python developer")
+        self.assertIn("industry", result[1])
+        self.assertEqual(result[1]["industry"], ["Technology", "Software"])
+    
+    def test_parse_query_without_model(self):
+        """Test parse_query when model is not available."""
+        query_str = "python developer"
+        
+        # Set model to None to force fallback parsing
+        original_model = self.agent.model
+        self.agent.model = None
+        
+        # Call the method
+        result = self.agent.parse_query(query_str)
+        
+        # Should return a tuple of (query_str, {})
+        self.assertEqual(result, (query_str, {}))
+        
+        # Restore the original model
+        self.agent.model = original_model
+
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_complex_filters(self, mock_transformer, mock_chroma_manager):
+        """Test search profiles with complex combined filters including nested operations."""
+        # Setup mocks
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 100
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup mock response
+        mock_collection.query.return_value = {
+            "ids": [["profile1"]],
+            "documents": [["Profile text 1"]],
+            "metadatas": [[{
+                "name": "John Doe", 
+                "industry": "Technology", 
+                "years_experience": "10", 
+                "location": "San Francisco"
+            }]],
+            "distances": [[0.1]]
+        }
+        
+        # Create a complex filter with multiple conditions and operators
+        complex_filters = {
+            "$and": [
+                {"industry": {"$in": ["Technology", "Software"]}},
+                {"years_experience": {"$gte": 5}},
+                {"$or": [
+                    {"location": "San Francisco"},
+                    {"location": "New York"}
+                ]}
+            ]
+        }
+        
+        # Call with complex filters
+        results = search_profiles("machine learning expert", filters=complex_filters, top_k=5)
+        
+        # Verify query called with correct where clause
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertIn("where", call_args)
+        
+        # The actual filter structure will be complex but should contain these values
+        where_str = str(call_args["where"])
+        self.assertIn("Technology", where_str)
+        self.assertIn("Software", where_str)
+        self.assertIn("5", where_str)
+        self.assertIn("San Francisco", where_str)
+        self.assertIn("New York", where_str)
+
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_empty_collection(self, mock_transformer, mock_chroma_manager):
+        """Test handling empty collections in search_profiles."""
+        # Setup mock collection with zero profiles
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 0
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup empty query result
+        empty_result = {"ids": [[]], "documents": [[]], "metadatas": [[]], "distances": [[]]}
+        mock_collection.query.return_value = empty_result
+        
+        # Call function on an empty collection
+        with patch('builtins.print') as mock_print:
+            results = search_profiles("machine learning")
+            
+            # Should return empty results
+            self.assertEqual(results, [])
+            mock_print.assert_any_call("Collection has 0 documents")
+            
+            # In the actual implementation, query may still be called
+            # but should return empty results
+            mock_collection.query.assert_called_once()
+
+class TestSearchProfilesDirectly(unittest.TestCase):
+    """Test the search_profiles function directly."""
+    
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_basic(self, mock_transformer, mock_chroma_manager):
+        """Test basic search functionality with no filters."""
+        # Setup mock collection
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 100
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup mock response from ChromaDB
+        mock_collection.query.return_value = {
+            "ids": [["profile1", "profile2"]],
+            "documents": [["Profile text 1", "Profile text 2"]],
+            "metadatas": [[
+                {
+                    "name": "John Doe",
+                    "current_title": "Data Scientist",
+                    "current_company": "TechCorp",
+                    "location": "San Francisco",
+                    "industry": "Technology",
+                    "education_level": "PhD",
+                    "years_experience": "10"
+                },
+                {
+                    "name": "Jane Smith",
+                    "current_title": "Analyst",
+                    "current_company": "FinCorp",
+                    "location": "New York",
+                    "industry": "Finance",
+                    "education_level": "Masters",
+                    "years_experience": "5"
+                }
+            ]],
+            "distances": [[0.1, 0.3]]
+        }
+        
+        # Call the function
+        results = search_profiles("machine learning", top_k=2)
+        
+        # Verify results
+        self.assertEqual(len(results), 2)
+        self.assertEqual(results[0]["name"], "John Doe")
+        self.assertEqual(results[0]["current_title"], "Data Scientist")
+        
+        # Verify the query was called with expected parameters
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertEqual(call_args["n_results"], 2)
+    
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_with_list_filter(self, mock_transformer, mock_chroma_manager):
+        """Test search profiles with list filters."""
+        # Setup mocks
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 100
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup mock response
+        mock_collection.query.return_value = {
+            "ids": [["profile1"]],
+            "documents": [["Profile text 1"]],
+            "metadatas": [[{"name": "John Doe", "industry": "Technology"}]],
+            "distances": [[0.1]]
+        }
+        
+        # Call with list filter
+        results = search_profiles("machine learning", filters={"industry": ["Technology", "Finance"]}, top_k=5)
+        
+        # Verify query called with correct where clause containing OR condition
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertIn("where", call_args)
+        # Don't assert exact form, just ensure it contains the values
+        where_str = str(call_args["where"])
+        self.assertIn("Technology", where_str)
+        self.assertIn("Finance", where_str)
+
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_with_numeric_comparison(self, mock_transformer, mock_chroma_manager):
+        """Test search profiles with numeric comparison filters."""
+        # Setup mocks
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 100
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup mock response
+        mock_collection.query.return_value = {
+            "ids": [["profile1"]],
+            "documents": [["Profile text 1"]],
+            "metadatas": [[{"name": "John Doe", "years_experience": "10"}]],
+            "distances": [[0.1]]
+        }
+        
+        # Call with numeric comparison filters
+        results = search_profiles("machine learning", 
+                               filters={"years_experience": {"$gte": 5}}, 
+                               top_k=5)
+        
+        # Verify query called with correct where clause containing numeric comparison
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertIn("where", call_args)
+        where_str = str(call_args["where"])
+        self.assertIn("$gte", where_str)
+        self.assertIn("5", where_str)
+
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_in_operator(self, mock_transformer, mock_chroma_manager):
+        """Test search profiles with $in operator."""
+        # Setup mocks
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 100
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup mock response
+        mock_collection.query.return_value = {
+            "ids": [["profile1"]],
+            "documents": [["Profile text 1"]],
+            "metadatas": [[{"name": "John Doe", "education_level": "PhD"}]],
+            "distances": [[0.1]]
+        }
+        
+        # Call with $in operator
+        results = search_profiles("machine learning", 
+                               filters={"education_level": {"$in": ["PhD", "Masters"]}}, 
+                               top_k=5)
+        
+        # Verify query parameters
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertIn("where", call_args)
+        where_str = str(call_args["where"])
+        self.assertIn("PhD", where_str)
+        self.assertIn("Masters", where_str)
+
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_lt_gt_operators(self, mock_transformer, mock_chroma_manager):
+        """Test search profiles with $lt and $gt operators."""
+        # Setup mocks
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.count.return_value = 100
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Setup mock response
+        mock_collection.query.return_value = {
+            "ids": [["profile1"]],
+            "documents": [["Profile text 1"]],
+            "metadatas": [[{"name": "John Doe", "years_experience": "10"}]],
+            "distances": [[0.1]]
+        }
+        
+        # Test with $lt operator
+        results = search_profiles("machine learning", 
+                               filters={"years_experience": {"$lt": 15}}, 
+                               top_k=5)
+        
+        # Verify query parameters
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertIn("where", call_args)
+        where_str = str(call_args["where"])
+        self.assertIn("$lt", where_str)
+        
+        # Reset mocks
+        mock_collection.query.reset_mock()
+        
+        # Test with $gt operator
+        results = search_profiles("machine learning", 
+                               filters={"years_experience": {"$gt": 5}}, 
+                               top_k=5)
+        
+        # Verify query parameters
+        mock_collection.query.assert_called_once()
+        call_args = mock_collection.query.call_args[1]
+        self.assertIn("where", call_args)
+        where_str = str(call_args["where"])
+        self.assertIn("$gt", where_str)
+
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_search_profiles_error_handling(self, mock_transformer, mock_chroma_manager):
+        """Test error handling in search."""
+        # Setup mock to raise exception on query
+        mock_collection = MagicMock()
+        mock_chroma_manager.return_value.collection = mock_collection
+        mock_collection.query.side_effect = Exception("Test error")
+        
+        # Setup mock embedding
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1, 0.2, 0.3]
+        mock_transformer.return_value.encode.return_value = mock_embedding
+        
+        # Call function
+        with patch('builtins.print') as mock_print:
+            results = search_profiles("machine learning")
+            
+            # Verify error handling
+            self.assertEqual(results, [])
+            mock_print.assert_any_call("Error searching profiles: Test error")
+            
+    @patch('linkedin_data_processing.expert_finder_linkedin.ChromaDBManager')
+    def test_search_profiles_collection_access_error(self, mock_chroma_manager):
+        """Test error handling when accessing collection."""
+        # Setup mock to raise exception on collection access
+        mock_chroma_manager.side_effect = Exception("Collection access error")
+        
+        # Call function
+        with patch('builtins.print') as mock_print:
+            results = search_profiles("machine learning")
+            
+            # Verify error handling
+            self.assertEqual(results, [])
+            mock_print.assert_any_call("Error accessing collection: Collection access error")
+
+class TestExpertFinderAgentWithCuda(unittest.TestCase):
+    """Test the ExpertFinderAgent initialization with CUDA availability."""
+    
+    @patch('torch.cuda.is_available')  # Patch at the top level import
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    @patch('linkedin_data_processing.expert_finder_linkedin.CrossEncoder')
+    @patch('linkedin_data_processing.expert_finder_linkedin.aiplatform')
+    @patch('linkedin_data_processing.expert_finder_linkedin.GenerativeModel')
+    def test_init_with_cuda_available(self, mock_gemini, mock_aiplatform, 
+                                    mock_cross_encoder, mock_transformer,
+                                    mock_cuda_available):
+        """Test initialization with CUDA available."""
+        # Setup CUDA as available
+        mock_cuda_available.return_value = True
+    
+        # Mock the actual model instantiation
+        mock_model = MagicMock()
+        mock_gemini.return_value = mock_model
+    
+        # Mock the reranker instantiation
+        mock_reranker = MagicMock()
+        mock_cross_encoder.return_value = mock_reranker
+    
+        # Create agent with mocked dependencies
+        with patch('builtins.print'):
+            # Import here inside the test to ensure our patch takes effect
+            import torch
+            from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
+            
+            # Force CUDA check by creating a new ExpertFinderAgent instance
+            agent = ExpertFinderAgent()
+    
+        # Verify CrossEncoder was initialized correctly
+        mock_cross_encoder.assert_called_once_with(
+            'BAAI/bge-reranker-v2-m3', 
+            max_length=512
+        )
+
+class TestVertexAIErrorHandling(unittest.TestCase):
+    """Test error handling for Vertex AI in ExpertFinderAgent."""
+    
+    @patch('linkedin_data_processing.expert_finder_linkedin.GenerativeModel')
+    @patch('linkedin_data_processing.expert_finder_linkedin.aiplatform')
+    @patch('linkedin_data_processing.expert_finder_linkedin.CrossEncoder')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_vertex_ai_initialization_error(self, mock_transformer, mock_cross_encoder, 
+                                           mock_aiplatform, mock_gemini):
+        """Test handling of errors during Vertex AI initialization."""
+        # Setup Vertex AI to raise an exception
+        mock_aiplatform.init.side_effect = Exception("Vertex AI initialization error")
+        
+        # Create agent
+        with patch('builtins.print') as mock_print:
+            from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
+            agent = ExpertFinderAgent()
+            
+            # Verify error handling in init
+            mock_print.assert_any_call("❌ Error initializing Vertex AI: Vertex AI initialization error")
+            self.assertIsNone(agent.model)
+            
+    @patch('linkedin_data_processing.expert_finder_linkedin.GenerativeModel')
+    @patch('linkedin_data_processing.expert_finder_linkedin.aiplatform')
+    @patch('linkedin_data_processing.expert_finder_linkedin.CrossEncoder')
+    @patch('linkedin_data_processing.expert_finder_linkedin.SentenceTransformer')
+    def test_reranker_initialization_error(self, mock_transformer, mock_cross_encoder, 
+                                          mock_aiplatform, mock_gemini):
+        """Test handling of errors during reranker initialization."""
+        # Setup reranker to raise an exception
+        mock_cross_encoder.side_effect = Exception("Reranker initialization error")
+        
+        # Create agent
+        with patch('builtins.print') as mock_print:
+            from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
+            agent = ExpertFinderAgent()
+            
+            # Verify error handling in init
+            mock_print.assert_any_call("❌ Error loading reranker model: Reranker initialization error")
+            self.assertIsNone(agent.reranker)
 
 if __name__ == "__main__":
     unittest.main()

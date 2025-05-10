@@ -348,40 +348,50 @@ class ExpertFinderAgent:
         Returns:
             list: Reranked matching profiles with similarity scores
         """
-        # Get initial results from ChromaDB
-        initial_results = search_profiles(query, filters, initial_k, self.chroma_dir)
-        
-        if not initial_results:
+        try:
+            # Get initial results from ChromaDB
+            initial_results = search_profiles(query, filters, initial_k, self.chroma_dir)
+            
+            if not initial_results:
+                return []
+            
+            if not self.reranker:
+                # If reranker is not available, just return the top final_k results
+                return initial_results[:final_k]
+            
+            print(f"Reranking {len(initial_results)} initial results...")
+            
+            try:
+                # Prepare pairs for reranking
+                pairs = []
+                for result in initial_results:
+                    # Create a pair of query and profile text
+                    pairs.append([query, result['profile_summary']])
+                
+                # Get scores from the reranker
+                scores = self.reranker.predict(pairs)
+                
+                # Add reranker scores to the results
+                for i, result in enumerate(initial_results):
+                    result['rerank_score'] = float(scores[i])
+                
+                # Sort by reranker score (descending)
+                reranked_results = sorted(initial_results, key=lambda x: x['rerank_score'], reverse=True)
+                
+                # Update ranks
+                for i, result in enumerate(reranked_results):
+                    result['rank'] = i + 1
+                
+                # Return the top final_k results
+                return reranked_results[:final_k]
+            except Exception as e:
+                print(f"Error during reranking: {str(e)}")
+                # If reranking fails, return the original results sorted by similarity
+                return sorted(initial_results, key=lambda x: x['similarity'], reverse=True)[:final_k]
+                
+        except Exception as e:
+            print(f"Error in search_profiles_with_reranking: {str(e)}")
             return []
-        
-        if not self.reranker:
-            # If reranker is not available, just return the top final_k results
-            return initial_results[:final_k]
-        
-        print(f"Reranking {len(initial_results)} initial results...")
-        
-        # Prepare pairs for reranking
-        pairs = []
-        for result in initial_results:
-            # Create a pair of query and profile text
-            pairs.append([query, result['profile_summary']])
-        
-        # Get scores from the reranker
-        scores = self.reranker.predict(pairs)
-        
-        # Add reranker scores to the results
-        for i, result in enumerate(initial_results):
-            result['rerank_score'] = float(scores[i])
-        
-        # Sort by reranker score (descending)
-        reranked_results = sorted(initial_results, key=lambda x: x['rerank_score'], reverse=True)
-        
-        # Update ranks
-        for i, result in enumerate(reranked_results):
-            result['rank'] = i + 1
-        
-        # Return the top final_k results
-        return reranked_results[:final_k]
     
     def generate_response(self, user_query, search_results):
         """

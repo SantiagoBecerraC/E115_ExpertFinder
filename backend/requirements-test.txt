@@ -1,0 +1,38 @@
+# Testing dependencies
+pytest==8.3.5
+pytest-cov==6.1.1
+pytest-mock==3.14.0
+pytest-asyncio==0.26.0
+
+# Application dependencies
+chromadb==1.0.8
+sentence-transformers==4.1.0
+google-cloud-storage==2.19.0
+fastapi==0.103.1
+uvicorn==0.34.2
+langchain==0.3.25
+langchain-openai==0.3.16
+dvc==3.59.2
+pandas==2.2.3
+pydantic==2.11.4
+numpy==2.2.5
+httpx==0.28.1
+coverage==7.8.0
+
+# Natural language processing
+scikit-learn==1.6.1
+transformers==4.51.3
+tokenizers==0.21.1
+
+# Data processing
+tqdm==4.67.1
+pillow==11.2.1
+
+# Database and storage
+sqlalchemy==2.0.40
+
+# Utilities
+python-dotenv==1.1.0
+tenacity==8.5.0
+typer==0.15.3
+rich==14.0.0 
