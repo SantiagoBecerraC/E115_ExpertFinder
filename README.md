@@ -1,9 +1,5 @@
 # ExpertFinder
 
-[![Tests](https://github.com/USERNAME/ExpertFinder/actions/workflows/pytest.yml/badge.svg)](https://github.com/USERNAME/ExpertFinder/actions/workflows/pytest.yml)
-[![CI](https://github.com/USERNAME/ExpertFinder/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/ExpertFinder/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/USERNAME/ExpertFinder/branch/main/graph/badge.svg)](https://codecov.io/gh/USERNAME/ExpertFinder)
-
 # Team Members - Jinyu Han, Santiago Becerra Cordoba, Umapathy (Umy) Bhakthavatsulu
 # Project Advisor - Rashmi Banthia 
 
