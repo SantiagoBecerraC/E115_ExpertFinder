@@ -311,3 +311,51 @@ def mock_dvc_manager():
 
     with patch("utils.dvc_utils.DVCManager", return_value=mock_dvc):
         yield mock_dvc
+
+@pytest.fixture
+def test_scholar_content():
+    """Fixture providing content for a test Google Scholar profile."""
+    return {
+        "scholar_id": "test-scholar-123",
+        "name": "Dr. Test Scholar",
+        "affiliations": ["Test University", "Research Institute"],
+        "interests": ["Machine Learning", "Artificial Intelligence", "Natural Language Processing"],
+        "citations": 1250,
+        "h_index": 25,
+        "i10_index": 45,
+        "publications": [
+            {
+                "title": "Advances in Test-Driven Machine Learning",
+                "year": 2023,
+                "authors": ["Test Scholar", "Coauthor One", "Coauthor Two"],
+                "publication": "Journal of Test Research",
+                "citations": 150
+            },
+            {
+                "title": "Understanding AI in Academic Testing",
+                "year": 2021,
+                "authors": ["Test Scholar", "Coauthor Three"],
+                "publication": "Conference on Artificial Intelligence",
+                "citations": 320
+            }
+        ],
+        "co_authors": [
+            {"name": "Coauthor One", "scholar_id": "co-1"},
+            {"name": "Coauthor Two", "scholar_id": "co-2"},
+            {"name": "Coauthor Three", "scholar_id": "co-3"}
+        ],
+        "url": "https://scholar.example.com/test-scholar-123"
+    }
+
+
+@pytest.fixture
+def test_chroma_dir(test_data_dir):
+    """Fixture providing a directory for ChromaDB tests."""
+    chroma_dir = os.path.join(test_data_dir, "chromadb_test")
+    os.makedirs(chroma_dir, exist_ok=True)
+    
+    yield chroma_dir
+    
+    # Clean up directory after test
+    if os.path.exists(chroma_dir):
+        shutil.rmtree(chroma_dir)
