@@ -175,21 +175,14 @@ def process_data(input_file=None, query=""):
                     combined_authors_data[author_name] = author_data
                 else:
                     # Merge articles lists, avoiding duplicates based on title
-                    existing_titles = {
-                        article["title"]
-                        for article in combined_authors_data[author_name]["articles"]
-                    }
+                    existing_titles = {article["title"] for article in combined_authors_data[author_name]["articles"]}
                     new_articles = [
-                        article
-                        for article in author_data["articles"]
-                        if article["title"] not in existing_titles
+                        article for article in author_data["articles"] if article["title"] not in existing_titles
                     ]
                     combined_authors_data[author_name]["articles"].extend(new_articles)
 
         if not combined_authors_data:
-            print(
-                "No data was processed from any file. Please check the input file format."
-            )
+            print("No data was processed from any file. Please check the input file format.")
             return
 
         # Prepare data for ChromaDB
@@ -204,9 +197,7 @@ def process_data(input_file=None, query=""):
         save_processed_json(combined_authors_data, output_dir / "data.processed.json")
         save_processed_json(chroma_ready_data, output_dir / "data.chroma.json")
 
-        print(
-            f"\nOriginal processed data saved to: {output_dir / 'data.processed.json'}"
-        )
+        print(f"\nOriginal processed data saved to: {output_dir / 'data.processed.json'}")
         print(f"ChromaDB-ready data saved to: {output_dir / 'data.chroma.json'}")
         print(f"Total authors: {len(chroma_ready_data['authors'])}")
         print(f"Total articles: {len(chroma_ready_data['articles'])}")
@@ -304,20 +295,14 @@ def test_data(query, collection_name="google_scholar", n_results=5, doc_type=Non
             return
 
         # Always filter to only retrieve authors regardless of doc_type parameter
-        filtered_results = [
-            r for r in results if r["metadata"].get("doc_type") == "author"
-        ]
-        print(
-            f"Results after filtering for authors: {len(filtered_results)}"
-        )
+        filtered_results = [r for r in results if r["metadata"].get("doc_type") == "author"]
+        print(f"Results after filtering for authors: {len(filtered_results)}")
         results = filtered_results
 
         # Sort results by citation count
         try:
             print("Sorting results by citation count...")
-            results.sort(
-                key=lambda x: -int(x["metadata"].get("citations", "0"))  # Sort by descending citations
-            )
+            results.sort(key=lambda x: -int(x["metadata"].get("citations", "0")))  # Sort by descending citations
         except (ValueError, TypeError) as e:
             print(f"Could not sort results - {str(e)}")
 
@@ -355,9 +340,7 @@ def archive_to_gcp(
 
         # Check if GCP credentials are available
         if not GOOGLE_APPLICATION_CREDENTIALS:
-            print(
-                "Error: GOOGLE_APPLICATION_CREDENTIALS not found in environment variables"
-            )
+            print("Error: GOOGLE_APPLICATION_CREDENTIALS not found in environment variables")
             print(
                 "Please set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the path of your service account key file"
             )
@@ -385,15 +368,11 @@ def archive_to_gcp(
 
         if not local_dir.exists():
             print(f"Error: Local directory {local_dir} does not exist")
-            print(
-                "Please make sure the google-scholar-data directory exists in the project root"
-            )
+            print("Please make sure the google-scholar-data directory exists in the project root")
             return
 
         print(f"Local directory: {local_dir}")
-        print(
-            f"Archiving files from {local_dir} to GCP bucket {bucket_name} with prefix {prefix}"
-        )
+        print(f"Archiving files from {local_dir} to GCP bucket {bucket_name} with prefix {prefix}")
         if remove_local:
             print("Local files will be removed after successful archival")
 
@@ -413,9 +392,7 @@ def archive_to_gcp(
             print(f"Successfully accessed bucket: {bucket_name}")
         except Exception as e:
             print(f"Error accessing bucket {bucket_name}: {str(e)}")
-            print(
-                "Please make sure the bucket exists and you have the necessary permissions"
-            )
+            print("Please make sure the bucket exists and you have the necessary permissions")
             return
 
         # Find all JSON files in the local directory
@@ -426,9 +403,7 @@ def archive_to_gcp(
 
         if not json_files:
             print(f"No JSON files found in {local_dir}")
-            print(
-                "The directory is empty. You need to run the download command first to populate this directory."
-            )
+            print("The directory is empty. You need to run the download command first to populate this directory.")
             return
 
         print(f"Found {len(json_files)} JSON files to archive")
@@ -454,9 +429,7 @@ def archive_to_gcp(
             except Exception as e:
                 print(f"  Error uploading {file_path}: {str(e)}")
 
-        print(
-            f"\nArchiving complete! Uploaded {uploaded_count} files to GCP bucket {bucket_name}"
-        )
+        print(f"\nArchiving complete! Uploaded {uploaded_count} files to GCP bucket {bucket_name}")
 
         # Remove local files if requested
         if remove_local and uploaded_count > 0:
@@ -526,46 +499,24 @@ def pipeline(
 
 def main():
     """Main function to parse arguments and execute commands."""
-    parser = argparse.ArgumentParser(
-        description="Google Scholar data extraction and processing CLI"
-    )
+    parser = argparse.ArgumentParser(description="Google Scholar data extraction and processing CLI")
     subparsers = parser.add_subparsers(dest="command", help="Command to execute")
 
     # Download command
-    download_parser = subparsers.add_parser(
-        "download", help="Download data from Google Scholar"
-    )
-    download_parser.add_argument(
-        "--query", type=str, required=True, help="Search query"
-    )
-    download_parser.add_argument(
-        "--start-year", type=str, default="2022", help="Start year for filtering"
-    )
-    download_parser.add_argument(
-        "--end-year", type=str, default="2025", help="End year for filtering"
-    )
-    download_parser.add_argument(
-        "--num-results", type=int, default=20, help="Total results to fetch"
-    )
-    download_parser.add_argument(
-        "--results-per-page", type=int, default=10, help="Results per page (max 20)"
-    )
+    download_parser = subparsers.add_parser("download", help="Download data from Google Scholar")
+    download_parser.add_argument("--query", type=str, required=True, help="Search query")
+    download_parser.add_argument("--start-year", type=str, default="2022", help="Start year for filtering")
+    download_parser.add_argument("--end-year", type=str, default="2025", help="End year for filtering")
+    download_parser.add_argument("--num-results", type=int, default=20, help="Total results to fetch")
+    download_parser.add_argument("--results-per-page", type=int, default=10, help="Results per page (max 20)")
 
     # Process command
-    process_parser = subparsers.add_parser(
-        "process", help="Process downloaded Google Scholar data"
-    )
-    process_parser.add_argument(
-        "--input-file", type=str, help="Specific JSON file to process"
-    )
-    process_parser.add_argument(
-        "--query", type=str, default="", help="Search query"
-    )
+    process_parser = subparsers.add_parser("process", help="Process downloaded Google Scholar data")
+    process_parser.add_argument("--input-file", type=str, help="Specific JSON file to process")
+    process_parser.add_argument("--query", type=str, default="", help="Search query")
 
     # Vectorize command
-    vectorize_parser = subparsers.add_parser(
-        "vectorize", help="Vectorize processed data and store in ChromaDB"
-    )
+    vectorize_parser = subparsers.add_parser("vectorize", help="Vectorize processed data and store in ChromaDB")
     vectorize_parser.add_argument(
         "--collection",
         type=str,
@@ -574,9 +525,7 @@ def main():
     )
 
     # Test command
-    test_parser = subparsers.add_parser(
-        "test", help="Test query on vectorized data in ChromaDB"
-    )
+    test_parser = subparsers.add_parser("test", help="Test query on vectorized data in ChromaDB")
     test_parser.add_argument("--query", type=str, required=True, help="Search query")
     test_parser.add_argument(
         "--collection",
@@ -584,9 +533,7 @@ def main():
         default="google_scholar",
         help="ChromaDB collection name",
     )
-    test_parser.add_argument(
-        "--n-results", type=int, default=5, help="Number of results to return"
-    )
+    test_parser.add_argument("--n-results", type=int, default=5, help="Number of results to return")
     test_parser.add_argument(
         "--doc-type",
         type=str,
@@ -595,24 +542,12 @@ def main():
     )
 
     # Pipeline command
-    pipeline_parser = subparsers.add_parser(
-        "pipeline", help="Run the data pipeline: download, process, and vectorize"
-    )
-    pipeline_parser.add_argument(
-        "--query", type=str, required=True, help="Search query"
-    )
-    pipeline_parser.add_argument(
-        "--start-year", type=str, default="2022", help="Start year for filtering"
-    )
-    pipeline_parser.add_argument(
-        "--end-year", type=str, default="2025", help="End year for filtering"
-    )
-    pipeline_parser.add_argument(
-        "--num-results", type=int, default=20, help="Total results to fetch"
-    )
-    pipeline_parser.add_argument(
-        "--results-per-page", type=int, default=10, help="Results per page (max 20)"
-    )
+    pipeline_parser = subparsers.add_parser("pipeline", help="Run the data pipeline: download, process, and vectorize")
+    pipeline_parser.add_argument("--query", type=str, required=True, help="Search query")
+    pipeline_parser.add_argument("--start-year", type=str, default="2022", help="Start year for filtering")
+    pipeline_parser.add_argument("--end-year", type=str, default="2025", help="End year for filtering")
+    pipeline_parser.add_argument("--num-results", type=int, default=20, help="Total results to fetch")
+    pipeline_parser.add_argument("--results-per-page", type=int, default=10, help="Results per page (max 20)")
     pipeline_parser.add_argument(
         "--collection",
         type=str,
@@ -621,21 +556,15 @@ def main():
     )
 
     # Archive command
-    archive_parser = subparsers.add_parser(
-        "archive", help="Archive JSON files to Google Cloud Storage"
-    )
-    archive_parser.add_argument(
-        "--bucket", type=str, default="expert-finder-bucket-1", help="GCP bucket name"
-    )
+    archive_parser = subparsers.add_parser("archive", help="Archive JSON files to Google Cloud Storage")
+    archive_parser.add_argument("--bucket", type=str, default="expert-finder-bucket-1", help="GCP bucket name")
     archive_parser.add_argument(
         "--prefix",
         type=str,
         default="google-scholar-data/",
         help="Prefix for files in GCP bucket",
     )
-    archive_parser.add_argument(
-        "--local-dir", type=str, help="Local directory to archive"
-    )
+    archive_parser.add_argument("--local-dir", type=str, help="Local directory to archive")
     archive_parser.add_argument(
         "--remove-local",
         action="store_true",

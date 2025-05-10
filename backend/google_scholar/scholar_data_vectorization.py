@@ -26,11 +26,7 @@ logger = logging.getLogger(__name__)
 def load_google_scholar_data() -> Dict[str, Any]:
     """Load and combine all Google Scholar JSON files."""
     # Get the path to the google-scholar-data directory
-    data_dir = (
-        Path(__file__).parent.parent.parent.parent
-        / "google-scholar-data"
-        / "processed_data"
-    )
+    data_dir = Path(__file__).parent.parent.parent.parent / "google-scholar-data" / "processed_data"
     if not data_dir.exists():
         raise FileNotFoundError("Could not find processed data directory")
     # Find all Google Scholar JSON files
@@ -76,9 +72,7 @@ def scrape_url_content(url: str, max_retries: int = 3) -> Optional[List[str]]:
             content = " ".join(doc.page_content for doc in docs)
 
             # Split content into manageable chunks
-            text_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=1000, chunk_overlap=100
-            )
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
             chunks = text_splitter.split_text(content)
 
             # Return all chunks
@@ -92,9 +86,7 @@ def scrape_url_content(url: str, max_retries: int = 3) -> Optional[List[str]]:
     return None
 
 
-def prepare_documents_for_chromadb(
-    author_name: str, data: Dict[str, Any]
-) -> List[Dict[str, Any]]:
+def prepare_documents_for_chromadb(author_name: str, data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Prepare documents for ChromaDB storage.
     Returns a list of documents in the format expected by ChromaDBManager.
@@ -126,9 +118,7 @@ def prepare_documents_for_chromadb(
             "author": str(author_info.get("author", "")),
             "affiliations": str(author_info.get("affiliations", "")),
             "interests": str(author_info.get("interests", "")),
-            "citations": str(
-                first_article.get("citations_count", 0) if first_article else 0
-            ),
+            "citations": str(first_article.get("citations_count", 0) if first_article else 0),
             "num_articles": str(len(articles)),
             "website": str(author_info.get("website", "")),
             "original_id": str(author_id),
@@ -163,11 +153,7 @@ def prepare_documents_for_chromadb(
                     "metadata": {
                         "doc_type": "journal_content",
                         "author": str(author_info.get("author", "")),
-                        "url": (
-                            str(first_article.get("journal_url", ""))
-                            if first_article
-                            else ""
-                        ),
+                        "url": (str(first_article.get("journal_url", "")) if first_article else ""),
                         "chunk_index": str(i),
                         "original_id": str(author_id),
                     },
@@ -262,9 +248,7 @@ def main():
         results = db_manager.query("machine learning", n_results=5)
 
         # Filter and display author results
-        author_results = [
-            r for r in results if r["metadata"].get("doc_type") == "author"
-        ][:3]
+        author_results = [r for r in results if r["metadata"].get("doc_type") == "author"][:3]
         for idx, result in enumerate(author_results, 1):
             print(f"\nAuthor Result {idx}:")
             print("-" * 20)
@@ -281,9 +265,7 @@ def main():
 
         # Filter and display content results
         content_results = [
-            r
-            for r in results
-            if r["metadata"].get("doc_type") in ["website_content", "journal_content"]
+            r for r in results if r["metadata"].get("doc_type") in ["website_content", "journal_content"]
         ][:3]
         for idx, result in enumerate(content_results, 1):
             print(f"\nContent Result {idx}:")

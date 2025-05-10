@@ -72,9 +72,7 @@ def initialize_chromadb():
                 logger.info("\nSample document metadata:")
                 for i, metadata in enumerate(results["metadatas"][:5]):
                     logger.info(f"\nDocument {i + 1}:")
-                    logger.info(
-                        f"Document type: {metadata.get('doc_type', 'Missing doc_type')}"
-                    )
+                    logger.info(f"Document type: {metadata.get('doc_type', 'Missing doc_type')}")
                     logger.info(f"Available fields: {list(metadata.keys())}")
 
                     # Check expected fields based on document type
@@ -89,9 +87,7 @@ def initialize_chromadb():
                     else:  # website_content or journal_content
                         expected_fields = ["author", "url", "chunk_index", "doc_type"]
 
-                    missing_fields = [
-                        field for field in expected_fields if field not in metadata
-                    ]
+                    missing_fields = [field for field in expected_fields if field not in metadata]
                     if missing_fields:
                         logger.warning(
                             f"Missing expected fields for {metadata.get('doc_type', 'unknown type')}: {missing_fields}"
@@ -110,9 +106,7 @@ def initialize_chromadb():
     return db_manager
 
 
-def query_collection(
-    db_manager: ChromaDBManager, query_text: str, n_results: int = 5
-) -> List[Dict[str, Any]]:
+def query_collection(db_manager: ChromaDBManager, query_text: str, n_results: int = 5) -> List[Dict[str, Any]]:
     """
     Query the collection using ChromaDBManager.
 
@@ -220,16 +214,12 @@ def run_test_queries(db_manager: ChromaDBManager):
 
         # Sort by citations
         try:
-            filtered_results.sort(
-                key=lambda x: int(x["metadata"].get("citations", "0")), reverse=True
-            )
+            filtered_results.sort(key=lambda x: int(x["metadata"].get("citations", "0")), reverse=True)
         except (ValueError, TypeError) as e:
             logger.warning(f"Could not sort by citations - {str(e)}")
             if filtered_results:
                 # Log some citation values to help debug
-                citations = [
-                    r["metadata"].get("citations") for r in filtered_results[:3]
-                ]
+                citations = [r["metadata"].get("citations") for r in filtered_results[:3]]
                 logger.warning(f"Sample citation values: {citations}")
 
         # Print results
@@ -259,9 +249,7 @@ def main():
             count = db_manager.collection.count()
             logger.info(f"Total documents in collection: {count}")
             if count == 0:
-                logger.error(
-                    "ChromaDB collection is empty! Please run scrape_and_store.py first"
-                )
+                logger.error("ChromaDB collection is empty! Please run scrape_and_store.py first")
                 return
 
             # Try to get a sample document to verify data structure
@@ -284,17 +272,13 @@ def main():
         logger.error(f"File not found: {str(e)}")
         logger.error("Please ensure you have:")
         logger.error("1. Created a .env file with your OPENAI_API_KEY")
-        logger.error(
-            "2. Run scrape_and_store.py first to create and populate the database"
-        )
+        logger.error("2. Run scrape_and_store.py first to create and populate the database")
     except ValueError as e:
         logger.error(f"Configuration error: {str(e)}")
         logger.error("Please set your OPENAI_API_KEY in the .env file")
     except Exception as e:
         logger.error(f"Error testing ChromaDB: {str(e)}")
-        logger.error(
-            "If this is an OpenAI API error, please check your API key configuration."
-        )
+        logger.error("If this is an OpenAI API error, please check your API key configuration.")
 
 
 if __name__ == "__main__":

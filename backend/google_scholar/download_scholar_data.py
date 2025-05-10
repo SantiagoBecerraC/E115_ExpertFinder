@@ -25,9 +25,7 @@ from SerpAPI_GoogleScholar import GoogleScholar
 
 # Load environment variables from the secrets folder at project root
 current_file = Path(__file__)
-project_root = (
-    current_file.parent.parent.parent.parent
-)  # Go up four levels to reach EXPERTFINDER-UV1
+project_root = current_file.parent.parent.parent.parent  # Go up four levels to reach EXPERTFINDER-UV1
 env_path = project_root / "secrets" / ".env"
 
 load_dotenv(dotenv_path=env_path)
@@ -42,9 +40,7 @@ DATA_DIR = Path(__file__).parent.parent.parent.parent / "google-scholar-data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def extract_data(
-    query, start_year, end_year, num_results, results_per_page, scholar_client=None
-):
+def extract_data(query, start_year, end_year, num_results, results_per_page, scholar_client=None):
     # Initialize a list to hold articles data
     articles_data = []
     total_fetched = 0
@@ -59,9 +55,7 @@ def extract_data(
         results_to_fetch = min(num_results - total_fetched, results_per_page)
 
         # Use the scholar client to search for articles based on the query and year range
-        articles_response = scholar_client.search_articles(
-            query, start_year, end_year, results_to_fetch, offset
-        )
+        articles_response = scholar_client.search_articles(query, start_year, end_year, results_to_fetch, offset)
 
         # Loop through each article in the response
         for article in articles_response.get("organic_results", []):
@@ -75,9 +69,7 @@ def extract_data(
             year_match = re.findall(r"(\d{4})", publication_info.get("summary"))
             year = year_match[0] if year_match else None
             journal_url = article.get("link")
-            cited_by = (
-                article.get("inline_links", {}).get("cited_by", {}).get("total", 0)
-            )
+            cited_by = article.get("inline_links", {}).get("cited_by", {}).get("total", 0)
 
             # Extract authors' names and their details
             authors = []
@@ -86,12 +78,7 @@ def extract_data(
                 author_name = author_details.get("author", {}).get("name")
                 affiliations = author_details.get("author", {}).get("affiliations")
                 website = author_details.get("author", {}).get("website")
-                interests = [
-                    interest["title"]
-                    for interest in author_details.get("author", {}).get(
-                        "interests", []
-                    )
-                ]
+                interests = [interest["title"] for interest in author_details.get("author", {}).get("interests", [])]
 
                 # Append author details to the authors list
                 authors.append(
@@ -146,9 +133,7 @@ def save_to_excel(articles_data, query, start_year, end_year, num_results):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
     # Create an Excel writer object to save data to an Excel file
-    with pd.ExcelWriter(
-        f'Google_Scholar_Data_{query.split(" ")[0]}_{timestamp}.xlsx'
-    ) as writer:
+    with pd.ExcelWriter(f'Google_Scholar_Data_{query.split(" ")[0]}_{timestamp}.xlsx') as writer:
         # Save the search query information to a separate sheet
         pd.DataFrame(
             [
@@ -205,9 +190,7 @@ if __name__ == "__main__":
         scholar_client = GoogleScholar(SERPAPI_API_KEY)
 
         # Extract data from Google Scholar
-        articles_data = extract_data(
-            query, start_year, end_year, num_results, results_per_page
-        )
+        articles_data = extract_data(query, start_year, end_year, num_results, results_per_page)
 
         # Save extracted data to JSON
         save_to_json(articles_data, query, start_year, end_year, num_results)
