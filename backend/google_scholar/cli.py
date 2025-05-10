@@ -101,7 +101,7 @@ from google_scholar.SerpAPI_GoogleScholar import GoogleScholar
 
 # Load environment variables
 project_root = current_file.parent.parent.parent.parent
-env_path = project_root / "config" / ".env"
+env_path = project_root / "secrets" / ".env"
 load_dotenv(dotenv_path=env_path)
 
 # Get API key from environment variables

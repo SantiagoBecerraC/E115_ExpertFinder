@@ -10,6 +10,13 @@ export PYTHONPATH=.
 pytest --cov=. --cov-report=term-missing
 ```
 
+```
+# unit test:
+GCP_PROJECT=dummy EF_TEST_MODE=1 PYTHONPATH=. pytest tests/integration/ -m integration -v
+# system test
+GCP_PROJECT=dummy EF_TEST_MODE=1 PYTHONPATH=. pytest tests/system/ -m system -v
+```
+
 ## Overview
 
 This document outlines the current testing status and future test development plan for the Expert Finder project. The testing strategy is organized into three levels:

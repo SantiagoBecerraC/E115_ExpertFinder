@@ -29,7 +29,7 @@ def initialize_chromadb():
     # Load environment variables from the secrets folder at project root
     current_file = Path(__file__)
     project_root = current_file.parent.parent.parent.parent
-    env_path = project_root / "config" / ".env"
+    env_path = project_root / "secrets" / ".env"
 
     # Print paths for debugging
     logger.info(f"Current file path: {current_file}")

@@ -9,6 +9,7 @@ import os
 import json
 import pytest
 from unittest.mock import patch, MagicMock
+import tempfile
 
 from linkedin_data_processing.process_linkedin_profiles import (
     extract_profile_data,
@@ -20,7 +21,9 @@ from linkedin_data_processing.process_linkedin_profiles import (
     download_new_processed_profiles_for_rag,
     download_unprocessed_profiles_from_gcp,
     download_profiles_from_gcp,
-    process_profiles_and_upload_to_gcp
+    process_profiles_and_upload_to_gcp,
+    initialize_gcp_client,
+    prepare_profiles_for_rag
 )
 
 
@@ -136,7 +139,7 @@ class TestLinkedInProfileExtraction:
         # Test that the profile data can be successfully converted to text
         profile_text = create_profile_text(extracted_data)
         assert isinstance(profile_text, str)
-        
+    
     def test_get_credibility_distribution(self):
         """Test calculation of credibility distribution stats."""
         # Create sample profiles with various credibility scores
@@ -171,6 +174,7 @@ class TestLinkedInProfileExtraction:
             assert "min" in stats
             assert "max" in stats
             assert isinstance(stats["distribution"], dict)
+    
         
     @patch('linkedin_data_processing.process_linkedin_profiles.chromadb.PersistentClient')
     @patch('os.makedirs')
