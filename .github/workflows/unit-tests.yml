@@ -1,0 +1,35 @@
+name: Unit Tests Only
+
+on:
+  push:
+    branches: [ "**" ]
+  pull_request:
+    branches: [ "**" ]
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        cd backend
+        pip install -r requirements-test.txt
+        pip install -e .
+
+    - name: Set PYTHONPATH
+      run: echo "PYTHONPATH=$GITHUB_WORKSPACE/backend" >> $GITHUB_ENV
+
+    - name: Run unit tests with coverage
+      run: |
+        cd backend
+        python -m pytest tests/unit/ -v \
+          --cov=backend --cov-report=term-missing
