@@ -9,6 +9,65 @@ Run the Docker shell script to set up the environment:
 sh docker-shell.sh
 ```
 
+## Development Workflow
+
+### Code Formatting Requirements
+
+Before pushing code to GitHub, ensure it meets the code formatting standards:
+
+1. **Install code formatting tools**:
+```bash
+pip install black==24.3.0 isort==5.13.2
+```
+
+2. **Format code with Black**:
+```bash
+black --line-length 120 .
+```
+
+3. **Sort imports with isort**:
+```bash
+isort --profile black --line-length 120 .
+```
+
+Running these formatters will ensure your code passes CI checks on GitHub.
+
+### Common Issues and Solutions
+
+#### Dependency Conflicts
+
+The project has specific dependency requirements that may conflict. A common issue is between `fastapi` and `chromadb`:
+
+**Issue**: 
+```
+The conflict is caused by:
+    The user requested fastapi==0.103.1
+    chromadb 1.0.8 depends on fastapi==0.115.9
+```
+
+**Solution**:
+Update `requirements-test.txt` to use the compatible fastapi version:
+```bash
+# Edit requirements-test.txt to use fastapi==0.115.9 instead of fastapi==0.103.1
+```
+
+#### CI Pipeline Failures
+
+Common CI pipeline failures include:
+
+1. **Code Style Violations**:
+   - Run `black --line-length 120 .` to fix code formatting issues
+   - Run `isort --profile black --line-length 120 .` to fix import sorting issues
+   - The CI pipeline expects these exact formatting standards
+
+2. **Package Installation Errors**:
+   - Ensure there's a `setup.py` file in the backend directory
+   - This file is required for `pip install -e .` to work in CI
+
+3. **Failing Tests**:
+   - Run tests locally before pushing with `python -m pytest tests/unit/ --cov=. --cov-config=../.coveragerc --cov-report=term-missing`
+   - Check the detailed test documentation in `docs/testing/test_readme.md`
+
 ## Running the Application
 
 Start the FastAPI server:
