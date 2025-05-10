@@ -68,6 +68,7 @@ class TestLinkedInProfileExtraction:
         extracted_data = extract_profile_data(sample_linkedin_profile)
 
         # Verify the essential fields were extracted
+        assert extracted_data is not None, "extract_profile_data should not return None for valid profile"
         assert "urn_id" in extracted_data
         assert "full_name" in extracted_data
         assert "headline" in extracted_data
@@ -91,6 +92,7 @@ class TestLinkedInProfileExtraction:
         """Test creation of profile text for embedding."""
         # Extract the profile data first
         extracted_data = extract_profile_data(sample_linkedin_profile)
+        assert extracted_data is not None, "extract_profile_data should not return None for valid profile"
 
         # Populate with test data to ensure we have enough content for profile text
         extracted_data["full_name"] = "Raul Molina"
@@ -106,6 +108,7 @@ class TestLinkedInProfileExtraction:
 
         # Create the profile text
         profile_text = create_profile_text(extracted_data)
+        assert profile_text is not None, "create_profile_text should not return None for valid profile data"
 
         # Check that profile text is a string
         assert isinstance(profile_text, str)
@@ -120,6 +123,7 @@ class TestLinkedInProfileExtraction:
         """Test extraction of specific profile fields."""
         # Extract the profile data
         extracted_data = extract_profile_data(sample_linkedin_profile)
+        assert extracted_data is not None, "extract_profile_data should not return None for valid profile"
 
         # Since this is a real profile, ensure basic fields exist
         assert "urn_id" in extracted_data
@@ -129,13 +133,14 @@ class TestLinkedInProfileExtraction:
         assert isinstance(extracted_data, dict)
 
         # Add some test data for fields that might be missing to ensure create_profile_text works
-        if not extracted_data["full_name"]:
+        if not extracted_data.get("full_name"):
             extracted_data["full_name"] = "Raul Molina"
         if not extracted_data.get("experience"):
             extracted_data["experience"] = [{"title": "Test Engineer", "company": "Test Company"}]
 
         # Test that the profile data can be successfully converted to text
         profile_text = create_profile_text(extracted_data)
+        assert profile_text is not None, "create_profile_text should not return None for valid profile data"
         assert isinstance(profile_text, str)
 
     def test_get_credibility_distribution(self):
