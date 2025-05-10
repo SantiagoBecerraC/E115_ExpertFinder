@@ -84,13 +84,3 @@ jobs:
           echo "Coverage too low: $COVERAGE%"
           exit 1
         fi
-
-    - name: Generate badge (optional)
-      uses: schneegans/dynamic-badges-action@v1.6.0
-      with:
-        auth: ${{ secrets.GIST_SECRET }}
-        gistID: b80aecfc3fb191231b3e53880fbedd12
-        filename: expert_finder_coverage.json
-        label: Coverage
-        message: "${{ steps.check.outputs.percentage }}%"
-        color: "${{ steps.check.outputs.color }}"
