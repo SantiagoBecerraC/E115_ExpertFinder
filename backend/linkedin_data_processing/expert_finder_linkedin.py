@@ -5,7 +5,11 @@ import re
 
 import chromadb
 import torch
-from google.cloud import aiplatform
+try:
+    from google.cloud import aiplatform
+except ImportError:
+    aiplatform = None
+    print("Warning: google.cloud.aiplatform not available in this environment")
 from sentence_transformers import CrossEncoder, SentenceTransformer
 from tqdm import tqdm
 from transformers import AutoModelForSequenceClassification, AutoTokenizer

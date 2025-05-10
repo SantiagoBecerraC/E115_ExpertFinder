@@ -20,6 +20,7 @@ jobs:
         python-version: "3.11"
 
     - name: Install dependencies
+      shell: bash -el {0}
       run: |
         cd backend
         pip install -r requirements-test.txt
@@ -28,8 +29,9 @@ jobs:
     - name: Set PYTHONPATH
       run: echo "PYTHONPATH=$GITHUB_WORKSPACE/backend" >> $GITHUB_ENV
 
-    - name: Run unit tests with coverage
+    - name: Run unit tests
+      shell: bash -el {0}
       run: |
         cd backend
-        python -m pytest tests/unit/ -v \
-          --cov=backend --cov-report=term-missing
+        python -m pytest tests/unit/ -v --cov=. --cov-report=xml --cov-report=term-missing
+
