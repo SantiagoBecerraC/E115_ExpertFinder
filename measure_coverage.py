@@ -2,11 +2,12 @@
 """
 Custom coverage measurement script that ensures all modules are properly loaded and measured.
 """
-import sys
+import importlib
 import os
+import sys
+
 import coverage
 import pytest
-import importlib
 
 # Configure coverage
 cov = coverage.Coverage(

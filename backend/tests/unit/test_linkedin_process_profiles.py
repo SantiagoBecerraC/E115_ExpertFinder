@@ -11,7 +11,6 @@ import tempfile
 from unittest.mock import MagicMock, mock_open, patch
 
 import pytest
-
 from linkedin_data_processing.process_linkedin_profiles import (
     create_profile_text,
     download_new_processed_profiles_for_rag,

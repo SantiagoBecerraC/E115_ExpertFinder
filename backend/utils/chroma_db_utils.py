@@ -8,12 +8,11 @@ import os
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
+import chromadb
 from chromadb.utils import embedding_functions
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
-
-import chromadb
 
 from .dvc_utils import DVCManager
 

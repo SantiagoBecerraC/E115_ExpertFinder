@@ -21,7 +21,6 @@ from typing import Annotated, Any, Dict, List, TypedDict
 from langchain_core.messages import AnyMessage, HumanMessage, SystemMessage, ToolMessage
 from langchain_openai import ChatOpenAI
 from langgraph.graph import END, StateGraph
-
 from utils.chroma_db_utils import ChromaDBManager
 
 # Setup logging

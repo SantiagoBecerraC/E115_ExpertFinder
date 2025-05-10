@@ -11,7 +11,6 @@ import uuid
 from pathlib import Path
 
 import pytest
-
 from google_scholar.scholar_data_processor import prepare_chroma_data, process_scholar_data
 from google_scholar.scholar_data_vectorization import load_to_chromadb
 from utils.chroma_db_utils import ChromaDBManager

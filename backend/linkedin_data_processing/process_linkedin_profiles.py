@@ -5,12 +5,11 @@ import os
 import shutil
 from datetime import datetime
 
+import chromadb
 import pandas as pd
 from google.cloud import storage
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
-
-import chromadb
 
 try:
     # Try relative import first (when imported)

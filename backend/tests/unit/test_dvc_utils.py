@@ -12,7 +12,6 @@ from tempfile import TemporaryDirectory
 from unittest.mock import MagicMock, call, patch
 
 import pytest
-
 from utils.dvc_utils import DVCManager
 
 

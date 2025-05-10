@@ -1,14 +1,15 @@
-import os
 import argparse
-import pandas as pd
-import json
-import time
 import glob
-from google.cloud import storage
+import json
+import os
+import time
+
+import pandas as pd
 import vertexai
-from vertexai.preview.tuning import sft
-from vertexai.generative_models import GenerativeModel, GenerationConfig
+from google.cloud import storage
+from vertexai.generative_models import GenerationConfig, GenerativeModel
 from vertexai.preview.language_models import ChatModel, TextGenerationModel
+from vertexai.preview.tuning import sft
 
 # Setup
 GCP_PROJECT = os.environ["GCP_PROJECT"]

@@ -3,15 +3,14 @@ import json
 import os
 import re
 
+import chromadb
 import torch
 from google.cloud import aiplatform
 from sentence_transformers import CrossEncoder, SentenceTransformer
 from tqdm import tqdm
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
-from vertexai.generative_models import GenerationConfig, GenerativeModel
-
-import chromadb
 from utils.chroma_db_utils import ChromaDBManager
+from vertexai.generative_models import GenerationConfig, GenerativeModel
 
 
 def search_profiles(query, filters=None, top_k=5, chroma_dir="chroma_db"):

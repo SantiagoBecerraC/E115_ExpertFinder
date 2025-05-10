@@ -17,9 +17,8 @@ import uuid
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
-import pytest
-
 import chromadb
+import pytest
 from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
 from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
 

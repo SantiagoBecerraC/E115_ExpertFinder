@@ -9,10 +9,9 @@ import os
 import tempfile
 from unittest.mock import MagicMock, patch
 
+import chromadb
 import pytest
 from chromadb.config import Settings
-
-import chromadb
 from utils.chroma_db_utils import ChromaDBManager
 
 

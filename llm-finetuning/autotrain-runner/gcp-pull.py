@@ -1,6 +1,8 @@
 import os
-from google.cloud import storage
+
 import nltk
+from google.cloud import storage
+
 nltk.download('punkt')
 
 # local_source_folder = 'data'

@@ -1,11 +1,10 @@
 import json
 from pathlib import Path
 
+import chromadb
 import dvc.api
 import pytest
 from chromadb.config import Settings
-
-import chromadb
 
 
 @pytest.mark.integration

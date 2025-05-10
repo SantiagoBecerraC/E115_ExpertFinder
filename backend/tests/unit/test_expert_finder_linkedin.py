@@ -1210,7 +1210,6 @@ class TestExpertFinderAgentWithCuda(unittest.TestCase):
         with patch("builtins.print"):
             # Import here inside the test to ensure our patch takes effect
             import torch
-
             from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
 
             # Force CUDA check by creating a new ExpertFinderAgent instance

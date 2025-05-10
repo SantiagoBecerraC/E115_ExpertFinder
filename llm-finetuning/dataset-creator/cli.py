@@ -1,14 +1,15 @@
-import os
 import argparse
-import pandas as pd
-import json
-import time
 import glob
-from sklearn.model_selection import train_test_split
-from google.cloud import storage
+import json
+import os
+import time
+
+import pandas as pd
 import vertexai
-from vertexai.generative_models import GenerativeModel, Part, SafetySetting, FinishReason
 import vertexai.generative_models as generative_models
+from google.cloud import storage
+from sklearn.model_selection import train_test_split
+from vertexai.generative_models import FinishReason, GenerativeModel, Part, SafetySetting
 
 # Setup
 GCP_PROJECT = os.environ["GCP_PROJECT"]

@@ -12,7 +12,6 @@ from typing import Any, Dict
 from unittest.mock import MagicMock, mock_open, patch
 
 import pytest
-
 from google_scholar.scholar_data_processor import main, prepare_chroma_data, process_scholar_data, save_to_json
 
 
