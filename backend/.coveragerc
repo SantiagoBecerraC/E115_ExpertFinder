@@ -1,0 +1,28 @@
+[run]
+source = 
+    agent
+    google_scholar
+    linkedin_data_processing
+    utils
+    main.py
+
+omit = 
+    tests/*
+    */tests/*
+    */test_*.py
+    */*test_*.py
+    */__pycache__/*
+    */site-packages/*
+    */venv/*
+    */env/*
+    tests/api_test_client.py
+    tests/conftest.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    raise NotImplementedError
+    if __name__ == .__main__.:
+    pass
+    raise ImportError 

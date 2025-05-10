@@ -6,30 +6,49 @@ This directory contains GitHub Actions workflows for the ExpertFinder project.
 
 We have the following workflows:
 
-1. **pytest.yml** - Runs unit tests with coverage reporting
-2. **ci.yml** - Full CI pipeline with linting, unit tests, and integration tests
+1. **ci.yml** - Code quality checks (black, flake8, import checks)
+2. **unit-tests.yml** - Unit tests with mocking and pytest
+3. **integration-tests.yml** - Integration tests requiring Docker/DB (future)
+4. **system-tests.yml** - End-to-end user flow tests (future)
 
 ## Workflow Details
 
-### pytest.yml
+### ci.yml
 
-This workflow focuses on running unit tests and generating coverage reports. It:
+This workflow focuses on code quality and style:
+
+- Runs on PRs to main and develop branches and direct pushes
+- Performs code formatting checks with black
+- Runs flake8 for code style and quality
+- Checks import statements for proper organization
+- Fails if any code quality checks fail
+
+### unit-tests.yml
+
+This workflow handles unit testing:
 
 - Runs on PRs to main and develop branches and direct pushes
 - Uses micromamba to set up the Python environment
 - Runs all unit tests with code coverage
+- Uses mocking for external dependencies
 - Fails if coverage is below 60% (aiming for 70% eventually)
 - Generates a coverage badge
 
-### ci.yml
+### integration-tests.yml (Future)
 
-This is a more comprehensive workflow that:
+This workflow will handle integration testing:
 
-- Runs code formatting and linting checks
-- Runs all unit tests with coverage reporting
-- Runs integration tests that don't require complicated fixtures
-- Combines coverage reports into a single report
-- Updates README with coverage badge
+- Will run tests requiring Docker containers
+- Will include database integration tests
+- Will be set up when needed for more complex testing scenarios
+
+### system-tests.yml (Future)
+
+This workflow will handle end-to-end testing:
+
+- Will test complete user flows
+- Will verify system behavior in production-like environment
+- Will be implemented when the system is more mature
 
 ## Dependency Management
 
