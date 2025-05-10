@@ -9,20 +9,22 @@ These tests verify the entire LinkedIn data flow:
 5. Adding to ChromaDB
 """
 
-import os
 import json
-import pytest
-import tempfile
+import os
 import shutil
+import tempfile
 import uuid
-import chromadb
 from pathlib import Path
-from unittest.mock import patch, MagicMock
+from unittest.mock import MagicMock, patch
+
+import pytest
+
+import chromadb
+from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
+from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
 
 # Import LinkedIn processing modules
-from linkedin_data_processing.process_linkedin_profiles import extract_profile_data, create_profile_text
-from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
-from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
+from linkedin_data_processing.process_linkedin_profiles import create_profile_text, extract_profile_data
 
 
 class TestLinkedInPipeline:

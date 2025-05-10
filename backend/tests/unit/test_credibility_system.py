@@ -4,10 +4,11 @@ Unit tests for the credibility_system module.
 This test suite verifies functionality of credibility_system.
 """
 
-import unittest
-from unittest.mock import patch, MagicMock
 import datetime
-from linkedin_data_processing.credibility_system import CredibilityMetric, ExperienceMetric, EducationMetric
+import unittest
+from unittest.mock import MagicMock, patch
+
+from linkedin_data_processing.credibility_system import CredibilityMetric, EducationMetric, ExperienceMetric
 
 
 class TestCredibilityMetrics(unittest.TestCase):

@@ -27,13 +27,14 @@ IMPROVEMENT OPPORTUNITIES:
 - Test CLI with real processed profile data to validate end-to-end workflow
 """
 
-import unittest
-from unittest.mock import patch, MagicMock, mock_open
 import json
 import os
 import sys
-from pathlib import Path
 import tempfile
+import unittest
+from pathlib import Path
+from unittest.mock import MagicMock, mock_open, patch
+
 import pytest
 
 # Add the parent directory to the path to import the module
@@ -43,13 +44,13 @@ sys.path.append(str(parent_dir))
 
 # Import the CLI module
 from linkedin_data_processing.cli import (
-    process_command,
-    vectorize_command,
-    search_command,
-    pipeline_command,
-    reset_collection_command,
-    update_credibility_stats_command,
     main,
+    pipeline_command,
+    process_command,
+    reset_collection_command,
+    search_command,
+    update_credibility_stats_command,
+    vectorize_command,
 )
 
 

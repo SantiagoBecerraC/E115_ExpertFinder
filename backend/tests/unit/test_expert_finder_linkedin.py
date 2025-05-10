@@ -28,12 +28,13 @@ IMPROVEMENT OPPORTUNITIES:
 - Expand tests for various error conditions
 """
 
-import unittest
-from unittest.mock import patch, MagicMock, mock_open, PropertyMock, call
 import json
 import os
 import sys
+import unittest
 from pathlib import Path
+from unittest.mock import MagicMock, PropertyMock, call, mock_open, patch
+
 import pytest
 from google.api_core.exceptions import ResourceExhausted
 
@@ -1209,6 +1210,7 @@ class TestExpertFinderAgentWithCuda(unittest.TestCase):
         with patch("builtins.print"):
             # Import here inside the test to ensure our patch takes effect
             import torch
+
             from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
 
             # Force CUDA check by creating a new ExpertFinderAgent instance

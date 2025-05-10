@@ -7,12 +7,12 @@ focus on real data structures and realistic usage patterns.
 
 import os
 import tempfile
-import pytest
-from unittest.mock import patch, MagicMock
+from unittest.mock import MagicMock, patch
 
-import chromadb
+import pytest
 from chromadb.config import Settings
 
+import chromadb
 from utils.chroma_db_utils import ChromaDBManager
 
 

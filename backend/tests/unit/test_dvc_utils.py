@@ -9,7 +9,7 @@ focusing on verifying logic branches and command calls.
 import subprocess
 from pathlib import Path
 from tempfile import TemporaryDirectory
-from unittest.mock import patch, MagicMock, call
+from unittest.mock import MagicMock, call, patch
 
 import pytest
 

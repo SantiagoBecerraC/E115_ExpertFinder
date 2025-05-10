@@ -1,9 +1,10 @@
-import unittest
-import os
 import json
+import os
+import unittest
 from pathlib import Path
-from scholar_agent import ScholarAgent, ChromaDBTool, create_scholar_agent
-from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
+
+from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
+from scholar_agent import ChromaDBTool, ScholarAgent, create_scholar_agent
 
 
 class TestScholarAgent(unittest.TestCase):

@@ -3,16 +3,18 @@ Utility class for ChromaDB operations.
 Handles database initialization, querying, and management.
 """
 
+import logging
 import os
 from pathlib import Path
-import chromadb
-from chromadb.utils import embedding_functions
-from typing import List, Dict, Any, Optional
-from dotenv import load_dotenv
-import logging
+from typing import Any, Dict, List, Optional
 
-from sentence_transformers import SentenceTransformer
+from chromadb.utils import embedding_functions
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer
+
+import chromadb
+
 from .dvc_utils import DVCManager
 
 # Setup logging

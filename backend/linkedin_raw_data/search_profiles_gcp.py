@@ -1,12 +1,13 @@
-import time
-import random
 import json
-import sys
-from datetime import datetime
 import os
-from linkedin_api import Linkedin
+import random
+import sys
+import time
+from datetime import datetime
+
 from google.cloud import storage
 from google.oauth2 import service_account
+from linkedin_api import Linkedin
 
 # GCP bucket configuration
 bucket_name = "expert-finder-bucket-1"

@@ -1,18 +1,19 @@
-import pytest
-from unittest.mock import patch, MagicMock
+import json
 import os
 import sys
-import json
 from pathlib import Path
+from unittest.mock import MagicMock, patch
+
+import pytest
 
 # Add the parent directory to the path so we can import the main module
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
+# Import the main FastAPI app
+from main import Expert, SearchQuery, app
+
 # Import the custom API test client
 from tests.api_test_client import get_api_test_client
-
-# Import the main FastAPI app
-from main import app, SearchQuery, Expert
 
 # Create a test client
 client = get_api_test_client(use_mocks=True)

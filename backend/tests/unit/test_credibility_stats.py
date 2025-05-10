@@ -1,9 +1,10 @@
-import pytest
-import os
 import json
+import os
 import tempfile
 from pathlib import Path
-from unittest.mock import patch, mock_open, MagicMock
+from unittest.mock import MagicMock, mock_open, patch
+
+import pytest
 
 # Import the CredibilityStats class
 from linkedin_data_processing.credibility_stats import CredibilityStats

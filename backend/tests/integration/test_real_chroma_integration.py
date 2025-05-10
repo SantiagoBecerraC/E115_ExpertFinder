@@ -5,13 +5,14 @@ This test will use the real ChromaDB instance if available (running docker),
 otherwise it falls back to the mock implementation.
 """
 
-import pytest
 import os
-import uuid
 import time
+import uuid
 from pathlib import Path
 
-from google_scholar.scholar_data_processor import process_scholar_data, prepare_chroma_data
+import pytest
+
+from google_scholar.scholar_data_processor import prepare_chroma_data, process_scholar_data
 from google_scholar.scholar_data_vectorization import load_to_chromadb
 from utils.chroma_db_utils import ChromaDBManager
 

@@ -1,14 +1,16 @@
-import os
-import json
 import argparse
+import json
+import os
 import re
+
 import torch
-from sentence_transformers import SentenceTransformer, CrossEncoder
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
-import chromadb
-from tqdm import tqdm
 from google.cloud import aiplatform
-from vertexai.generative_models import GenerativeModel, GenerationConfig
+from sentence_transformers import CrossEncoder, SentenceTransformer
+from tqdm import tqdm
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from vertexai.generative_models import GenerationConfig, GenerativeModel
+
+import chromadb
 from utils.chroma_db_utils import ChromaDBManager
 
 

@@ -1,14 +1,16 @@
-import os
-import json
-import shutil
-import pandas as pd
-import glob
-from google.cloud import storage
-from tqdm import tqdm
-from datetime import datetime
-import chromadb
-from sentence_transformers import SentenceTransformer
 import argparse
+import glob
+import json
+import os
+import shutil
+from datetime import datetime
+
+import pandas as pd
+from google.cloud import storage
+from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
+
+import chromadb
 
 try:
     # Try relative import first (when imported)

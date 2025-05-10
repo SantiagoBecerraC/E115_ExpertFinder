@@ -2,9 +2,11 @@
 Test script for DVC and ChromaDB integration.
 """
 
-import os
 import logging
+import os
+
 import pytest
+
 from utils.chroma_db_utils import ChromaDBManager
 from utils.dvc_utils import DVCManager
 

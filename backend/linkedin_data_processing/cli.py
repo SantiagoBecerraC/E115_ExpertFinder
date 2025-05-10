@@ -4,10 +4,11 @@ Command-line interface for LinkedIn data processing and search pipeline.
 Orchestrates the entire workflow from data processing to vectorization and search.
 """
 
-import os
 import argparse
+import os
 import sys
 from pathlib import Path
+
 from google.cloud import storage
 
 # Add parent directory to path
@@ -15,17 +16,18 @@ current_file = Path(__file__).resolve()
 parent_dir = current_file.parent.parent
 sys.path.append(str(parent_dir))
 
+from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
+from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
+from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
+
 # Import local modules
 from linkedin_data_processing.process_linkedin_profiles import (
-    initialize_gcp_client,
-    download_unprocessed_profiles_from_gcp,
     download_profiles_from_gcp,
-    process_profiles_and_upload_to_gcp,
+    download_unprocessed_profiles_from_gcp,
     get_credibility_distribution,
+    initialize_gcp_client,
+    process_profiles_and_upload_to_gcp,
 )
-from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
-from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
-from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
 
 
 def process_command(args):

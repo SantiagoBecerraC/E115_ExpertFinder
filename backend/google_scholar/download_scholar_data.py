@@ -17,7 +17,6 @@ from pathlib import Path
 # Third-party imports
 import pandas as pd
 from dotenv import load_dotenv
-
 from keywords_list import keywords_list
 
 # Local application imports

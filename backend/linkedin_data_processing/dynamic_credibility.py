@@ -1,8 +1,9 @@
-from typing import Dict, Any, List, Optional
 import os
 from pathlib import Path
-from .credibility_system import ExperienceMetric, EducationMetric, CredibilityMetric
+from typing import Any, Dict, List, Optional
+
 from .credibility_stats import CredibilityStats
+from .credibility_system import CredibilityMetric, EducationMetric, ExperienceMetric
 
 
 class OnDemandCredibilityCalculator:

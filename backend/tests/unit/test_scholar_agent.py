@@ -6,13 +6,14 @@ This test module focuses on testing the functionality of the ScholarAgent class 
 helper classes like ChromaDBTool and CohereReranker.
 """
 
-import unittest
-from unittest.mock import patch, MagicMock, PropertyMock
-import sys
-from pathlib import Path
-import pytest
 import json
 import os
+import sys
+import unittest
+from pathlib import Path
+from unittest.mock import MagicMock, PropertyMock, patch
+
+import pytest
 
 # Add the parent directory to the path to import the module
 current_file = Path(__file__)
@@ -46,12 +47,12 @@ sys.modules["langchain_core.messages"].HumanMessage = MockHumanMessage
 # Import after mocking dependencies
 with patch("agent.scholar_agent.ChromaDBManager"):
     from agent.scholar_agent import (
-        get_openai_api_key,
+        AgentState,
         ChromaDBTool,
         CohereReranker,
         ScholarAgent,
         create_scholar_agent,
-        AgentState,
+        get_openai_api_key,
     )
 
 

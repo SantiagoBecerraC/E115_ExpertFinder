@@ -1,10 +1,11 @@
 import os
-import pytest
-import socket
 import shutil
+import socket
 import tempfile
-from unittest.mock import patch, MagicMock
 from pathlib import Path
+from unittest.mock import MagicMock, patch
+
+import pytest
 
 
 def is_service_reachable(host, port, timeout=0.5):

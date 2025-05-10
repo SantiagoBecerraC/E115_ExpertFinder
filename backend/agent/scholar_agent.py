@@ -3,23 +3,25 @@ Agent for retrieving and summarizing scholarly articles using ChromaDB and LLM.
 
 """
 
+import json
 import logging
-from dotenv import load_dotenv
 import os
 import sys
 from pathlib import Path
 
-import json
 import cohere
+from dotenv import load_dotenv
 
 # Add parent directory to Python path to allow imports from utils
 sys.path.append(str(Path(__file__).parent.parent))
 
-from langgraph.graph import StateGraph, END
-from typing import TypedDict, Annotated, Dict, Any, List
 import operator
-from langchain_core.messages import AnyMessage, SystemMessage, HumanMessage, ToolMessage
+from typing import Annotated, Any, Dict, List, TypedDict
+
+from langchain_core.messages import AnyMessage, HumanMessage, SystemMessage, ToolMessage
 from langchain_openai import ChatOpenAI
+from langgraph.graph import END, StateGraph
+
 from utils.chroma_db_utils import ChromaDBManager
 
 # Setup logging

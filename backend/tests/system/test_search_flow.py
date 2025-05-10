@@ -1,9 +1,10 @@
-import pytest
+import json
 import os
 import tempfile
 from pathlib import Path
-from unittest.mock import patch, MagicMock
-import json
+from unittest.mock import MagicMock, patch
+
+import pytest
 
 
 # Mark as system test

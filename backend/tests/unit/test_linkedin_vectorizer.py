@@ -1,9 +1,10 @@
-import unittest
-from unittest.mock import patch, MagicMock, mock_open
 import json
 import os
 import sys
+import unittest
 from pathlib import Path
+from unittest.mock import MagicMock, mock_open, patch
+
 import pytest
 
 # Add the parent directory to the path to import the module

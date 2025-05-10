@@ -83,14 +83,10 @@ parent_dir = current_file.parent.parent
 sys.path.append(str(parent_dir))
 
 from dotenv import load_dotenv
-from utils.chroma_db_utils import ChromaDBManager
 
 # Import the necessary modules
 from google_scholar.download_scholar_data import extract_data, save_to_json
-from google_scholar.scholar_data_processor import (
-    prepare_chroma_data,
-    process_scholar_data,
-)
+from google_scholar.scholar_data_processor import prepare_chroma_data, process_scholar_data
 from google_scholar.scholar_data_processor import save_to_json as save_processed_json
 from google_scholar.scholar_data_vectorization import (
     load_google_scholar_data,
@@ -98,6 +94,7 @@ from google_scholar.scholar_data_vectorization import (
     prepare_documents_for_chromadb,
 )
 from google_scholar.SerpAPI_GoogleScholar import GoogleScholar
+from utils.chroma_db_utils import ChromaDBManager
 
 # Load environment variables
 project_root = current_file.parent.parent.parent.parent

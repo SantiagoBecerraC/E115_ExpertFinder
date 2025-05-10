@@ -5,11 +5,12 @@ This module provides a compatible TestClient that works around version incompati
 between FastAPI and Starlette by implementing a thin wrapper around the actual API endpoints.
 """
 
-from typing import Dict, Any, Optional, Union, List
 import json
-import requests
-from pathlib import Path
 import os
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Union
+
+import requests
 
 
 class CompatibleTestClient:

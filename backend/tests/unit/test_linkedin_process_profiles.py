@@ -5,25 +5,26 @@ Tests focus on the functionality of the process_linkedin_profiles.py module,
 using real data structures from sample LinkedIn profiles.
 """
 
-import os
 import json
-import pytest
-from unittest.mock import patch, MagicMock, mock_open
+import os
 import tempfile
+from unittest.mock import MagicMock, mock_open, patch
+
+import pytest
 
 from linkedin_data_processing.process_linkedin_profiles import (
-    extract_profile_data,
     create_profile_text,
-    get_credibility_distribution,
-    setup_chroma_db,
-    search_profiles_demo,
-    get_profiles_in_chroma,
     download_new_processed_profiles_for_rag,
-    download_unprocessed_profiles_from_gcp,
     download_profiles_from_gcp,
-    process_profiles_and_upload_to_gcp,
+    download_unprocessed_profiles_from_gcp,
+    extract_profile_data,
+    get_credibility_distribution,
+    get_profiles_in_chroma,
     initialize_gcp_client,
     prepare_profiles_for_rag,
+    process_profiles_and_upload_to_gcp,
+    search_profiles_demo,
+    setup_chroma_db,
 )
 
 

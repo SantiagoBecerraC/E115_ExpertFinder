@@ -2,12 +2,12 @@
 Utility class for managing DVC operations for ChromaDB versioning.
 """
 
+import logging
 import os
 import subprocess
-import logging
-from pathlib import Path
 from datetime import datetime
-from typing import Dict, Any, Optional
+from pathlib import Path
+from typing import Any, Dict, Optional
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)

@@ -3,15 +3,16 @@ Utility for vectorizing LinkedIn profiles using ChromaDBManager.
 Creates and manages a LinkedIn profiles collection in the shared ChromaDB database.
 """
 
-import os
-import json
 import glob
+import json
+import os
 import shutil
-from tqdm import tqdm
-from pathlib import Path
 import sys
-from typing import List, Dict, Any, Set, Optional
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Set
+
 from google.cloud import storage
+from tqdm import tqdm
 
 # Add parent directory to path to import utils
 current_file = Path(__file__).resolve()

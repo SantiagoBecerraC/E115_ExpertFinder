@@ -1,13 +1,14 @@
+import logging
+import os
+from typing import Annotated, Any, List, Optional, Union
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel, field_validator, model_validator, ConfigDict, BeforeValidator
-from typing import List, Optional, Union, Any, Annotated
-import os
-import logging
+from pydantic import BaseModel, BeforeValidator, ConfigDict, field_validator, model_validator
 
 # Wrap problematic imports in try-except blocks
 try:
-    from agent.scholar_agent import create_scholar_agent, ChromaDBTool
+    from agent.scholar_agent import ChromaDBTool, create_scholar_agent
 
     torch_available = True
 except Exception as e:
@@ -26,14 +27,17 @@ except Exception as e:
         return None
 
 
+import re
+
+from langchain_core.messages import HumanMessage
+
+from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
+
 # Import other modules that don't depend on PyTorch
 from linkedin_data_processing.expert_finder_linkedin import ExpertFinderAgent
 from linkedin_data_processing.linkedin_vectorizer import LinkedInVectorizer
-from linkedin_data_processing.dynamic_credibility import OnDemandCredibilityCalculator
-from langchain_core.messages import HumanMessage
 from utils.chroma_db_utils import ChromaDBManager
 from utils.dvc_utils import DVCManager
-import re
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s")

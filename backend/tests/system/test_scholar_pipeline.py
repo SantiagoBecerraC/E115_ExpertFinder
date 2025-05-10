@@ -1,13 +1,14 @@
 import json
 import os
-import pytest
+import shutil
 import tempfile
 from pathlib import Path
-import shutil
+
+import pytest
 
 # Import modules to test
-from google_scholar.scholar_data_processor import process_scholar_data, prepare_chroma_data, save_to_json
-from google_scholar.scholar_data_vectorization import prepare_documents_for_chromadb, load_to_chromadb
+from google_scholar.scholar_data_processor import prepare_chroma_data, process_scholar_data, save_to_json
+from google_scholar.scholar_data_vectorization import load_to_chromadb, prepare_documents_for_chromadb
 from utils.chroma_db_utils import ChromaDBManager
 
 

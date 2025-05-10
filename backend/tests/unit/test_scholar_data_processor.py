@@ -2,23 +2,18 @@
 These replace legacy tests that targeted removed helpers.
 """
 
-from pathlib import Path
 import json
-import tempfile
 import os
-import sys
 import shutil
-from typing import Dict, Any
-from unittest.mock import patch, MagicMock, mock_open
+import sys
+import tempfile
+from pathlib import Path
+from typing import Any, Dict
+from unittest.mock import MagicMock, mock_open, patch
 
 import pytest
 
-from google_scholar.scholar_data_processor import (
-    process_scholar_data,
-    prepare_chroma_data,
-    save_to_json,
-    main,
-)
+from google_scholar.scholar_data_processor import main, prepare_chroma_data, process_scholar_data, save_to_json
 
 
 @pytest.fixture()
