@@ -86,7 +86,7 @@ python -m pytest tests/unit/test_expert_finder_linkedin.py::TestExpertFinderAgen
 
 Based on the latest test run, the current coverage is approximately 64% across all modules:
 
-![Unit Test Coverage](https://raw.githubusercontent.com/SantiagoBecerraC/E115_ExpertFinder/test-new/images/unitTestCoverage.png)
+![Unit Test Coverage](/images/unitTestCoverage.png)
 
 | Module | Stmts | Miss | Cover | Missing |
 |--------|-------|------|-------|---------|
@@ -171,7 +171,7 @@ backend/tests/integration/
 Based on our test runs, the integration tests provide the following coverage:
 
 
-![Integration Test Coverage](https://raw.githubusercontent.com/SantiagoBecerraC/E115_ExpertFinder/test-new/images/IntegrationTestCoverage.jpg)
+![Integration Test Coverage](/images/IntegrationTestCoverage.jpg)
 
 Several key integration tests were implemented to verify component interactions:
 
