@@ -20,6 +20,30 @@ The Expert Finder application uses a comprehensive testing approach with three l
    - Verify performance metrics and load handling
    - Test error recovery and resilience
 
+## Test Directory Structure
+
+```
+backend/
+├── tests/
+│   ├── unit/               # Unit tests for individual components
+│   │   └── utils/          # Tests for utility modules
+│   ├── integration/        # Tests for component interactions
+│   │   ├── api/            # API integration tests
+│   │   └── data/           # Data processing integration tests
+│   ├── system/             # Future end-to-end system tests
+│   ├── fixtures/           # Test data and helper functions
+│   │   └── test_data/      # Test data files
+│   │       ├── linkedinProfiles_beforeProcessing/ # LinkedIn test data
+│   │       └── expert-finder-bucket-1/            # Test bucket data
+│   │           └── google_scholar/                # Google Scholar test data
+│   ├── conftest.py         # Shared pytest fixtures
+│   ├── api_test_client.py  # API testing utilities
+│   ├── run_integration_tests.sh # Script to run integration tests
+│   ├── start_test_environment.sh # Script to set up test environment
+│   └── test_config.py      # Test configuration
+```
+
+
 ## Running Tests
 
 ### Basic Test Commands
@@ -62,7 +86,7 @@ python -m pytest tests/unit/test_expert_finder_linkedin.py::TestExpertFinderAgen
 
 Based on the latest test run, the current coverage is approximately 64% across all modules:
 
-![Unit Test Coverage](../images/unitTestCoverage.png)
+![Unit Test Coverage](https://raw.githubusercontent.com/SantiagoBecerraC/E115_ExpertFinder/test-new/images/unitTestCoverage.png)
 
 | Module | Stmts | Miss | Cover | Missing |
 |--------|-------|------|-------|---------|
@@ -86,28 +110,6 @@ Four tests are currently skipped with pytest.mark.skip:
 - TestLinkedInProfileExtraction.test_extract_profile_fields
 - TestProfileText.test_create_profile_text_complete
 
-## Test Directory Structure
-
-```
-backend/
-├── tests/
-│   ├── unit/               # Unit tests for individual components
-│   │   └── utils/          # Tests for utility modules
-│   ├── integration/        # Tests for component interactions
-│   │   ├── api/            # API integration tests
-│   │   └── data/           # Data processing integration tests
-│   ├── system/             # Future end-to-end system tests
-│   ├── fixtures/           # Test data and helper functions
-│   │   └── test_data/      # Test data files
-│   │       ├── linkedinProfiles_beforeProcessing/ # LinkedIn test data
-│   │       └── expert-finder-bucket-1/            # Test bucket data
-│   │           └── google_scholar/                # Google Scholar test data
-│   ├── conftest.py         # Shared pytest fixtures
-│   ├── api_test_client.py  # API testing utilities
-│   ├── run_integration_tests.sh # Script to run integration tests
-│   ├── start_test_environment.sh # Script to set up test environment
-│   └── test_config.py      # Test configuration
-```
 
 ## Unit Tests
 
@@ -168,15 +170,8 @@ backend/tests/integration/
 
 Based on our test runs, the integration tests provide the following coverage:
 
-| Integration Test File | Coverage |
-|-----------------------|----------|
-| test_api_integration.py | ~80% API endpoint coverage |
-| test_chromadb_integration.py | 100% ChromaDB operations |
-| test_linkedin_integration.py | ~84% LinkedIn processing |
-| test_process_linkedin_profiles_integration.py | 100% LinkedIn profile processing |
-| test_scholar_integration.py | ~95% Google Scholar integration |
 
-![Integration Test Coverage](../images/IntegrationTestCoverage.jpg)
+![Integration Test Coverage](https://raw.githubusercontent.com/SantiagoBecerraC/E115_ExpertFinder/test-new/images/IntegrationTestCoverage.jpg)
 
 Several key integration tests were implemented to verify component interactions:
 
