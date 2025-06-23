@@ -46,10 +46,10 @@ USE_REAL_SERVICES = os.environ.get("USE_REAL_SERVICES", "False").lower() in ["tr
 # These are set for tests only - never use these in production code
 OPENAI_API_KEY = os.environ.get(
     "OPENAI_API_KEY",
-    "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",
+    "your-key-here",
 )
-SERPAPI_API_KEY = os.environ.get("SERPAPI_API_KEY", "899dc7f820890c82a712f8a9d391c5744bfa1d952d2b11051f34c40d5cd89960")
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "AIzaSyBoGVFZtM94MKYx9j0oCtfMNiIOump09JQ")
+SERPAPI_API_KEY = os.environ.get("SERPAPI_API_KEY", "your-key-here")
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "your-key-here")
 
 # Search engine constants
 GOOGLE_NEWS = "google_news"
